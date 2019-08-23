@@ -15,19 +15,18 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.orig;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;" />
     <extensionMap>
-      <mapping ext="tpe" type="DBN-PSQL" />
-      <mapping ext="tps" type="DBN-PSQL" />
       <mapping ext="pks" type="DBN-PSQL" />
       <mapping ext="prc" type="DBN-PSQL" />
       <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="fnc" type="DBN-PSQL" />
+      <mapping ext="tps" type="DBN-PSQL" />
+      <mapping ext="tpe" type="DBN-PSQL" />
       <mapping ext="tpb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
       <mapping pattern="b" type="HTML" />
       <mapping pattern="Trial" type="JavaScript" />
-      <mapping pattern="buildfile" type="PLAIN_TEXT" />
       <mapping pattern="slotsWinLines" type="PLAIN_TEXT" />
       <mapping pattern="big-english-all" type="PLAIN_TEXT" />
       <mapping pattern="wheel_is_spun" type="PLAIN_TEXT" />
@@ -61,6 +60,7 @@
       <mapping pattern=".jshintrc" type="PLAIN_TEXT" />
       <mapping pattern="V4__add_selectiongameselectiontotals" type="PLAIN_TEXT" />
       <mapping pattern=".foreverignore" type="PLAIN_TEXT" />
+      <mapping pattern="buildfile" type="PLAIN_TEXT" />
       <mapping pattern="testo" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="scrumptious-spring-active-profiles" type="PLAIN_TEXT" />
