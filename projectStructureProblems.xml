@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="ProjectStructureProblems">
+    <ignored-problems>
+      <problem id="library-invalid-classes-path(library:application:clojure-1.5.1)" />
+      <problem id="library-invalid-classes-path(library:application:scala-compiler-2.9.1)" />
+      <problem id="library-invalid-classes-path(library:application:scala-library-2.9.1)" />
+      <problem id="library-invalid-source-javadoc-path(library:application:scala-library-2.9.1)" />
+      <problem id="library-invalid-source-javadoc-path(library:application:scala-library-2.9.1)" />
+    </ignored-problems>
+  </component>
+</application>
+
