@@ -15,79 +15,97 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.orig;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;" />
     <extensionMap>
+      <mapping ext="tpe" type="DBN-PSQL" />
+      <mapping ext="tps" type="DBN-PSQL" />
+      <mapping ext="pks" type="DBN-PSQL" />
+      <mapping ext="prc" type="DBN-PSQL" />
+      <mapping ext="trg" type="DBN-PSQL" />
+      <mapping ext="fnc" type="DBN-PSQL" />
+      <mapping ext="tpb" type="DBN-PSQL" />
+      <mapping ext="pkg" type="DBN-PSQL" />
+      <mapping ext="pkb" type="DBN-PSQL" />
+      <mapping ext="vw" type="DBN-SQL" />
       <mapping pattern="b" type="HTML" />
-      <mapping pattern="LastActionLogger" type="JAVA" />
       <mapping pattern="Trial" type="JavaScript" />
-      <mapping pattern=".sequelizerc" type="PLAIN_TEXT" />
-      <mapping pattern="user_places_bet" type="PLAIN_TEXT" />
-      <mapping pattern=".foreverignore" type="PLAIN_TEXT" />
-      <mapping pattern="README" type="PLAIN_TEXT" />
-      <mapping pattern="processedDebuts" type="PLAIN_TEXT" />
-      <mapping pattern="V5__add_option_set" type="PLAIN_TEXT" />
-      <mapping pattern="player_places_a_bet" type="PLAIN_TEXT" />
-      <mapping pattern="applicationContext.xml" type="PLAIN_TEXT" />
-      <mapping pattern="web-local" type="PLAIN_TEXT" />
-      <mapping pattern="player_leaves_a_game" type="PLAIN_TEXT" />
-      <mapping pattern="notes" type="PLAIN_TEXT" />
-      <mapping pattern="routes" type="PLAIN_TEXT" />
-      <mapping pattern="joojanta200-ajaxAppender" type="PLAIN_TEXT" />
-      <mapping pattern="todo-next" type="PLAIN_TEXT" />
-      <mapping pattern="todo" type="PLAIN_TEXT" />
-      <mapping pattern="usage" type="PLAIN_TEXT" />
-      <mapping pattern=".gitconfig" type="PLAIN_TEXT" />
-      <mapping pattern="JMX_INSTALL" type="PLAIN_TEXT" />
-      <mapping pattern="otherPlayers" type="PLAIN_TEXT" />
-      <mapping pattern="Procfile" type="PLAIN_TEXT" />
-      <mapping pattern="player_joins_a_game" type="PLAIN_TEXT" />
-      <mapping pattern="gamesPlayers" type="PLAIN_TEXT" />
-      <mapping pattern=".env-template" type="PLAIN_TEXT" />
-      <mapping pattern="testo" type="PLAIN_TEXT" />
-      <mapping pattern="notInAnki" type="PLAIN_TEXT" />
-      <mapping pattern="player_places_bet_successfully" type="PLAIN_TEXT" />
-      <mapping pattern="redo" type="PLAIN_TEXT" />
-      <mapping pattern="notInAnki-all" type="PLAIN_TEXT" />
-      <mapping pattern="scrumptious-spring-active-profiles" type="PLAIN_TEXT" />
-      <mapping pattern="player_places_bet" type="PLAIN_TEXT" />
-      <mapping pattern=".jshintrc" type="PLAIN_TEXT" />
-      <mapping pattern="sql" type="PLAIN_TEXT" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern="wheel_is_spun" type="PLAIN_TEXT" />
-      <mapping pattern="noGamesPlayers" type="PLAIN_TEXT" />
-      <mapping pattern="Podfile" type="PLAIN_TEXT" />
-      <mapping pattern="V4__add_selectiongameselectiontotals" type="PLAIN_TEXT" />
-      <mapping pattern="emptyPlayers" type="PLAIN_TEXT" />
-      <mapping pattern="main.js" type="PLAIN_TEXT" />
       <mapping pattern="buildfile" type="PLAIN_TEXT" />
-      <mapping pattern="errors" type="PLAIN_TEXT" />
-      <mapping pattern="powerupserver-spring-active-profiles" type="PLAIN_TEXT" />
-      <mapping pattern="Extensions.kt" type="PLAIN_TEXT" />
-      <mapping pattern="selectcumulative" type="PLAIN_TEXT" />
-      <mapping pattern="onStash" type="PLAIN_TEXT" />
       <mapping pattern="slotsWinLines" type="PLAIN_TEXT" />
       <mapping pattern="big-english-all" type="PLAIN_TEXT" />
-      <mapping pattern="ios-local" type="PLAIN_TEXT" />
-      <mapping pattern="API" type="PLAIN_TEXT" />
-      <mapping pattern="errorPlayers" type="PLAIN_TEXT" />
-      <mapping pattern="JIP_INSTALL" type="PLAIN_TEXT" />
+      <mapping pattern="wheel_is_spun" type="PLAIN_TEXT" />
+      <mapping pattern="todo" type="PLAIN_TEXT" />
+      <mapping pattern="player_places_bet_successfully" type="PLAIN_TEXT" />
+      <mapping pattern="onStash" type="PLAIN_TEXT" />
       <mapping pattern="setup" type="PLAIN_TEXT" />
+      <mapping pattern="player_leaves_a_game" type="PLAIN_TEXT" />
+      <mapping pattern="routes" type="PLAIN_TEXT" />
+      <mapping pattern=".sequelizerc" type="PLAIN_TEXT" />
+      <mapping pattern="emptyPlayers" type="PLAIN_TEXT" />
+      <mapping pattern="API" type="PLAIN_TEXT" />
+      <mapping pattern="gamesPlayers" type="PLAIN_TEXT" />
+      <mapping pattern="otherPlayers" type="PLAIN_TEXT" />
+      <mapping pattern=".env-template" type="PLAIN_TEXT" />
+      <mapping pattern="JMX_INSTALL" type="PLAIN_TEXT" />
+      <mapping pattern="processedDebuts" type="PLAIN_TEXT" />
+      <mapping pattern="notInAnki" type="PLAIN_TEXT" />
+      <mapping pattern="powerupserver-spring-active-profiles" type="PLAIN_TEXT" />
+      <mapping pattern="applicationContext.xml" type="PLAIN_TEXT" />
+      <mapping pattern="errors" type="PLAIN_TEXT" />
+      <mapping pattern="selectcumulative" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="JIP_INSTALL" type="PLAIN_TEXT" />
+      <mapping pattern="user_places_bet" type="PLAIN_TEXT" />
+      <mapping pattern="Podfile" type="PLAIN_TEXT" />
+      <mapping pattern="V5__add_option_set" type="PLAIN_TEXT" />
+      <mapping pattern="player_places_bet" type="PLAIN_TEXT" />
+      <mapping pattern="todo-next" type="PLAIN_TEXT" />
+      <mapping pattern="joojanta200-ajaxAppender" type="PLAIN_TEXT" />
+      <mapping pattern=".jshintrc" type="PLAIN_TEXT" />
+      <mapping pattern="V4__add_selectiongameselectiontotals" type="PLAIN_TEXT" />
+      <mapping pattern=".foreverignore" type="PLAIN_TEXT" />
+      <mapping pattern="testo" type="PLAIN_TEXT" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping pattern="scrumptious-spring-active-profiles" type="PLAIN_TEXT" />
+      <mapping pattern="Extensions.kt" type="PLAIN_TEXT" />
+      <mapping pattern="noGamesPlayers" type="PLAIN_TEXT" />
+      <mapping pattern="notes" type="PLAIN_TEXT" />
+      <mapping pattern="player_places_a_bet" type="PLAIN_TEXT" />
+      <mapping pattern="errorPlayers" type="PLAIN_TEXT" />
+      <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping pattern="main.js" type="PLAIN_TEXT" />
+      <mapping pattern="notInAnki-all" type="PLAIN_TEXT" />
+      <mapping pattern="ios-local" type="PLAIN_TEXT" />
+      <mapping pattern="web-local" type="PLAIN_TEXT" />
+      <mapping pattern="usage" type="PLAIN_TEXT" />
+      <mapping pattern="redo" type="PLAIN_TEXT" />
+      <mapping pattern="player_joins_a_game" type="PLAIN_TEXT" />
       <mapping ext="local" type="PLAIN_TEXT" />
       <mapping ext="bn" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="config-template" type="PLAIN_TEXT" />
       <mapping ext="hxml" type="PLAIN_TEXT" />
-      <mapping ext="hgignore" type="PLAIN_TEXT" />
       <mapping ext="json-template" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="properties-template" type="PLAIN_TEXT" />
       <mapping ext="properties-template copy" type="PLAIN_TEXT" />
       <mapping ext="conf-template" type="PLAIN_TEXT" />
-      <mapping ext="rtf" type="PLAIN_TEXT" />
       <mapping ext="command" type="PLAIN_TEXT" />
+      <mapping ext="rtf" type="PLAIN_TEXT" />
       <mapping ext="textile" type="PLAIN_TEXT" />
-      <mapping ext="launch" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="wheelValues" type="XML" />
       <mapping pattern="wheelConfig" type="XML" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="launch" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping pattern=".gitconfig" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="sql" approved="true" type="PLAIN_TEXT" />
+      <mapping pattern="LastActionLogger" type="JAVA" />
     </extensionMap>
   </component>
 </application>
