@@ -121,6 +121,7 @@
   </action>
   <action id="Console.TableResult.Reload" />
   <action id="ContextHelp" />
+  <action id="DBNavigator.Actions.DataEditor.DuplicateRecord" />
   <action id="DebugClass">
     <keyboard-shortcut first-keystroke="shift ctrl f9" />
   </action>
