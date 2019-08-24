@@ -5,6 +5,7 @@
   <option name="EDITOR_FONT_NAME" value="Consolas" />
   <colors>
     <option name="CARET_ROW_COLOR" value="" />
+    <option name="GUTTER_BACKGROUND" value="111b23" />
   </colors>
   <attributes>
     <option name="ANNOTATION_NAME_ATTRIBUTES">
@@ -21,8 +22,8 @@
     <option name="CSS.COLOR">
       <value />
     </option>
-    <option name="CSS.KEYWORD" baseAttributes="" />
-    <option name="CSS.TAG_NAME" baseAttributes="" />
+    <option name="CSS.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="CSS.TAG_NAME" baseAttributes="HTML_TAG_NAME" />
     <option name="CSS.URL">
       <value />
     </option>
@@ -30,6 +31,13 @@
       <value>
         <option name="FOREGROUND" value="808080" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="DEFAULT_CLASS_NAME">
+      <value>
+        <option name="FOREGROUND" value="ffb738" />
+        <option name="BACKGROUND" value="111b23" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_REFERENCE" baseAttributes="DEFAULT_IDENTIFIER" />
@@ -69,11 +77,7 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
-    <option name="DEFAULT_FUNCTION_CALL">
-      <value>
-        <option name="FOREGROUND" value="ffb738" />
-      </value>
-    </option>
+    <option name="DEFAULT_FUNCTION_CALL" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
         <option name="FOREGROUND" value="ffb738" />
@@ -82,10 +86,10 @@
     </option>
     <option name="DEFAULT_IDENTIFIER" baseAttributes="TEXT" />
     <option name="DEFAULT_INSTANCE_FIELD" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="DEFAULT_INSTANCE_METHOD">
+    <option name="DEFAULT_INTERFACE_NAME">
       <value>
         <option name="FOREGROUND" value="ffb738" />
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
@@ -155,9 +159,7 @@
       </value>
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
-      <value>
-        <option name="BACKGROUND" value="3a3a3a" />
-      </value>
+      <value />
     </option>
     <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
       <value>
@@ -208,11 +210,19 @@
     <option name="JAVA_COMMA">
       <value />
     </option>
-    <option name="JAVA_KEYWORD" baseAttributes="" />
-    <option name="JAVA_VALID_STRING_ESCAPE" baseAttributes="" />
+    <option name="JAVA_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="JAVA_VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="JS.FUNCTION">
+      <value />
+    </option>
     <option name="JS.GLOBAL_FUNCTION">
       <value>
         <option name="FOREGROUND" value="ffb738" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="JS.INSTANCE_MEMBER_FUNCTION">
+      <value>
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -220,6 +230,12 @@
       <value>
         <option name="FOREGROUND" value="c3ced7" />
         <option name="BACKGROUND" value="111b23" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="JS.MODULE_NAME">
+      <value>
+        <option name="FOREGROUND" value="ffb738" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -4844,6 +4860,7 @@
         <option name="FOREGROUND" value="356ad" />
         <option name="BACKGROUND" value="3300" />
         <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="356ad" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -4861,6 +4878,7 @@
         <option name="FOREGROUND" value="356ad" />
         <option name="BACKGROUND" value="3300" />
         <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="356ad" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -7930,6 +7948,7 @@
         <option name="FOREGROUND" value="356ad" />
         <option name="BACKGROUND" value="3333" />
         <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="356ad" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -7947,6 +7966,7 @@
         <option name="FOREGROUND" value="356ad" />
         <option name="BACKGROUND" value="3333" />
         <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="356ad" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -11016,6 +11036,7 @@
         <option name="FOREGROUND" value="356ad" />
         <option name="BACKGROUND" value="404000" />
         <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="356ad" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -11033,6 +11054,7 @@
         <option name="FOREGROUND" value="356ad" />
         <option name="BACKGROUND" value="404000" />
         <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="356ad" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -14098,6 +14120,7 @@
       <value>
         <option name="FOREGROUND" value="356ad" />
         <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="356ad" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -14114,6 +14137,7 @@
       <value>
         <option name="FOREGROUND" value="356ad" />
         <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="356ad" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -17044,6 +17068,7 @@
         <option name="FOREGROUND" value="356ad" />
         <option name="BACKGROUND" value="4500" />
         <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="356ad" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -17061,6 +17086,7 @@
         <option name="FOREGROUND" value="356ad" />
         <option name="BACKGROUND" value="4500" />
         <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="356ad" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -20130,6 +20156,7 @@
         <option name="FOREGROUND" value="356ad" />
         <option name="BACKGROUND" value="3838" />
         <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="356ad" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -20147,6 +20174,7 @@
         <option name="FOREGROUND" value="356ad" />
         <option name="BACKGROUND" value="3838" />
         <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="356ad" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -23216,6 +23244,7 @@
         <option name="FOREGROUND" value="356ad" />
         <option name="BACKGROUND" value="454500" />
         <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="356ad" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -23233,6 +23262,7 @@
         <option name="FOREGROUND" value="356ad" />
         <option name="BACKGROUND" value="454500" />
         <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="356ad" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -26302,6 +26332,7 @@
         <option name="FOREGROUND" value="356ad" />
         <option name="BACKGROUND" value="383838" />
         <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="356ad" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -26319,6 +26350,7 @@
         <option name="FOREGROUND" value="356ad" />
         <option name="BACKGROUND" value="383838" />
         <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="356ad" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -29599,12 +29631,6 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
-    <option name="PY.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="PY.KEYWORD_ARGUMENT" baseAttributes="DEFAULT_PARAMETER" />
-    <option name="PY.PREDEFINED_DEFINITION" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
-    <option name="PY.PREDEFINED_USAGE" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
-    <option name="PY.SELF_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
-    <option name="PY.STRING.B" baseAttributes="DEFAULT_STRING" />
     <option name="REGEXP.ESC_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
