@@ -1,0 +1,12 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2019-08-22T21:38:12</property>
+    <property name="ide">PyCharmCore</property>
+    <property name="ideVersion">2019.2.0.0</property>
+    <property name="modified">2019-08-22T21:45:55</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <colors>
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="90867b" />
+  </colors>
+</scheme>
