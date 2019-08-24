@@ -86,6 +86,11 @@
     </option>
     <option name="DEFAULT_IDENTIFIER" baseAttributes="TEXT" />
     <option name="DEFAULT_INSTANCE_FIELD" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="DEFAULT_INSTANCE_METHOD">
+      <value>
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
         <option name="FOREGROUND" value="ffb738" />
@@ -127,7 +132,11 @@
       </value>
     </option>
     <option name="DEFAULT_STATIC_FIELD" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="DEFAULT_STATIC_METHOD" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
+    <option name="DEFAULT_STATIC_METHOD">
+      <value>
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="DEFAULT_STRING">
       <value>
         <option name="FOREGROUND" value="a872c9" />
@@ -217,7 +226,6 @@
     </option>
     <option name="JS.GLOBAL_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="ffb738" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -240,12 +248,15 @@
       </value>
     </option>
     <option name="KOTLIN_DYNAMIC_FUNCTION_CALL">
-      <value>
-        <option name="FOREGROUND" value="ffb738" />
-      </value>
+      <value />
     </option>
     <option name="KOTLIN_DYNAMIC_PROPERTY_CALL">
       <value />
+    </option>
+    <option name="KOTLIN_EXTENSION_FUNCTION_CALL">
+      <value>
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
     </option>
     <option name="KOTLIN_FUNCTION_DECLARATION">
       <value>
@@ -260,7 +271,6 @@
     </option>
     <option name="KOTLIN_PACKAGE_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="ffb738" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
