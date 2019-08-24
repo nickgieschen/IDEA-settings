@@ -3,6 +3,8 @@
     <option name="allowDataCollection" value="true" />
     <option name="isContrastMode" value="true" />
     <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="selectedTheme" value="SOLARIZED_DARK" />
     <option name="userId" value="617a78c9:16cc0eea2b0:-8000" />
     <option name="version" value="3.10.0" />
   </component>
