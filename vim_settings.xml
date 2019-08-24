@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/my-projects/comcast-spring/src/integration-test/java/comcast/api/ControllerIntegrationTestBase.java" timestamp="1483156616094">
-        <mark key="[" line="16" column="4" />
-        <mark key="]" line="16" column="4" />
-        <mark key="." line="16" column="4" />
-        <mark key="^" line="27" column="18" />
-      </file>
       <file name="$USER_HOME$/dev/my-projects/comcast/src/main/resources/db/migration/V7__add_initial_data.sql" timestamp="1484899388267">
         <mark key="[" line="15" column="41" />
         <mark key="]" line="15" column="41" />
@@ -27,42 +21,11 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/7ff0e53c/6111178f-0535-4f77-8096-139c834d4a58/database/comcast/schema/public/materialized-view/selection_total_2.sql" timestamp="1484898647248">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="10" column="106" />
-        <mark key="^" line="8" column="83" />
-        <mark key="." line="8" column="83" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/comcast-spring/src/test/java/comcast/api/ApplicationStepdefs.java" timestamp="1483077262052">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="25" column="19" />
-        <mark key="." line="23" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/my-projects/fbmanager/src/integration-test/kotlin/fbbmanager/api/IntegrationTests.kt" timestamp="1486166451264">
         <mark key="[" line="25" column="4" />
         <mark key="]" line="25" column="5" />
         <mark key="^" line="25" column="5" />
         <mark key="." line="25" column="5" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/findandreplace/src/persistence.js" timestamp="1510102040784">
-        <mark key="[" line="33" column="20" />
-        <mark key="]" line="33" column="26" />
-        <mark key="." line="33" column="26" />
-        <mark key="^" line="33" column="26" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/english-vocab-builder/index.js" timestamp="1559504467629">
-        <mark key="'" line="179" column="17" />
-        <mark key="[" line="203" column="12" />
-        <mark key="]" line="203" column="13" />
-        <mark key="." line="203" column="13" />
-        <mark key="^" line="203" column="13" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/oj/app/api/controllers/BlueprintsController.js" timestamp="1536629349320">
-        <mark key="[" line="8" column="45" />
-        <mark key="]" line="8" column="42" />
-        <mark key="." line="8" column="42" />
-        <mark key="^" line="8" column="42" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/thrashbarg/src/test/java/thrashbarg/PojoGetterOnly.java" timestamp="1483040499739">
         <mark key="[" line="6" column="15" />
@@ -76,18 +39,6 @@
         <mark key="." line="1" column="60" />
         <mark key="^" line="1" column="60" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/comcast-spring/src/main/java/com/expent/comcast/api/AppController.java" timestamp="1483476663693">
-        <mark key="[" line="13" column="25" />
-        <mark key="]" line="13" column="25" />
-        <mark key="." line="13" column="25" />
-        <mark key="^" line="15" column="26" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/guilt/src/tests/SpecRunner.html" timestamp="1509702400917">
-        <mark key="[" line="14" column="17" />
-        <mark key="]" line="14" column="17" />
-        <mark key="^" line="14" column="26" />
-        <mark key="." line="14" column="17" />
-      </file>
       <file name="$USER_HOME$/dev/my-projects/comcast/src/main/resources/db/migration/V8__add_useragent.sql" timestamp="1484899446542">
         <mark key="[" line="1" column="11" />
         <mark key="]" line="1" column="45" />
@@ -99,12 +50,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/fbbmanager/src/main/resources/db/migration/V1__baseline.sql" timestamp="1486423370937">
-        <mark key="[" line="6" column="19" />
-        <mark key="]" line="6" column="17" />
-        <mark key="^" line="6" column="17" />
-        <mark key="." line="6" column="17" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/operationshutdown/debuts/src/main/resources/application.conf" timestamp="1495937134985">
         <mark key="[" line="13" column="44" />
@@ -118,30 +63,11 @@
         <mark key="." line="35" column="121" />
         <mark key="^" line="35" column="121" />
       </file>
-      <file name="$USER_HOME$/dev/kerri-hub/public/app.js" timestamp="1535575410144">
-        <mark key="[" line="51" column="21" />
-        <mark key="]" line="51" column="21" />
-        <mark key="." line="51" column="21" />
-        <mark key="^" line="51" column="21" />
-      </file>
       <file name="$USER_HOME$/dev/my-projects/comcast-spring/src/main/java/com/expent/comcast/domain/SelectionGameRepository.java" timestamp="1483244490774">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="^" line="7" column="15" />
         <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/comcast-spring/src/integration-test/java/com/expent/comcast/api/CorsTest.html" timestamp="1483475062198">
-        <mark key="[" line="3" column="54" />
-        <mark key="]" line="3" column="54" />
-        <mark key="." line="3" column="54" />
-        <mark key="^" line="3" column="54" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/english-vocab-builder/multi-doing" timestamp="1559355299252">
-        <mark key="'" line="6" column="2644" />
-        <mark key="[" line="407" column="360" />
-        <mark key="]" line="407" column="501" />
-        <mark key="^" line="407" column="501" />
-        <mark key="." line="407" column="501" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/comcast-spring/src/integration-test/java/comcast/api/IntegrationTest.java" timestamp="1483077310131">
         <mark key="[" line="6" column="26" />
@@ -179,31 +105,6 @@
         <mark key="^" line="55" column="46" />
         <mark key="." line="55" column="46" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/english-vocab-builder/multi-curated" timestamp="1559504155541">
-        <mark key="'" line="42" column="0" />
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="0" column="1" />
-        <mark key="." line="0" column="1" />
-        <mark key="^" line="42" column="1" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/nikbox/style.css" timestamp="1522640322638">
-        <mark key="[" line="52" column="25" />
-        <mark key="]" line="52" column="5" />
-        <mark key="." line="52" column="5" />
-        <mark key="^" line="52" column="5" />
-      </file>
-      <file name="$USER_HOME$/dev/other-projects/learning-stuff/main2.js" timestamp="1506676835452">
-        <mark key="[" line="1" column="5" />
-        <mark key="]" line="1" column="19" />
-        <mark key="." line="1" column="19" />
-        <mark key="^" line="1" column="19" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/comcast-spring/src/main/java/com/expent/comcast/data/SelectionGame.java" timestamp="1483244424537">
-        <mark key="[" line="6" column="28" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/83b0920b-59af-441d-98ae-27364014f8e4/console.sql" timestamp="1487886563144">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -216,21 +117,8 @@
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/comcast-spring/Procfile" timestamp="1483399182746">
-        <mark key="[" line="0" column="5" />
-        <mark key="]" line="0" column="5" />
-        <mark key="." line="0" column="5" />
-        <mark key="^" line="0" column="23" />
-      </file>
       <file name="$USER_HOME$/dev/my-projects/yngwie/lib/js/jtab.js" timestamp="1564854736063">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/hub/migrations/20181202005732-create-bookmark.js" timestamp="1545777141851">
-        <mark key="'" line="36" column="33" />
-        <mark key="[" line="33" column="22" />
-        <mark key="]" line="33" column="22" />
-        <mark key="." line="33" column="22" />
-        <mark key="^" line="36" column="83" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/rprogress/javascripts/main.js" timestamp="1508853051121">
         <mark key="[" line="13" column="22" />
@@ -238,35 +126,11 @@
         <mark key="^" line="13" column="22" />
         <mark key="." line="13" column="22" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/oj/app/app.js" timestamp="1536441695783">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="2" />
-        <mark key="." line="31" column="2" />
-        <mark key="^" line="31" column="2" />
-      </file>
       <file name="$USER_HOME$/dev/my-projects/yngwie/index.html" timestamp="1566507364449">
         <mark key="[" line="19" column="30" />
         <mark key="]" line="19" column="33" />
         <mark key="^" line="19" column="33" />
         <mark key="." line="19" column="33" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/hub/config/.sequelizerc" timestamp="1545851347036">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/opshut-debuts/build.gradle" timestamp="1520541064562">
-        <mark key="[" line="38" column="66" />
-        <mark key="]" line="38" column="67" />
-        <mark key="." line="38" column="67" />
-        <mark key="^" line="38" column="68" />
-      </file>
-      <file name="$USER_HOME$/dev/other-projects/index.html" timestamp="1505590251283">
-        <mark key="[" line="1" column="6" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="6" column="0" />
-        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/fbbmanager/src/main/resources/templates/keepers.html" timestamp="1486432863417">
         <mark key="[" line="6" column="8" />
@@ -285,24 +149,6 @@
         <mark key="]" line="0" column="31" />
         <mark key="^" line="0" column="31" />
         <mark key="." line="0" column="31" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/comcast/src/main/kotlin/comcast/api/ViewModel.kt" timestamp="1488914762295">
-        <mark key="[" line="9" column="4" />
-        <mark key="]" line="9" column="4" />
-        <mark key="^" line="10" column="16" />
-        <mark key="." line="9" column="4" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/oj/app/api/hooks/content-range.js" timestamp="1536876481596">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="3" column="2" />
-        <mark key="." line="3" column="2" />
-        <mark key="^" line="3" column="2" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/avellanas/src/browser/content.js" timestamp="1526615115123">
-        <mark key="[" line="5" column="36" />
-        <mark key="]" line="5" column="39" />
-        <mark key="." line="5" column="39" />
-        <mark key="^" line="5" column="39" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/comcast-spring/src/integration-test/resources/application-test.yaml" timestamp="1483919682528">
         <mark key="[" line="0" column="0" />
@@ -334,18 +180,6 @@
         <mark key="." line="0" column="19" />
         <mark key="^" line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/comcast/src/integration-test/kotlin/comcast/api/Api.kt" timestamp="1485129183849">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="14" column="13" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/hub/public/index.html" timestamp="1546911518270">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="21" column="46" />
-      </file>
       <file name="$USER_HOME$/dev/my-projects/comcast-spring/.gitignore" timestamp="1483293281072">
         <mark key="[" line="0" column="22" />
         <mark key="]" line="1" column="0" />
@@ -370,23 +204,11 @@
         <mark key="." line="19" column="26" />
         <mark key="^" line="19" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/oj/api/controllers/TrialController.js" timestamp="1536207923790">
-        <mark key="[" line="23" column="30" />
-        <mark key="]" line="23" column="30" />
-        <mark key="." line="23" column="30" />
-        <mark key="^" line="23" column="30" />
-      </file>
       <file name="$USER_HOME$/dev/my-projects/kapper/src/test/kotlin/kapper/JavaLeftPojo.java" timestamp="1482613341230">
         <mark key="[" line="2" column="13" />
         <mark key="]" line="2" column="13" />
         <mark key="^" line="19" column="7" />
         <mark key="." line="2" column="13" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/hub/public/javascripts/index.jsx" timestamp="1552019162850">
-        <mark key="[" line="8" column="17" />
-        <mark key="]" line="8" column="22" />
-        <mark key="^" line="8" column="22" />
-        <mark key="." line="8" column="22" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/english-vocab-builder/notInAnki-all" timestamp="1559497297419">
         <mark key="[" line="1" column="0" />
@@ -399,23 +221,11 @@
         <mark key="." line="2" column="10" />
         <mark key="^" line="2" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/nextsteps/routes/index.js" timestamp="1509514259309">
-        <mark key="[" line="8" column="25" />
-        <mark key="]" line="8" column="30" />
-        <mark key="." line="8" column="30" />
-        <mark key="^" line="8" column="30" />
-      </file>
       <file name="$USER_HOME$/dev/my-projects/comcast/src/main/resources/application-test.conf" timestamp="1484202616207">
         <mark key="[" line="1" column="41" />
         <mark key="]" line="1" column="24" />
         <mark key="^" line="1" column="24" />
         <mark key="." line="1" column="24" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/comcast-spring/.env" timestamp="1483595000534">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="3" />
-        <mark key="^" line="4" column="3" />
-        <mark key="." line="4" column="3" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/operationshutdown/draftroundgenerator/previousyeardraft.tsv" timestamp="1552599111813">
         <mark key="'" line="11" column="151" />
@@ -442,24 +252,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="8" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/hub/public/javascripts/components/signup.jsx" timestamp="1546919476780">
-        <mark key="'" line="16" column="13" />
-        <mark key="[" line="10" column="27" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="10" column="13" />
-        <mark key="." line="11" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/my-projects/fbbmanager/src/main/kotlin/comcast/api/Controller.kt" timestamp="1485490791690">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="17" />
         <mark key="." line="21" column="17" />
         <mark key="^" line="21" column="17" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/hub/dist/index.html" timestamp="1544998221276">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="1" />
-        <mark key="^" line="7" column="1" />
-        <mark key="." line="7" column="1" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/fbbmanager/Procfile" timestamp="1485492010590">
         <mark key="[" line="0" column="49" />
@@ -485,36 +282,6 @@
         <mark key="^" line="6" column="28" />
         <mark key="." line="6" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/comcast-spring/src/integration-test/java/com/expent/comcast/api/AppControllerIntegrationTest.java" timestamp="1483245532900">
-        <mark key="[" line="6" column="41" />
-        <mark key="]" line="12" column="4" />
-        <mark key="." line="9" column="22" />
-        <mark key="^" line="9" column="22" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/comcast-spring/src/integration-test/resources/application.yaml" timestamp="1483849165876">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="25" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/IngredientChecker/App.js" timestamp="1526172326075">
-        <mark key="[" line="22" column="28" />
-        <mark key="]" line="22" column="28" />
-        <mark key="^" line="22" column="41" />
-        <mark key="." line="22" column="28" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/comcast/src/integration-test/kotlin/comcast/Db.kt" timestamp="1484957413494">
-        <mark key="[" line="18" column="7" />
-        <mark key="]" line="18" column="7" />
-        <mark key="." line="18" column="7" />
-        <mark key="^" line="28" column="20" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/english-vocab-builder/notInAnki" timestamp="1559497839294">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="7" />
-        <mark key="." line="0" column="7" />
-        <mark key="^" line="0" column="7" />
-      </file>
       <file name="$USER_HOME$/dev/my-projects/comcast/src/main/resources/templates/admin/form/text-input.html" timestamp="1489102765576">
         <mark key="[" line="3" column="12" />
         <mark key="]" line="7" column="17" />
@@ -526,12 +293,6 @@
         <mark key="]" line="7" column="10" />
         <mark key="^" line="5" column="34" />
         <mark key="." line="5" column="34" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/guilt/manifest.json" timestamp="1511396964418">
-        <mark key="[" line="25" column="23" />
-        <mark key="]" line="25" column="23" />
-        <mark key="." line="25" column="23" />
-        <mark key="^" line="25" column="23" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6111178f-0535-4f77-8096-139c834d4a58/console.sql" timestamp="1484900361265">
         <mark key="[" line="0" column="25" />
@@ -545,21 +306,6 @@
         <mark key="^" line="7" column="21" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/ReactCalc/Pee.js" timestamp="1524522211542">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="7" column="5" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/yngwie/lib/js/jquery.js" timestamp="1564854782247">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/oj/app/config/policies.js" timestamp="1537055634251">
-        <mark key="[" line="11" column="24" />
-        <mark key="]" line="11" column="24" />
-        <mark key="^" line="11" column="22" />
-        <mark key="." line="11" column="24" />
-      </file>
       <file name="$USER_HOME$/dev/my-projects/rogozhin/js/index.js" timestamp="1552019159257">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="45" />
@@ -572,12 +318,6 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/comcast-spring/src/main/kotlin/comcast/api/App.kt" timestamp="1483055033510">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="13" column="28" />
-        <mark key="^" line="14" column="22" />
-        <mark key="." line="14" column="22" />
-      </file>
       <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/styles/firefox-photon-elements.css" timestamp="1528410157689">
         <mark key="[" line="115" column="0" />
         <mark key="]" line="117" column="68" />
@@ -589,12 +329,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="^" line="3" column="37" />
         <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/comcast/src/test/kotlin/eadrax/eadrax.kt" timestamp="1489343858326">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="^" line="33" column="27" />
-        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/yngwie/lib/css/jtab-helper.css" timestamp="1564855992446">
         <mark key="[" line="0" column="0" />
@@ -614,48 +348,6 @@
         <mark key="^" line="1" column="36" />
         <mark key="." line="1" column="36" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/ReactCalc/index.js" timestamp="1524003428128">
-        <mark key="[" line="5" column="18" />
-        <mark key="]" line="5" column="19" />
-        <mark key="." line="5" column="19" />
-        <mark key="^" line="5" column="19" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/eng/src/Default.kts" timestamp="1559002429149">
-        <mark key="[" line="4" column="38" />
-        <mark key="]" line="3" column="47" />
-        <mark key="^" line="3" column="47" />
-        <mark key="." line="3" column="47" />
-      </file>
-      <file name="/7ff0e53c/6111178f-0535-4f77-8096-139c834d4a58/database/comcast/schema/public/routine/insert_selection_total.().sql" timestamp="1484285825506">
-        <mark key="[" line="10" column="72" />
-        <mark key="]" line="10" column="72" />
-        <mark key="." line="10" column="72" />
-        <mark key="^" line="10" column="79" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/findandreplace/manifest.json" timestamp="1510107249045">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="13" column="30" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/comcast/src/main/resources/templates/admin/games.html" timestamp="1488939882833">
-        <mark key="[" line="15" column="60" />
-        <mark key="]" line="15" column="60" />
-        <mark key="." line="15" column="60" />
-        <mark key="^" line="15" column="107" />
-      </file>
-      <file name="$USER_HOME$/vagrant-local/www/kerrievelynharris/public_html/wp-content/themes/parallelus-frontrunner 3/templates/css/events.css" timestamp="1533149356716">
-        <mark key="[" line="13" column="21" />
-        <mark key="]" line="15" column="1" />
-        <mark key="." line="15" column="1" />
-        <mark key="^" line="15" column="1" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/oj/app/config/tokenSecret.js" timestamp="1536535741925">
-        <mark key="[" line="0" column="15" />
-        <mark key="]" line="0" column="18" />
-        <mark key="^" line="0" column="18" />
-        <mark key="." line="0" column="18" />
-      </file>
       <file name="$USER_HOME$/dev/my-projects/comcast/Procfile" timestamp="1485150247262">
         <mark key="[" line="0" column="10" />
         <mark key="]" line="0" column="48" />
@@ -674,19 +366,6 @@
         <mark key="^" line="34" column="37" />
         <mark key="." line="34" column="37" />
       </file>
-      <file name="$USER_HOME$/dev/vagrant-local/www/kerrievelynharris/public_html/wp-content/themes/parallelus-frontrunner 3/templates/minimal.php" timestamp="1535668959989">
-        <mark key="[" line="29" column="16" />
-        <mark key="]" line="29" column="16" />
-        <mark key="." line="29" column="16" />
-        <mark key="^" line="28" column="19" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/hub/routes/api/bookmarks.js" timestamp="1545853414036">
-        <mark key="'" line="12" column="32" />
-        <mark key="[" line="3" column="6" />
-        <mark key="]" line="3" column="11" />
-        <mark key="^" line="3" column="11" />
-        <mark key="." line="3" column="11" />
-      </file>
       <file name="$USER_HOME$/dev/my-projects/jstechniques/index.html" timestamp="1506680074761">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -700,41 +379,17 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="8" column="35" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/oj/admin/src/Required.js" timestamp="1538525169727">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="9" column="30" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/my-projects/guilt/src/test/SpecRunner.html" timestamp="1509949804767">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
         <mark key="^" line="19" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/comcast-spring/Procfile.local" timestamp="1483399749799">
-        <mark key="[" line="0" column="3" />
-        <mark key="]" line="0" column="3" />
-        <mark key="^" line="0" column="3" />
-        <mark key="." line="0" column="3" />
-      </file>
       <file name="$USER_HOME$/dev/my-projects/comcast/src/main/resources/templates/admin/index.html" timestamp="1487042349139">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
         <mark key="^" line="7" column="4" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/fbbmanager/src/main/kotlin/comcast/api/Routes.kt" timestamp="1485490780415">
-        <mark key="[" line="42" column="49" />
-        <mark key="]" line="42" column="49" />
-        <mark key="." line="42" column="49" />
-        <mark key="^" line="42" column="49" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/styles/firefox-photon.scss" timestamp="1528401465482">
-        <mark key="[" line="31" column="35" />
-        <mark key="]" line="31" column="35" />
-        <mark key="^" line="31" column="34" />
-        <mark key="." line="31" column="35" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/guilt/src/test/b.html" timestamp="1511288250079">
         <mark key="[" line="5" column="17" />
@@ -748,47 +403,17 @@
         <mark key="." line="33" column="13" />
         <mark key="^" line="33" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/oj/app/config/blueprints/find.js" timestamp="1536802941519">
-        <mark key="[" line="2" column="8" />
-        <mark key="]" line="2" column="14" />
-        <mark key="^" line="2" column="14" />
-        <mark key="." line="2" column="14" />
-      </file>
       <file name="$USER_HOME$/dev/my-projects/fbmanager/src/main/resources/application.conf" timestamp="1486165618497">
         <mark key="[" line="13" column="26" />
         <mark key="]" line="13" column="35" />
         <mark key="." line="13" column="35" />
         <mark key="^" line="13" column="35" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/ghide/jquery.validate.min.js" timestamp="1501599872438">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="3" column="23121" />
-        <mark key="^" line="3" column="23121" />
-        <mark key="." line="3" column="23121" />
-      </file>
       <file name="$USER_HOME$/dev/my-projects/oj/app/config/security.js" timestamp="1536711759506">
         <mark key="[" line="35" column="27" />
         <mark key="]" line="35" column="44" />
         <mark key="." line="35" column="44" />
         <mark key="^" line="35" column="44" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/oj/admin/node_modules/react-admin/src/Admin.js" timestamp="1537324642572">
-        <mark key="[" line="11" column="26" />
-        <mark key="]" line="11" column="26" />
-        <mark key="^" line="11" column="26" />
-        <mark key="." line="11" column="26" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/comcast-spring/src/main/java/com/expent/comcast/api/WrapResponse.java" timestamp="1483567916152">
-        <mark key="[" line="7" column="7" />
-        <mark key="]" line="7" column="16" />
-        <mark key="^" line="7" column="16" />
-        <mark key="." line="7" column="16" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/comcast/src/main/kotlin/comcast/api/Config.kt" timestamp="1484719647708">
-        <mark key="[" line="8" column="73" />
-        <mark key="]" line="8" column="75" />
-        <mark key="^" line="8" column="75" />
-        <mark key="." line="8" column="75" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/comcast/src/main/resources/db/migration/V1__baseline.sql" timestamp="1486772074069">
         <mark key="[" line="12" column="0" />
@@ -808,24 +433,6 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/comcast-spring/src/main/resources/db/migration/V2__add_comastuser.sql" timestamp="1483852630366">
-        <mark key="[" line="3" column="4" />
-        <mark key="]" line="3" column="11" />
-        <mark key="^" line="3" column="11" />
-        <mark key="." line="3" column="11" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/IngredientChecker/ios/IngredientChecker/Info.plist" timestamp="1524527690902">
-        <mark key="[" line="70" column="95" />
-        <mark key="]" line="72" column="94" />
-        <mark key="^" line="72" column="94" />
-        <mark key="." line="72" column="94" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/oj/app/api/policies/isLoggedIn.js" timestamp="1536703187073">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="53" />
-        <mark key="." line="13" column="43" />
-        <mark key="^" line="13" column="43" />
-      </file>
       <file name="$USER_HOME$/dev/my-projects/comcast-spring/src/main/java/comcast/api/AppController.java" timestamp="1483151963609">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="15" />
@@ -837,18 +444,6 @@
         <mark key="]" line="40" column="47" />
         <mark key="." line="40" column="47" />
         <mark key="^" line="40" column="47" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/guilt/src/main/content.js" timestamp="1511394654572">
-        <mark key="[" line="33" column="28" />
-        <mark key="]" line="33" column="28" />
-        <mark key="." line="33" column="28" />
-        <mark key="^" line="33" column="28" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/comcast-spring/src/main/java/com/expent/comcast/api/security/JwtToken.java" timestamp="1483855967753">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="7" column="56" />
-        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/operationshutdown/draftroundgenerator/yearendrosters2017" timestamp="1518654002633">
         <mark key="[" line="494" column="0" />
@@ -874,35 +469,11 @@
         <mark key="^" line="60" column="10" />
         <mark key="." line="60" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/content.js" timestamp="1527632641872">
-        <mark key="[" line="1" column="4" />
-        <mark key="]" line="1" column="4" />
-        <mark key="." line="1" column="4" />
-        <mark key="^" line="1" column="4" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/comcast/src/main/resources/db/migration/V3__options.sql" timestamp="1486866866948">
-        <mark key="[" line="4" column="35" />
-        <mark key="]" line="4" column="35" />
-        <mark key="." line="4" column="35" />
-        <mark key="^" line="4" column="35" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/fbbmanager/src/main/kotlin/myapp/data/Database.kt" timestamp="1485491879822">
-        <mark key="[" line="34" column="113" />
-        <mark key="]" line="34" column="113" />
-        <mark key="." line="34" column="113" />
-        <mark key="^" line="34" column="113" />
-      </file>
       <file name="$USER_HOME$/dev/vagrant-local/www/kerrievelynharris/public_html/wp-content/themes/parallelus-frontrunner 3/assets/js/jQuery-UI-Dialog-extended.js" timestamp="1534113487367">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="190" column="10" />
         <mark key="^" line="190" column="10" />
         <mark key="." line="190" column="10" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/fbmanager/settings.gradle" timestamp="1486165890809">
-        <mark key="[" line="18" column="22" />
-        <mark key="]" line="18" column="28" />
-        <mark key="." line="18" column="28" />
-        <mark key="^" line="18" column="28" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/comcast-spring/src/integration-test/java/comcast/api/ApplicationIntegrationTests.java" timestamp="1483069444002">
         <mark key="[" line="23" column="20" />
@@ -916,29 +487,11 @@
         <mark key="^" line="6" column="35" />
         <mark key="." line="6" column="35" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/comcast-spring/src/main/java/com/expent/comcast/api/ResponseWrapper.java" timestamp="1483924152764">
-        <mark key="[" line="19" column="5" />
-        <mark key="]" line="17" column="19" />
-        <mark key="." line="17" column="19" />
-        <mark key="^" line="17" column="18" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/rogozhin/package.json" timestamp="1552019484620">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="65" column="4" />
-        <mark key="." line="22" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/my-projects/comcast/build/resources/main/templates/admin/form-test.html" timestamp="1489091978149">
         <mark key="[" line="13" column="38" />
         <mark key="]" line="11" column="22" />
         <mark key="^" line="11" column="22" />
         <mark key="." line="11" column="22" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/comcast/web.xml" timestamp="1488595850556">
-        <mark key="[" line="12" column="28" />
-        <mark key="]" line="12" column="39" />
-        <mark key="^" line="12" column="39" />
-        <mark key="." line="12" column="39" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/comcast/src/main/kotlin/comcast/api/AdminAuthenticator.kt" timestamp="1487992350766">
         <mark key="[" line="39" column="0" />
@@ -946,29 +499,11 @@
         <mark key="^" line="56" column="20" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="/7ff0e53c/6111178f-0535-4f77-8096-139c834d4a58/database/comcast/schema/public/table/selection/trigger/selection_inserted.sql" timestamp="1484706251894">
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="0" column="15" />
-        <mark key="." line="0" column="15" />
-        <mark key="^" line="0" column="15" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/comcast/src/main/resources/db/migration/V6__add_selectiontotal.sql" timestamp="1484899369447">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="12" column="65" />
-        <mark key="." line="14" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/my-projects/example1/index.html" timestamp="1509168022210">
         <mark key="[" line="4" column="11" />
         <mark key="]" line="7" column="2" />
         <mark key="." line="7" column="2" />
         <mark key="^" line="7" column="2" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/ito/app/src/models/trial.js" timestamp="1536441276400">
-        <mark key="[" line="0" column="13" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/comcast-spring/src/integration-test/java/com/expent/comcast/api/ControllerIntegrationTestBase.java" timestamp="1483245550823">
         <mark key="[" line="11" column="38" />
@@ -976,59 +511,11 @@
         <mark key="." line="11" column="13" />
         <mark key="^" line="11" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/ReactCalc/PeePic.js" timestamp="1524005630926">
-        <mark key="[" line="1" column="9" />
-        <mark key="]" line="1" column="12" />
-        <mark key="." line="1" column="12" />
-        <mark key="^" line="1" column="12" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/ReactCalc/config/router.js" timestamp="1524005687474">
-        <mark key="[" line="24" column="15" />
-        <mark key="]" line="24" column="19" />
-        <mark key="^" line="24" column="19" />
-        <mark key="." line="24" column="19" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/comcast-spring/src/main/resources/db/migration/V2__add_user.sql" timestamp="1483653120209">
-        <mark key="[" line="0" column="20" />
-        <mark key="]" line="0" column="20" />
-        <mark key="." line="0" column="20" />
-        <mark key="^" line="0" column="20" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/nextsteps/js/eg.js" timestamp="1507112145084">
-        <mark key="[" line="1" column="13" />
-        <mark key="]" line="1" column="13" />
-        <mark key="." line="1" column="13" />
-        <mark key="^" line="1" column="13" />
-      </file>
       <file name="$USER_HOME$/dev/my-projects/comcast/src/main/resources/db/migration/V5__add_option_set.sql" timestamp="1484284928322">
         <mark key="[" line="3" column="30" />
         <mark key="]" line="4" column="26" />
         <mark key="." line="4" column="26" />
         <mark key="^" line="4" column="18" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/hub/seeders/20181206023758-test-bookmark.js" timestamp="1545778106439">
-        <mark key="[" line="13" column="22" />
-        <mark key="]" line="13" column="22" />
-        <mark key="." line="13" column="22" />
-        <mark key="^" line="8" column="32" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/comcast-spring/src/main/java/data/SelectionGameRepository.java" timestamp="1483151908846">
-        <mark key="[" line="6" column="63" />
-        <mark key="]" line="6" column="82" />
-        <mark key="^" line="6" column="82" />
-        <mark key="." line="6" column="82" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/oj/views/pages/form.html" timestamp="1536104657898">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="6" />
-        <mark key="." line="0" column="6" />
-        <mark key="^" line="0" column="6" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/ito/app/src/app.js" timestamp="1536441214661">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="10" column="8" />
-        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/yngwie/js/default.js" timestamp="1566507503838">
         <mark key="'" line="149" column="11" />
@@ -1036,12 +523,6 @@
         <mark key="]" line="53" column="33" />
         <mark key="^" line="53" column="33" />
         <mark key="." line="53" column="33" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/hub/misc/refreshdb.js" timestamp="1544496019647">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="1" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/hub/public/stylesheets/_custom.scss" timestamp="1546919116296">
         <mark key="[" line="1" column="18" />
@@ -1055,47 +536,11 @@
         <mark key="^" line="6" column="88" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/comcast-spring/src/main/java/com/expent/comcast/api/controllers/AppController.java" timestamp="1483935542809">
-        <mark key="[" line="14" column="11" />
-        <mark key="]" line="14" column="16" />
-        <mark key="." line="14" column="16" />
-        <mark key="^" line="14" column="16" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/hub/public/javascripts/other.js" timestamp="1545096388552">
-        <mark key="[" line="1" column="9" />
-        <mark key="]" line="1" column="10" />
-        <mark key="^" line="2" column="1" />
-        <mark key="." line="1" column="10" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/comcast/src/main/resources/db/migration/V7__add_data.sql" timestamp="1484789648741">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="13" column="80" />
-        <mark key="^" line="13" column="80" />
-        <mark key="." line="13" column="80" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/fbmanager/src/main/kotlin/myapp/Config.kt" timestamp="1485729462732">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="12" />
-        <mark key="." line="0" column="12" />
-        <mark key="^" line="0" column="12" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/test-resources/bookmarkme.html" timestamp="1527632207417">
-        <mark key="[" line="3" column="1" />
-        <mark key="]" line="3" column="79" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="2" column="26" />
-      </file>
       <file name="$USER_HOME$/dev/my-projects/blank-web/index.html" timestamp="1512175263677">
         <mark key="[" line="5" column="19" />
         <mark key="]" line="6" column="12" />
         <mark key="^" line="6" column="12" />
         <mark key="." line="6" column="12" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/ito/views/layout.swig" timestamp="1536009052271">
-        <mark key="[" line="4" column="6" />
-        <mark key="]" line="4" column="40" />
-        <mark key="^" line="4" column="40" />
-        <mark key="." line="4" column="40" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/ito/views/index.swig" timestamp="1536009155205">
         <mark key="[" line="0" column="0" />
@@ -1103,32 +548,11 @@
         <mark key="^" line="2" column="18" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/kapper/src/test/kotlin/thrashbarg/thrashbargTests.kt" timestamp="1482693843708">
-        <mark key="[" line="47" column="50" />
-        <mark key="]" line="47" column="54" />
-        <mark key="." line="47" column="54" />
-        <mark key="^" line="47" column="54" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/comcast/src/main/kotlin/comcast/domain/Model.kt" timestamp="1487400505055">
-        <mark key="[" line="23" column="19" />
-        <mark key="]" line="23" column="20" />
-        <mark key="." line="23" column="20" />
-        <mark key="^" line="23" column="52" />
-      </file>
       <file name="$USER_HOME$/dev/my-projects/fbmanager/src/main/resources/templates/keepers.html" timestamp="1486164396679">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="10" column="7" />
         <mark key="^" line="10" column="7" />
         <mark key="." line="10" column="7" />
-      </file>
-      <file name="/fragment.java" timestamp="1559002154140">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/comcast-spring/src/integration-test/java/comcast/api/AppControllerIntegrationTests.java" timestamp="1483072879466">
-        <mark key="[" line="15" column="13" />
-        <mark key="]" line="15" column="31" />
-        <mark key="." line="15" column="31" />
-        <mark key="^" line="15" column="31" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/oj/admin/src/restClient.js" timestamp="1536792715717">
         <mark key="[" line="77" column="34" />
@@ -1148,59 +572,17 @@
         <mark key="^" line="40" column="8" />
         <mark key="." line="381" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/hub/.gitignore" timestamp="1544496973812">
-        <mark key="[" line="150" column="21" />
-        <mark key="]" line="151" column="8" />
-        <mark key="^" line="151" column="8" />
-        <mark key="." line="151" column="8" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/hub/routes/api/users.js" timestamp="1545780445745">
-        <mark key="[" line="7" column="48" />
-        <mark key="]" line="7" column="51" />
-        <mark key="." line="7" column="51" />
-        <mark key="^" line="7" column="51" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/comcast/src/main/resources/db/migration/V3__add_selection.sql" timestamp="1484613311766">
-        <mark key="[" line="5" column="9" />
-        <mark key="]" line="5" column="16" />
-        <mark key="^" line="5" column="16" />
-        <mark key="." line="5" column="16" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/fbbmanager/src/main/kotlin/comcast/api/SelectionGamesController.kt" timestamp="1485489080491">
-        <mark key="[" line="11" column="42" />
-        <mark key="]" line="11" column="43" />
-        <mark key="." line="11" column="43" />
-        <mark key="^" line="11" column="41" />
-      </file>
       <file name="$USER_HOME$/dev/my-projects/oj/app/config/blueprints.js" timestamp="1536281853282">
         <mark key="[" line="28" column="8" />
         <mark key="]" line="28" column="11" />
         <mark key="." line="28" column="11" />
         <mark key="^" line="28" column="11" />
       </file>
-      <file name="/7ff0e53c/6111178f-0535-4f77-8096-139c834d4a58/database/comcast/schema/public/routine/upsert_selection_total.().sql" timestamp="1484707942298">
-        <mark key="[" line="19" column="26" />
-        <mark key="]" line="19" column="26" />
-        <mark key="." line="19" column="26" />
-        <mark key="^" line="19" column="25" />
-      </file>
       <file name="$USER_HOME$/dev/my-projects/fbmanager/src/main/kotlin/fbbmanager/Config.kt" timestamp="1486076493628">
         <mark key="[" line="0" column="18" />
         <mark key="]" line="0" column="18" />
         <mark key="^" line="0" column="19" />
         <mark key="." line="0" column="18" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/comcast/src/main/resources/application-local.conf" timestamp="1512611055656">
-        <mark key="[" line="4" column="15" />
-        <mark key="]" line="4" column="34" />
-        <mark key="." line="4" column="34" />
-        <mark key="^" line="4" column="34" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/comcast/src/main/resources/templates/admin/form/form.html" timestamp="1489102261020">
-        <mark key="[" line="11" column="45" />
-        <mark key="]" line="11" column="52" />
-        <mark key="." line="11" column="52" />
-        <mark key="^" line="11" column="52" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/comcast/src/main/resources/public/admin/css/comcast.css" timestamp="1488490612030">
         <mark key="[" line="0" column="0" />
@@ -1244,41 +626,11 @@
         <mark key="." line="7" column="32" />
         <mark key="^" line="7" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/comcast-spring/src/main/java/com/expent/comcast/domain/SelectionGame.java" timestamp="1483852468962">
-        <mark key="[" line="11" column="46" />
-        <mark key="]" line="11" column="53" />
-        <mark key="^" line="11" column="53" />
-        <mark key="." line="11" column="53" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/nextsteps/views/test.hbs" timestamp="1508413244705">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="5" />
-        <mark key="^" line="0" column="5" />
-        <mark key="." line="0" column="5" />
-      </file>
-      <file name="$USER_HOME$/dev/kerri-hub/public/index.html" timestamp="1535575196743">
-        <mark key="[" line="23" column="22" />
-        <mark key="]" line="23" column="23" />
-        <mark key="^" line="23" column="23" />
-        <mark key="." line="23" column="23" />
-      </file>
       <file name="$USER_HOME$/dev/my-projects/comcast/src/integration-test/kotlin/comcast/api/myt.kt" timestamp="1484712203679">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="49" />
         <mark key="^" line="8" column="38" />
         <mark key="." line="8" column="38" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/oj/app/config/secret.js" timestamp="1536623751703">
-        <mark key="[" line="1" column="25" />
-        <mark key="]" line="1" column="50" />
-        <mark key="^" line="0" column="26" />
-        <mark key="." line="0" column="26" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/guilt/content.js" timestamp="1509617646584">
-        <mark key="[" line="9" column="6" />
-        <mark key="]" line="9" column="6" />
-        <mark key="." line="9" column="6" />
-        <mark key="^" line="9" column="35" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/operationshutdown/debuts/build.gradle" timestamp="1495840774298">
         <mark key="[" line="23" column="24" />
@@ -1292,65 +644,17 @@
         <mark key="." line="7" column="46" />
         <mark key="^" line="7" column="65" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/comcast/src/main/resources/db/migration/V5__add_selectiontotal.sql" timestamp="1484900420414">
-        <mark key="[" line="5" column="16" />
-        <mark key="]" line="5" column="20" />
-        <mark key="^" line="5" column="20" />
-        <mark key="." line="5" column="20" />
-      </file>
       <file name="$USER_HOME$/dev/my-projects/operationshutdown/debuts/src/main/resources/logback.xml" timestamp="1495936965844">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
         <mark key="^" line="1" column="37" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/comcast/src/main/kotlin/comcast/data/GameDao.kt" timestamp="1485064334426">
-        <mark key="[" line="12" column="6" />
-        <mark key="]" line="12" column="6" />
-        <mark key="^" line="12" column="7" />
-        <mark key="." line="12" column="6" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/oj/app/api/blueprints/find.js" timestamp="1536876664693">
-        <mark key="[" line="4" column="4" />
-        <mark key="]" line="4" column="4" />
-        <mark key="^" line="2" column="2" />
-        <mark key="." line="4" column="4" />
-      </file>
       <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/hub/config.js" timestamp="1543710975616">
         <mark key="[" line="5" column="38" />
         <mark key="]" line="5" column="38" />
         <mark key="^" line="5" column="38" />
         <mark key="." line="5" column="38" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/rprogress/stylesheets/github.css" timestamp="1508314426435">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="2701" />
-        <mark key="^" line="0" column="2701" />
-        <mark key="." line="0" column="2701" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/oj/api/controllers/Security.js" timestamp="1536205872318">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="1" column="10" />
-        <mark key="." line="1" column="10" />
-        <mark key="^" line="2" column="7" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/pindle/manifest.json" timestamp="1498068107852">
-        <mark key="[" line="18" column="32" />
-        <mark key="]" line="18" column="32" />
-        <mark key="^" line="18" column="48" />
-        <mark key="." line="18" column="32" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/hub/config/development.js" timestamp="1544401705933">
-        <mark key="[" line="1" column="19" />
-        <mark key="]" line="1" column="19" />
-        <mark key="^" line="1" column="19" />
-        <mark key="." line="1" column="19" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/hub/nodemon.json" timestamp="1545000341586">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="23" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/english-vocab-builder/big-english-all" timestamp="1559440196138">
         <mark key="[" line="5" column="0" />
@@ -1367,40 +671,17 @@
         <mark key="^" line="10" column="93" />
         <mark key="." line="3" column="7" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/rogozhin/webpack.common.js" timestamp="1552019084830">
-        <mark key="[" line="10" column="39" />
-        <mark key="]" line="10" column="39" />
-        <mark key="." line="10" column="39" />
-      </file>
       <file name="$USER_HOME$/dev/my-projects/oj/app/api/hooks/content-range/index.js" timestamp="1536631219111">
         <mark key="[" line="3" column="6" />
         <mark key="]" line="3" column="6" />
         <mark key="^" line="3" column="6" />
         <mark key="." line="3" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/popup/bookmark.js" timestamp="1529197006800">
-        <mark key="[" line="42" column="18" />
-        <mark key="]" line="43" column="47" />
-        <mark key="." line="43" column="47" />
-        <mark key="^" line="43" column="47" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/popup/labels-list.js" timestamp="1529451778913">
-        <mark key="[" line="0" column="23" />
-        <mark key="]" line="0" column="24" />
-        <mark key="^" line="0" column="24" />
-        <mark key="." line="0" column="24" />
-      </file>
       <file name="$USER_HOME$/dev/my-projects/comcast-spring/src/integration-test/java/com/expent/comcast/api/IntegrationTestsBase.java" timestamp="1483920745374">
         <mark key="[" line="5" column="24" />
         <mark key="]" line="5" column="30" />
         <mark key="." line="5" column="30" />
         <mark key="^" line="5" column="30" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/oj/app/api/models/Trial.js" timestamp="1536794904678">
-        <mark key="[" line="8" column="23" />
-        <mark key="]" line="8" column="23" />
-        <mark key="." line="8" column="23" />
-        <mark key="^" line="8" column="24" />
       </file>
       <file name="$USER_HOME$/dev/vagrant-local/www/kerrievelynharris/public_html/wp-content/themes/parallelus-frontrunner 3/assets/js/jquery.modal.min.js" timestamp="1534111714738">
         <mark key="[" line="0" column="0" />
@@ -1414,53 +695,17 @@
         <mark key="^" line="2" column="39" />
         <mark key="." line="2" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/IngredientChecker/ios/Podfile" timestamp="1526174305993">
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="0" column="25" />
-        <mark key="^" line="0" column="25" />
-        <mark key="." line="0" column="25" />
-      </file>
       <file name="$USER_HOME$/dev/my-projects/thrashbarg/src/test/java/thrashbarg/PojoLeft.java" timestamp="1482806959271">
         <mark key="[" line="2" column="17" />
         <mark key="]" line="2" column="22" />
         <mark key="." line="2" column="22" />
         <mark key="^" line="2" column="22" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/fbmanager/src/main/resources/logback.xml" timestamp="1485729449028">
-        <mark key="[" line="10" column="10" />
-        <mark key="]" line="10" column="19" />
-        <mark key="." line="10" column="19" />
-        <mark key="^" line="10" column="19" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/datachip.html" timestamp="1528340581062">
-        <mark key="[" line="41" column="12" />
-        <mark key="]" line="41" column="17" />
-        <mark key="." line="41" column="17" />
-        <mark key="^" line="41" column="17" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/ghide/manifest.json" timestamp="1510084076901">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="25" />
-        <mark key="." line="29" column="18" />
-        <mark key="^" line="29" column="18" />
-      </file>
       <file name="$USER_HOME$/dev/my-projects/yngwie/.gitignore" timestamp="1564855882323">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/comcast-spring/.env-template" timestamp="1483595005947">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="3" />
-        <mark key="^" line="3" column="3" />
-        <mark key="." line="3" column="3" />
-      </file>
-      <file name="$USER_HOME$/dev/other-projects/learning-stuff/style2.css" timestamp="1505593724384">
-        <mark key="[" line="14" column="11" />
-        <mark key="]" line="17" column="16" />
-        <mark key="." line="17" column="16" />
-        <mark key="^" line="17" column="16" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/operationshutdown/debuts/src/main/kotlin/debuts/Open.kt" timestamp="1494288160451">
         <mark key="[" line="2" column="30" />
@@ -1474,65 +719,17 @@
         <mark key="^" line="15" column="1" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/comcast/build.gradle" timestamp="1512610346588">
-        <mark key="[" line="28" column="15" />
-        <mark key="]" line="60" column="38" />
-        <mark key="." line="60" column="38" />
-        <mark key="^" line="60" column="38" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/findandreplace/src/findandreplace.js" timestamp="1510108563034">
-        <mark key="[" line="99" column="71" />
-        <mark key="]" line="99" column="71" />
-        <mark key="." line="99" column="71" />
-        <mark key="^" line="99" column="71" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/IngredientChecker/components/ScanIngredientListScreen.js" timestamp="1526156779129">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="46" column="5" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/oj/admin/node_modules/ra-core/lib/util/fetch.js" timestamp="1536270255410">
-        <mark key="[" line="84" column="19" />
-        <mark key="]" line="84" column="16" />
-        <mark key="^" line="84" column="16" />
-        <mark key="." line="84" column="16" />
-      </file>
       <file name="$USER_HOME$/dev/my-projects/thrashbarg/src/test/java/thrashbarg/PojoSetterOnly.java" timestamp="1483040514511">
         <mark key="[" line="6" column="8" />
         <mark key="]" line="6" column="8" />
         <mark key="^" line="6" column="8" />
         <mark key="." line="6" column="8" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/comcast-spring/src/main/java/com/expent/comcast/domain/ComcastUser.java" timestamp="1483852477035">
-        <mark key="[" line="11" column="46" />
-        <mark key="]" line="10" column="6" />
-        <mark key="^" line="10" column="6" />
-        <mark key="." line="10" column="6" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/IngredientChecker/components/HomeScreen.js" timestamp="1526172353928">
-        <mark key="[" line="25" column="37" />
-        <mark key="]" line="25" column="38" />
-        <mark key="^" line="25" column="38" />
-        <mark key="." line="25" column="38" />
-      </file>
       <file name="$USER_HOME$/dev/my-projects/oj/app/api/hooks/blueprints/find.js" timestamp="1536877361799">
         <mark key="[" line="9" column="1" />
         <mark key="]" line="9" column="1" />
         <mark key="." line="9" column="1" />
         <mark key="^" line="9" column="1" />
-      </file>
-      <file name="$USER_HOME$/dev/vagrant-local/www/kerrievelynharris/public_html/wp-content/themes/parallelus-frontrunner 3/templates/homepage-1.php" timestamp="1533572538448">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/ito/README.md" timestamp="1535929594109">
-        <mark key="[" line="53" column="5" />
-        <mark key="]" line="53" column="5" />
-        <mark key="." line="53" column="5" />
-        <mark key="^" line="9" column="145" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/oj/app/api/controllers/FieldController.js" timestamp="1536879984633">
         <mark key="[" line="2" column="0" />
@@ -1556,12 +753,6 @@
         <mark key="]" line="41" column="1" />
         <mark key="." line="41" column="1" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/pindle/table.html" timestamp="1498015071475">
-        <mark key="[" line="9" column="18" />
-        <mark key="]" line="9" column="18" />
-        <mark key="." line="9" column="18" />
-        <mark key="^" line="13" column="20" />
-      </file>
       <file name="$USER_HOME$/dev/my-projects/fbbmanager/src/main/resources/logback.xml" timestamp="1485491730652">
         <mark key="[" line="10" column="10" />
         <mark key="]" line="10" column="14" />
@@ -1574,24 +765,6 @@
         <mark key="^" line="29" column="9" />
         <mark key="." line="29" column="9" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/comcast/src/integration-test/kotlin/comcast/DbUtil.kt" timestamp="1484183690647">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="43" column="33" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/comcast/src/main/kotlin/comcast/api/CorsHandler.kt" timestamp="1495163982917">
-        <mark key="[" line="31" column="30" />
-        <mark key="]" line="31" column="30" />
-        <mark key="^" line="30" column="3" />
-        <mark key="." line="31" column="30" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/comcast-spring/src/main/java/comcast/api/Application.java" timestamp="1483154297010">
-        <mark key="[" line="14" column="21" />
-        <mark key="]" line="14" column="21" />
-        <mark key="." line="14" column="21" />
-        <mark key="^" line="14" column="21" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6111178f-0535-4f77-8096-139c834d4a58/console_1.sql" timestamp="1484890124504">
         <mark key="[" line="7" column="47" />
         <mark key="]" line="7" column="3" />
@@ -1603,18 +776,6 @@
         <mark key="]" line="13" column="27" />
         <mark key="." line="13" column="27" />
         <mark key="^" line="13" column="27" />
-      </file>
-      <file name="$USER_HOME$/vagrant-local/www/kerrievelynharris/public_html/wp-content/themes/parallelus-frontrunner 3/templates/home.php" timestamp="1533503752035">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/hub/public/javascripts/signinup.jsx" timestamp="1546904794502">
-        <mark key="[" line="23" column="22" />
-        <mark key="]" line="23" column="20" />
-        <mark key="." line="23" column="20" />
-        <mark key="^" line="23" column="21" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/oj/api/controllers/enroll-user-enroll.js" timestamp="1536017021807">
         <mark key="[" line="12" column="22" />
@@ -1634,12 +795,6 @@
         <mark key="." line="15" column="109" />
         <mark key="^" line="14" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/blank-web/default.js" timestamp="1512175320950">
-        <mark key="[" line="4" column="34" />
-        <mark key="]" line="4" column="34" />
-        <mark key="." line="4" column="34" />
-        <mark key="^" line="4" column="34" />
-      </file>
       <file name="$USER_HOME$/dev/my-projects/comcast-spring/settings.gradle" timestamp="1483156093934">
         <mark key="[" line="18" column="20" />
         <mark key="]" line="18" column="26" />
@@ -1652,12 +807,6 @@
         <mark key="." line="34" column="23" />
         <mark key="^" line="34" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/oj/app/api/policies/hasToken.js" timestamp="1536454848266">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="4" />
-        <mark key="^" line="1" column="4" />
-        <mark key="." line="1" column="4" />
-      </file>
       <file name="$USER_HOME$/dev/vagrant-local/www/kerrievelynharris/public_html/wp-content/themes/parallelus-frontrunner 3/templates/css/minimal.css" timestamp="1535669973360">
         <mark key="[" line="66" column="22" />
         <mark key="]" line="68" column="0" />
@@ -1669,12 +818,6 @@
         <mark key="]" line="8" column="88" />
         <mark key="^" line="8" column="88" />
         <mark key="." line="8" column="88" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/fbbmanager/src/integration-test/kotlin/comcast/api/IntegrationTests.kt" timestamp="1485488808850">
-        <mark key="[" line="13" column="13" />
-        <mark key="]" line="13" column="27" />
-        <mark key="^" line="13" column="27" />
-        <mark key="." line="13" column="27" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/yngwie/js/main.js" timestamp="1564855005984">
         <mark key="'" line="0" column="10" />
@@ -1718,12 +861,6 @@
         <mark key="." line="6" column="19" />
         <mark key="^" line="6" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/test1/.jshintrc" timestamp="1508228509834">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/397e0feb-d3b2-4261-87a2-2c78f4425b2d/console.sql" timestamp="1496936833215">
         <mark key="[" line="4" column="80" />
         <mark key="]" line="4" column="1" />
@@ -1735,12 +872,6 @@
         <mark key="]" line="31" column="18" />
         <mark key="^" line="31" column="18" />
         <mark key="." line="31" column="18" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/comcast/src/main/resources/templates/admin/selection-game.html" timestamp="1488940124234">
-        <mark key="[" line="37" column="114" />
-        <mark key="]" line="29" column="30" />
-        <mark key="." line="29" column="30" />
-        <mark key="^" line="29" column="30" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/oj/admin/src/TextFieldSubform.js" timestamp="1538526463731">
         <mark key="[" line="23" column="182" />
@@ -1754,12 +885,6 @@
         <mark key="." line="6" column="34" />
         <mark key="^" line="6" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/comcast-spring/src/main/java/comcast/data/SelectionGameRepository.java" timestamp="1483154172979">
-        <mark key="[" line="2" column="7" />
-        <mark key="]" line="2" column="14" />
-        <mark key="." line="2" column="14" />
-        <mark key="^" line="2" column="14" />
-      </file>
       <file name="$USER_HOME$/dev/my-projects/fbbmanager/settings.gradle" timestamp="1485491926597">
         <mark key="[" line="18" column="20" />
         <mark key="]" line="18" column="24" />
@@ -1768,24 +893,6 @@
       </file>
       <file name="$USER_HOME$/dev/my-projects/yngwie/lib/js/raphael.js" timestamp="1564854675640">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/oj/app/api/hooks/blueprints/index.js" timestamp="1536877835459">
-        <mark key="[" line="3" column="18" />
-        <mark key="]" line="3" column="26" />
-        <mark key="." line="3" column="26" />
-        <mark key="^" line="3" column="26" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/guilt/src/test/spec/config.js" timestamp="1509949641097">
-        <mark key="[" line="7" column="7" />
-        <mark key="]" line="3" column="12" />
-        <mark key="^" line="3" column="12" />
-        <mark key="." line="3" column="12" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/oj/app/config/custom.js" timestamp="1536624047276">
-        <mark key="[" line="92" column="62" />
-        <mark key="]" line="92" column="62" />
-        <mark key="." line="92" column="62" />
-        <mark key="^" line="92" column="49" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/comcast/src/main/resources/logback.xml" timestamp="1512606862751">
         <mark key="[" line="21" column="23" />
@@ -1811,12 +918,6 @@
         <mark key="." line="12" column="31" />
         <mark key="^" line="12" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/thrashbarg/src/test/java/thrashbarg/PojoSource.java" timestamp="1483048520579">
-        <mark key="[" line="8" column="16" />
-        <mark key="]" line="8" column="16" />
-        <mark key="." line="8" column="16" />
-        <mark key="^" line="10" column="34" />
-      </file>
       <file name="$USER_HOME$/dev/my-projects/comcast-spring/src/main/java/comcast/api/SelectionGameController.java" timestamp="1483152501780">
         <mark key="[" line="16" column="34" />
         <mark key="]" line="16" column="37" />
@@ -1834,12 +935,6 @@
         <mark key="]" line="4" column="28" />
         <mark key="." line="4" column="28" />
         <mark key="^" line="4" column="27" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/popup/datachip.html" timestamp="1528404591441">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="80" column="8" />
-        <mark key="^" line="7" column="7" />
-        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/comcast/src/main/kotlin/comcast/scheduler/Cron.kt" timestamp="1484897194507">
         <mark key="[" line="10" column="38" />
@@ -1877,6 +972,1103 @@
         <mark key="." line="2" column="24" />
         <mark key="^" line="2" column="24" />
       </file>
+      <file name="$USER_HOME$/dev/my-projects/english-vocab-builder/redo" timestamp="1559347267265">
+        <mark key="'" line="109" column="2" />
+        <mark key="[" line="108" column="17" />
+        <mark key="]" line="108" column="17" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="108" column="17" />
+      </file>
+      <file name="$USER_HOME$/vagrant-local/www/kerrievelynharris/public_html/wp-content/themes/parallelus-frontrunner 3/templates/volunteer.php" timestamp="1532467476518">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="93" />
+        <mark key="." line="7" column="27" />
+        <mark key="^" line="7" column="27" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/guitar/index.html" timestamp="1564626728433">
+        <mark key="'" line="40" column="26" />
+        <mark key="[" line="150" column="12" />
+        <mark key="]" line="151" column="26" />
+        <mark key="^" line="151" column="26" />
+        <mark key="." line="151" column="26" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/oj/views/pages/homepage.html" timestamp="1536108480314">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
+        <mark key="^" line="0" column="13" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/comcast/src/main/resources/db/migration/V5__add_selectiontotal_triggers.sql" timestamp="1484266589964">
+        <mark key="[" line="46" column="55" />
+        <mark key="]" line="46" column="55" />
+        <mark key="." line="46" column="55" />
+        <mark key="^" line="46" column="55" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/nextsteps/public/stylesheets/github.css" timestamp="1508314476009">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="2701" />
+        <mark key="." line="0" column="2701" />
+        <mark key="^" line="0" column="2701" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/kapper/src/test/kotlin/kapper/PojoRight.java" timestamp="1482614235915">
+        <mark key="[" line="18" column="21" />
+        <mark key="]" line="18" column="27" />
+        <mark key="^" line="18" column="27" />
+        <mark key="." line="18" column="27" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/oj/admin/src/formInputWrapper.js" timestamp="1538524028911">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="26" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/hub/app.js" timestamp="1545948569653">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="19" column="25" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/hub/misc/rebuilddb.js" timestamp="1545851726618">
+        <mark key="[" line="5" column="41" />
+        <mark key="]" line="3" column="39" />
+        <mark key="." line="3" column="39" />
+        <mark key="^" line="8" column="34" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/eng/src/default.kt" timestamp="1559001911416">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="8" />
+        <mark key="^" line="0" column="8" />
+        <mark key="." line="0" column="8" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/operationshutdown/draftroundgenerator/src/main.kts" timestamp="1552604227110">
+        <mark key="'" line="111" column="8" />
+        <mark key="[" line="54" column="13" />
+        <mark key="]" line="54" column="13" />
+        <mark key="." line="54" column="13" />
+        <mark key="^" line="26" column="15" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/nikbox/nikbox.js" timestamp="1522645419622">
+        <mark key="[" line="70" column="142" />
+        <mark key="]" line="70" column="142" />
+        <mark key="." line="70" column="142" />
+        <mark key="^" line="70" column="144" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/comcast-spring/src/main/resources/application-local.yaml-template" timestamp="1483559018924">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="4" column="25" />
+        <mark key="^" line="2" column="7" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/avellanas/public/test/index.html" timestamp="1526615182775">
+        <mark key="[" line="6" column="55" />
+        <mark key="]" line="6" column="63" />
+        <mark key="^" line="6" column="63" />
+        <mark key="." line="6" column="63" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/test/popup.test.js" timestamp="1529451059571">
+        <mark key="[" line="0" column="46" />
+        <mark key="]" line="0" column="46" />
+        <mark key="^" line="0" column="46" />
+        <mark key="." line="0" column="46" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/hub/logs/.gitignore" timestamp="1544236704456">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="4" column="10" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/hub/config/index.js" timestamp="1545777049304">
+        <mark key="[" line="7" column="12" />
+        <mark key="]" line="7" column="17" />
+        <mark key="." line="7" column="17" />
+        <mark key="^" line="7" column="17" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/thrashbarg/src/test/java/thrashbarg/PojoDest.java" timestamp="1483130414793">
+        <mark key="[" line="4" column="18" />
+        <mark key="]" line="4" column="19" />
+        <mark key="^" line="4" column="19" />
+        <mark key="." line="4" column="19" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/hub/webpack.prod.js" timestamp="1545778242286">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="26" />
+        <mark key="." line="0" column="26" />
+        <mark key="^" line="0" column="26" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/comcast/src/main/resources/db/migration/V4__add_selectiongameselectiontotals.sql" timestamp="1484027333794">
+        <mark key="[" line="0" column="22" />
+        <mark key="]" line="0" column="42" />
+        <mark key="." line="0" column="42" />
+        <mark key="^" line="0" column="42" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/ghide/persistence.js" timestamp="1504263708868">
+        <mark key="[" line="18" column="31" />
+        <mark key="]" line="18" column="31" />
+        <mark key="." line="18" column="31" />
+        <mark key="^" line="18" column="31" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/comcast-spring/src/main/java/com/expent/comcast/data/UserRepository.java" timestamp="1483653200375">
+        <mark key="[" line="5" column="17" />
+        <mark key="]" line="5" column="67" />
+        <mark key="." line="5" column="67" />
+        <mark key="^" line="5" column="64" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/hub/nodemon.json.js" timestamp="1544925352374">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/bookmark.js" timestamp="1520873815338">
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="0" column="19" />
+        <mark key="." line="0" column="19" />
+        <mark key="^" line="0" column="19" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/comcast-spring/src/main/java/com/expent/comcast/api/security/JwtService.java" timestamp="1483947324241">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="55" />
+        <mark key="." line="30" column="9" />
+        <mark key="^" line="30" column="9" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/comcast-spring/src/integration-test/java/comcast/api/ApplicationStepdefs.java" timestamp="1483075693962">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="39" column="3" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/google-photos-helper/manifest.json" timestamp="1516758143696">
+        <mark key="[" line="11" column="52" />
+        <mark key="]" line="11" column="52" />
+        <mark key="^" line="11" column="53" />
+        <mark key="." line="11" column="52" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/fbbmanager/src/main/kotlin/fbbmanager/api/Controller.kt" timestamp="1486771550308">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="86" />
+        <mark key="." line="9" column="66" />
+        <mark key="^" line="9" column="66" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/IngredientChecker/components/AddIngredientsScreen.js" timestamp="1524519272999">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="13" column="34" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/hub/winston.js" timestamp="1545778346826">
+        <mark key="[" line="28" column="19" />
+        <mark key="]" line="28" column="22" />
+        <mark key="^" line="28" column="22" />
+        <mark key="." line="28" column="22" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/comcast-spring/src/integration-test/java/comcast/api/ControllerIntegrationTestBase.java" timestamp="1483156616094">
+        <mark key="[" line="16" column="4" />
+        <mark key="]" line="16" column="4" />
+        <mark key="." line="16" column="4" />
+        <mark key="^" line="27" column="18" />
+      </file>
+      <file name="$USER_HOME$/dev/reference-projects/material-theme-jetbrains/src/main/java/com/chrisrm/idea/annotators/JSAnnotator.java" timestamp="1566676803303">
+        <mark key="'" line="54" column="66" />
+      </file>
+      <file name="/7ff0e53c/6111178f-0535-4f77-8096-139c834d4a58/database/comcast/schema/public/materialized-view/selection_total_2.sql" timestamp="1484898647248">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="10" column="106" />
+        <mark key="^" line="8" column="83" />
+        <mark key="." line="8" column="83" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/comcast-spring/src/test/java/comcast/api/ApplicationStepdefs.java" timestamp="1483077262052">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="25" column="19" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/findandreplace/src/persistence.js" timestamp="1510102040784">
+        <mark key="[" line="33" column="20" />
+        <mark key="]" line="33" column="26" />
+        <mark key="." line="33" column="26" />
+        <mark key="^" line="33" column="26" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/english-vocab-builder/index.js" timestamp="1559504467629">
+        <mark key="'" line="179" column="17" />
+        <mark key="[" line="203" column="12" />
+        <mark key="]" line="203" column="13" />
+        <mark key="." line="203" column="13" />
+        <mark key="^" line="203" column="13" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/oj/app/api/controllers/BlueprintsController.js" timestamp="1536629349320">
+        <mark key="[" line="8" column="45" />
+        <mark key="]" line="8" column="42" />
+        <mark key="." line="8" column="42" />
+        <mark key="^" line="8" column="42" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/comcast-spring/src/main/java/com/expent/comcast/api/AppController.java" timestamp="1483476663693">
+        <mark key="[" line="13" column="25" />
+        <mark key="]" line="13" column="25" />
+        <mark key="." line="13" column="25" />
+        <mark key="^" line="15" column="26" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/guilt/src/tests/SpecRunner.html" timestamp="1509702400917">
+        <mark key="[" line="14" column="17" />
+        <mark key="]" line="14" column="17" />
+        <mark key="^" line="14" column="26" />
+        <mark key="." line="14" column="17" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/fbbmanager/src/main/resources/db/migration/V1__baseline.sql" timestamp="1486423370937">
+        <mark key="[" line="6" column="19" />
+        <mark key="]" line="6" column="17" />
+        <mark key="^" line="6" column="17" />
+        <mark key="." line="6" column="17" />
+      </file>
+      <file name="$USER_HOME$/dev/kerri-hub/public/app.js" timestamp="1535575410144">
+        <mark key="[" line="51" column="21" />
+        <mark key="]" line="51" column="21" />
+        <mark key="." line="51" column="21" />
+        <mark key="^" line="51" column="21" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/comcast-spring/src/integration-test/java/com/expent/comcast/api/CorsTest.html" timestamp="1483475062198">
+        <mark key="[" line="3" column="54" />
+        <mark key="]" line="3" column="54" />
+        <mark key="." line="3" column="54" />
+        <mark key="^" line="3" column="54" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/english-vocab-builder/multi-doing" timestamp="1559355299252">
+        <mark key="'" line="6" column="2644" />
+        <mark key="[" line="407" column="360" />
+        <mark key="]" line="407" column="501" />
+        <mark key="^" line="407" column="501" />
+        <mark key="." line="407" column="501" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/english-vocab-builder/multi-curated" timestamp="1559504155541">
+        <mark key="'" line="42" column="0" />
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="1" />
+        <mark key="^" line="42" column="1" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/nikbox/style.css" timestamp="1522640322638">
+        <mark key="[" line="52" column="25" />
+        <mark key="]" line="52" column="5" />
+        <mark key="." line="52" column="5" />
+        <mark key="^" line="52" column="5" />
+      </file>
+      <file name="$USER_HOME$/dev/other-projects/learning-stuff/main2.js" timestamp="1506676835452">
+        <mark key="[" line="1" column="5" />
+        <mark key="]" line="1" column="19" />
+        <mark key="." line="1" column="19" />
+        <mark key="^" line="1" column="19" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/comcast-spring/src/main/java/com/expent/comcast/data/SelectionGame.java" timestamp="1483244424537">
+        <mark key="[" line="6" column="28" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/comcast-spring/Procfile" timestamp="1483399182746">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
+        <mark key="^" line="0" column="23" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/hub/migrations/20181202005732-create-bookmark.js" timestamp="1545777141851">
+        <mark key="'" line="36" column="33" />
+        <mark key="[" line="33" column="22" />
+        <mark key="]" line="33" column="22" />
+        <mark key="." line="33" column="22" />
+        <mark key="^" line="36" column="83" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/oj/app/app.js" timestamp="1536441695783">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="2" />
+        <mark key="." line="31" column="2" />
+        <mark key="^" line="31" column="2" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/hub/config/.sequelizerc" timestamp="1545851347036">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/opshut-debuts/build.gradle" timestamp="1520541064562">
+        <mark key="[" line="38" column="66" />
+        <mark key="]" line="38" column="67" />
+        <mark key="." line="38" column="67" />
+        <mark key="^" line="38" column="68" />
+      </file>
+      <file name="$USER_HOME$/dev/other-projects/index.html" timestamp="1505590251283">
+        <mark key="[" line="1" column="6" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/comcast/src/main/kotlin/comcast/api/ViewModel.kt" timestamp="1488914762295">
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="9" column="4" />
+        <mark key="^" line="10" column="16" />
+        <mark key="." line="9" column="4" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/oj/app/api/hooks/content-range.js" timestamp="1536876481596">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="2" />
+        <mark key="." line="3" column="2" />
+        <mark key="^" line="3" column="2" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/avellanas/src/browser/content.js" timestamp="1526615115123">
+        <mark key="[" line="5" column="36" />
+        <mark key="]" line="5" column="39" />
+        <mark key="." line="5" column="39" />
+        <mark key="^" line="5" column="39" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/comcast/src/integration-test/kotlin/comcast/api/Api.kt" timestamp="1485129183849">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="14" column="13" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/hub/public/index.html" timestamp="1546911518270">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="21" column="46" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/oj/api/controllers/TrialController.js" timestamp="1536207923790">
+        <mark key="[" line="23" column="30" />
+        <mark key="]" line="23" column="30" />
+        <mark key="." line="23" column="30" />
+        <mark key="^" line="23" column="30" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/hub/public/javascripts/index.jsx" timestamp="1552019162850">
+        <mark key="[" line="8" column="17" />
+        <mark key="]" line="8" column="22" />
+        <mark key="^" line="8" column="22" />
+        <mark key="." line="8" column="22" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/nextsteps/routes/index.js" timestamp="1509514259309">
+        <mark key="[" line="8" column="25" />
+        <mark key="]" line="8" column="30" />
+        <mark key="." line="8" column="30" />
+        <mark key="^" line="8" column="30" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/comcast-spring/.env" timestamp="1483595000534">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="3" />
+        <mark key="^" line="4" column="3" />
+        <mark key="." line="4" column="3" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/hub/public/javascripts/components/signup.jsx" timestamp="1546919476780">
+        <mark key="'" line="16" column="13" />
+        <mark key="[" line="10" column="27" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="10" column="13" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/hub/dist/index.html" timestamp="1544998221276">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="1" />
+        <mark key="^" line="7" column="1" />
+        <mark key="." line="7" column="1" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/comcast-spring/src/integration-test/java/com/expent/comcast/api/AppControllerIntegrationTest.java" timestamp="1483245532900">
+        <mark key="[" line="6" column="41" />
+        <mark key="]" line="12" column="4" />
+        <mark key="." line="9" column="22" />
+        <mark key="^" line="9" column="22" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/comcast-spring/src/integration-test/resources/application.yaml" timestamp="1483849165876">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="25" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/IngredientChecker/App.js" timestamp="1526172326075">
+        <mark key="[" line="22" column="28" />
+        <mark key="]" line="22" column="28" />
+        <mark key="^" line="22" column="41" />
+        <mark key="." line="22" column="28" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/comcast/src/integration-test/kotlin/comcast/Db.kt" timestamp="1484957413494">
+        <mark key="[" line="18" column="7" />
+        <mark key="]" line="18" column="7" />
+        <mark key="." line="18" column="7" />
+        <mark key="^" line="28" column="20" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/english-vocab-builder/notInAnki" timestamp="1559497839294">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
+        <mark key="^" line="0" column="7" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/guilt/manifest.json" timestamp="1511396964418">
+        <mark key="[" line="25" column="23" />
+        <mark key="]" line="25" column="23" />
+        <mark key="." line="25" column="23" />
+        <mark key="^" line="25" column="23" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/ReactCalc/Pee.js" timestamp="1524522211542">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="7" column="5" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/yngwie/lib/js/jquery.js" timestamp="1564854782247">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/oj/app/config/policies.js" timestamp="1537055634251">
+        <mark key="[" line="11" column="24" />
+        <mark key="]" line="11" column="24" />
+        <mark key="^" line="11" column="22" />
+        <mark key="." line="11" column="24" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/comcast-spring/src/main/kotlin/comcast/api/App.kt" timestamp="1483055033510">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="13" column="28" />
+        <mark key="^" line="14" column="22" />
+        <mark key="." line="14" column="22" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/comcast/src/test/kotlin/eadrax/eadrax.kt" timestamp="1489343858326">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="33" column="27" />
+        <mark key="." line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/ReactCalc/index.js" timestamp="1524003428128">
+        <mark key="[" line="5" column="18" />
+        <mark key="]" line="5" column="19" />
+        <mark key="." line="5" column="19" />
+        <mark key="^" line="5" column="19" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/eng/src/Default.kts" timestamp="1559002429149">
+        <mark key="[" line="4" column="38" />
+        <mark key="]" line="3" column="47" />
+        <mark key="^" line="3" column="47" />
+        <mark key="." line="3" column="47" />
+      </file>
+      <file name="/7ff0e53c/6111178f-0535-4f77-8096-139c834d4a58/database/comcast/schema/public/routine/insert_selection_total.().sql" timestamp="1484285825506">
+        <mark key="[" line="10" column="72" />
+        <mark key="]" line="10" column="72" />
+        <mark key="." line="10" column="72" />
+        <mark key="^" line="10" column="79" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/findandreplace/manifest.json" timestamp="1510107249045">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="13" column="30" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/comcast/src/main/resources/templates/admin/games.html" timestamp="1488939882833">
+        <mark key="[" line="15" column="60" />
+        <mark key="]" line="15" column="60" />
+        <mark key="." line="15" column="60" />
+        <mark key="^" line="15" column="107" />
+      </file>
+      <file name="$USER_HOME$/vagrant-local/www/kerrievelynharris/public_html/wp-content/themes/parallelus-frontrunner 3/templates/css/events.css" timestamp="1533149356716">
+        <mark key="[" line="13" column="21" />
+        <mark key="]" line="15" column="1" />
+        <mark key="." line="15" column="1" />
+        <mark key="^" line="15" column="1" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/oj/app/config/tokenSecret.js" timestamp="1536535741925">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="18" />
+        <mark key="^" line="0" column="18" />
+        <mark key="." line="0" column="18" />
+      </file>
+      <file name="$USER_HOME$/dev/vagrant-local/www/kerrievelynharris/public_html/wp-content/themes/parallelus-frontrunner 3/templates/minimal.php" timestamp="1535668959989">
+        <mark key="[" line="29" column="16" />
+        <mark key="]" line="29" column="16" />
+        <mark key="." line="29" column="16" />
+        <mark key="^" line="28" column="19" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/hub/routes/api/bookmarks.js" timestamp="1545853414036">
+        <mark key="'" line="12" column="32" />
+        <mark key="[" line="3" column="6" />
+        <mark key="]" line="3" column="11" />
+        <mark key="^" line="3" column="11" />
+        <mark key="." line="3" column="11" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/oj/admin/src/Required.js" timestamp="1538525169727">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="9" column="30" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/comcast-spring/Procfile.local" timestamp="1483399749799">
+        <mark key="[" line="0" column="3" />
+        <mark key="]" line="0" column="3" />
+        <mark key="^" line="0" column="3" />
+        <mark key="." line="0" column="3" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/fbbmanager/src/main/kotlin/comcast/api/Routes.kt" timestamp="1485490780415">
+        <mark key="[" line="42" column="49" />
+        <mark key="]" line="42" column="49" />
+        <mark key="." line="42" column="49" />
+        <mark key="^" line="42" column="49" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/styles/firefox-photon.scss" timestamp="1528401465482">
+        <mark key="[" line="31" column="35" />
+        <mark key="]" line="31" column="35" />
+        <mark key="^" line="31" column="34" />
+        <mark key="." line="31" column="35" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/oj/app/config/blueprints/find.js" timestamp="1536802941519">
+        <mark key="[" line="2" column="8" />
+        <mark key="]" line="2" column="14" />
+        <mark key="^" line="2" column="14" />
+        <mark key="." line="2" column="14" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/ghide/jquery.validate.min.js" timestamp="1501599872438">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="23121" />
+        <mark key="^" line="3" column="23121" />
+        <mark key="." line="3" column="23121" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/oj/admin/node_modules/react-admin/src/Admin.js" timestamp="1537324642572">
+        <mark key="[" line="11" column="26" />
+        <mark key="]" line="11" column="26" />
+        <mark key="^" line="11" column="26" />
+        <mark key="." line="11" column="26" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/comcast-spring/src/main/java/com/expent/comcast/api/WrapResponse.java" timestamp="1483567916152">
+        <mark key="[" line="7" column="7" />
+        <mark key="]" line="7" column="16" />
+        <mark key="^" line="7" column="16" />
+        <mark key="." line="7" column="16" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/comcast/src/main/kotlin/comcast/api/Config.kt" timestamp="1484719647708">
+        <mark key="[" line="8" column="73" />
+        <mark key="]" line="8" column="75" />
+        <mark key="^" line="8" column="75" />
+        <mark key="." line="8" column="75" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/comcast-spring/src/main/resources/db/migration/V2__add_comastuser.sql" timestamp="1483852630366">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="3" column="11" />
+        <mark key="^" line="3" column="11" />
+        <mark key="." line="3" column="11" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/IngredientChecker/ios/IngredientChecker/Info.plist" timestamp="1524527690902">
+        <mark key="[" line="70" column="95" />
+        <mark key="]" line="72" column="94" />
+        <mark key="^" line="72" column="94" />
+        <mark key="." line="72" column="94" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/oj/app/api/policies/isLoggedIn.js" timestamp="1536703187073">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="53" />
+        <mark key="." line="13" column="43" />
+        <mark key="^" line="13" column="43" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/guilt/src/main/content.js" timestamp="1511394654572">
+        <mark key="[" line="33" column="28" />
+        <mark key="]" line="33" column="28" />
+        <mark key="." line="33" column="28" />
+        <mark key="^" line="33" column="28" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/comcast-spring/src/main/java/com/expent/comcast/api/security/JwtToken.java" timestamp="1483855967753">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="7" column="56" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/content.js" timestamp="1527632641872">
+        <mark key="[" line="1" column="4" />
+        <mark key="]" line="1" column="4" />
+        <mark key="." line="1" column="4" />
+        <mark key="^" line="1" column="4" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/comcast/src/main/resources/db/migration/V3__options.sql" timestamp="1486866866948">
+        <mark key="[" line="4" column="35" />
+        <mark key="]" line="4" column="35" />
+        <mark key="." line="4" column="35" />
+        <mark key="^" line="4" column="35" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/fbbmanager/src/main/kotlin/myapp/data/Database.kt" timestamp="1485491879822">
+        <mark key="[" line="34" column="113" />
+        <mark key="]" line="34" column="113" />
+        <mark key="." line="34" column="113" />
+        <mark key="^" line="34" column="113" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/fbmanager/settings.gradle" timestamp="1486165890809">
+        <mark key="[" line="18" column="22" />
+        <mark key="]" line="18" column="28" />
+        <mark key="." line="18" column="28" />
+        <mark key="^" line="18" column="28" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/comcast-spring/src/main/java/com/expent/comcast/api/ResponseWrapper.java" timestamp="1483924152764">
+        <mark key="[" line="19" column="5" />
+        <mark key="]" line="17" column="19" />
+        <mark key="." line="17" column="19" />
+        <mark key="^" line="17" column="18" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/rogozhin/package.json" timestamp="1552019484620">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="65" column="4" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/comcast/web.xml" timestamp="1488595850556">
+        <mark key="[" line="12" column="28" />
+        <mark key="]" line="12" column="39" />
+        <mark key="^" line="12" column="39" />
+        <mark key="." line="12" column="39" />
+      </file>
+      <file name="/7ff0e53c/6111178f-0535-4f77-8096-139c834d4a58/database/comcast/schema/public/table/selection/trigger/selection_inserted.sql" timestamp="1484706251894">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="15" />
+        <mark key="." line="0" column="15" />
+        <mark key="^" line="0" column="15" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/comcast/src/main/resources/db/migration/V6__add_selectiontotal.sql" timestamp="1484899369447">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="12" column="65" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/ito/app/src/models/trial.js" timestamp="1536441276400">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/ReactCalc/PeePic.js" timestamp="1524005630926">
+        <mark key="[" line="1" column="9" />
+        <mark key="]" line="1" column="12" />
+        <mark key="." line="1" column="12" />
+        <mark key="^" line="1" column="12" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/ReactCalc/config/router.js" timestamp="1524005687474">
+        <mark key="[" line="24" column="15" />
+        <mark key="]" line="24" column="19" />
+        <mark key="^" line="24" column="19" />
+        <mark key="." line="24" column="19" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/comcast-spring/src/main/resources/db/migration/V2__add_user.sql" timestamp="1483653120209">
+        <mark key="[" line="0" column="20" />
+        <mark key="]" line="0" column="20" />
+        <mark key="." line="0" column="20" />
+        <mark key="^" line="0" column="20" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/nextsteps/js/eg.js" timestamp="1507112145084">
+        <mark key="[" line="1" column="13" />
+        <mark key="]" line="1" column="13" />
+        <mark key="." line="1" column="13" />
+        <mark key="^" line="1" column="13" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/hub/seeders/20181206023758-test-bookmark.js" timestamp="1545778106439">
+        <mark key="[" line="13" column="22" />
+        <mark key="]" line="13" column="22" />
+        <mark key="." line="13" column="22" />
+        <mark key="^" line="8" column="32" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/comcast-spring/src/main/java/data/SelectionGameRepository.java" timestamp="1483151908846">
+        <mark key="[" line="6" column="63" />
+        <mark key="]" line="6" column="82" />
+        <mark key="^" line="6" column="82" />
+        <mark key="." line="6" column="82" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/oj/views/pages/form.html" timestamp="1536104657898">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="6" />
+        <mark key="." line="0" column="6" />
+        <mark key="^" line="0" column="6" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/ito/app/src/app.js" timestamp="1536441214661">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="10" column="8" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/hub/misc/refreshdb.js" timestamp="1544496019647">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="1" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/comcast-spring/src/main/java/com/expent/comcast/api/controllers/AppController.java" timestamp="1483935542809">
+        <mark key="[" line="14" column="11" />
+        <mark key="]" line="14" column="16" />
+        <mark key="." line="14" column="16" />
+        <mark key="^" line="14" column="16" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/hub/public/javascripts/other.js" timestamp="1545096388552">
+        <mark key="[" line="1" column="9" />
+        <mark key="]" line="1" column="10" />
+        <mark key="^" line="2" column="1" />
+        <mark key="." line="1" column="10" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/comcast/src/main/resources/db/migration/V7__add_data.sql" timestamp="1484789648741">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="13" column="80" />
+        <mark key="^" line="13" column="80" />
+        <mark key="." line="13" column="80" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/fbmanager/src/main/kotlin/myapp/Config.kt" timestamp="1485729462732">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
+        <mark key="^" line="0" column="12" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/test-resources/bookmarkme.html" timestamp="1527632207417">
+        <mark key="[" line="3" column="1" />
+        <mark key="]" line="3" column="79" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="2" column="26" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/ito/views/layout.swig" timestamp="1536009052271">
+        <mark key="[" line="4" column="6" />
+        <mark key="]" line="4" column="40" />
+        <mark key="^" line="4" column="40" />
+        <mark key="." line="4" column="40" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/kapper/src/test/kotlin/thrashbarg/thrashbargTests.kt" timestamp="1482693843708">
+        <mark key="[" line="47" column="50" />
+        <mark key="]" line="47" column="54" />
+        <mark key="." line="47" column="54" />
+        <mark key="^" line="47" column="54" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/comcast/src/main/kotlin/comcast/domain/Model.kt" timestamp="1487400505055">
+        <mark key="[" line="23" column="19" />
+        <mark key="]" line="23" column="20" />
+        <mark key="." line="23" column="20" />
+        <mark key="^" line="23" column="52" />
+      </file>
+      <file name="/fragment.java" timestamp="1559002154140">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/comcast-spring/src/integration-test/java/comcast/api/AppControllerIntegrationTests.java" timestamp="1483072879466">
+        <mark key="[" line="15" column="13" />
+        <mark key="]" line="15" column="31" />
+        <mark key="." line="15" column="31" />
+        <mark key="^" line="15" column="31" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/hub/.gitignore" timestamp="1544496973812">
+        <mark key="[" line="150" column="21" />
+        <mark key="]" line="151" column="8" />
+        <mark key="^" line="151" column="8" />
+        <mark key="." line="151" column="8" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/hub/routes/api/users.js" timestamp="1545780445745">
+        <mark key="[" line="7" column="48" />
+        <mark key="]" line="7" column="51" />
+        <mark key="." line="7" column="51" />
+        <mark key="^" line="7" column="51" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/comcast/src/main/resources/db/migration/V3__add_selection.sql" timestamp="1484613311766">
+        <mark key="[" line="5" column="9" />
+        <mark key="]" line="5" column="16" />
+        <mark key="^" line="5" column="16" />
+        <mark key="." line="5" column="16" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/fbbmanager/src/main/kotlin/comcast/api/SelectionGamesController.kt" timestamp="1485489080491">
+        <mark key="[" line="11" column="42" />
+        <mark key="]" line="11" column="43" />
+        <mark key="." line="11" column="43" />
+        <mark key="^" line="11" column="41" />
+      </file>
+      <file name="/7ff0e53c/6111178f-0535-4f77-8096-139c834d4a58/database/comcast/schema/public/routine/upsert_selection_total.().sql" timestamp="1484707942298">
+        <mark key="[" line="19" column="26" />
+        <mark key="]" line="19" column="26" />
+        <mark key="." line="19" column="26" />
+        <mark key="^" line="19" column="25" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/comcast/src/main/resources/application-local.conf" timestamp="1512611055656">
+        <mark key="[" line="4" column="15" />
+        <mark key="]" line="4" column="34" />
+        <mark key="." line="4" column="34" />
+        <mark key="^" line="4" column="34" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/comcast/src/main/resources/templates/admin/form/form.html" timestamp="1489102261020">
+        <mark key="[" line="11" column="45" />
+        <mark key="]" line="11" column="52" />
+        <mark key="." line="11" column="52" />
+        <mark key="^" line="11" column="52" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/comcast-spring/src/main/java/com/expent/comcast/domain/SelectionGame.java" timestamp="1483852468962">
+        <mark key="[" line="11" column="46" />
+        <mark key="]" line="11" column="53" />
+        <mark key="^" line="11" column="53" />
+        <mark key="." line="11" column="53" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/nextsteps/views/test.hbs" timestamp="1508413244705">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="5" />
+        <mark key="^" line="0" column="5" />
+        <mark key="." line="0" column="5" />
+      </file>
+      <file name="$USER_HOME$/dev/kerri-hub/public/index.html" timestamp="1535575196743">
+        <mark key="[" line="23" column="22" />
+        <mark key="]" line="23" column="23" />
+        <mark key="^" line="23" column="23" />
+        <mark key="." line="23" column="23" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/oj/app/config/secret.js" timestamp="1536623751703">
+        <mark key="[" line="1" column="25" />
+        <mark key="]" line="1" column="50" />
+        <mark key="^" line="0" column="26" />
+        <mark key="." line="0" column="26" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/guilt/content.js" timestamp="1509617646584">
+        <mark key="[" line="9" column="6" />
+        <mark key="]" line="9" column="6" />
+        <mark key="." line="9" column="6" />
+        <mark key="^" line="9" column="35" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/comcast/src/main/resources/db/migration/V5__add_selectiontotal.sql" timestamp="1484900420414">
+        <mark key="[" line="5" column="16" />
+        <mark key="]" line="5" column="20" />
+        <mark key="^" line="5" column="20" />
+        <mark key="." line="5" column="20" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/comcast/src/main/kotlin/comcast/data/GameDao.kt" timestamp="1485064334426">
+        <mark key="[" line="12" column="6" />
+        <mark key="]" line="12" column="6" />
+        <mark key="^" line="12" column="7" />
+        <mark key="." line="12" column="6" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/oj/app/api/blueprints/find.js" timestamp="1536876664693">
+        <mark key="[" line="4" column="4" />
+        <mark key="]" line="4" column="4" />
+        <mark key="^" line="2" column="2" />
+        <mark key="." line="4" column="4" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/rprogress/stylesheets/github.css" timestamp="1508314426435">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="2701" />
+        <mark key="^" line="0" column="2701" />
+        <mark key="." line="0" column="2701" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/oj/api/controllers/Security.js" timestamp="1536205872318">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="1" column="10" />
+        <mark key="." line="1" column="10" />
+        <mark key="^" line="2" column="7" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/pindle/manifest.json" timestamp="1498068107852">
+        <mark key="[" line="18" column="32" />
+        <mark key="]" line="18" column="32" />
+        <mark key="^" line="18" column="48" />
+        <mark key="." line="18" column="32" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/hub/config/development.js" timestamp="1544401705933">
+        <mark key="[" line="1" column="19" />
+        <mark key="]" line="1" column="19" />
+        <mark key="^" line="1" column="19" />
+        <mark key="." line="1" column="19" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/hub/nodemon.json" timestamp="1545000341586">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="23" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/rogozhin/webpack.common.js" timestamp="1552019084830">
+        <mark key="[" line="10" column="39" />
+        <mark key="]" line="10" column="39" />
+        <mark key="." line="10" column="39" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/popup/bookmark.js" timestamp="1529197006800">
+        <mark key="[" line="42" column="18" />
+        <mark key="]" line="43" column="47" />
+        <mark key="." line="43" column="47" />
+        <mark key="^" line="43" column="47" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/popup/labels-list.js" timestamp="1529451778913">
+        <mark key="[" line="0" column="23" />
+        <mark key="]" line="0" column="24" />
+        <mark key="^" line="0" column="24" />
+        <mark key="." line="0" column="24" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/oj/app/api/models/Trial.js" timestamp="1536794904678">
+        <mark key="[" line="8" column="23" />
+        <mark key="]" line="8" column="23" />
+        <mark key="." line="8" column="23" />
+        <mark key="^" line="8" column="24" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/IngredientChecker/ios/Podfile" timestamp="1526174305993">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="25" />
+        <mark key="^" line="0" column="25" />
+        <mark key="." line="0" column="25" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/fbmanager/src/main/resources/logback.xml" timestamp="1485729449028">
+        <mark key="[" line="10" column="10" />
+        <mark key="]" line="10" column="19" />
+        <mark key="." line="10" column="19" />
+        <mark key="^" line="10" column="19" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/datachip.html" timestamp="1528340581062">
+        <mark key="[" line="41" column="12" />
+        <mark key="]" line="41" column="17" />
+        <mark key="." line="41" column="17" />
+        <mark key="^" line="41" column="17" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/ghide/manifest.json" timestamp="1510084076901">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="25" />
+        <mark key="." line="29" column="18" />
+        <mark key="^" line="29" column="18" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/comcast-spring/.env-template" timestamp="1483595005947">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="3" />
+        <mark key="^" line="3" column="3" />
+        <mark key="." line="3" column="3" />
+      </file>
+      <file name="$USER_HOME$/dev/other-projects/learning-stuff/style2.css" timestamp="1505593724384">
+        <mark key="[" line="14" column="11" />
+        <mark key="]" line="17" column="16" />
+        <mark key="." line="17" column="16" />
+        <mark key="^" line="17" column="16" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/comcast/build.gradle" timestamp="1512610346588">
+        <mark key="[" line="28" column="15" />
+        <mark key="]" line="60" column="38" />
+        <mark key="." line="60" column="38" />
+        <mark key="^" line="60" column="38" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/findandreplace/src/findandreplace.js" timestamp="1510108563034">
+        <mark key="[" line="99" column="71" />
+        <mark key="]" line="99" column="71" />
+        <mark key="." line="99" column="71" />
+        <mark key="^" line="99" column="71" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/IngredientChecker/components/ScanIngredientListScreen.js" timestamp="1526156779129">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="46" column="5" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/oj/admin/node_modules/ra-core/lib/util/fetch.js" timestamp="1536270255410">
+        <mark key="[" line="84" column="19" />
+        <mark key="]" line="84" column="16" />
+        <mark key="^" line="84" column="16" />
+        <mark key="." line="84" column="16" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/comcast-spring/src/main/java/com/expent/comcast/domain/ComcastUser.java" timestamp="1483852477035">
+        <mark key="[" line="11" column="46" />
+        <mark key="]" line="10" column="6" />
+        <mark key="^" line="10" column="6" />
+        <mark key="." line="10" column="6" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/IngredientChecker/components/HomeScreen.js" timestamp="1526172353928">
+        <mark key="[" line="25" column="37" />
+        <mark key="]" line="25" column="38" />
+        <mark key="^" line="25" column="38" />
+        <mark key="." line="25" column="38" />
+      </file>
+      <file name="$USER_HOME$/dev/vagrant-local/www/kerrievelynharris/public_html/wp-content/themes/parallelus-frontrunner 3/templates/homepage-1.php" timestamp="1533572538448">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/ito/README.md" timestamp="1535929594109">
+        <mark key="[" line="53" column="5" />
+        <mark key="]" line="53" column="5" />
+        <mark key="." line="53" column="5" />
+        <mark key="^" line="9" column="145" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/pindle/table.html" timestamp="1498015071475">
+        <mark key="[" line="9" column="18" />
+        <mark key="]" line="9" column="18" />
+        <mark key="." line="9" column="18" />
+        <mark key="^" line="13" column="20" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/comcast/src/integration-test/kotlin/comcast/DbUtil.kt" timestamp="1484183690647">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="43" column="33" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/comcast/src/main/kotlin/comcast/api/CorsHandler.kt" timestamp="1495163982917">
+        <mark key="[" line="31" column="30" />
+        <mark key="]" line="31" column="30" />
+        <mark key="^" line="30" column="3" />
+        <mark key="." line="31" column="30" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/comcast-spring/src/main/java/comcast/api/Application.java" timestamp="1483154297010">
+        <mark key="[" line="14" column="21" />
+        <mark key="]" line="14" column="21" />
+        <mark key="." line="14" column="21" />
+        <mark key="^" line="14" column="21" />
+      </file>
+      <file name="$USER_HOME$/vagrant-local/www/kerrievelynharris/public_html/wp-content/themes/parallelus-frontrunner 3/templates/home.php" timestamp="1533503752035">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/hub/public/javascripts/signinup.jsx" timestamp="1546904794502">
+        <mark key="[" line="23" column="22" />
+        <mark key="]" line="23" column="20" />
+        <mark key="." line="23" column="20" />
+        <mark key="^" line="23" column="21" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/blank-web/default.js" timestamp="1512175320950">
+        <mark key="[" line="4" column="34" />
+        <mark key="]" line="4" column="34" />
+        <mark key="." line="4" column="34" />
+        <mark key="^" line="4" column="34" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/oj/app/api/policies/hasToken.js" timestamp="1536454848266">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="4" />
+        <mark key="^" line="1" column="4" />
+        <mark key="." line="1" column="4" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/fbbmanager/src/integration-test/kotlin/comcast/api/IntegrationTests.kt" timestamp="1485488808850">
+        <mark key="[" line="13" column="13" />
+        <mark key="]" line="13" column="27" />
+        <mark key="^" line="13" column="27" />
+        <mark key="." line="13" column="27" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/test1/.jshintrc" timestamp="1508228509834">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/comcast/src/main/resources/templates/admin/selection-game.html" timestamp="1488940124234">
+        <mark key="[" line="37" column="114" />
+        <mark key="]" line="29" column="30" />
+        <mark key="." line="29" column="30" />
+        <mark key="^" line="29" column="30" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/comcast-spring/src/main/java/comcast/data/SelectionGameRepository.java" timestamp="1483154172979">
+        <mark key="[" line="2" column="7" />
+        <mark key="]" line="2" column="14" />
+        <mark key="." line="2" column="14" />
+        <mark key="^" line="2" column="14" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/oj/app/api/hooks/blueprints/index.js" timestamp="1536877835459">
+        <mark key="[" line="3" column="18" />
+        <mark key="]" line="3" column="26" />
+        <mark key="." line="3" column="26" />
+        <mark key="^" line="3" column="26" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/guilt/src/test/spec/config.js" timestamp="1509949641097">
+        <mark key="[" line="7" column="7" />
+        <mark key="]" line="3" column="12" />
+        <mark key="^" line="3" column="12" />
+        <mark key="." line="3" column="12" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/oj/app/config/custom.js" timestamp="1536624047276">
+        <mark key="[" line="92" column="62" />
+        <mark key="]" line="92" column="62" />
+        <mark key="." line="92" column="62" />
+        <mark key="^" line="92" column="49" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/thrashbarg/src/test/java/thrashbarg/PojoSource.java" timestamp="1483048520579">
+        <mark key="[" line="8" column="16" />
+        <mark key="]" line="8" column="16" />
+        <mark key="." line="8" column="16" />
+        <mark key="^" line="10" column="34" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/popup/datachip.html" timestamp="1528404591441">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="80" column="8" />
+        <mark key="^" line="7" column="7" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/my-projects/nextsteps/styles.css" timestamp="1507563337839">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="6" column="1" />
@@ -1900,13 +2092,6 @@
         <mark key="]" line="25" column="50" />
         <mark key="^" line="25" column="50" />
         <mark key="." line="25" column="50" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/english-vocab-builder/redo" timestamp="1559347267265">
-        <mark key="'" line="109" column="2" />
-        <mark key="[" line="108" column="17" />
-        <mark key="]" line="108" column="17" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="108" column="17" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/english-vocab-builder/big-english" timestamp="1559087667083">
         <mark key="[" line="0" column="0" />
@@ -1932,30 +2117,11 @@
         <mark key="^" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/vagrant-local/www/kerrievelynharris/public_html/wp-content/themes/parallelus-frontrunner 3/templates/volunteer.php" timestamp="1532467476518">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="93" />
-        <mark key="." line="7" column="27" />
-        <mark key="^" line="7" column="27" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/guitar/index.html" timestamp="1564626728433">
-        <mark key="'" line="40" column="26" />
-        <mark key="[" line="150" column="12" />
-        <mark key="]" line="151" column="26" />
-        <mark key="^" line="151" column="26" />
-        <mark key="." line="151" column="26" />
-      </file>
       <file name="$USER_HOME$/dev/my-projects/comcast-spring/src/main/resources/application-local.yaml" timestamp="1483918834284">
         <mark key="[" line="10" column="19" />
         <mark key="]" line="10" column="21" />
         <mark key="." line="10" column="21" />
         <mark key="^" line="10" column="21" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/oj/views/pages/homepage.html" timestamp="1536108480314">
-        <mark key="[" line="0" column="12" />
-        <mark key="]" line="0" column="12" />
-        <mark key="." line="0" column="12" />
-        <mark key="^" line="0" column="13" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/english-vocab-builder/eng" timestamp="1559149952282">
         <mark key="'" line="0" column="22257" />
@@ -1966,35 +2132,20 @@
         <mark key="." line="5" column="4" />
         <mark key="^" line="5" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/comcast/src/main/resources/db/migration/V5__add_selectiontotal_triggers.sql" timestamp="1484266589964">
-        <mark key="[" line="46" column="55" />
-        <mark key="]" line="46" column="55" />
-        <mark key="." line="46" column="55" />
-        <mark key="^" line="46" column="55" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/nextsteps/public/stylesheets/github.css" timestamp="1508314476009">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="2701" />
-        <mark key="." line="0" column="2701" />
-        <mark key="^" line="0" column="2701" />
-      </file>
       <file name="$USER_HOME$/dev/my-projects/comcast-spring/src/main/java/com/expent/comcast/api/security/JwtAuthorizationToken.java" timestamp="1483856454373">
         <mark key="[" line="11" column="46" />
         <mark key="]" line="11" column="46" />
         <mark key="." line="11" column="46" />
         <mark key="^" line="23" column="20" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/kapper/src/test/kotlin/kapper/PojoRight.java" timestamp="1482614235915">
-        <mark key="[" line="18" column="21" />
-        <mark key="]" line="18" column="27" />
-        <mark key="^" line="18" column="27" />
-        <mark key="." line="18" column="27" />
-      </file>
       <file name="$USER_HOME$/dev/my-projects/comcast/src/main/resources/db/migration/V4__add_selectiongameselectiontotal.sql" timestamp="1484257551571">
         <mark key="[" line="0" column="13" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
         <mark key="^" line="4" column="22" />
+      </file>
+      <file name="$USER_HOME$/dev/reference-projects/material-theme-jetbrains/src/main/java/com/chrisrm/idea/annotators/settings/JSColorSettings.java" timestamp="1566676531095">
+        <mark key="'" line="63" column="58" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/comcast/src/main/resources/templates/admin/form-test.html" timestamp="1489092013542">
         <mark key="[" line="13" column="38" />
@@ -2007,18 +2158,6 @@
         <mark key="]" line="2" column="53" />
         <mark key="^" line="2" column="7" />
         <mark key="." line="2" column="53" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/oj/admin/src/formInputWrapper.js" timestamp="1538524028911">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="26" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/hub/app.js" timestamp="1545948569653">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="19" column="25" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/comcast-spring/.idea/compiler.xml" timestamp="1483216223826">
         <mark key="[" line="5" column="0" />
@@ -2044,30 +2183,11 @@
         <mark key="^" line="0" column="49" />
         <mark key="." line="0" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/hub/misc/rebuilddb.js" timestamp="1545851726618">
-        <mark key="[" line="5" column="41" />
-        <mark key="]" line="3" column="39" />
-        <mark key="." line="3" column="39" />
-        <mark key="^" line="8" column="34" />
-      </file>
       <file name="$USER_HOME$/dev/my-projects/fbbmanager/src/main/kotlin/fbbmanager/api/Routes.kt" timestamp="1486763306613">
         <mark key="[" line="40" column="39" />
         <mark key="]" line="40" column="39" />
         <mark key="^" line="39" column="21" />
         <mark key="." line="40" column="39" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/eng/src/default.kt" timestamp="1559001911416">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="8" />
-        <mark key="^" line="0" column="8" />
-        <mark key="." line="0" column="8" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/operationshutdown/draftroundgenerator/src/main.kts" timestamp="1552604227110">
-        <mark key="'" line="111" column="8" />
-        <mark key="[" line="54" column="13" />
-        <mark key="]" line="54" column="13" />
-        <mark key="." line="54" column="13" />
-        <mark key="^" line="26" column="15" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/example1/main.js" timestamp="1509168123906">
         <mark key="[" line="2" column="0" />
@@ -2100,29 +2220,11 @@
         <mark key="." line="29" column="31" />
         <mark key="^" line="29" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/nikbox/nikbox.js" timestamp="1522645419622">
-        <mark key="[" line="70" column="142" />
-        <mark key="]" line="70" column="142" />
-        <mark key="." line="70" column="142" />
-        <mark key="^" line="70" column="144" />
-      </file>
       <file name="$USER_HOME$/dev/my-projects/thrashbarg/build.gradle" timestamp="1496431675841">
         <mark key="[" line="5" column="31" />
         <mark key="]" line="5" column="32" />
         <mark key="." line="5" column="32" />
         <mark key="^" line="5" column="32" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/comcast-spring/src/main/resources/application-local.yaml-template" timestamp="1483559018924">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="4" column="25" />
-        <mark key="^" line="2" column="7" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/avellanas/public/test/index.html" timestamp="1526615182775">
-        <mark key="[" line="6" column="55" />
-        <mark key="]" line="6" column="63" />
-        <mark key="^" line="6" column="63" />
-        <mark key="." line="6" column="63" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/fbbmanager/README.md" timestamp="1485491092381">
         <mark key="[" line="10" column="0" />
@@ -2135,18 +2237,6 @@
         <mark key="]" line="6" column="11" />
         <mark key="^" line="6" column="11" />
         <mark key="." line="6" column="11" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/test/popup.test.js" timestamp="1529451059571">
-        <mark key="[" line="0" column="46" />
-        <mark key="]" line="0" column="46" />
-        <mark key="^" line="0" column="46" />
-        <mark key="." line="0" column="46" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/hub/logs/.gitignore" timestamp="1544236704456">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="4" column="10" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/ReactCalc/Poo.js" timestamp="1523999610210">
         <mark key="[" line="13" column="0" />
@@ -2163,18 +2253,6 @@
       <file name="/JavaScript Console" timestamp="1559443092343">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/hub/config/index.js" timestamp="1545777049304">
-        <mark key="[" line="7" column="12" />
-        <mark key="]" line="7" column="17" />
-        <mark key="." line="7" column="17" />
-        <mark key="^" line="7" column="17" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/thrashbarg/src/test/java/thrashbarg/PojoDest.java" timestamp="1483130414793">
-        <mark key="[" line="4" column="18" />
-        <mark key="]" line="4" column="19" />
-        <mark key="^" line="4" column="19" />
-        <mark key="." line="4" column="19" />
-      </file>
       <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/popup/popup.js" timestamp="1530151182715">
         <mark key="[" line="126" column="8" />
         <mark key="]" line="126" column="8" />
@@ -2187,35 +2265,17 @@
         <mark key="." line="8" column="44" />
         <mark key="^" line="8" column="44" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/hub/webpack.prod.js" timestamp="1545778242286">
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="0" column="26" />
-        <mark key="." line="0" column="26" />
-        <mark key="^" line="0" column="26" />
-      </file>
       <file name="$USER_HOME$/dev/my-projects/fbmanager/src/main/kotlin/fbbmanager/api/Controller.kt" timestamp="1486166723891">
         <mark key="[" line="9" column="59" />
         <mark key="]" line="9" column="59" />
         <mark key="." line="9" column="59" />
         <mark key="^" line="9" column="63" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/comcast/src/main/resources/db/migration/V4__add_selectiongameselectiontotals.sql" timestamp="1484027333794">
-        <mark key="[" line="0" column="22" />
-        <mark key="]" line="0" column="42" />
-        <mark key="." line="0" column="42" />
-        <mark key="^" line="0" column="42" />
-      </file>
       <file name="$USER_HOME$/dev/my-projects/comcast/src/main/kotlin/comcast/App.kt" timestamp="1485134685373">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
         <mark key="^" line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/ghide/persistence.js" timestamp="1504263708868">
-        <mark key="[" line="18" column="31" />
-        <mark key="]" line="18" column="31" />
-        <mark key="." line="18" column="31" />
-        <mark key="^" line="18" column="31" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/thrashbarg/src/test/java/thrashbarg/Extensions.kt" timestamp="1482805460727">
         <mark key="[" line="4" column="0" />
@@ -2229,59 +2289,11 @@
         <mark key="^" line="6" column="124" />
         <mark key="." line="6" column="124" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/comcast-spring/src/main/java/com/expent/comcast/data/UserRepository.java" timestamp="1483653200375">
-        <mark key="[" line="5" column="17" />
-        <mark key="]" line="5" column="67" />
-        <mark key="." line="5" column="67" />
-        <mark key="^" line="5" column="64" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/hub/nodemon.json.js" timestamp="1544925352374">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="6" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/bookmark.js" timestamp="1520873815338">
-        <mark key="[" line="0" column="19" />
-        <mark key="]" line="0" column="19" />
-        <mark key="." line="0" column="19" />
-        <mark key="^" line="0" column="19" />
-      </file>
       <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/hub/webpack.common.js" timestamp="1545849548465">
         <mark key="[" line="32" column="23" />
         <mark key="]" line="32" column="28" />
         <mark key="." line="32" column="28" />
         <mark key="^" line="32" column="28" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/comcast-spring/src/main/java/com/expent/comcast/api/security/JwtService.java" timestamp="1483947324241">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="55" />
-        <mark key="." line="30" column="9" />
-        <mark key="^" line="30" column="9" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/comcast-spring/src/integration-test/java/comcast/api/ApplicationStepdefs.java" timestamp="1483075693962">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="39" column="3" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/google-photos-helper/manifest.json" timestamp="1516758143696">
-        <mark key="[" line="11" column="52" />
-        <mark key="]" line="11" column="52" />
-        <mark key="^" line="11" column="53" />
-        <mark key="." line="11" column="52" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/fbbmanager/src/main/kotlin/fbbmanager/api/Controller.kt" timestamp="1486771550308">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="86" />
-        <mark key="." line="9" column="66" />
-        <mark key="^" line="9" column="66" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/IngredientChecker/components/AddIngredientsScreen.js" timestamp="1524519272999">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="13" column="34" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/operationshutdown/draftroundgenerator/previousyeardraft-2017.tsv" timestamp="1548968024875">
         <mark key="'" line="17" column="130" />
@@ -2290,16 +2302,8 @@
         <mark key="." line="3" column="52" />
         <mark key="^" line="3" column="52" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/hub/winston.js" timestamp="1545778346826">
-        <mark key="[" line="28" column="19" />
-        <mark key="]" line="28" column="22" />
-        <mark key="^" line="28" column="22" />
-        <mark key="." line="28" column="22" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="248" filename="$USER_HOME$/dev/my-projects/operationshutdown/draftroundgenerator/previousyeardraft-2017.tsv" />
-      <jump line="9" column="236" filename="$USER_HOME$/dev/my-projects/operationshutdown/draftroundgenerator/previousyeardraft-2017.tsv" />
       <jump line="10" column="0" filename="$USER_HOME$/dev/my-projects/operationshutdown/draftroundgenerator/previousyeardraft-2017.tsv" />
       <jump line="12" column="68" filename="$USER_HOME$/dev/my-projects/operationshutdown/draftroundgenerator/previousyeardraft-2017.tsv" />
       <jump line="17" column="130" filename="$USER_HOME$/dev/my-projects/operationshutdown/draftroundgenerator/previousyeardraft-2017.tsv" />
@@ -2398,6 +2402,8 @@
       <jump line="133" column="0" filename="$USER_HOME$/dev/my-projects/yngwie/js/default.js" />
       <jump line="40" column="10" filename="$USER_HOME$/dev/my-projects/yngwie/js/default.js" />
       <jump line="142" column="11" filename="$USER_HOME$/dev/my-projects/yngwie/js/default.js" />
+      <jump line="63" column="58" filename="$USER_HOME$/dev/reference-projects/material-theme-jetbrains/src/main/java/com/chrisrm/idea/annotators/settings/JSColorSettings.java" />
+      <jump line="54" column="66" filename="$USER_HOME$/dev/reference-projects/material-theme-jetbrains/src/main/java/com/chrisrm/idea/annotators/JSAnnotator.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
