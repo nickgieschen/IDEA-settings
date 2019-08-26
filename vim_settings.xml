@@ -415,6 +415,11 @@
         <mark key="." line="35" column="44" />
         <mark key="^" line="35" column="44" />
       </file>
+      <file name="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/io/seriouscybernetics/MFAnnotator.java" timestamp="1566861635767">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/my-projects/comcast/src/main/resources/db/migration/V1__baseline.sql" timestamp="1486772074069">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="16" column="1" />
@@ -432,6 +437,12 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
         <mark key="^" line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/SyntaxHighlighter.java" timestamp="1566861082839">
+        <mark key="[" line="6" column="13" />
+        <mark key="]" line="6" column="13" />
+        <mark key="." line="6" column="13" />
+        <mark key="^" line="6" column="21" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/comcast-spring/src/main/java/comcast/api/AppController.java" timestamp="1483151963609">
         <mark key="[" line="5" column="0" />
@@ -547,6 +558,11 @@
         <mark key="]" line="0" column="27" />
         <mark key="^" line="2" column="18" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/reference-projects/material-theme-jetbrains/src/main/java/com/chrisrm/idea/annotators/JavaAnnotator.java" timestamp="1566861549314">
+        <mark key="'" line="36" column="49" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="34" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/fbmanager/src/main/resources/templates/keepers.html" timestamp="1486164396679">
         <mark key="[" line="0" column="0" />
@@ -782,6 +798,12 @@
         <mark key="." line="13" column="27" />
         <mark key="^" line="13" column="27" />
       </file>
+      <file name="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/MFAnnotator.java" timestamp="1566861136020">
+        <mark key="[" line="0" column="36" />
+        <mark key="]" line="0" column="36" />
+        <mark key="^" line="0" column="23" />
+        <mark key="." line="0" column="36" />
+      </file>
       <file name="$USER_HOME$/dev/my-projects/oj/api/controllers/enroll-user-enroll.js" timestamp="1536017021807">
         <mark key="[" line="12" column="22" />
         <mark key="]" line="12" column="22" />
@@ -884,6 +906,7 @@
         <mark key="." line="23" column="188" />
         <mark key="^" line="23" column="188" />
       </file>
+      <file name="$USER_HOME$/dev/reference-projects/material-theme-jetbrains/src/main/resources/META-INF/plugin.xml" timestamp="1566861420706" />
       <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/hub/misc/todo" timestamp="1546919605773">
         <mark key="[" line="6" column="35" />
         <mark key="]" line="6" column="34" />
@@ -898,6 +921,12 @@
       </file>
       <file name="$USER_HOME$/dev/my-projects/yngwie/lib/js/raphael.js" timestamp="1564854675640">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/minimal-funk/src/test/java/io/seriouscybernetics/MFAnnotatorTest.java" timestamp="1566862397044">
+        <mark key="[" line="16" column="8" />
+        <mark key="]" line="16" column="8" />
+        <mark key="^" line="12" column="24" />
+        <mark key="." line="16" column="8" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/comcast/src/main/resources/logback.xml" timestamp="1512606862751">
         <mark key="[" line="21" column="23" />
@@ -1317,11 +1346,11 @@
         <mark key="." line="3" column="2" />
         <mark key="^" line="3" column="2" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/minimal-funk/src/main/resources/META-INF/plugin.xml" timestamp="1566778112451">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="25" column="15" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/dev/my-projects/minimal-funk/src/main/resources/META-INF/plugin.xml" timestamp="1566861362044">
+        <mark key="[" line="17" column="56" />
+        <mark key="]" line="17" column="66" />
+        <mark key="." line="17" column="66" />
+        <mark key="^" line="17" column="66" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/avellanas/src/browser/content.js" timestamp="1526615115123">
         <mark key="[" line="5" column="36" />
@@ -2282,11 +2311,23 @@
         <mark key="." line="9" column="59" />
         <mark key="^" line="9" column="63" />
       </file>
+      <file name="$USER_HOME$/dev/my-projects/minimal-funk/src/test-data/AnnotatorTestData.java" timestamp="1566862366118">
+        <mark key="[" line="5" column="9" />
+        <mark key="]" line="5" column="13" />
+        <mark key="^" line="5" column="13" />
+        <mark key="." line="5" column="13" />
+      </file>
       <file name="$USER_HOME$/dev/my-projects/comcast/src/main/kotlin/comcast/App.kt" timestamp="1485134685373">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
         <mark key="^" line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/Annotator.java" timestamp="1566861126532">
+        <mark key="[" line="1" column="13" />
+        <mark key="]" line="1" column="13" />
+        <mark key="^" line="1" column="12" />
+        <mark key="." line="1" column="13" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/thrashbarg/src/test/java/thrashbarg/Extensions.kt" timestamp="1482805460727">
         <mark key="[" line="4" column="0" />
@@ -2315,7 +2356,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="0" filename="$USER_HOME$/dev/my-projects/operationshutdown/draftroundgenerator/previousyeardraft-2017.tsv" />
       <jump line="12" column="68" filename="$USER_HOME$/dev/my-projects/operationshutdown/draftroundgenerator/previousyeardraft-2017.tsv" />
       <jump line="17" column="130" filename="$USER_HOME$/dev/my-projects/operationshutdown/draftroundgenerator/previousyeardraft-2017.tsv" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/my-projects/operationshutdown/draftroundgenerator/previousyeardraft.tsv" />
@@ -2415,6 +2455,7 @@
       <jump line="142" column="11" filename="$USER_HOME$/dev/my-projects/yngwie/js/default.js" />
       <jump line="63" column="58" filename="$USER_HOME$/dev/reference-projects/material-theme-jetbrains/src/main/java/com/chrisrm/idea/annotators/settings/JSColorSettings.java" />
       <jump line="54" column="66" filename="$USER_HOME$/dev/reference-projects/material-theme-jetbrains/src/main/java/com/chrisrm/idea/annotators/JSAnnotator.java" />
+      <jump line="36" column="49" filename="$USER_HOME$/dev/reference-projects/material-theme-jetbrains/src/main/java/com/chrisrm/idea/annotators/JavaAnnotator.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2454,7 +2495,7 @@
         <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>Play</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>runner</text>
@@ -2472,28 +2513,28 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCJ0b2dnbGVQbGF5QnV0dG9uIikuaW5uZXJUZXh0ID0gIlBsYXkiCg==</text>
+        <text encoding="base64">ICAgIFRleHRBdHRyaWJ1dGVzS2V5IGtpbmQgPSBudWxsOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigic2ltcGxlOjxlcnJvciBkZXNjcj0iVW5yZXNvbHZlZCBwcm9wZXJ0eSI+d2Vic2l0IjwvZXJyb3I+KTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIEhlbGxvQWN0aW9uIHsKfQo=</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigic2ltcGxlOmtleSB3aXRoIHNwYWNlcyIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB0ZXN0U3RhdGUgPSB0ZXN0U3RhdGVzLnBsYXlpbmc7Cg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigic2ltcGxlOndlYnNpdGUiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygic3RhcnRpbmciKTsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0tIEFkZCB5b3VyIGV4dGVuc2lvbnMgaGVyZSAtLT4K</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -2504,10 +2545,10 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDwhLS0gbWFuZGF0b3J5IHNjcmlwdCBpbmNsdWRlcyBmb3IganRhYiAtLT4K</text>
+        <text encoding="base64">ICAgIDxleHRlbnNpb25zIGRlZmF1bHRFeHRlbnNpb25Ocz0iY29tLmludGVsbGlqIj4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJsaWIvanMvanF1ZXJ5LmpzIiB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPjwvc2NyaXB0PgogICAgPHNjcmlwdCBzcmM9ImxpYi9qcy9yYXBoYWVsLmpzIiB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPjwvc2NyaXB0PgogICAgPHNjcmlwdCBzcmM9ImxpYi9qcy9qdGFiLmpzIiB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPjwvc2NyaXB0PgogICAgPHNjcmlwdCBzcmM9ImpzL2RlZmF1bHQuanMiPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgIDxhbm5vdGF0b3JzPgogICAgICAgIAogICAgPC9hbm5vdGF0b3JzPiAgICAK</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -2528,7 +2569,7 @@
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDwvc3R5bGU+Cg==</text>
+        <text encoding="base64">ICAgIDxhbm5vdGF0b3IgbGFuZ3VhZ2U9IkpBVkEiIGltcGxlbWVudGF0aW9uQ2xhc3M9ImNvbS5zaW1wbGVwbHVnaW4uU2ltcGxlQW5ub3RhdG9yIi8+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
