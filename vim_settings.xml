@@ -417,11 +417,10 @@
         <mark key="." line="35" column="44" />
         <mark key="^" line="35" column="44" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/io/seriouscybernetics/MFAnnotator.java" timestamp="1566864523222">
-        <mark key="[" line="29" column="61" />
-        <mark key="]" line="29" column="66" />
-        <mark key="^" line="29" column="66" />
-        <mark key="." line="29" column="66" />
+      <file name="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/io/seriouscybernetics/MFAnnotator.java" timestamp="1566867885720">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/comcast/src/main/resources/db/migration/V1__baseline.sql" timestamp="1486772074069">
         <mark key="[" line="12" column="0" />
@@ -2506,25 +2505,25 @@
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFRleHRBdHRyaWJ1dGVzS2V5IENMQVNTX0RFQ0xBUkFUSU9OID0gT2JqZWN0VXRpbHMubm90TnVsbChUZXh0QXR0cmlidXRlc0tleS5maW5kKCJKUy5LRVlXT1JEIiksCiAgICAgICAgICAgIERlZmF1bHRMYW5ndWFnZUhpZ2hsaWdodGVyQ29sb3JzLkNMQVNTX05BTUUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFRleHRBdHRyaWJ1dGVzS2V5IE1FVEhPRF9ERUNMQVJBVElPTiA9IE9iamVjdFV0aWxzLm5vdE51bGwoVGV4dEF0dHJpYnV0ZXNLZXkuZmluZCgiSkFWQS5NRVRIT0RfREVDTEFSQVRJT04iKSwKICAgICAgICAgICAgRGVmYXVsdExhbmd1YWdlSGlnaGxpZ2h0ZXJDb2xvcnMuSU5TVEFOQ0VfTUVUSE9EKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmluYWwgQW5ub3RhdGlvbiBhbm5vdGF0aW9uID0gOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZWxlbWVudCBpbnN0YW5jZW9mIFBzaUlkZW50aWZpZXIgJiYgZWxlbWVudC5nZXRQYXJlbnQoKSBpbnN0YW5jZW9mIE1ldGhvZEVsZW1lbnQpIHsKICAgICAgICAgICAgZ2V0QW5ub3RhdGlvbihlbGVtZW50LCBob2xkZXIpLnNldFRleHRBdHRyaWJ1dGVzKE1FVEhPRF9ERUNMQVJBVElPTik7CiAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBUZXh0UmFuZ2UgdGV4dFJhbmdlID0gZWxlbWVudC5nZXRUZXh0UmFuZ2UoKTsKICAgICAgICBmaW5hbCBUZXh0UmFuZ2UgcmFuZ2UgPSBuZXcgVGV4dFJhbmdlKHRleHRSYW5nZS5nZXRTdGFydE9mZnNldCgpLCB0ZXh0UmFuZ2UuZ2V0RW5kT2Zmc2V0KCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgaSA9IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmluYWwgQW5ub3RhdGlvbiBhbm5vdGF0aW9uID0gOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICBhbm5vdGF0aW9uLiAK</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBUZXh0UmFuZ2UgdGV4dFJhbmdlID0gZWxlbWVudC5nZXRUZXh0UmFuZ2UoKTsKICAgICAgICBmaW5hbCBUZXh0UmFuZ2UgcmFuZ2UgPSBuZXcgVGV4dFJhbmdlKHRleHRSYW5nZS5nZXRTdGFydE9mZnNldCgpLCB0ZXh0UmFuZ2UuZ2V0RW5kT2Zmc2V0KCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigic2ltcGxlOjxlcnJvciBkZXNjcj0iVW5yZXNvbHZlZCBwcm9wZXJ0eSI+d2Vic2l0IjwvZXJyb3I+KTsK</text>
+        <text encoding="base64">ICAgICAgICBpbnQgaSA9IDA7Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -2535,10 +2534,10 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigic2ltcGxlOmtleSB3aXRoIHNwYWNlcyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICBhbm5vdGF0aW9uLiAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigic2ltcGxlOndlYnNpdGUiKTsK</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigic2ltcGxlOjxlcnJvciBkZXNjcj0iVW5yZXNvbHZlZCBwcm9wZXJ0eSI+d2Vic2l0IjwvZXJyb3I+KTsK</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -2559,7 +2558,7 @@
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigic2ltcGxlOmtleSB3aXRoIHNwYWNlcyIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
