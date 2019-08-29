@@ -223,6 +223,12 @@
         <mark key="^" line="19" column="7" />
         <mark key="." line="2" column="13" />
       </file>
+      <file name="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/io/seriouscybernetics/JavaScriptAnnotator.java" timestamp="1567117714273">
+        <mark key="[" line="15" column="159" />
+        <mark key="]" line="15" column="178" />
+        <mark key="." line="15" column="178" />
+        <mark key="^" line="15" column="178" />
+      </file>
       <file name="$USER_HOME$/dev/my-projects/ito/views/error.swig" timestamp="1536009164414">
         <mark key="[" line="2" column="4" />
         <mark key="]" line="2" column="10" />
@@ -308,8 +314,10 @@
         <mark key="^" line="5" column="34" />
         <mark key="." line="5" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/io/seriouscybernetics/JavaAnnotator.java" timestamp="1567112020949">
-        <mark key="]" line="15" column="157" />
+      <file name="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/io/seriouscybernetics/JavaAnnotator.java" timestamp="1567117663530">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="30" column="0" />
         <mark key="^" line="15" column="157" />
         <mark key="." line="15" column="157" />
       </file>
@@ -2374,6 +2382,12 @@
         <mark key="." line="32" column="28" />
         <mark key="^" line="32" column="28" />
       </file>
+      <file name="$USER_HOME$/dev/my-projects/minimal-funk/build.gradle" timestamp="1567117611189">
+        <mark key="[" line="15" column="4" />
+        <mark key="]" line="15" column="73" />
+        <mark key="." line="15" column="4" />
+        <mark key="^" line="15" column="3" />
+      </file>
       <file name="$USER_HOME$/dev/my-projects/operationshutdown/draftroundgenerator/previousyeardraft-2017.tsv" timestamp="1548968024875">
         <mark key="'" line="17" column="130" />
         <mark key="[" line="3" column="48" />
@@ -2389,8 +2403,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="22" filename="$USER_HOME$/dev/my-projects/english-vocab-builder/index.js" />
-      <jump line="170" column="18" filename="$USER_HOME$/dev/my-projects/english-vocab-builder/index.js" />
       <jump line="40" column="1" filename="$USER_HOME$/dev/my-projects/english-vocab-builder/index.js" />
       <jump line="186" column="8" filename="$USER_HOME$/dev/my-projects/english-vocab-builder/index.js" />
       <jump line="25" column="0" filename="$USER_HOME$/dev/my-projects/english-vocab-builder/index.js" />
@@ -2489,6 +2501,8 @@
       <jump line="165" column="12" filename="$USER_HOME$/dev/reference-projects/material-theme-jetbrains/src/main/java/com/chrisrm/idea/annotators/settings/JavaColorSettings.java" />
       <jump line="24" column="59" filename="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/io/seriouscybernetics/JavaColorsPage.java" />
       <jump line="29" column="79" filename="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/io/seriouscybernetics/JavaColorsPage.java" />
+      <jump line="15" column="147" filename="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/io/seriouscybernetics/JavaAnnotator.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/io/seriouscybernetics/JavaAnnotator.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2528,7 +2542,7 @@
         <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>CLASS_NAME</text>
       </register>
       <register name="/" type="4">
         <text>runner</text>
@@ -2545,29 +2559,29 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBOb25ObHMgZmluYWwgTWFwPFN0cmluZywgVGV4dEF0dHJpYnV0ZXNLZXk+IGRlc2NyaXB0b3JzID0gbmV3IFRIYXNoTWFwPD4oKTsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">cGFja2FnZSBpby5zZXJpb3VzY3liZXJuZXRpY3M7CgppbXBvcnQgY29tLmludGVsbGlqLmxhbmcuYW5ub3RhdGlvbi5Bbm5vdGF0aW9uOwppbXBvcnQgY29tLmludGVsbGlqLmxhbmcuYW5ub3RhdGlvbi5Bbm5vdGF0aW9uSG9sZGVyOwppbXBvcnQgY29tLmludGVsbGlqLmxhbmcuYW5ub3RhdGlvbi5Bbm5vdGF0b3I7CmltcG9ydCBjb20uaW50ZWxsaWoubGFuZy5hbm5vdGF0aW9uLkhpZ2hsaWdodFNldmVyaXR5OwppbXBvcnQgY29tLmludGVsbGlqLm9wZW5hcGkuZWRpdG9yLkRlZmF1bHRMYW5ndWFnZUhpZ2hsaWdodGVyQ29sb3JzOwppbXBvcnQgY29tLmludGVsbGlqLm9wZW5hcGkuZWRpdG9yLmNvbG9ycy5UZXh0QXR0cmlidXRlc0tleTsKaW1wb3J0IGNvbS5pbnRlbGxpai5vcGVuYXBpLnV0aWwuVGV4dFJhbmdlOwppbXBvcnQgY29tLmludGVsbGlqLnBzaS5Qc2lFbGVtZW50OwppbXBvcnQgY29tLmludGVsbGlqLnBzaS5Qc2lLZXl3b3JkOwppbXBvcnQgb3JnLmpldGJyYWlucy5hbm5vdGF0aW9ucy5Ob3ROdWxsOwoKcHVibGljIGNsYXNzIEphdmFBbm5vdGF0b3IgaW1wbGVtZW50cyBBbm5vdGF0b3IgewoKICAgIHN0YXRpYyBmaW5hbCBUZXh0QXR0cmlidXRlc0tleSBDTEFTU19ERUNMQVJBVElPTiA9IFRleHRBdHRyaWJ1dGVzS2V5LmNyZWF0ZVRleHRBdHRyaWJ1dGVzS2V5KCJKQVZBLkNsQVNTX0RFQ0xBUkFUSU9OIiwgRGVmYXVsdExhbmd1YWdlSGlnaGxpZ2h0ZXJDb2xvcnMuQ0xBU1NfTkFNRSk7CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCBhbm5vdGF0ZShATm90TnVsbCBQc2lFbGVtZW50IGVsZW1lbnQsIEBOb3ROdWxsIEFubm90YXRpb25Ib2xkZXIgaG9sZGVyKSB7CiAgICAgICAgaWYgKGVsZW1lbnQgaW5zdGFuY2VvZiBQc2lLZXl3b3JkICYmIGVsZW1lbnQuZ2V0VGV4dCgpLmVxdWFscygiY2xhc3MiKSl7CiAgICAgICAgICAgIFBzaUVsZW1lbnQgY2xhc3NOYW1lRWxlbWVudCA9IGVsZW1lbnQuZ2V0TmV4dFNpYmxpbmcoKS5nZXROZXh0U2libGluZygpOwogICAgICAgICAgICBnZXRBbm5vdGF0aW9uKGNsYXNzTmFtZUVsZW1lbnQsIGhvbGRlcikuc2V0VGV4dEF0dHJpYnV0ZXMoQ0xBU1NfREVDTEFSQVRJT04pOwogICAgICAgIH0KICAgIH0KCiAgICBwcml2YXRlIEFubm90YXRpb24gZ2V0QW5ub3RhdGlvbihATm90TnVsbCBQc2lFbGVtZW50IGVsZW1lbnQsIEBOb3ROdWxsIEFubm90YXRpb25Ib2xkZXIgaG9sZGVyKSB7CiAgICAgICAgZmluYWwgVGV4dFJhbmdlIHRleHRSYW5nZSA9IGVsZW1lbnQuZ2V0VGV4dFJhbmdlKCk7CiAgICAgICAgZmluYWwgVGV4dFJhbmdlIHJhbmdlID0gbmV3IFRleHRSYW5nZSh0ZXh0UmFuZ2UuZ2V0U3RhcnRPZmZzZXQoKSwgdGV4dFJhbmdlLmdldEVuZE9mZnNldCgpKTsKICAgICAgICByZXR1cm4gaG9sZGVyLmNyZWF0ZUFubm90YXRpb24oSGlnaGxpZ2h0U2V2ZXJpdHkuSU5GT1JNQVRJT04sIHJhbmdlLCBudWxsKTsKICAgIH0KfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cGFja2FnZSBpby5zZXJpb3VzY3liZXJuZXRpY3M7CgpwdWJsaWMgY2xhc3MgSmF2YVNjcmlwdEFubm90YXRvciB7Cn0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGlmIChlbGVtZW50IGluc3RhbmNlb2YgUHNpSWRlbnRpZmllcikgewovLyAgICAgICAgICAgIFBzaUVsZW1lbnQgcGFyZW50ID0gZWxlbWVudC5nZXRQYXJlbnQoKTsKLy8gICAgICAgICAgICBpZiAocGFyZW50IGluc3RhbmNlb2YgUHNpQ2xhc3MpCi8vICAgICAgICAgICAgICAgIGdldEFubm90YXRpb24oZWxlbWVudCwgaG9sZGVyKS5zZXRUZXh0QXR0cmlidXRlcyhDTEFTU19ERUNMQVJBVElPTik7Ci8vICAgICAgICB9Cg==</text>
+        <text encoding="base64">YnVpbGRzY3JpcHQgewogICAgcmVwb3NpdG9yaWVzIHsKICAgICAgICBtYXZlbkNlbnRyYWwoKQogICAgfQogICAgZGVwZW5kZW5jaWVzIHsKICAgICAgICBjbGFzc3BhdGggIm9yZy5qZXRicmFpbnMua290bGluOmtvdGxpbi1ncmFkbGUtcGx1Z2luOiRrb3RsaW5fdmVyc2lvbiIKICAgIH0KfQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBOdWxsYWJsZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Owo=</text>
+        <text encoding="base64">Ly8gICAgICAgIGlmIChlbGVtZW50IGluc3RhbmNlb2YgUHNpSWRlbnRpZmllcikgewovLyAgICAgICAgICAgIFBzaUVsZW1lbnQgcGFyZW50ID0gZWxlbWVudC5nZXRQYXJlbnQoKTsKLy8gICAgICAgICAgICBpZiAocGFyZW50IGluc3RhbmNlb2YgUHNpQ2xhc3MpCi8vICAgICAgICAgICAgICAgIGdldEFubm90YXRpb24oZWxlbWVudCwgaG9sZGVyKS5zZXRUZXh0QXR0cmlidXRlcyhDTEFTU19ERUNMQVJBVElPTik7Ci8vICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3Cg==</text>
+        <text encoding="base64">ICAgIEBOdWxsYWJsZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vbmV3IEF0dHJpYnV0ZXNEZXNjcmlwdG9yKE1hdGVyaWFsVGhlbWVCdW5kbGUubWVzc2FnZSgia2V5d29yZHMucHJpdmF0ZS5wdWJsaWMucHJvdGVjdGVkIiksIE1PRElGSUVSKSwK</text>
+        <text encoding="base64">ICAgICAgICB9Owo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -2578,10 +2592,10 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZWxlbWVudCBpbnN0YW5jZW9mIENsYXNzRWxlbWVudCkgewogICAgICAgICAgICBpbnQgaSA9IDA7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vbmV3IEF0dHJpYnV0ZXNEZXNjcmlwdG9yKE1hdGVyaWFsVGhlbWVCdW5kbGUubWVzc2FnZSgia2V5d29yZHMucHJpdmF0ZS5wdWJsaWMucHJvdGVjdGVkIiksIE1PRElGSUVSKSwK</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -2602,7 +2616,7 @@
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5pbnRlbGxpai5wc2kuaW1wbC5zb3VyY2UudHJlZS5qYXZhLkNsYXNzRWxlbWVudDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
