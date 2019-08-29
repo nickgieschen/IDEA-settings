@@ -159,9 +159,9 @@
         <mark key="." line="2" column="17" />
         <mark key="^" line="2" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/reference-projects/material-theme-jetbrains/src/main/java/com/chrisrm/idea/annotators/BaseAnnotator.java" timestamp="1566864127248">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="59" column="98" />
+      <file name="$USER_HOME$/dev/reference-projects/material-theme-jetbrains/src/main/java/com/chrisrm/idea/annotators/BaseAnnotator.java" timestamp="1567107508073">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="41" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/opshut-debuts/src/main/resources/application.conf" timestamp="1524764551430">
         <mark key="[" line="5" column="19" />
@@ -423,11 +423,11 @@
         <mark key="." line="35" column="44" />
         <mark key="^" line="35" column="44" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/io/seriouscybernetics/MFAnnotator.java" timestamp="1566962335193">
-        <mark key="[" line="17" column="4" />
-        <mark key="]" line="17" column="9" />
-        <mark key="." line="17" column="9" />
-        <mark key="^" line="17" column="9" />
+      <file name="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/io/seriouscybernetics/MFAnnotator.java" timestamp="1567107601295">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="16" column="134" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/comcast/src/main/resources/db/migration/V1__baseline.sql" timestamp="1486772074069">
         <mark key="[" line="12" column="0" />
@@ -525,6 +525,9 @@
         <mark key="." line="7" column="2" />
         <mark key="^" line="7" column="2" />
       </file>
+      <file name="/Dummy.txt" timestamp="1567106944805">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/my-projects/comcast-spring/src/integration-test/java/com/expent/comcast/api/ControllerIntegrationTestBase.java" timestamp="1483245550823">
         <mark key="[" line="11" column="38" />
         <mark key="]" line="11" column="13" />
@@ -568,10 +571,10 @@
         <mark key="^" line="2" column="18" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/reference-projects/material-theme-jetbrains/src/main/java/com/chrisrm/idea/annotators/JavaAnnotator.java" timestamp="1566962375005">
-        <mark key="'" line="36" column="49" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="34" />
+      <file name="$USER_HOME$/dev/reference-projects/material-theme-jetbrains/src/main/java/com/chrisrm/idea/annotators/JavaAnnotator.java" timestamp="1567107425550">
+        <mark key="'" line="36" column="46" />
+        <mark key="[" line="40" column="51" />
+        <mark key="]" line="40" column="123" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/fbmanager/src/main/resources/templates/keepers.html" timestamp="1486164396679">
         <mark key="[" line="0" column="0" />
@@ -1340,11 +1343,11 @@
         <mark key="." line="3" column="2" />
         <mark key="^" line="3" column="2" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/minimal-funk/src/main/resources/META-INF/plugin.xml" timestamp="1566861362044">
-        <mark key="[" line="17" column="56" />
-        <mark key="]" line="17" column="66" />
-        <mark key="." line="17" column="66" />
-        <mark key="^" line="17" column="66" />
+      <file name="$USER_HOME$/dev/my-projects/minimal-funk/src/main/resources/META-INF/plugin.xml" timestamp="1567107769086">
+        <mark key="[" line="3" column="86" />
+        <mark key="]" line="3" column="103" />
+        <mark key="." line="3" column="103" />
+        <mark key="^" line="3" column="103" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/avellanas/src/browser/content.js" timestamp="1526615115123">
         <mark key="[" line="5" column="36" />
@@ -1613,17 +1616,17 @@
         <mark key="^" line="7" column="56" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/reference-projects/material-theme-jetbrains/src/main/java/com/chrisrm/idea/annotators/settings/JavaColorSettings.java" timestamp="1566962408078">
-        <mark key="'" line="51" column="61" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="83" />
+      <file name="$USER_HOME$/dev/reference-projects/material-theme-jetbrains/src/main/java/com/chrisrm/idea/annotators/settings/JavaColorSettings.java" timestamp="1567106658371">
+        <mark key="'" line="165" column="41" />
+        <mark key="[" line="158" column="0" />
+        <mark key="]" line="158" column="35" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/io/seriouscybernetics/JavaColorsPage.java" timestamp="1567102408220">
-        <mark key="'" line="20" column="51" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="^" line="32" column="36" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/io/seriouscybernetics/JavaColorsPage.java" timestamp="1567106895433">
+        <mark key="'" line="18" column="51" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="18" column="22" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/content.js" timestamp="1527632641872">
         <mark key="[" line="1" column="4" />
@@ -2370,9 +2373,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="8" filename="$USER_HOME$/dev/my-projects/operationshutdown/draftroundgenerator/src/main.kts" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/my-projects/english-vocab-builder/big-english" />
-      <jump line="10" column="0" filename="$USER_HOME$/dev/my-projects/english-vocab-builder/big-english" />
       <jump line="31" column="4" filename="$USER_HOME$/dev/my-projects/english-vocab-builder/index.js" />
       <jump line="0" column="22257" filename="$USER_HOME$/dev/my-projects/english-vocab-builder/eng" />
       <jump line="83" column="22" filename="$USER_HOME$/dev/my-projects/english-vocab-builder/index.js" />
@@ -2456,7 +2456,6 @@
       <jump line="142" column="11" filename="$USER_HOME$/dev/my-projects/yngwie/js/default.js" />
       <jump line="63" column="58" filename="$USER_HOME$/dev/reference-projects/material-theme-jetbrains/src/main/java/com/chrisrm/idea/annotators/settings/JSColorSettings.java" />
       <jump line="54" column="66" filename="$USER_HOME$/dev/reference-projects/material-theme-jetbrains/src/main/java/com/chrisrm/idea/annotators/JSAnnotator.java" />
-      <jump line="36" column="49" filename="$USER_HOME$/dev/reference-projects/material-theme-jetbrains/src/main/java/com/chrisrm/idea/annotators/JavaAnnotator.java" />
       <jump line="29" column="52" filename="$USER_HOME$/dev/reference-projects/material-theme-jetbrains/src/main/java/com/chrisrm/idea/config/MTFileColorsPage.java" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/io/seriouscybernetics/JavaColorsPage.java" />
       <jump line="28" column="34" filename="$USER_HOME$/dev/reference-projects/material-theme-jetbrains/src/main/java/com/chrisrm/idea/config/MTFileColorsPage.java" />
@@ -2470,6 +2469,10 @@
       <jump line="32" column="30" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/LATEST-EAP-SNAPSHOT/522f6926ba0bbd094b63c8957e5a02dc4f77e5ac/ideaIC-LATEST-EAP-SNAPSHOT-sources.jar!/com/intellij/AbstractBundle.java" />
       <jump line="0" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/LATEST-EAP-SNAPSHOT/522f6926ba0bbd094b63c8957e5a02dc4f77e5ac/ideaIC-LATEST-EAP-SNAPSHOT-sources.jar!/com/intellij/AbstractBundle.java" />
       <jump line="20" column="51" filename="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/io/seriouscybernetics/JavaColorsPage.java" />
+      <jump line="70" column="42" filename="$USER_HOME$/dev/reference-projects/material-theme-jetbrains/src/main/java/com/chrisrm/idea/annotators/settings/JavaColorSettings.java" />
+      <jump line="165" column="41" filename="$USER_HOME$/dev/reference-projects/material-theme-jetbrains/src/main/java/com/chrisrm/idea/annotators/settings/JavaColorSettings.java" />
+      <jump line="40" column="51" filename="$USER_HOME$/dev/reference-projects/material-theme-jetbrains/src/main/java/com/chrisrm/idea/annotators/JavaAnnotator.java" />
+      <jump line="36" column="46" filename="$USER_HOME$/dev/reference-projects/material-theme-jetbrains/src/main/java/com/chrisrm/idea/annotators/JavaAnnotator.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2509,7 +2512,7 @@
         <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>MaterialThemeBundle.message(&quot;keywords.this.super&quot;)</text>
+        <text>YourCompany</text>
       </register>
       <register name="/" type="4">
         <text>runner</text>
@@ -2527,28 +2530,28 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBUZXh0QXR0cmlidXRlc0tleSBKQVZBX0tFWVdPUkQgPSBKYXZhQW5ub3RhdG9yLkpBVkFfS0VZV09SRDsK</text>
+        <text encoding="base64">ICAgICAgYW5ub3RhdGlvbi5zZXRUZXh0QXR0cmlidXRlcyhraW5kKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBKQVZBX0RFU0NSSVBUT1JTLnB1dEFsbChjcmVhdGVBZGRpdGlvbmFsSGxBdHRycygpKTsK</text>
+        <text encoding="base64">ICAgIDx2ZW5kb3IgZW1haWw9InN1cHBvcnRAeW91cmNvbXBhbnkuY29tIiB1cmw9Imh0dHA6Ly93d3cueW91cmNvbXBhbnkuY29tIj5Zb3VyQ29tcGFueTwvdmVuZG9yPgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5Db2xsZWN0aW9uOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3Q7Cg==</text>
+        <text encoding="base64">ICAgIDwhLS0gcGxlYXNlIHNlZSBodHRwOi8vd3d3LmpldGJyYWlucy5vcmcvaW50ZWxsaWovc2RrL2RvY3MvYmFzaWNzL2dldHRpbmdfc3RhcnRlZC9wbHVnaW5fY29tcGF0aWJpbGl0eS5odG1sCiAgICAgICAgIG9uIGhvdyB0byB0YXJnZXQgZGlmZmVyZW50IHByb2R1Y3RzIC0tPgogICAgPCEtLSB1bmNvbW1lbnQgdG8gZW5hYmxlIHBsdWdpbiBpbiBhbGwgcHJvZHVjdHMKICAgIDxkZXBlbmRzPmNvbS5pbnRlbGxpai5tb2R1bGVzLmxhbmc8L2RlcGVuZHM+CiAgICAtLT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5pbnRlbGxpai51dGlsLkFycmF5VXRpbDsK</text>
+        <text encoding="base64">ICAgIDxlbT5tb3N0IEhUTUwgdGFncyBtYXkgYmUgdXNlZDwvZW0+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5pbnRlbGxpai5vcGVuYXBpLnZjcy5GaWxlU3RhdHVzRmFjdG9yeTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgRGVmYXVsdExhbmd1YWdlSGlnaGxpZ2h0ZXJDb2xvcnMuQ0xBU1NfTkFNRSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5pbnRlbGxpai5vcGVuYXBpLnZjcy5GaWxlU3RhdHVzOwo=</text>
+        <text encoding="base64">QFN1cHByZXNzV2FybmluZ3MoIk9iamVjdEFsbG9jYXRpb25Jbkxvb3AiKQo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -2562,7 +2565,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jaHJpc3JtLmlkZWEubWVzc2FnZXMuRmlsZUNvbG9yc0J1bmRsZTsKaW1wb3J0IGNvbS5jaHJpc3JtLmlkZWEubWVzc2FnZXMuTWF0ZXJpYWxUaGVtZUJ1bmRsZTsKaW1wb3J0IGNvbS5jaHJpc3JtLmlkZWEuc2NoZW1lcy5NVEZpbGVDb2xvcnM7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFRleHRBdHRyaWJ1dGVzS2V5IEpBVkFfS0VZV09SRCA9IEphdmFBbm5vdGF0b3IuSkFWQV9LRVlXT1JEOwo=</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -2583,7 +2586,7 @@
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgVGV4dEF0dHJpYnV0ZXNLZXkgRElSRUNUT1JJRVMgPSBUZXh0QXR0cmlidXRlc0tleS5jcmVhdGVUZXh0QXR0cmlidXRlc0tleSgiTVRfRElSRUNUT1JJRVMiLCBIaWdobGlnaHRlckNvbG9ycy5URVhUKTsK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
