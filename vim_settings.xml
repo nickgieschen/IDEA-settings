@@ -1627,12 +1627,12 @@
         <mark key="[" line="76" column="0" />
         <mark key="]" line="76" column="80" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/io/seriouscybernetics/JavaColorsPage.java" timestamp="1567112121290">
+      <file name="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/io/seriouscybernetics/JavaColorsPage.java" timestamp="1567112659222">
         <mark key="'" line="29" column="79" />
         <mark key="[" line="74" column="17" />
-        <mark key="]" line="74" column="17" />
-        <mark key="^" line="22" column="0" />
-        <mark key="." line="74" column="17" />
+        <mark key="]" line="68" column="4" />
+        <mark key="^" line="68" column="4" />
+        <mark key="." line="68" column="4" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/content.js" timestamp="1527632641872">
         <mark key="[" line="1" column="4" />
