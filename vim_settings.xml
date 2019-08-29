@@ -114,6 +114,12 @@
         <mark key="^" line="0" column="83" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/io/seriouscybernetics/MFJavaAnnotator.java" timestamp="1567112014401">
+        <mark key="[" line="13" column="13" />
+        <mark key="]" line="13" column="13" />
+        <mark key="^" line="13" column="17" />
+        <mark key="." line="13" column="13" />
+      </file>
       <file name="$USER_HOME$/dev/my-projects/ghide/foo.js" timestamp="1499192570727">
         <mark key="[" line="0" column="12" />
         <mark key="]" line="0" column="12" />
@@ -302,6 +308,11 @@
         <mark key="^" line="5" column="34" />
         <mark key="." line="5" column="34" />
       </file>
+      <file name="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/io/seriouscybernetics/JavaAnnotator.java" timestamp="1567112020949">
+        <mark key="]" line="15" column="157" />
+        <mark key="^" line="15" column="157" />
+        <mark key="." line="15" column="157" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6111178f-0535-4f77-8096-139c834d4a58/console.sql" timestamp="1484900361265">
         <mark key="[" line="0" column="25" />
         <mark key="]" line="0" column="0" />
@@ -423,11 +434,11 @@
         <mark key="." line="35" column="44" />
         <mark key="^" line="35" column="44" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/io/seriouscybernetics/MFAnnotator.java" timestamp="1567107601295">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="16" column="134" />
+      <file name="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/io/seriouscybernetics/MFAnnotator.java" timestamp="1567111996804">
+        <mark key="[" line="13" column="15" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="19" column="77" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/comcast/src/main/resources/db/migration/V1__baseline.sql" timestamp="1486772074069">
         <mark key="[" line="12" column="0" />
@@ -746,11 +757,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="15" column="1" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/HelloAction.java" timestamp="1566777867780">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="13" column="1" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/thrashbarg/src/test/java/thrashbarg/PojoSetterOnly.java" timestamp="1483040514511">
         <mark key="[" line="6" column="8" />
@@ -1616,17 +1622,17 @@
         <mark key="^" line="7" column="56" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/reference-projects/material-theme-jetbrains/src/main/java/com/chrisrm/idea/annotators/settings/JavaColorSettings.java" timestamp="1567106658371">
-        <mark key="'" line="165" column="41" />
-        <mark key="[" line="158" column="0" />
-        <mark key="]" line="158" column="35" />
+      <file name="$USER_HOME$/dev/reference-projects/material-theme-jetbrains/src/main/java/com/chrisrm/idea/annotators/settings/JavaColorSettings.java" timestamp="1567111470427">
+        <mark key="'" line="165" column="12" />
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="80" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/io/seriouscybernetics/JavaColorsPage.java" timestamp="1567106895433">
-        <mark key="'" line="18" column="51" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="18" column="22" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/io/seriouscybernetics/JavaColorsPage.java" timestamp="1567112121290">
+        <mark key="'" line="29" column="79" />
+        <mark key="[" line="74" column="17" />
+        <mark key="]" line="74" column="17" />
+        <mark key="^" line="22" column="0" />
+        <mark key="." line="74" column="17" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/content.js" timestamp="1527632641872">
         <mark key="[" line="1" column="4" />
@@ -2075,6 +2081,10 @@
         <mark key="^" line="13" column="27" />
         <mark key="." line="13" column="27" />
       </file>
+      <file name="$USER_HOME$/dev/reference-projects/material-theme-jetbrains/src/main/java/com/chrisrm/idea/annotators/settings/BaseColorSettings.java" timestamp="1567108863211">
+        <mark key="[" line="37" column="48" />
+        <mark key="]" line="37" column="111" />
+      </file>
       <file name="$USER_HOME$/dev/my-projects/test1/.jshintrc" timestamp="1508228509834">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -2371,10 +2381,14 @@
         <mark key="." line="3" column="52" />
         <mark key="^" line="3" column="52" />
       </file>
+      <file name="$USER_HOME$/dev/my-projects/minimal-funk/test-data/AnnotatorTestData.java" timestamp="1567110976720">
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="0" column="39" />
+        <mark key="^" line="0" column="39" />
+        <mark key="." line="0" column="39" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="4" filename="$USER_HOME$/dev/my-projects/english-vocab-builder/index.js" />
-      <jump line="0" column="22257" filename="$USER_HOME$/dev/my-projects/english-vocab-builder/eng" />
       <jump line="83" column="22" filename="$USER_HOME$/dev/my-projects/english-vocab-builder/index.js" />
       <jump line="170" column="18" filename="$USER_HOME$/dev/my-projects/english-vocab-builder/index.js" />
       <jump line="40" column="1" filename="$USER_HOME$/dev/my-projects/english-vocab-builder/index.js" />
@@ -2470,9 +2484,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/LATEST-EAP-SNAPSHOT/522f6926ba0bbd094b63c8957e5a02dc4f77e5ac/ideaIC-LATEST-EAP-SNAPSHOT-sources.jar!/com/intellij/AbstractBundle.java" />
       <jump line="20" column="51" filename="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/io/seriouscybernetics/JavaColorsPage.java" />
       <jump line="70" column="42" filename="$USER_HOME$/dev/reference-projects/material-theme-jetbrains/src/main/java/com/chrisrm/idea/annotators/settings/JavaColorSettings.java" />
-      <jump line="165" column="41" filename="$USER_HOME$/dev/reference-projects/material-theme-jetbrains/src/main/java/com/chrisrm/idea/annotators/settings/JavaColorSettings.java" />
       <jump line="40" column="51" filename="$USER_HOME$/dev/reference-projects/material-theme-jetbrains/src/main/java/com/chrisrm/idea/annotators/JavaAnnotator.java" />
       <jump line="36" column="46" filename="$USER_HOME$/dev/reference-projects/material-theme-jetbrains/src/main/java/com/chrisrm/idea/annotators/JavaAnnotator.java" />
+      <jump line="165" column="12" filename="$USER_HOME$/dev/reference-projects/material-theme-jetbrains/src/main/java/com/chrisrm/idea/annotators/settings/JavaColorSettings.java" />
+      <jump line="24" column="59" filename="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/io/seriouscybernetics/JavaColorsPage.java" />
+      <jump line="29" column="79" filename="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/io/seriouscybernetics/JavaColorsPage.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2512,7 +2528,7 @@
         <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>YourCompany</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>runner</text>
@@ -2530,28 +2546,28 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgYW5ub3RhdGlvbi5zZXRUZXh0QXR0cmlidXRlcyhraW5kKTsK</text>
+        <text encoding="base64">ICAgIEBOb25ObHMgZmluYWwgTWFwPFN0cmluZywgVGV4dEF0dHJpYnV0ZXNLZXk+IGRlc2NyaXB0b3JzID0gbmV3IFRIYXNoTWFwPD4oKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDx2ZW5kb3IgZW1haWw9InN1cHBvcnRAeW91cmNvbXBhbnkuY29tIiB1cmw9Imh0dHA6Ly93d3cueW91cmNvbXBhbnkuY29tIj5Zb3VyQ29tcGFueTwvdmVuZG9yPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGlmIChlbGVtZW50IGluc3RhbmNlb2YgUHNpSWRlbnRpZmllcikgewovLyAgICAgICAgICAgIFBzaUVsZW1lbnQgcGFyZW50ID0gZWxlbWVudC5nZXRQYXJlbnQoKTsKLy8gICAgICAgICAgICBpZiAocGFyZW50IGluc3RhbmNlb2YgUHNpQ2xhc3MpCi8vICAgICAgICAgICAgICAgIGdldEFubm90YXRpb24oZWxlbWVudCwgaG9sZGVyKS5zZXRUZXh0QXR0cmlidXRlcyhDTEFTU19ERUNMQVJBVElPTik7Ci8vICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDwhLS0gcGxlYXNlIHNlZSBodHRwOi8vd3d3LmpldGJyYWlucy5vcmcvaW50ZWxsaWovc2RrL2RvY3MvYmFzaWNzL2dldHRpbmdfc3RhcnRlZC9wbHVnaW5fY29tcGF0aWJpbGl0eS5odG1sCiAgICAgICAgIG9uIGhvdyB0byB0YXJnZXQgZGlmZmVyZW50IHByb2R1Y3RzIC0tPgogICAgPCEtLSB1bmNvbW1lbnQgdG8gZW5hYmxlIHBsdWdpbiBpbiBhbGwgcHJvZHVjdHMKICAgIDxkZXBlbmRzPmNvbS5pbnRlbGxpai5tb2R1bGVzLmxhbmc8L2RlcGVuZHM+CiAgICAtLT4K</text>
+        <text encoding="base64">ICAgIEBOdWxsYWJsZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxlbT5tb3N0IEhUTUwgdGFncyBtYXkgYmUgdXNlZDwvZW0+Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGVmYXVsdExhbmd1YWdlSGlnaGxpZ2h0ZXJDb2xvcnMuQ0xBU1NfTkFNRSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QFN1cHByZXNzV2FybmluZ3MoIk9iamVjdEFsbG9jYXRpb25Jbkxvb3AiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vbmV3IEF0dHJpYnV0ZXNEZXNjcmlwdG9yKE1hdGVyaWFsVGhlbWVCdW5kbGUubWVzc2FnZSgia2V5d29yZHMucHJpdmF0ZS5wdWJsaWMucHJvdGVjdGVkIiksIE1PRElGSUVSKSwK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -2565,7 +2581,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFRleHRBdHRyaWJ1dGVzS2V5IEpBVkFfS0VZV09SRCA9IEphdmFBbm5vdGF0b3IuSkFWQV9LRVlXT1JEOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZWxlbWVudCBpbnN0YW5jZW9mIENsYXNzRWxlbWVudCkgewogICAgICAgICAgICBpbnQgaSA9IDA7CiAgICAgICAgfQo=</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -2586,7 +2602,7 @@
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgVGV4dEF0dHJpYnV0ZXNLZXkgRElSRUNUT1JJRVMgPSBUZXh0QXR0cmlidXRlc0tleS5jcmVhdGVUZXh0QXR0cmlidXRlc0tleSgiTVRfRElSRUNUT1JJRVMiLCBIaWdobGlnaHRlckNvbG9ycy5URVhUKTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5pbnRlbGxpai5wc2kuaW1wbC5zb3VyY2UudHJlZS5qYXZhLkNsYXNzRWxlbWVudDsK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
