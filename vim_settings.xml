@@ -1129,12 +1129,12 @@
         <mark key="." line="0" column="19" />
         <mark key="^" line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/minimal-funk/src/test/java/io/seriouscybernetics/JavaScriptAnnotatorTest.java" timestamp="1567212855956">
+      <file name="$USER_HOME$/dev/my-projects/minimal-funk/src/test/java/io/seriouscybernetics/JavaScriptAnnotatorTest.java" timestamp="1567213116147">
         <mark key="'" line="2" column="31" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
+        <mark key="[" line="4" column="50" />
+        <mark key="]" line="4" column="50" />
         <mark key="^" line="2" column="119" />
-        <mark key="." line="18" column="0" />
+        <mark key="." line="4" column="50" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/comcast-spring/src/main/java/com/expent/comcast/api/security/JwtService.java" timestamp="1483947324241">
         <mark key="[" line="10" column="0" />
@@ -1970,6 +1970,7 @@
         <mark key="." line="9" column="18" />
         <mark key="^" line="13" column="20" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2019.1.1/db5b7b92cc9589863a7f7c506e0d7bf3ae29d680/ideaIC-2019.1.1-sources.jar!/com/intellij/psi/impl/file/impl/FileManagerImpl.java" timestamp="1567213814664" />
       <file name="$USER_HOME$/dev/my-projects/comcast/src/integration-test/kotlin/comcast/DbUtil.kt" timestamp="1484183690647">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -2463,7 +2464,7 @@
         <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>m</text>
       </register>
       <register name="/" type="4">
         <text>runner</text>
