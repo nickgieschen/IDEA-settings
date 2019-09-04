@@ -1129,7 +1129,7 @@
         <mark key="." line="0" column="19" />
         <mark key="^" line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/minimal-funk/src/test/java/io/seriouscybernetics/JavaScriptAnnotatorTest.java" timestamp="1567213116147">
+      <file name="$USER_HOME$/dev/my-projects/minimal-funk/src/test/java/io/seriouscybernetics/JavaScriptAnnotatorTest.java" timestamp="1567623294951">
         <mark key="'" line="2" column="31" />
         <mark key="[" line="4" column="50" />
         <mark key="]" line="4" column="50" />
@@ -1297,7 +1297,7 @@
         <mark key="." line="3" column="2" />
         <mark key="^" line="3" column="2" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/minimal-funk/src/main/resources/META-INF/plugin.xml" timestamp="1567212430443">
+      <file name="$USER_HOME$/dev/my-projects/minimal-funk/src/main/resources/META-INF/plugin.xml" timestamp="1567623588793">
         <mark key="'" line="13" column="23" />
         <mark key="[" line="6" column="13" />
         <mark key="]" line="6" column="22" />
@@ -1733,7 +1733,7 @@
         <mark key="." line="23" column="20" />
         <mark key="^" line="23" column="52" />
       </file>
-      <file name="/fragment.java" timestamp="1567124740684">
+      <file name="/fragment.java" timestamp="1567623450697">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/comcast-spring/src/integration-test/java/comcast/api/AppControllerIntegrationTests.java" timestamp="1483072879466">
@@ -1970,7 +1970,6 @@
         <mark key="." line="9" column="18" />
         <mark key="^" line="13" column="20" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2019.1.1/db5b7b92cc9589863a7f7c506e0d7bf3ae29d680/ideaIC-2019.1.1-sources.jar!/com/intellij/psi/impl/file/impl/FileManagerImpl.java" timestamp="1567213814664" />
       <file name="$USER_HOME$/dev/my-projects/comcast/src/integration-test/kotlin/comcast/DbUtil.kt" timestamp="1484183690647">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -2311,7 +2310,7 @@
         <mark key="." line="32" column="28" />
         <mark key="^" line="32" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/minimal-funk/build.gradle" timestamp="1567211815501">
+      <file name="$USER_HOME$/dev/my-projects/minimal-funk/build.gradle" timestamp="1567623542448">
         <mark key="[" line="17" column="30" />
         <mark key="]" line="17" column="32" />
         <mark key="." line="17" column="32" />
