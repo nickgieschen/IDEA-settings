@@ -224,12 +224,12 @@
         <mark key="^" line="19" column="7" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/io/seriouscybernetics/JavaScriptAnnotator.java" timestamp="1567714753189">
+      <file name="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/io/seriouscybernetics/JavaScriptAnnotator.java" timestamp="1567715504480">
         <mark key="'" line="46" column="72" />
-        <mark key="[" line="30" column="59" />
-        <mark key="]" line="30" column="80" />
-        <mark key="^" line="30" column="80" />
-        <mark key="." line="30" column="80" />
+        <mark key="[" line="53" column="12" />
+        <mark key="]" line="52" column="15" />
+        <mark key="^" line="52" column="15" />
+        <mark key="." line="52" column="15" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/ito/views/error.swig" timestamp="1536009164414">
         <mark key="[" line="2" column="4" />
@@ -2477,7 +2477,7 @@
         <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>Annotation</text>
       </register>
       <register name="/" type="4">
         <text>runner</text>
