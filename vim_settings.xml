@@ -224,12 +224,12 @@
         <mark key="^" line="19" column="7" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/io/seriouscybernetics/JavaScriptAnnotator.java" timestamp="1567659294143">
+      <file name="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/io/seriouscybernetics/JavaScriptAnnotator.java" timestamp="1567713456202">
         <mark key="'" line="46" column="72" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="35" column="3" />
-        <mark key="." line="22" column="0" />
+        <mark key="[" line="30" column="33" />
+        <mark key="]" line="30" column="32" />
+        <mark key="^" line="30" column="32" />
+        <mark key="." line="30" column="32" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/ito/views/error.swig" timestamp="1536009164414">
         <mark key="[" line="2" column="4" />
@@ -1383,11 +1383,11 @@
         <mark key="^" line="22" column="41" />
         <mark key="." line="22" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/minimal-funk/test-data/AnnotatorJavaScriptTestData.js" timestamp="1567659676615">
-        <mark key="[" line="5" column="3" />
-        <mark key="]" line="9" column="5" />
+      <file name="$USER_HOME$/dev/my-projects/minimal-funk/test-data/AnnotatorJavaScriptTestData.js" timestamp="1567712582857">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
         <mark key="^" line="9" column="1" />
-        <mark key="." line="9" column="5" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/comcast/src/integration-test/kotlin/comcast/Db.kt" timestamp="1484957413494">
         <mark key="[" line="18" column="7" />
@@ -2477,7 +2477,7 @@
         <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>element.getNode().getElementType()</text>
+        <text>FromParent</text>
       </register>
       <register name="/" type="4">
         <text>runner</text>
@@ -2498,31 +2498,25 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIEpTRnVuY3Rpb24gZnVuY3Rpb24gPSAoSlNGdW5jdGlvbikgZWxlbWVudC5nZXRDb250ZXh0KCk7CiAgICAgICAgICAgICAgICBQc2lFbGVtZW50IG5hbWVJZGVudGlmaWVyID0gZnVuY3Rpb24uZ2V0TmFtZUlkZW50aWZpZXIoKTsKICAgICAgICAgICAgICAgIGlmIChuYW1lSWRlbnRpZmllciAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgZ2V0QW5ub3RhdGlvbihuYW1lSWRlbnRpZmllciwgaG9sZGVyKS5zZXRUZXh0QXR0cmlidXRlcyhGVU5DVElPTl9ERUNMQVJBVElPTik7CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFBzaUVsZW1lbnQgY29udGV4dENvbnRleHQgPSA7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBzZXRBbm5vdGF0aW9uKEBOb3ROdWxsIFBzaUVsZW1lbnQgZWxlbWVudCwgQE5vdE51bGwgQW5ub3RhdGlvbkhvbGRlciBob2xkZXIpewogICAgICAgIFBzaU5hbWVJZGVudGlmaWVyT3duZXIgZnVuY3Rpb24gPSAoUHNpTmFtZUlkZW50aWZpZXJPd25lcikgZWxlbWVudC5nZXRDb250ZXh0KCk7CiAgICAgICAgUHNpRWxlbWVudCBuYW1lSWRlbnRpZmllciA9IGZ1bmN0aW9uLmdldE5hbWVJZGVudGlmaWVyKCk7CiAgICAgICAgaWYgKG5hbWVJZGVudGlmaWVyICE9IG51bGwpIHsKICAgICAgICAgICAgZ2V0QW5ub3RhdGlvbihuYW1lSWRlbnRpZmllciwgaG9sZGVyKS5zZXRUZXh0QXR0cmlidXRlcyhGVU5DVElPTl9ERUNMQVJBVElPTik7CiAgICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChjb250ZXh0Q29udGV4dC5nZXROb2RlKCkuZ2V0RWxlbWVudFR5cGUoKSBpbnN0YW5jZW9mIEVTNkNvbXB1dGVkTmFtZSl7CgogICAgICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="3" type="4">
-        <text>else if (element.getNode().getElementType() == EQGT){
-            PsiNameIdentifierOwner functionExpression = (PsiNameIdentifierOwner) element.getContext();
-            PsiElement nameIdentifier = functionExpression.getNameIdentifier();
-            if (nameIdentifier != null) {
-                getAnnotation(nameIdentifier, holder).setTextAttributes(FUNCTION_DECLARATION);
-            }
-        }</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoKSAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBJRWxlbWVudFR5cGUgZWxlbWVudFR5cGU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICA9IDsK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgUHNpRWxlbWVudCBjb250ZXh0ID0gZWxlbWVudC5nZXRDb250ZXh0KCk7CiAgICAgICAgICAgIGlmIChjb250ZXh0IGluc3RhbmNlb2YgSlNGdW5jdGlvbkV4cHJlc3Npb24pIHsKICAgICAgICAgICAgICAgIEpTRnVuY3Rpb25FeHByZXNzaW9uIGZ1bmN0aW9uRXhwcmVzc2lvbiA9IChKU0Z1bmN0aW9uRXhwcmVzc2lvbikgZWxlbWVudC5nZXRDb250ZXh0KCk7CiAgICAgICAgICAgICAgICBQc2lFbGVtZW50IG5hbWVJZGVudGlmaWVyID0gZnVuY3Rpb25FeHByZXNzaW9uLmdldE5hbWVJZGVudGlmaWVyKCk7CiAgICAgICAgICAgICAgICBpZiAobmFtZUlkZW50aWZpZXIgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgIGdldEFubm90YXRpb24obmFtZUlkZW50aWZpZXIsIGhvbGRlcikuc2V0VGV4dEF0dHJpYnV0ZXMoRlVOQ1RJT05fREVDTEFSQVRJT04pOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICBKU0Z1bmN0aW9uIGZ1bmN0aW9uID0gKEpTRnVuY3Rpb24pIGVsZW1lbnQuZ2V0Q29udGV4dCgpOwogICAgICAgICAgICAgICAgUHNpRWxlbWVudCBuYW1lSWRlbnRpZmllciA9IGZ1bmN0aW9uLmdldE5hbWVJZGVudGlmaWVyKCk7CiAgICAgICAgICAgICAgICBpZiAobmFtZUlkZW50aWZpZXIgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgIGdldEFubm90YXRpb24obmFtZUlkZW50aWZpZXIsIGhvbGRlcikuc2V0VGV4dEF0dHJpYnV0ZXMoRlVOQ1RJT05fREVDTEFSQVRJT04pOwogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBzZXRBbm5vdGF0aW9uKEBOb3ROdWxsIFBzaUVsZW1lbnQgZWxlbWVudCwgQE5vdE51bGwgQW5ub3RhdGlvbkhvbGRlciBob2xkZXIpewogICAgICAgIFBzaU5hbWVJZGVudGlmaWVyT3duZXIgZnVuY3Rpb24gPSAoUHNpTmFtZUlkZW50aWZpZXJPd25lcikgZWxlbWVudC5nZXRDb250ZXh0KCk7CiAgICAgICAgUHNpRWxlbWVudCBuYW1lSWRlbnRpZmllciA9IGZ1bmN0aW9uLmdldE5hbWVJZGVudGlmaWVyKCk7CiAgICAgICAgaWYgKG5hbWVJZGVudGlmaWVyICE9IG51bGwpIHsKICAgICAgICAgICAgZ2V0QW5ub3RhdGlvbihuYW1lSWRlbnRpZmllciwgaG9sZGVyKS5zZXRUZXh0QXR0cmlidXRlcyhGVU5DVElPTl9ERUNMQVJBVElPTik7CiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -2532,17 +2526,17 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIGlmIChjb250ZXh0IGluc3RhbmNlb2YgRVM2RnVuY3Rpb25Qcm9wZXJ0eSl7CiAgICAgICAgICAgICAgICBFUzZGdW5jdGlvblByb3BlcnR5IGZ1bmN0aW9uID0gKEVTNkZ1bmN0aW9uUHJvcGVydHkpIGVsZW1lbnQuZ2V0Q29udGV4dCgpOwogICAgICAgICAgICAgICAgUHNpRWxlbWVudCBuYW1lSWRlbnRpZmllciA9IGZ1bmN0aW9uLmdldE5hbWVJZGVudGlmaWVyKCk7CiAgICAgICAgICAgICAgICBpZiAobmFtZUlkZW50aWZpZXIgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgIGdldEFubm90YXRpb24obmFtZUlkZW50aWZpZXIsIGhvbGRlcikuc2V0VGV4dEF0dHJpYnV0ZXMoRlVOQ1RJT05fREVDTEFSQVRJT04pOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9Cg==</text>
+      <register name="7" type="4">
+        <text>else if (element.getNode().getElementType() == EQGT){
+            PsiNameIdentifierOwner functionExpression = (PsiNameIdentifierOwner) element.getContext();
+            PsiElement nameIdentifier = functionExpression.getNameIdentifier();
+            if (nameIdentifier != null) {
+                getAnnotation(nameIdentifier, holder).setTextAttributes(FUNCTION_DECLARATION);
+            }
+        }</text>
       </register>
-      <register name="8" type="4">
-        <text>else if (context instanceof ES6FunctionProperty){
-                ES6FunctionProperty function = (ES6FunctionProperty) element.getContext();
-                PsiElement nameIdentifier = function.getNameIdentifier();
-                if (nameIdentifier != null) {
-                    getAnnotation(nameIdentifier, holder).setTextAttributes(FUNCTION_DECLARATION);
-                }
-            }</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBJRWxlbWVudFR5cGUgZWxlbWVudFR5cGU7Cg==</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -2562,8 +2556,8 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNvbnRleHQgaW5zdGFuY2VvZiBKU0Z1bmN0aW9uKXsK</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgUHNpRWxlbWVudCBjb250ZXh0ID0gZWxlbWVudC5nZXRDb250ZXh0KCk7CiAgICAgICAgICAgIGlmIChjb250ZXh0IGluc3RhbmNlb2YgSlNGdW5jdGlvbkV4cHJlc3Npb24pIHsKICAgICAgICAgICAgICAgIEpTRnVuY3Rpb25FeHByZXNzaW9uIGZ1bmN0aW9uRXhwcmVzc2lvbiA9IChKU0Z1bmN0aW9uRXhwcmVzc2lvbikgZWxlbWVudC5nZXRDb250ZXh0KCk7CiAgICAgICAgICAgICAgICBQc2lFbGVtZW50IG5hbWVJZGVudGlmaWVyID0gZnVuY3Rpb25FeHByZXNzaW9uLmdldE5hbWVJZGVudGlmaWVyKCk7CiAgICAgICAgICAgICAgICBpZiAobmFtZUlkZW50aWZpZXIgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgIGdldEFubm90YXRpb24obmFtZUlkZW50aWZpZXIsIGhvbGRlcikuc2V0VGV4dEF0dHJpYnV0ZXMoRlVOQ1RJT05fREVDTEFSQVRJT04pOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
