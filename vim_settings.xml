@@ -223,7 +223,7 @@
         <mark key="^" line="19" column="7" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/io/seriouscybernetics/JavaScriptAnnotator.java" timestamp="1567647460213">
+      <file name="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/io/seriouscybernetics/JavaScriptAnnotator.java" timestamp="1567652286104">
         <mark key="'" line="17" column="50" />
         <mark key="[" line="29" column="90" />
         <mark key="]" line="30" column="12" />
@@ -1139,8 +1139,8 @@
         <mark key="." line="0" column="19" />
         <mark key="^" line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/minimal-funk/src/test/java/io/seriouscybernetics/JavaScriptAnnotatorTest.java" timestamp="1567634215658">
-        <mark key="'" line="2" column="31" />
+      <file name="$USER_HOME$/dev/my-projects/minimal-funk/src/test/java/io/seriouscybernetics/JavaScriptAnnotatorTest.java" timestamp="1567652075987">
+        <mark key="'" line="17" column="28" />
         <mark key="[" line="4" column="50" />
         <mark key="]" line="4" column="50" />
         <mark key="^" line="2" column="119" />
@@ -1382,7 +1382,7 @@
         <mark key="^" line="22" column="41" />
         <mark key="." line="22" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/minimal-funk/test-data/AnnotatorJavaScriptTestData.js" timestamp="1567124662356">
+      <file name="$USER_HOME$/dev/my-projects/minimal-funk/test-data/AnnotatorJavaScriptTestData.js" timestamp="1567652387662">
         <mark key="[" line="34" column="68" />
         <mark key="]" line="36" column="14" />
         <mark key="." line="36" column="14" />
@@ -2337,7 +2337,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="455" column="2897" filename="$USER_HOME$/dev/my-projects/english-vocab-builder/multi-doing" />
       <jump line="83" column="3288" filename="$USER_HOME$/dev/my-projects/english-vocab-builder/multi-doing" />
       <jump line="8790" column="0" filename="$USER_HOME$/dev/my-projects/english-vocab-builder/sing" />
       <jump line="108" column="2" filename="$USER_HOME$/dev/my-projects/english-vocab-builder/redo" />
@@ -2437,6 +2436,7 @@
       <jump line="13" column="28" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2019.1.1/db5b7b92cc9589863a7f7c506e0d7bf3ae29d680/ideaIC-2019.1.1-sources.jar!/com/intellij/lang/LanguageExtensionPoint.java" />
       <jump line="90" column="42" filename="$USER_HOME$/dev/reference-projects/intellij-plugins/AngularJS/resources/META-INF/plugin.xml" />
       <jump line="15" column="50" filename="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/io/seriouscybernetics/JavaScriptAnnotator.java" />
+      <jump line="17" column="28" filename="$USER_HOME$/dev/my-projects/minimal-funk/src/test/java/io/seriouscybernetics/JavaScriptAnnotatorTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
