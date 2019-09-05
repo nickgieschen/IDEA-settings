@@ -223,12 +223,12 @@
         <mark key="^" line="19" column="7" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/io/seriouscybernetics/JavaScriptAnnotator.java" timestamp="1567644053075">
-        <mark key="a" line="21" column="0" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="16" column="0" />
+      <file name="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/io/seriouscybernetics/JavaScriptAnnotator.java" timestamp="1567645243747">
+        <mark key="a" line="22" column="0" />
+        <mark key="'" line="15" column="50" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/ito/views/error.swig" timestamp="1536009164414">
         <mark key="[" line="2" column="4" />
@@ -2331,7 +2331,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="238" column="2353" filename="$USER_HOME$/dev/my-projects/english-vocab-builder/multi-doing" />
       <jump line="455" column="2897" filename="$USER_HOME$/dev/my-projects/english-vocab-builder/multi-doing" />
       <jump line="83" column="3288" filename="$USER_HOME$/dev/my-projects/english-vocab-builder/multi-doing" />
       <jump line="8790" column="0" filename="$USER_HOME$/dev/my-projects/english-vocab-builder/sing" />
@@ -2431,6 +2430,7 @@
       <jump line="13" column="23" filename="$USER_HOME$/dev/my-projects/minimal-funk/src/main/resources/META-INF/plugin.xml" />
       <jump line="13" column="28" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2019.1.1/db5b7b92cc9589863a7f7c506e0d7bf3ae29d680/ideaIC-2019.1.1-sources.jar!/com/intellij/lang/LanguageExtensionPoint.java" />
       <jump line="90" column="42" filename="$USER_HOME$/dev/reference-projects/intellij-plugins/AngularJS/resources/META-INF/plugin.xml" />
+      <jump line="15" column="50" filename="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/io/seriouscybernetics/JavaScriptAnnotator.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2470,7 +2470,7 @@
         <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>runner</text>
@@ -2491,25 +2491,25 @@
         <text encoding="base64">ICB2ZXJzaW9uID0gJ0lVLTE1LjAuMScK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImZvbyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBlbGVtZW50Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmRzPmNvbS5pbnRlbGxpai5tb2R1bGVzLnBsYXRmb3JtPC9kZXBlbmRzPgo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5pbnRlbGxpai5sYW5nLmphdmFzY3JpcHQucHNpLkpTRnVuY3Rpb247Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmRzPmNvbS5pbnRlbGxpai5tb2R1bGVzLnVsdGltYXRlPC9kZXBlbmRzPgo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImZvbyIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZlcnNpb24gJzIwMTkuMS4xJwo=</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRzPmNvbS5pbnRlbGxpai5tb2R1bGVzLnBsYXRmb3JtPC9kZXBlbmRzPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZlcnNpb24gJzIwMTkuMS4xJwo=</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRzPmNvbS5pbnRlbGxpai5tb2R1bGVzLnVsdGltYXRlPC9kZXBlbmRzPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlkICdqYXZhJwo=</text>
+        <text encoding="base64">ICAgIHZlcnNpb24gJzIwMTkuMS4xJwo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -2520,10 +2520,10 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlkICdqYXZhJwo=</text>
+        <text encoding="base64">ICAgIHZlcnNpb24gJzIwMTkuMS4xJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIGZpbGVzKCJsaWIvY3NzLmphciIpCg==</text>
+        <text encoding="base64">ICAgIGlkICdqYXZhJwo=</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -2544,7 +2544,7 @@
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIGZpbGVzKCJsaWIvSmF2YVNjcmlwdExhbmd1YWdlLmphciIpCg==</text>
+        <text encoding="base64">ICAgIGlkICdqYXZhJwo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
