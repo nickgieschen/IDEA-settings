@@ -72,6 +72,7 @@
         <mark key="^" line="7" column="15" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2019.2.1/522f6926ba0bbd094b63c8957e5a02dc4f77e5ac/ideaIC-2019.2.1-sources.jar!/com/intellij/psi/PsiNameIdentifierOwner.java" timestamp="1567658354607" />
       <file name="$USER_HOME$/dev/my-projects/comcast-spring/src/integration-test/java/comcast/api/IntegrationTest.java" timestamp="1483077310131">
         <mark key="[" line="6" column="26" />
         <mark key="]" line="6" column="36" />
@@ -223,11 +224,11 @@
         <mark key="^" line="19" column="7" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/io/seriouscybernetics/JavaScriptAnnotator.java" timestamp="1567656910144">
-        <mark key="'" line="18" column="50" />
+      <file name="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/io/seriouscybernetics/JavaScriptAnnotator.java" timestamp="1567659294143">
+        <mark key="'" line="46" column="72" />
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
-        <mark key="^" line="39" column="12" />
+        <mark key="^" line="35" column="3" />
         <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/ito/views/error.swig" timestamp="1536009164414">
@@ -1139,12 +1140,12 @@
         <mark key="." line="0" column="19" />
         <mark key="^" line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/minimal-funk/src/test/java/io/seriouscybernetics/JavaScriptAnnotatorTest.java" timestamp="1567652075987">
+      <file name="$USER_HOME$/dev/my-projects/minimal-funk/src/test/java/io/seriouscybernetics/JavaScriptAnnotatorTest.java" timestamp="1567657830888">
         <mark key="'" line="17" column="28" />
-        <mark key="[" line="4" column="50" />
-        <mark key="]" line="4" column="50" />
-        <mark key="^" line="2" column="119" />
-        <mark key="." line="4" column="50" />
+        <mark key="[" line="4" column="45" />
+        <mark key="]" line="4" column="64" />
+        <mark key="^" line="4" column="64" />
+        <mark key="." line="4" column="64" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/comcast-spring/src/main/java/com/expent/comcast/api/security/JwtService.java" timestamp="1483947324241">
         <mark key="[" line="10" column="0" />
@@ -1382,11 +1383,11 @@
         <mark key="^" line="22" column="41" />
         <mark key="." line="22" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/minimal-funk/test-data/AnnotatorJavaScriptTestData.js" timestamp="1567655789718">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="36" column="14" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/dev/my-projects/minimal-funk/test-data/AnnotatorJavaScriptTestData.js" timestamp="1567659676615">
+        <mark key="[" line="5" column="3" />
+        <mark key="]" line="9" column="5" />
+        <mark key="^" line="9" column="1" />
+        <mark key="." line="9" column="5" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/comcast/src/integration-test/kotlin/comcast/Db.kt" timestamp="1484957413494">
         <mark key="[" line="18" column="7" />
@@ -1742,7 +1743,7 @@
         <mark key="." line="23" column="20" />
         <mark key="^" line="23" column="52" />
       </file>
-      <file name="/fragment.java" timestamp="1567648220543">
+      <file name="/fragment.java" timestamp="1567657887369">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/comcast-spring/src/integration-test/java/comcast/api/AppControllerIntegrationTests.java" timestamp="1483072879466">
@@ -2337,7 +2338,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="3288" filename="$USER_HOME$/dev/my-projects/english-vocab-builder/multi-doing" />
       <jump line="8790" column="0" filename="$USER_HOME$/dev/my-projects/english-vocab-builder/sing" />
       <jump line="108" column="2" filename="$USER_HOME$/dev/my-projects/english-vocab-builder/redo" />
       <jump line="7" column="27" filename="$USER_HOME$/dev/my-projects/english-vocab-builder/index.js" />
@@ -2437,6 +2437,7 @@
       <jump line="90" column="42" filename="$USER_HOME$/dev/reference-projects/intellij-plugins/AngularJS/resources/META-INF/plugin.xml" />
       <jump line="15" column="50" filename="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/io/seriouscybernetics/JavaScriptAnnotator.java" />
       <jump line="17" column="28" filename="$USER_HOME$/dev/my-projects/minimal-funk/src/test/java/io/seriouscybernetics/JavaScriptAnnotatorTest.java" />
+      <jump line="46" column="72" filename="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/io/seriouscybernetics/JavaScriptAnnotator.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2476,7 +2477,7 @@
         <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>15.0.1'</text>
+        <text>element.getNode().getElementType()</text>
       </register>
       <register name="/" type="4">
         <text>runner</text>
@@ -2503,19 +2504,25 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQXJyYXlMaXN0PFBzaUVsZW1lbnQ+IGhhbmRsZWRGdW5jdGlvbnMgPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBzZXRBbm5vdGF0aW9uKEBOb3ROdWxsIFBzaUVsZW1lbnQgZWxlbWVudCwgQE5vdE51bGwgQW5ub3RhdGlvbkhvbGRlciBob2xkZXIpewogICAgICAgIFBzaU5hbWVJZGVudGlmaWVyT3duZXIgZnVuY3Rpb24gPSAoUHNpTmFtZUlkZW50aWZpZXJPd25lcikgZWxlbWVudC5nZXRDb250ZXh0KCk7CiAgICAgICAgUHNpRWxlbWVudCBuYW1lSWRlbnRpZmllciA9IGZ1bmN0aW9uLmdldE5hbWVJZGVudGlmaWVyKCk7CiAgICAgICAgaWYgKG5hbWVJZGVudGlmaWVyICE9IG51bGwpIHsKICAgICAgICAgICAgZ2V0QW5ub3RhdGlvbihuYW1lSWRlbnRpZmllciwgaG9sZGVyKS5zZXRUZXh0QXR0cmlidXRlcyhGVU5DVElPTl9ERUNMQVJBVElPTik7CiAgICAgICAgfQogICAgfQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGlmIChlbGVtZW50IGluc3RhbmNlb2YgUHNpS2V5d29yZCAmJiBlbGVtZW50LmdldFRleHQoKS5lcXVhbHMoImNsYXNzIikpewovLyAgICAgICAgICAgIFBzaUVsZW1lbnQgY2xhc3NOYW1lRWxlbWVudCA9IGVsZW1lbnQuZ2V0TmV4dFNpYmxpbmcoKS5nZXROZXh0U2libGluZygpOwovLyAgICAgICAgICAgIGdldEFubm90YXRpb24oY2xhc3NOYW1lRWxlbWVudCwgaG9sZGVyKS5zZXRUZXh0QXR0cmlidXRlcyhGVU5DVElPTl9ERUNMQVJBVElPTik7Ci8vICAgICAgICB9Cg==</text>
+      <register name="3" type="4">
+        <text>else if (element.getNode().getElementType() == EQGT){
+            PsiNameIdentifierOwner functionExpression = (PsiNameIdentifierOwner) element.getContext();
+            PsiElement nameIdentifier = functionExpression.getNameIdentifier();
+            if (nameIdentifier != null) {
+                getAnnotation(nameIdentifier, holder).setTextAttributes(FUNCTION_DECLARATION);
+            }
+        }</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAgaWYgKGVsZW1lbnQuZ2V0Tm9kZSgpLmdldEVsZW1lbnRUeXBlKCkgPT0gRlVOQ1RJT05fS0VZV09SRCl7CiAgICAgICAgICAgIEpTRnVuY3Rpb24gZnVuY3Rpb24gPSAoSlNGdW5jdGlvbikgZWxlbWVudC5nZXRDb250ZXh0KCk7CiAgICAgICAgICAgIFBzaUVsZW1lbnQgbmFtZUlkZW50aWZpZXIgPSBmdW5jdGlvbi5nZXROYW1lSWRlbnRpZmllcigpOwogICAgICAgICAgICBpZiAobmFtZUlkZW50aWZpZXIgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgZ2V0QW5ub3RhdGlvbihuYW1lSWRlbnRpZmllciwgaG9sZGVyKS5zZXRUZXh0QXR0cmlidXRlcyhGVU5DVElPTl9ERUNMQVJBVElPTik7CiAgICAgICAgfSBlbHNl</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBJRWxlbWVudFR5cGUgZWxlbWVudFR5cGU7Cg==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ICAgIH0KICAgICAgICA=</text>
+        <text encoding="base64">ICAgICAgICAgICAgUHNpRWxlbWVudCBjb250ZXh0ID0gZWxlbWVudC5nZXRDb250ZXh0KCk7CiAgICAgICAgICAgIGlmIChjb250ZXh0IGluc3RhbmNlb2YgSlNGdW5jdGlvbkV4cHJlc3Npb24pIHsKICAgICAgICAgICAgICAgIEpTRnVuY3Rpb25FeHByZXNzaW9uIGZ1bmN0aW9uRXhwcmVzc2lvbiA9IChKU0Z1bmN0aW9uRXhwcmVzc2lvbikgZWxlbWVudC5nZXRDb250ZXh0KCk7CiAgICAgICAgICAgICAgICBQc2lFbGVtZW50IG5hbWVJZGVudGlmaWVyID0gZnVuY3Rpb25FeHByZXNzaW9uLmdldE5hbWVJZGVudGlmaWVyKCk7CiAgICAgICAgICAgICAgICBpZiAobmFtZUlkZW50aWZpZXIgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgIGdldEFubm90YXRpb24obmFtZUlkZW50aWZpZXIsIGhvbGRlcikuc2V0VGV4dEF0dHJpYnV0ZXMoRlVOQ1RJT05fREVDTEFSQVRJT04pOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICBKU0Z1bmN0aW9uIGZ1bmN0aW9uID0gKEpTRnVuY3Rpb24pIGVsZW1lbnQuZ2V0Q29udGV4dCgpOwogICAgICAgICAgICAgICAgUHNpRWxlbWVudCBuYW1lSWRlbnRpZmllciA9IGZ1bmN0aW9uLmdldE5hbWVJZGVudGlmaWVyKCk7CiAgICAgICAgICAgICAgICBpZiAobmFtZUlkZW50aWZpZXIgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgIGdldEFubm90YXRpb24obmFtZUlkZW50aWZpZXIsIGhvbGRlcikuc2V0VGV4dEF0dHJpYnV0ZXMoRlVOQ1RJT05fREVDTEFSQVRJT04pOwogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -2526,10 +2533,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIGlmIChjb250ZXh0IGluc3RhbmNlb2YgRVM2RnVuY3Rpb25Qcm9wZXJ0eSl7CiAgICAgICAgICAgICAgICBFUzZGdW5jdGlvblByb3BlcnR5IGZ1bmN0aW9uID0gKEVTNkZ1bmN0aW9uUHJvcGVydHkpIGVsZW1lbnQuZ2V0Q29udGV4dCgpOwogICAgICAgICAgICAgICAgUHNpRWxlbWVudCBuYW1lSWRlbnRpZmllciA9IGZ1bmN0aW9uLmdldE5hbWVJZGVudGlmaWVyKCk7CiAgICAgICAgICAgICAgICBpZiAobmFtZUlkZW50aWZpZXIgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgIGdldEFubm90YXRpb24obmFtZUlkZW50aWZpZXIsIGhvbGRlcikuc2V0VGV4dEF0dHJpYnV0ZXMoRlVOQ1RJT05fREVDTEFSQVRJT04pOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgZnVuMyA9IHggPT4geDsKCmNvbnN0IGZ1bjQgPSAoKSA9PiB0cnVlOwoK</text>
+      <register name="8" type="4">
+        <text>else if (context instanceof ES6FunctionProperty){
+                ES6FunctionProperty function = (ES6FunctionProperty) element.getContext();
+                PsiElement nameIdentifier = function.getNameIdentifier();
+                if (nameIdentifier != null) {
+                    getAnnotation(nameIdentifier, holder).setTextAttributes(FUNCTION_DECLARATION);
+                }
+            }</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -2550,7 +2563,7 @@
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNvbnRleHQgaW5zdGFuY2VvZiBKU0Z1bmN0aW9uKXsK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
