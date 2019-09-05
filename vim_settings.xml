@@ -223,12 +223,12 @@
         <mark key="^" line="19" column="7" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/io/seriouscybernetics/JavaScriptAnnotator.java" timestamp="1567654784698">
-        <mark key="'" line="19" column="50" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-        <mark key="^" line="42" column="12" />
+      <file name="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/io/seriouscybernetics/JavaScriptAnnotator.java" timestamp="1567656910144">
+        <mark key="'" line="18" column="50" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="39" column="12" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/ito/views/error.swig" timestamp="1536009164414">
         <mark key="[" line="2" column="4" />
@@ -308,12 +308,12 @@
         <mark key="^" line="5" column="34" />
         <mark key="." line="5" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/io/seriouscybernetics/JavaAnnotator.java" timestamp="1567126339445">
+      <file name="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/io/seriouscybernetics/JavaAnnotator.java" timestamp="1567656938436">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="^" line="15" column="157" />
-        <mark key="." line="15" column="157" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="14" column="157" />
+        <mark key="." line="14" column="157" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6111178f-0535-4f77-8096-139c834d4a58/console.sql" timestamp="1484900361265">
         <mark key="[" line="0" column="25" />
@@ -1382,7 +1382,7 @@
         <mark key="^" line="22" column="41" />
         <mark key="." line="22" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/minimal-funk/test-data/AnnotatorJavaScriptTestData.js" timestamp="1567654390238">
+      <file name="$USER_HOME$/dev/my-projects/minimal-funk/test-data/AnnotatorJavaScriptTestData.js" timestamp="1567655789718">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="36" column="14" />
@@ -2323,11 +2323,11 @@
         <mark key="." line="32" column="28" />
         <mark key="^" line="32" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/minimal-funk/build.gradle" timestamp="1567636298986">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="^" line="7" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/dev/my-projects/minimal-funk/build.gradle" timestamp="1567657102213">
+        <mark key="[" line="24" column="18" />
+        <mark key="]" line="24" column="26" />
+        <mark key="^" line="24" column="26" />
+        <mark key="." line="24" column="26" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/minimal-funk/test-data/AnnotatorTestData.java" timestamp="1567110976720">
         <mark key="[" line="0" column="18" />
@@ -2476,7 +2476,7 @@
         <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>SFunction</text>
+        <text>15.0.1'</text>
       </register>
       <register name="/" type="4">
         <text>runner</text>
@@ -2497,25 +2497,25 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIEpTRnVuY3Rpb24gZnVuY3Rpb24gPSAoSlNGdW5jdGlvbikgZWxlbWVudC5nZXRDb250ZXh0KCk7CiAgICAgICAgICAgICAgICBQc2lFbGVtZW50IG5hbWVJZGVudGlmaWVyID0gZnVuY3Rpb24uZ2V0TmFtZUlkZW50aWZpZXIoKTsKICAgICAgICAgICAgICAgIGlmIChuYW1lSWRlbnRpZmllciAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgZ2V0QW5ub3RhdGlvbihuYW1lSWRlbnRpZmllciwgaG9sZGVyKS5zZXRUZXh0QXR0cmlidXRlcyhGVU5DVElPTl9ERUNMQVJBVElPTik7CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGlmIChlbGVtZW50IGluc3RhbmNlb2YgUHNpS2V5d29yZCAmJiBlbGVtZW50LmdldFRleHQoKS5lcXVhbHMoImNsYXNzIikpewovLyAgICAgICAgICAgIFBzaUVsZW1lbnQgY2xhc3NOYW1lRWxlbWVudCA9IGVsZW1lbnQuZ2V0TmV4dFNpYmxpbmcoKS5nZXROZXh0U2libGluZygpOwovLyAgICAgICAgICAgIGdldEFubm90YXRpb24oY2xhc3NOYW1lRWxlbWVudCwgaG9sZGVyKS5zZXRUZXh0QXR0cmlidXRlcyhGVU5DVElPTl9ERUNMQVJBVElPTik7Ci8vICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgQXJyYXlMaXN0PFBzaUVsZW1lbnQ+IGhhbmRsZWRGdW5jdGlvbnMgPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8gICAgICAgIGlmIChlbGVtZW50IGluc3RhbmNlb2YgUHNpS2V5d29yZCAmJiBlbGVtZW50LmdldFRleHQoKS5lcXVhbHMoImNsYXNzIikpewovLyAgICAgICAgICAgIFBzaUVsZW1lbnQgY2xhc3NOYW1lRWxlbWVudCA9IGVsZW1lbnQuZ2V0TmV4dFNpYmxpbmcoKS5nZXROZXh0U2libGluZygpOwovLyAgICAgICAgICAgIGdldEFubm90YXRpb24oY2xhc3NOYW1lRWxlbWVudCwgaG9sZGVyKS5zZXRUZXh0QXR0cmlidXRlcyhGVU5DVElPTl9ERUNMQVJBVElPTik7Ci8vICAgICAgICB9Cg==</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">CiAgICAgICAgaWYgKGVsZW1lbnQuZ2V0Tm9kZSgpLmdldEVsZW1lbnRUeXBlKCkgPT0gRlVOQ1RJT05fS0VZV09SRCl7CiAgICAgICAgICAgIEpTRnVuY3Rpb24gZnVuY3Rpb24gPSAoSlNGdW5jdGlvbikgZWxlbWVudC5nZXRDb250ZXh0KCk7CiAgICAgICAgICAgIFBzaUVsZW1lbnQgbmFtZUlkZW50aWZpZXIgPSBmdW5jdGlvbi5nZXROYW1lSWRlbnRpZmllcigpOwogICAgICAgICAgICBpZiAobmFtZUlkZW50aWZpZXIgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgZ2V0QW5ub3RhdGlvbihuYW1lSWRlbnRpZmllciwgaG9sZGVyKS5zZXRUZXh0QXR0cmlidXRlcyhGVU5DVElPTl9ERUNMQVJBVElPTik7CiAgICAgICAgfSBlbHNl</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAgIH0KICAgICAgICA=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgZnVuMyA9IHggPT4geDsKCmNvbnN0IGZ1bjQgPSAoKSA9PiB0cnVlOwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -2529,7 +2529,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gZnVuMSgpe30KCmNvbnN0IGZ1bjIgPSBmdW5jdGlvbiAoKSB7Cn07Cgo=</text>
+        <text encoding="base64">Y29uc3QgZnVuMyA9IHggPT4geDsKCmNvbnN0IGZ1bjQgPSAoKSA9PiB0cnVlOwoK</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -2550,7 +2550,7 @@
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICIgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
