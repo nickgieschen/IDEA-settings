@@ -1300,12 +1300,11 @@
         <mark key="." line="3" column="2" />
         <mark key="^" line="3" column="2" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/minimal-funk/src/main/resources/META-INF/plugin.xml" timestamp="1567635448746">
-        <mark key="'" line="15" column="23" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="6" column="51" />
+      <file name="$USER_HOME$/dev/my-projects/minimal-funk/src/main/resources/META-INF/plugin.xml" timestamp="1567640994128">
+        <mark key="'" line="13" column="23" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/avellanas/src/browser/content.js" timestamp="1526615115123">
         <mark key="[" line="5" column="36" />
@@ -2491,25 +2490,25 @@
         <text encoding="base64">ICB2ZXJzaW9uID0gJ0lVLTE1LjAuMScK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZlcnNpb24gJzIwMTkuMS4xJwo=</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRzPmNvbS5pbnRlbGxpai5tb2R1bGVzLnBsYXRmb3JtPC9kZXBlbmRzPgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZlcnNpb24gJzIwMTkuMS4xJwo=</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRzPmNvbS5pbnRlbGxpai5tb2R1bGVzLnVsdGltYXRlPC9kZXBlbmRzPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlkICdqYXZhJwo=</text>
+        <text encoding="base64">ICAgIHZlcnNpb24gJzIwMTkuMS4xJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlkICdqYXZhJwo=</text>
+        <text encoding="base64">ICAgIHZlcnNpb24gJzIwMTkuMS4xJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIGZpbGVzKCJsaWIvY3NzLmphciIpCg==</text>
+        <text encoding="base64">ICAgIGlkICdqYXZhJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIGZpbGVzKCJsaWIvSmF2YVNjcmlwdExhbmd1YWdlLmphciIpCg==</text>
+        <text encoding="base64">ICAgIGlkICdqYXZhJwo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -2520,10 +2519,10 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxhY3Rpb25zPgogICAgICAgIDwhLS0gQWRkIHlvdXIgYWN0aW9ucyBoZXJlIC0tPgogICAgICAgIDxncm91cCBpZD0iTXlQbHVnaW4uU2FtcGxlTWVudSIgdGV4dD0iR3JlZXRpbmciIGRlc2NyaXB0aW9uPSJHcmVldGluZyBtZW51Ij4KICAgICAgICAgICAgPGFkZC10by1ncm91cCBncm91cC1pZD0iTWFpbk1lbnUiIGFuY2hvcj0ibGFzdCIvPgogICAgICAgICAgICA8YWN0aW9uIGlkPSJNeXBsdWdpbi5UZXh0Ym94ZXMiIGNsYXNzPSJIZWxsb0FjdGlvbiIgdGV4dD0iSGVsbG8iIGRlc2NyaXB0aW9uPSJTYXlzIGhlbGxvIi8+CiAgICAgICAgPC9ncm91cD4KICAgIDwvYWN0aW9ucz4K</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIGZpbGVzKCJsaWIvY3NzLmphciIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIGZpbGVzKCJsaWIvY3NzLmphciIpCg==</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIGZpbGVzKCJsaWIvSmF2YVNjcmlwdExhbmd1YWdlLmphciIpCg==</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -2544,7 +2543,7 @@
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIGZpbGVzKCJsaWIvSmF2YVNjcmlwdExhbmd1YWdlLmphciIpCg==</text>
+        <text encoding="base64">ICAgIDxhY3Rpb25zPgogICAgICAgIDwhLS0gQWRkIHlvdXIgYWN0aW9ucyBoZXJlIC0tPgogICAgICAgIDxncm91cCBpZD0iTXlQbHVnaW4uU2FtcGxlTWVudSIgdGV4dD0iR3JlZXRpbmciIGRlc2NyaXB0aW9uPSJHcmVldGluZyBtZW51Ij4KICAgICAgICAgICAgPGFkZC10by1ncm91cCBncm91cC1pZD0iTWFpbk1lbnUiIGFuY2hvcj0ibGFzdCIvPgogICAgICAgICAgICA8YWN0aW9uIGlkPSJNeXBsdWdpbi5UZXh0Ym94ZXMiIGNsYXNzPSJIZWxsb0FjdGlvbiIgdGV4dD0iSGVsbG8iIGRlc2NyaXB0aW9uPSJTYXlzIGhlbGxvIi8+CiAgICAgICAgPC9ncm91cD4KICAgIDwvYWN0aW9ucz4K</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
