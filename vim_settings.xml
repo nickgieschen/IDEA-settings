@@ -21,6 +21,9 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1566864280317">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/my-projects/fbmanager/src/integration-test/kotlin/fbbmanager/api/IntegrationTests.kt" timestamp="1486166451264">
         <mark key="[" line="25" column="4" />
         <mark key="]" line="25" column="5" />
@@ -69,6 +72,7 @@
         <mark key="^" line="7" column="15" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2019.2.1/522f6926ba0bbd094b63c8957e5a02dc4f77e5ac/ideaIC-2019.2.1-sources.jar!/com/intellij/psi/PsiNameIdentifierOwner.java" timestamp="1567658354607" />
       <file name="$USER_HOME$/dev/my-projects/comcast-spring/src/integration-test/java/comcast/api/IntegrationTest.java" timestamp="1483077310131">
         <mark key="[" line="6" column="26" />
         <mark key="]" line="6" column="36" />
@@ -110,6 +114,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="83" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/io/seriouscybernetics/MFJavaAnnotator.java" timestamp="1567112014401">
+        <mark key="[" line="13" column="13" />
+        <mark key="]" line="13" column="13" />
+        <mark key="^" line="13" column="17" />
+        <mark key="." line="13" column="13" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/ghide/foo.js" timestamp="1499192570727">
         <mark key="[" line="0" column="12" />
@@ -155,6 +165,10 @@
         <mark key="]" line="2" column="17" />
         <mark key="." line="2" column="17" />
         <mark key="^" line="2" column="17" />
+      </file>
+      <file name="$USER_HOME$/dev/reference-projects/material-theme-jetbrains/src/main/java/com/chrisrm/idea/annotators/BaseAnnotator.java" timestamp="1567107508073">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="41" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/opshut-debuts/src/main/resources/application.conf" timestamp="1524764551430">
         <mark key="[" line="5" column="19" />
@@ -210,10 +224,12 @@
         <mark key="^" line="19" column="7" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/english-vocab-builder/notInAnki-all" timestamp="1559497297419">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/io/seriouscybernetics/JavaScriptAnnotator.java" timestamp="1567715504480">
+        <mark key="'" line="46" column="72" />
+        <mark key="[" line="53" column="12" />
+        <mark key="]" line="52" column="15" />
+        <mark key="^" line="52" column="15" />
+        <mark key="." line="52" column="15" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/ito/views/error.swig" timestamp="1536009164414">
         <mark key="[" line="2" column="4" />
@@ -221,18 +237,17 @@
         <mark key="." line="2" column="10" />
         <mark key="^" line="2" column="10" />
       </file>
+      <file name="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/io/seriouscybernetics/JavaColorPage.java" timestamp="1566870060069">
+        <mark key="[" line="16" column="13" />
+        <mark key="]" line="16" column="16" />
+        <mark key="." line="16" column="16" />
+        <mark key="^" line="16" column="16" />
+      </file>
       <file name="$USER_HOME$/dev/my-projects/comcast/src/main/resources/application-test.conf" timestamp="1484202616207">
         <mark key="[" line="1" column="41" />
         <mark key="]" line="1" column="24" />
         <mark key="^" line="1" column="24" />
         <mark key="." line="1" column="24" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/operationshutdown/draftroundgenerator/previousyeardraft.tsv" timestamp="1552599111813">
-        <mark key="'" line="11" column="151" />
-        <mark key="[" line="2" column="25" />
-        <mark key="]" line="2" column="25" />
-        <mark key="." line="2" column="25" />
-        <mark key="^" line="11" column="155" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/oj/app/config/log.js" timestamp="1536542611488">
         <mark key="[" line="7" column="12" />
@@ -294,6 +309,13 @@
         <mark key="^" line="5" column="34" />
         <mark key="." line="5" column="34" />
       </file>
+      <file name="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/io/seriouscybernetics/JavaAnnotator.java" timestamp="1567656938436">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="14" column="157" />
+        <mark key="." line="14" column="157" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6111178f-0535-4f77-8096-139c834d4a58/console.sql" timestamp="1484900361265">
         <mark key="[" line="0" column="25" />
         <mark key="]" line="0" column="0" />
@@ -305,6 +327,9 @@
         <mark key="]" line="25" column="0" />
         <mark key="^" line="7" column="21" />
         <mark key="." line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/reference-projects/intellij-plugins/AngularJS/resources/META-INF/plugin.xml" timestamp="1567633530204">
+        <mark key="'" line="90" column="42" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/rogozhin/js/index.js" timestamp="1552019159257">
         <mark key="[" line="0" column="0" />
@@ -372,13 +397,6 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="12" column="27" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/hub/routes/auth.js" timestamp="1544318128862">
-        <mark key="'" line="3" column="37" />
-        <mark key="[" line="8" column="35" />
-        <mark key="]" line="8" column="35" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="8" column="35" />
-      </file>
       <file name="$USER_HOME$/dev/my-projects/guilt/src/test/SpecRunner.html" timestamp="1509949804767">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -415,6 +433,12 @@
         <mark key="." line="35" column="44" />
         <mark key="^" line="35" column="44" />
       </file>
+      <file name="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/io/seriouscybernetics/MFAnnotator.java" timestamp="1567111996804">
+        <mark key="[" line="13" column="15" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="19" column="77" />
+      </file>
       <file name="$USER_HOME$/dev/my-projects/comcast/src/main/resources/db/migration/V1__baseline.sql" timestamp="1486772074069">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="16" column="1" />
@@ -432,6 +456,12 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
         <mark key="^" line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/SyntaxHighlighter.java" timestamp="1566861082839">
+        <mark key="[" line="6" column="13" />
+        <mark key="]" line="6" column="13" />
+        <mark key="." line="6" column="13" />
+        <mark key="^" line="6" column="21" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/comcast-spring/src/main/java/comcast/api/AppController.java" timestamp="1483151963609">
         <mark key="[" line="5" column="0" />
@@ -505,6 +535,9 @@
         <mark key="." line="7" column="2" />
         <mark key="^" line="7" column="2" />
       </file>
+      <file name="/Dummy.txt" timestamp="1567106944805">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/my-projects/comcast-spring/src/integration-test/java/com/expent/comcast/api/ControllerIntegrationTestBase.java" timestamp="1483245550823">
         <mark key="[" line="11" column="38" />
         <mark key="]" line="11" column="13" />
@@ -516,13 +549,6 @@
         <mark key="]" line="4" column="26" />
         <mark key="." line="4" column="26" />
         <mark key="^" line="4" column="18" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/yngwie/js/default.js" timestamp="1566507503838">
-        <mark key="'" line="149" column="11" />
-        <mark key="[" line="52" column="39" />
-        <mark key="]" line="53" column="33" />
-        <mark key="^" line="53" column="33" />
-        <mark key="." line="53" column="33" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/hub/public/stylesheets/_custom.scss" timestamp="1546919116296">
         <mark key="[" line="1" column="18" />
@@ -547,6 +573,11 @@
         <mark key="]" line="0" column="27" />
         <mark key="^" line="2" column="18" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/reference-projects/material-theme-jetbrains/src/main/java/com/chrisrm/idea/annotators/JavaAnnotator.java" timestamp="1567107425550">
+        <mark key="'" line="36" column="46" />
+        <mark key="[" line="40" column="51" />
+        <mark key="]" line="40" column="123" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/fbmanager/src/main/resources/templates/keepers.html" timestamp="1486164396679">
         <mark key="[" line="0" column="0" />
@@ -737,21 +768,11 @@
         <mark key="^" line="2" column="8" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/yngwie/css/main.css" timestamp="1564854941169">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="55" column="1" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/my-projects/oj/app/api/policies/is-logged-in.js" timestamp="1536713105441">
         <mark key="[" line="6" column="60" />
         <mark key="]" line="6" column="71" />
         <mark key="." line="6" column="71" />
         <mark key="^" line="6" column="71" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/english-vocab-builder/multi" timestamp="1559503355522">
-        <mark key="[" line="41" column="1" />
-        <mark key="]" line="41" column="1" />
-        <mark key="." line="41" column="1" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/fbbmanager/src/main/resources/logback.xml" timestamp="1485491730652">
         <mark key="[" line="10" column="10" />
@@ -776,6 +797,12 @@
         <mark key="]" line="13" column="27" />
         <mark key="." line="13" column="27" />
         <mark key="^" line="13" column="27" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/MFAnnotator.java" timestamp="1566861136020">
+        <mark key="[" line="0" column="36" />
+        <mark key="]" line="0" column="36" />
+        <mark key="^" line="0" column="23" />
+        <mark key="." line="0" column="36" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/oj/api/controllers/enroll-user-enroll.js" timestamp="1536017021807">
         <mark key="[" line="12" column="22" />
@@ -818,12 +845,6 @@
         <mark key="]" line="8" column="88" />
         <mark key="^" line="8" column="88" />
         <mark key="." line="8" column="88" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/yngwie/js/main.js" timestamp="1564855005984">
-        <mark key="'" line="0" column="10" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="130" column="3" />
-        <mark key="." line="130" column="0" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/comcast/src/main/kotlin/comcast/api/eadrax/FormItems.kt" timestamp="1489102319288">
         <mark key="[" line="6" column="74" />
@@ -879,6 +900,9 @@
         <mark key="." line="23" column="188" />
         <mark key="^" line="23" column="188" />
       </file>
+      <file name="$USER_HOME$/dev/reference-projects/material-theme-jetbrains/src/main/resources/META-INF/plugin.xml" timestamp="1567125811395">
+        <mark key="'" line="163" column="97" />
+      </file>
       <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/hub/misc/todo" timestamp="1546919605773">
         <mark key="[" line="6" column="35" />
         <mark key="]" line="6" column="34" />
@@ -893,6 +917,12 @@
       </file>
       <file name="$USER_HOME$/dev/my-projects/yngwie/lib/js/raphael.js" timestamp="1564854675640">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/minimal-funk/src/test/java/io/seriouscybernetics/MFAnnotatorTest.java" timestamp="1566863381827">
+        <mark key="[" line="16" column="8" />
+        <mark key="]" line="16" column="8" />
+        <mark key="^" line="12" column="24" />
+        <mark key="." line="16" column="8" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/comcast/src/main/resources/logback.xml" timestamp="1512606862751">
         <mark key="[" line="21" column="23" />
@@ -972,25 +1002,11 @@
         <mark key="." line="2" column="24" />
         <mark key="^" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/english-vocab-builder/redo" timestamp="1559347267265">
-        <mark key="'" line="109" column="2" />
-        <mark key="[" line="108" column="17" />
-        <mark key="]" line="108" column="17" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="108" column="17" />
-      </file>
       <file name="$USER_HOME$/vagrant-local/www/kerrievelynharris/public_html/wp-content/themes/parallelus-frontrunner 3/templates/volunteer.php" timestamp="1532467476518">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="93" />
         <mark key="." line="7" column="27" />
         <mark key="^" line="7" column="27" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/guitar/index.html" timestamp="1564626728433">
-        <mark key="'" line="40" column="26" />
-        <mark key="[" line="150" column="12" />
-        <mark key="]" line="151" column="26" />
-        <mark key="^" line="151" column="26" />
-        <mark key="." line="151" column="26" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/oj/views/pages/homepage.html" timestamp="1536108480314">
         <mark key="[" line="0" column="12" />
@@ -1039,13 +1055,6 @@
         <mark key="]" line="0" column="8" />
         <mark key="^" line="0" column="8" />
         <mark key="." line="0" column="8" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/operationshutdown/draftroundgenerator/src/main.kts" timestamp="1552604227110">
-        <mark key="'" line="111" column="8" />
-        <mark key="[" line="54" column="13" />
-        <mark key="]" line="54" column="13" />
-        <mark key="." line="54" column="13" />
-        <mark key="^" line="26" column="15" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/nikbox/nikbox.js" timestamp="1522645419622">
         <mark key="[" line="70" column="142" />
@@ -1119,11 +1128,24 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/io/seriouscybernetics/JavaScriptColorsPage.java" timestamp="1567648557596">
+        <mark key="[" line="29" column="42" />
+        <mark key="]" line="29" column="49" />
+        <mark key="^" line="29" column="49" />
+        <mark key="." line="29" column="49" />
+      </file>
       <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/bookmark.js" timestamp="1520873815338">
         <mark key="[" line="0" column="19" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
         <mark key="^" line="0" column="19" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/minimal-funk/src/test/java/io/seriouscybernetics/JavaScriptAnnotatorTest.java" timestamp="1567657830888">
+        <mark key="'" line="17" column="28" />
+        <mark key="[" line="4" column="45" />
+        <mark key="]" line="4" column="64" />
+        <mark key="^" line="4" column="64" />
+        <mark key="." line="4" column="64" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/comcast-spring/src/main/java/com/expent/comcast/api/security/JwtService.java" timestamp="1483947324241">
         <mark key="[" line="10" column="0" />
@@ -1167,8 +1189,10 @@
         <mark key="." line="16" column="4" />
         <mark key="^" line="27" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/reference-projects/material-theme-jetbrains/src/main/java/com/chrisrm/idea/annotators/JSAnnotator.java" timestamp="1566676803303">
-        <mark key="'" line="54" column="66" />
+      <file name="$USER_HOME$/dev/reference-projects/material-theme-jetbrains/src/main/java/com/chrisrm/idea/annotators/JSAnnotator.java" timestamp="1567125840131">
+        <mark key="'" line="40" column="43" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="43" column="48" />
       </file>
       <file name="/7ff0e53c/6111178f-0535-4f77-8096-139c834d4a58/database/comcast/schema/public/materialized-view/selection_total_2.sql" timestamp="1484898647248">
         <mark key="[" line="0" column="0" />
@@ -1187,13 +1211,6 @@
         <mark key="]" line="33" column="26" />
         <mark key="." line="33" column="26" />
         <mark key="^" line="33" column="26" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/english-vocab-builder/index.js" timestamp="1559504467629">
-        <mark key="'" line="179" column="17" />
-        <mark key="[" line="203" column="12" />
-        <mark key="]" line="203" column="13" />
-        <mark key="." line="203" column="13" />
-        <mark key="^" line="203" column="13" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/oj/app/api/controllers/BlueprintsController.js" timestamp="1536629349320">
         <mark key="[" line="8" column="45" />
@@ -1231,20 +1248,6 @@
         <mark key="." line="3" column="54" />
         <mark key="^" line="3" column="54" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/english-vocab-builder/multi-doing" timestamp="1559355299252">
-        <mark key="'" line="6" column="2644" />
-        <mark key="[" line="407" column="360" />
-        <mark key="]" line="407" column="501" />
-        <mark key="^" line="407" column="501" />
-        <mark key="." line="407" column="501" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/english-vocab-builder/multi-curated" timestamp="1559504155541">
-        <mark key="'" line="42" column="0" />
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="0" column="1" />
-        <mark key="." line="0" column="1" />
-        <mark key="^" line="42" column="1" />
-      </file>
       <file name="$USER_HOME$/dev/my-projects/nikbox/style.css" timestamp="1522640322638">
         <mark key="[" line="52" column="25" />
         <mark key="]" line="52" column="5" />
@@ -1268,13 +1271,6 @@
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
         <mark key="^" line="0" column="23" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/hub/migrations/20181202005732-create-bookmark.js" timestamp="1545777141851">
-        <mark key="'" line="36" column="33" />
-        <mark key="[" line="33" column="22" />
-        <mark key="]" line="33" column="22" />
-        <mark key="." line="33" column="22" />
-        <mark key="^" line="36" column="83" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/oj/app/app.js" timestamp="1536441695783">
         <mark key="[" line="31" column="0" />
@@ -1311,6 +1307,12 @@
         <mark key="]" line="3" column="2" />
         <mark key="." line="3" column="2" />
         <mark key="^" line="3" column="2" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/minimal-funk/src/main/resources/META-INF/plugin.xml" timestamp="1567648247325">
+        <mark key="'" line="13" column="23" />
+        <mark key="[" line="16" column="69" />
+        <mark key="]" line="16" column="82" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/avellanas/src/browser/content.js" timestamp="1526615115123">
         <mark key="[" line="5" column="36" />
@@ -1354,13 +1356,6 @@
         <mark key="^" line="4" column="3" />
         <mark key="." line="4" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/hub/public/javascripts/components/signup.jsx" timestamp="1546919476780">
-        <mark key="'" line="16" column="13" />
-        <mark key="[" line="10" column="27" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="10" column="13" />
-        <mark key="." line="11" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/hub/dist/index.html" timestamp="1544998221276">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="1" />
@@ -1373,6 +1368,9 @@
         <mark key="." line="9" column="22" />
         <mark key="^" line="9" column="22" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2019.1.1/db5b7b92cc9589863a7f7c506e0d7bf3ae29d680/ideaIC-2019.1.1-sources.jar!/com/intellij/lang/LanguageExtensionPoint.java" timestamp="1567212447491">
+        <mark key="'" line="13" column="28" />
+      </file>
       <file name="$USER_HOME$/dev/my-projects/comcast-spring/src/integration-test/resources/application.yaml" timestamp="1483849165876">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="25" />
@@ -1384,6 +1382,12 @@
         <mark key="]" line="22" column="28" />
         <mark key="^" line="22" column="41" />
         <mark key="." line="22" column="28" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/minimal-funk/test-data/AnnotatorJavaScriptTestData.js" timestamp="1567712582857">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="9" column="1" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/comcast/src/integration-test/kotlin/comcast/Db.kt" timestamp="1484957413494">
         <mark key="[" line="18" column="7" />
@@ -1478,13 +1482,6 @@
         <mark key="." line="29" column="16" />
         <mark key="^" line="28" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/hub/routes/api/bookmarks.js" timestamp="1545853414036">
-        <mark key="'" line="12" column="32" />
-        <mark key="[" line="3" column="6" />
-        <mark key="]" line="3" column="11" />
-        <mark key="^" line="3" column="11" />
-        <mark key="." line="3" column="11" />
-      </file>
       <file name="$USER_HOME$/dev/my-projects/oj/admin/src/Required.js" timestamp="1538525169727">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -1557,6 +1554,9 @@
         <mark key="." line="13" column="43" />
         <mark key="^" line="13" column="43" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/LATEST-EAP-SNAPSHOT/522f6926ba0bbd094b63c8957e5a02dc4f77e5ac/ideaIC-LATEST-EAP-SNAPSHOT-sources.jar!/com/intellij/AbstractBundle.java" timestamp="1567102143405">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/my-projects/guilt/src/main/content.js" timestamp="1511394654572">
         <mark key="[" line="33" column="28" />
         <mark key="]" line="33" column="28" />
@@ -1568,6 +1568,18 @@
         <mark key="]" line="22" column="0" />
         <mark key="^" line="7" column="56" />
         <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/reference-projects/material-theme-jetbrains/src/main/java/com/chrisrm/idea/annotators/settings/JavaColorSettings.java" timestamp="1567111470427">
+        <mark key="'" line="165" column="12" />
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="80" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/io/seriouscybernetics/JavaColorsPage.java" timestamp="1567112659222">
+        <mark key="'" line="29" column="79" />
+        <mark key="[" line="74" column="17" />
+        <mark key="]" line="68" column="4" />
+        <mark key="^" line="68" column="4" />
+        <mark key="." line="68" column="4" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/content.js" timestamp="1527632641872">
         <mark key="[" line="1" column="4" />
@@ -1731,7 +1743,7 @@
         <mark key="." line="23" column="20" />
         <mark key="^" line="23" column="52" />
       </file>
-      <file name="/fragment.java" timestamp="1559002154140">
+      <file name="/fragment.java" timestamp="1567657887369">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/comcast-spring/src/integration-test/java/comcast/api/AppControllerIntegrationTests.java" timestamp="1483072879466">
@@ -1859,11 +1871,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="23" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/rogozhin/webpack.common.js" timestamp="1552019084830">
-        <mark key="[" line="10" column="39" />
-        <mark key="]" line="10" column="39" />
-        <mark key="." line="10" column="39" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/popup/bookmark.js" timestamp="1529197006800">
         <mark key="[" line="42" column="18" />
@@ -2021,6 +2028,10 @@
         <mark key="^" line="13" column="27" />
         <mark key="." line="13" column="27" />
       </file>
+      <file name="$USER_HOME$/dev/reference-projects/material-theme-jetbrains/src/main/java/com/chrisrm/idea/annotators/settings/BaseColorSettings.java" timestamp="1567108863211">
+        <mark key="[" line="37" column="48" />
+        <mark key="]" line="37" column="111" />
+      </file>
       <file name="$USER_HOME$/dev/my-projects/test1/.jshintrc" timestamp="1508228509834">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -2104,6 +2115,10 @@
         <mark key="]" line="33" column="5" />
         <mark key="." line="33" column="5" />
         <mark key="^" line="33" column="5" />
+      </file>
+      <file name="$USER_HOME$/dev/reference-projects/intellij-plugins/handlebars/build.gradle" timestamp="1567636292325">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="23" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/comcast/src/main/resources/db/migration/V2__add_comastuser.sql" timestamp="1485015658686">
         <mark key="[" line="0" column="0" />
@@ -2195,13 +2210,6 @@
         <mark key="^" line="2" column="14" />
         <mark key="." line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/hub/models/index.js" timestamp="1544402947600">
-        <mark key="'" line="24" column="28" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="10" column="15" />
-        <mark key="." line="11" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/my-projects/fbbmanager/src/main/resources/application.conf" timestamp="1486423018166">
         <mark key="[" line="13" column="26" />
         <mark key="]" line="13" column="43" />
@@ -2213,6 +2221,12 @@
         <mark key="]" line="15" column="0" />
         <mark key="^" line="14" column="0" />
         <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/minimal-funk/src/test/java/io/seriouscybernetics/JavaAnnotatorTest.java" timestamp="1567208132217">
+        <mark key="[" line="16" column="45" />
+        <mark key="]" line="16" column="48" />
+        <mark key="^" line="16" column="48" />
+        <mark key="." line="16" column="48" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/comcast-spring/src/main/java/com/expent/comcast/api/security/UserAuthentication.java" timestamp="1483582704215">
         <mark key="[" line="29" column="21" />
@@ -2265,17 +2279,32 @@
         <mark key="." line="8" column="44" />
         <mark key="^" line="8" column="44" />
       </file>
+      <file name="$USER_HOME$/dev/reference-projects/material-theme-jetbrains/src/main/java/com/chrisrm/idea/messages/FileColorsBundle.java" timestamp="1567101880182">
+        <mark key="'" line="38" column="52" />
+      </file>
       <file name="$USER_HOME$/dev/my-projects/fbmanager/src/main/kotlin/fbbmanager/api/Controller.kt" timestamp="1486166723891">
         <mark key="[" line="9" column="59" />
         <mark key="]" line="9" column="59" />
         <mark key="." line="9" column="59" />
         <mark key="^" line="9" column="63" />
       </file>
+      <file name="$USER_HOME$/dev/my-projects/minimal-funk/src/test-data/AnnotatorTestData.java" timestamp="1566862366118">
+        <mark key="[" line="5" column="9" />
+        <mark key="]" line="5" column="13" />
+        <mark key="^" line="5" column="13" />
+        <mark key="." line="5" column="13" />
+      </file>
       <file name="$USER_HOME$/dev/my-projects/comcast/src/main/kotlin/comcast/App.kt" timestamp="1485134685373">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
         <mark key="^" line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/Annotator.java" timestamp="1566861126532">
+        <mark key="[" line="1" column="13" />
+        <mark key="]" line="1" column="13" />
+        <mark key="^" line="1" column="12" />
+        <mark key="." line="1" column="13" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/thrashbarg/src/test/java/thrashbarg/Extensions.kt" timestamp="1482805460727">
         <mark key="[" line="4" column="0" />
@@ -2295,47 +2324,20 @@
         <mark key="." line="32" column="28" />
         <mark key="^" line="32" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/operationshutdown/draftroundgenerator/previousyeardraft-2017.tsv" timestamp="1548968024875">
-        <mark key="'" line="17" column="130" />
-        <mark key="[" line="3" column="48" />
-        <mark key="]" line="3" column="52" />
-        <mark key="." line="3" column="52" />
-        <mark key="^" line="3" column="52" />
+      <file name="$USER_HOME$/dev/my-projects/minimal-funk/build.gradle" timestamp="1567657102213">
+        <mark key="[" line="24" column="18" />
+        <mark key="]" line="24" column="26" />
+        <mark key="^" line="24" column="26" />
+        <mark key="." line="24" column="26" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/minimal-funk/test-data/AnnotatorTestData.java" timestamp="1567110976720">
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="0" column="39" />
+        <mark key="^" line="0" column="39" />
+        <mark key="." line="0" column="39" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="0" filename="$USER_HOME$/dev/my-projects/operationshutdown/draftroundgenerator/previousyeardraft-2017.tsv" />
-      <jump line="12" column="68" filename="$USER_HOME$/dev/my-projects/operationshutdown/draftroundgenerator/previousyeardraft-2017.tsv" />
-      <jump line="17" column="130" filename="$USER_HOME$/dev/my-projects/operationshutdown/draftroundgenerator/previousyeardraft-2017.tsv" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/my-projects/operationshutdown/draftroundgenerator/previousyeardraft.tsv" />
-      <jump line="6" column="252" filename="$USER_HOME$/dev/my-projects/operationshutdown/draftroundgenerator/previousyeardraft.tsv" />
-      <jump line="18" column="12" filename="$USER_HOME$/dev/my-projects/operationshutdown/draftroundgenerator/previousyeardraft.tsv" />
-      <jump line="3" column="15" filename="$USER_HOME$/dev/my-projects/operationshutdown/draftroundgenerator/previousyeardraft.tsv" />
-      <jump line="10" column="83" filename="$USER_HOME$/dev/my-projects/operationshutdown/draftroundgenerator/previousyeardraft.tsv" />
-      <jump line="11" column="151" filename="$USER_HOME$/dev/my-projects/operationshutdown/draftroundgenerator/previousyeardraft.tsv" />
-      <jump line="137" column="0" filename="$USER_HOME$/dev/my-projects/operationshutdown/draftroundgenerator/src/main.kts" />
-      <jump line="139" column="0" filename="$USER_HOME$/dev/my-projects/operationshutdown/draftroundgenerator/src/main.kts" />
-      <jump line="24" column="4" filename="$USER_HOME$/dev/my-projects/operationshutdown/draftroundgenerator/src/main.kts" />
-      <jump line="91" column="39" filename="$USER_HOME$/dev/my-projects/operationshutdown/draftroundgenerator/src/main.kts" />
-      <jump line="101" column="59" filename="$USER_HOME$/dev/my-projects/operationshutdown/draftroundgenerator/src/main.kts" />
-      <jump line="111" column="8" filename="$USER_HOME$/dev/my-projects/operationshutdown/draftroundgenerator/src/main.kts" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/my-projects/english-vocab-builder/big-english" />
-      <jump line="10" column="0" filename="$USER_HOME$/dev/my-projects/english-vocab-builder/big-english" />
-      <jump line="31" column="4" filename="$USER_HOME$/dev/my-projects/english-vocab-builder/index.js" />
-      <jump line="0" column="22257" filename="$USER_HOME$/dev/my-projects/english-vocab-builder/eng" />
-      <jump line="83" column="22" filename="$USER_HOME$/dev/my-projects/english-vocab-builder/index.js" />
-      <jump line="170" column="18" filename="$USER_HOME$/dev/my-projects/english-vocab-builder/index.js" />
-      <jump line="40" column="1" filename="$USER_HOME$/dev/my-projects/english-vocab-builder/index.js" />
-      <jump line="186" column="8" filename="$USER_HOME$/dev/my-projects/english-vocab-builder/index.js" />
-      <jump line="25" column="0" filename="$USER_HOME$/dev/my-projects/english-vocab-builder/index.js" />
-      <jump line="114" column="0" filename="$USER_HOME$/dev/my-projects/english-vocab-builder/index.js" />
-      <jump line="175" column="24" filename="$USER_HOME$/dev/my-projects/english-vocab-builder/index.js" />
-      <jump line="15" column="0" filename="$USER_HOME$/dev/my-projects/english-vocab-builder/index.js" />
-      <jump line="179" column="12" filename="$USER_HOME$/dev/my-projects/english-vocab-builder/index.js" />
-      <jump line="850" column="770" filename="$USER_HOME$/dev/my-projects/english-vocab-builder/multi" />
-      <jump line="238" column="2353" filename="$USER_HOME$/dev/my-projects/english-vocab-builder/multi-doing" />
-      <jump line="455" column="2897" filename="$USER_HOME$/dev/my-projects/english-vocab-builder/multi-doing" />
-      <jump line="83" column="3288" filename="$USER_HOME$/dev/my-projects/english-vocab-builder/multi-doing" />
       <jump line="8790" column="0" filename="$USER_HOME$/dev/my-projects/english-vocab-builder/sing" />
       <jump line="108" column="2" filename="$USER_HOME$/dev/my-projects/english-vocab-builder/redo" />
       <jump line="7" column="27" filename="$USER_HOME$/dev/my-projects/english-vocab-builder/index.js" />
@@ -2404,6 +2406,38 @@
       <jump line="142" column="11" filename="$USER_HOME$/dev/my-projects/yngwie/js/default.js" />
       <jump line="63" column="58" filename="$USER_HOME$/dev/reference-projects/material-theme-jetbrains/src/main/java/com/chrisrm/idea/annotators/settings/JSColorSettings.java" />
       <jump line="54" column="66" filename="$USER_HOME$/dev/reference-projects/material-theme-jetbrains/src/main/java/com/chrisrm/idea/annotators/JSAnnotator.java" />
+      <jump line="29" column="52" filename="$USER_HOME$/dev/reference-projects/material-theme-jetbrains/src/main/java/com/chrisrm/idea/config/MTFileColorsPage.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/io/seriouscybernetics/JavaColorsPage.java" />
+      <jump line="28" column="34" filename="$USER_HOME$/dev/reference-projects/material-theme-jetbrains/src/main/java/com/chrisrm/idea/config/MTFileColorsPage.java" />
+      <jump line="48" column="25" filename="$USER_HOME$/dev/reference-projects/material-theme-jetbrains/src/main/java/com/chrisrm/idea/messages/FileColorsBundle.java" />
+      <jump line="61" column="25" filename="$USER_HOME$/dev/reference-projects/material-theme-jetbrains/src/main/java/com/chrisrm/idea/config/MTFileColorsPage.java" />
+      <jump line="58" column="65" filename="$USER_HOME$/dev/reference-projects/material-theme-jetbrains/src/main/java/com/chrisrm/idea/annotators/settings/JavaColorSettings.java" />
+      <jump line="51" column="61" filename="$USER_HOME$/dev/reference-projects/material-theme-jetbrains/src/main/java/com/chrisrm/idea/annotators/settings/JavaColorSettings.java" />
+      <jump line="35" column="15" filename="$USER_HOME$/dev/reference-projects/material-theme-jetbrains/src/main/java/com/chrisrm/idea/annotators/settings/BaseColorSettings.java" />
+      <jump line="38" column="52" filename="$USER_HOME$/dev/reference-projects/material-theme-jetbrains/src/main/java/com/chrisrm/idea/messages/FileColorsBundle.java" />
+      <jump line="43" column="15" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/LATEST-EAP-SNAPSHOT/522f6926ba0bbd094b63c8957e5a02dc4f77e5ac/ideaIC-LATEST-EAP-SNAPSHOT-sources.jar!/com/intellij/AbstractBundle.java" />
+      <jump line="32" column="30" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/LATEST-EAP-SNAPSHOT/522f6926ba0bbd094b63c8957e5a02dc4f77e5ac/ideaIC-LATEST-EAP-SNAPSHOT-sources.jar!/com/intellij/AbstractBundle.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/LATEST-EAP-SNAPSHOT/522f6926ba0bbd094b63c8957e5a02dc4f77e5ac/ideaIC-LATEST-EAP-SNAPSHOT-sources.jar!/com/intellij/AbstractBundle.java" />
+      <jump line="20" column="51" filename="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/io/seriouscybernetics/JavaColorsPage.java" />
+      <jump line="70" column="42" filename="$USER_HOME$/dev/reference-projects/material-theme-jetbrains/src/main/java/com/chrisrm/idea/annotators/settings/JavaColorSettings.java" />
+      <jump line="40" column="51" filename="$USER_HOME$/dev/reference-projects/material-theme-jetbrains/src/main/java/com/chrisrm/idea/annotators/JavaAnnotator.java" />
+      <jump line="36" column="46" filename="$USER_HOME$/dev/reference-projects/material-theme-jetbrains/src/main/java/com/chrisrm/idea/annotators/JavaAnnotator.java" />
+      <jump line="165" column="12" filename="$USER_HOME$/dev/reference-projects/material-theme-jetbrains/src/main/java/com/chrisrm/idea/annotators/settings/JavaColorSettings.java" />
+      <jump line="24" column="59" filename="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/io/seriouscybernetics/JavaColorsPage.java" />
+      <jump line="29" column="79" filename="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/io/seriouscybernetics/JavaColorsPage.java" />
+      <jump line="15" column="147" filename="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/io/seriouscybernetics/JavaAnnotator.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/io/seriouscybernetics/JavaAnnotator.java" />
+      <jump line="163" column="97" filename="$USER_HOME$/dev/reference-projects/material-theme-jetbrains/src/main/resources/META-INF/plugin.xml" />
+      <jump line="40" column="43" filename="$USER_HOME$/dev/reference-projects/material-theme-jetbrains/src/main/java/com/chrisrm/idea/annotators/JSAnnotator.java" />
+      <jump line="4" column="46" filename="$USER_HOME$/dev/my-projects/minimal-funk/src/test/java/io/seriouscybernetics/JavaScriptAnnotatorTest.java" />
+      <jump line="10" column="59" filename="$USER_HOME$/dev/my-projects/minimal-funk/src/test/java/io/seriouscybernetics/JavaScriptAnnotatorTest.java" />
+      <jump line="22" column="31" filename="$USER_HOME$/dev/my-projects/minimal-funk/src/test/java/io/seriouscybernetics/JavaScriptAnnotatorTest.java" />
+      <jump line="13" column="23" filename="$USER_HOME$/dev/my-projects/minimal-funk/src/main/resources/META-INF/plugin.xml" />
+      <jump line="13" column="28" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2019.1.1/db5b7b92cc9589863a7f7c506e0d7bf3ae29d680/ideaIC-2019.1.1-sources.jar!/com/intellij/lang/LanguageExtensionPoint.java" />
+      <jump line="90" column="42" filename="$USER_HOME$/dev/reference-projects/intellij-plugins/AngularJS/resources/META-INF/plugin.xml" />
+      <jump line="15" column="50" filename="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/io/seriouscybernetics/JavaScriptAnnotator.java" />
+      <jump line="17" column="28" filename="$USER_HOME$/dev/my-projects/minimal-funk/src/test/java/io/seriouscybernetics/JavaScriptAnnotatorTest.java" />
+      <jump line="46" column="72" filename="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/io/seriouscybernetics/JavaScriptAnnotator.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2443,7 +2477,7 @@
         <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>Play</text>
+        <text>Annotation</text>
       </register>
       <register name="/" type="4">
         <text>runner</text>
@@ -2461,28 +2495,28 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCJ0b2dnbGVQbGF5QnV0dG9uIikuaW5uZXJUZXh0ID0gIlBsYXkiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEpTRnVuY3Rpb24gZnVuY3Rpb24gPSAoSlNGdW5jdGlvbikgZWxlbWVudC5nZXRDb250ZXh0KCk7CiAgICAgICAgICAgICAgICBQc2lFbGVtZW50IG5hbWVJZGVudGlmaWVyID0gZnVuY3Rpb24uZ2V0TmFtZUlkZW50aWZpZXIoKTsKICAgICAgICAgICAgICAgIGlmIChuYW1lSWRlbnRpZmllciAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgZ2V0QW5ub3RhdGlvbihuYW1lSWRlbnRpZmllciwgaG9sZGVyKS5zZXRUZXh0QXR0cmlidXRlcyhGVU5DVElPTl9ERUNMQVJBVElPTik7CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB0ZXN0U3RhdGUgPSB0ZXN0U3RhdGVzLnBsYXlpbmc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFBzaUVsZW1lbnQgY29udGV4dENvbnRleHQgPSA7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygic3RhcnRpbmciKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChjb250ZXh0Q29udGV4dC5nZXROb2RlKCkuZ2V0RWxlbWVudFR5cGUoKSBpbnN0YW5jZW9mIEVTNkNvbXB1dGVkTmFtZSl7CgogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoKSAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICA9IDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDwhLS0gbWFuZGF0b3J5IHNjcmlwdCBpbmNsdWRlcyBmb3IganRhYiAtLT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJsaWIvanMvanF1ZXJ5LmpzIiB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPjwvc2NyaXB0PgogICAgPHNjcmlwdCBzcmM9ImxpYi9qcy9yYXBoYWVsLmpzIiB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPjwvc2NyaXB0PgogICAgPHNjcmlwdCBzcmM9ImxpYi9qcy9qdGFiLmpzIiB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPjwvc2NyaXB0PgogICAgPHNjcmlwdCBzcmM9ImpzL2RlZmF1bHQuanMiPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBzZXRBbm5vdGF0aW9uKEBOb3ROdWxsIFBzaUVsZW1lbnQgZWxlbWVudCwgQE5vdE51bGwgQW5ub3RhdGlvbkhvbGRlciBob2xkZXIpewogICAgICAgIFBzaU5hbWVJZGVudGlmaWVyT3duZXIgZnVuY3Rpb24gPSAoUHNpTmFtZUlkZW50aWZpZXJPd25lcikgZWxlbWVudC5nZXRDb250ZXh0KCk7CiAgICAgICAgUHNpRWxlbWVudCBuYW1lSWRlbnRpZmllciA9IGZ1bmN0aW9uLmdldE5hbWVJZGVudGlmaWVyKCk7CiAgICAgICAgaWYgKG5hbWVJZGVudGlmaWVyICE9IG51bGwpIHsKICAgICAgICAgICAgZ2V0QW5ub3RhdGlvbihuYW1lSWRlbnRpZmllciwgaG9sZGVyKS5zZXRUZXh0QXR0cmlidXRlcyhGVU5DVElPTl9ERUNMQVJBVElPTik7CiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -2492,11 +2526,17 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIDwvc3R5bGU+Cg==</text>
+      <register name="7" type="4">
+        <text>else if (element.getNode().getElementType() == EQGT){
+            PsiNameIdentifierOwner functionExpression = (PsiNameIdentifierOwner) element.getContext();
+            PsiElement nameIdentifier = functionExpression.getNameIdentifier();
+            if (nameIdentifier != null) {
+                getAnnotation(nameIdentifier, holder).setTextAttributes(FUNCTION_DECLARATION);
+            }
+        }</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxzdHlsZT4K</text>
+        <text encoding="base64">ICAgICAgICBJRWxlbWVudFR5cGUgZWxlbWVudFR5cGU7Cg==</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -2516,11 +2556,8 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="9" type="8">
-        <text>../
-../
-../
-../</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgUHNpRWxlbWVudCBjb250ZXh0ID0gZWxlbWVudC5nZXRDb250ZXh0KCk7CiAgICAgICAgICAgIGlmIChjb250ZXh0IGluc3RhbmNlb2YgSlNGdW5jdGlvbkV4cHJlc3Npb24pIHsKICAgICAgICAgICAgICAgIEpTRnVuY3Rpb25FeHByZXNzaW9uIGZ1bmN0aW9uRXhwcmVzc2lvbiA9IChKU0Z1bmN0aW9uRXhwcmVzc2lvbikgZWxlbWVudC5nZXRDb250ZXh0KCk7CiAgICAgICAgICAgICAgICBQc2lFbGVtZW50IG5hbWVJZGVudGlmaWVyID0gZnVuY3Rpb25FeHByZXNzaW9uLmdldE5hbWVJZGVudGlmaWVyKCk7CiAgICAgICAgICAgICAgICBpZiAobmFtZUlkZW50aWZpZXIgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgIGdldEFubm90YXRpb24obmFtZUlkZW50aWZpZXIsIGhvbGRlcikuc2V0VGV4dEF0dHJpYnV0ZXMoRlVOQ1RJT05fREVDTEFSQVRJT04pOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>

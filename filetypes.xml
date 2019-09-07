@@ -29,7 +29,6 @@
       <mapping pattern="Trial" type="JavaScript" />
       <mapping pattern=".sequelizerc" type="PLAIN_TEXT" />
       <mapping pattern="user_places_bet" type="PLAIN_TEXT" />
-      <mapping pattern="big-english-all" type="PLAIN_TEXT" />
       <mapping pattern=".foreverignore" type="PLAIN_TEXT" />
       <mapping pattern="buildfile" type="PLAIN_TEXT" />
       <mapping pattern="V4__add_selectiongameselectiontotals" type="PLAIN_TEXT" />
@@ -72,6 +71,7 @@
       <mapping pattern="selectcumulative" type="PLAIN_TEXT" />
       <mapping pattern="onStash" type="PLAIN_TEXT" />
       <mapping pattern="slotsWinLines" type="PLAIN_TEXT" />
+      <mapping pattern="big-english-all" type="PLAIN_TEXT" />
       <mapping pattern="ios-local" type="PLAIN_TEXT" />
       <mapping pattern="API" type="PLAIN_TEXT" />
       <mapping pattern="errorPlayers" type="PLAIN_TEXT" />
