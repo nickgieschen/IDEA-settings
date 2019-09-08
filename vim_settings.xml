@@ -229,6 +229,12 @@
         <mark key="." line="42" column="68" />
         <mark key="^" line="42" column="68" />
       </file>
+      <file name="$USER_HOME$/dev/my-projects/minimal-funk/src/test/java/io/seriouscybernetics/KotlinAnnotatorTest.java" timestamp="1567966453408">
+        <mark key="[" line="16" column="64" />
+        <mark key="]" line="16" column="64" />
+        <mark key="." line="16" column="64" />
+        <mark key="^" line="16" column="64" />
+      </file>
       <file name="$USER_HOME$/dev/my-projects/ito/views/error.swig" timestamp="1536009164414">
         <mark key="[" line="2" column="4" />
         <mark key="]" line="2" column="10" />
@@ -554,6 +560,12 @@
         <mark key="." line="4" column="26" />
         <mark key="^" line="4" column="18" />
       </file>
+      <file name="$USER_HOME$/dev/my-projects/minimal-funk/test-data/AnnotatorKotlinTestData.kt" timestamp="1567966414529">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="10" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="0" column="10" />
+      </file>
       <file name="$USER_HOME$/dev/my-projects/exploding-bookmarks/hub/public/stylesheets/_custom.scss" timestamp="1546919116296">
         <mark key="[" line="1" column="18" />
         <mark key="]" line="2" column="35" />
@@ -582,6 +594,11 @@
         <mark key="'" line="36" column="46" />
         <mark key="[" line="40" column="51" />
         <mark key="]" line="40" column="123" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/io/seriouscybernetics/KotlinAnnotator.java" timestamp="1567966422634">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/fbmanager/src/main/resources/templates/keepers.html" timestamp="1486164396679">
         <mark key="[" line="0" column="0" />
@@ -1318,12 +1335,12 @@
         <mark key="." line="3" column="2" />
         <mark key="^" line="3" column="2" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/minimal-funk/src/main/resources/META-INF/plugin.xml" timestamp="1567917786633">
+      <file name="$USER_HOME$/dev/my-projects/minimal-funk/src/main/resources/META-INF/plugin.xml" timestamp="1567966819741">
         <mark key="'" line="14" column="23" />
-        <mark key="[" line="6" column="33" />
-        <mark key="]" line="7" column="18" />
-        <mark key="." line="7" column="18" />
-        <mark key="^" line="7" column="18" />
+        <mark key="[" line="16" column="29" />
+        <mark key="]" line="16" column="34" />
+        <mark key="^" line="16" column="34" />
+        <mark key="." line="16" column="34" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/avellanas/src/browser/content.js" timestamp="1526615115123">
         <mark key="[" line="5" column="36" />
@@ -1754,7 +1771,7 @@
         <mark key="." line="23" column="20" />
         <mark key="^" line="23" column="52" />
       </file>
-      <file name="/fragment.java" timestamp="1567657887369">
+      <file name="/fragment.java" timestamp="1567966307132">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/comcast-spring/src/integration-test/java/comcast/api/AppControllerIntegrationTests.java" timestamp="1483072879466">
@@ -2340,11 +2357,11 @@
         <mark key="." line="32" column="28" />
         <mark key="^" line="32" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/minimal-funk/build.gradle" timestamp="1567917977973">
-        <mark key="[" line="7" column="15" />
-        <mark key="]" line="7" column="16" />
-        <mark key="^" line="26" column="58" />
-        <mark key="." line="7" column="16" />
+      <file name="$USER_HOME$/dev/my-projects/minimal-funk/build.gradle" timestamp="1567966505870">
+        <mark key="[" line="1" column="48" />
+        <mark key="]" line="2" column="48" />
+        <mark key="^" line="2" column="48" />
+        <mark key="." line="2" column="48" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/minimal-funk/test-data/AnnotatorTestData.java" timestamp="1567110976720">
         <mark key="[" line="0" column="18" />
@@ -2493,7 +2510,7 @@
         <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>elementType</text>
+        <text>j&quot;);</text>
       </register>
       <register name="/" type="4">
         <text>runner</text>
@@ -2510,29 +2527,29 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="0" type="4">
-        <text>element.getNode().getElementType()</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICA8Y29sb3JTZXR0aW5nc1BhZ2UgaW1wbGVtZW50YXRpb249ImlvLnNlcmlvdXNjeWJlcm5ldGljcy5KYXZhU2NyaXB0Q29sb3JzUGFnZSIvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDwhLS0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC0tPgo=</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uaW50ZWxsaWoucHNpLktvLkNMQVNTX0tFWVdPUkQ7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBJRWxlbWVudFR5cGUgZWxlbWVudFR5cGUgPSBlbGVtZW50LmdldE5vZGUoKS5nZXRFbGVtZW50VHlwZSgpOwo=</text>
+        <text encoding="base64">ICAgIEtvdGxpbgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRzPjwvZGVwZW5kcz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uaW50ZWxsaWoubGFuZy5qYXZhc2NyaXB0LkpTVG9rZW5UeXBlcy5DTEFTU19LRVlXT1JEOwo=</text>
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnS290bGluJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnamF2YScK</text>
+        <text encoding="base64">ICAgIDwhLS0K</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -2543,10 +2560,10 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmRzPmNvbS5pbnRlbGxpai5tb2R1bGVzLnBsYXRmb3JtPC9kZXBlbmRzPgo=</text>
+        <text encoding="base64">ICAgIC0tPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmRzPjwvZGVwZW5kcz4K</text>
+        <text encoding="base64">ICAgICAgICBJRWxlbWVudFR5cGUgZWxlbWVudFR5cGUgPSBlbGVtZW50LmdldE5vZGUoKS5nZXRFbGVtZW50VHlwZSgpOwo=</text>
       </register>
       <register name="x" type="4">
         <keys>
