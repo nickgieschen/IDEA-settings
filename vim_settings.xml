@@ -1326,12 +1326,11 @@
         <mark key="." line="3" column="2" />
         <mark key="^" line="3" column="2" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/minimal-funk/src/main/resources/META-INF/plugin.xml" timestamp="1567968939732">
-        <mark key="'" line="14" column="23" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="22" column="0" />
+      <file name="$USER_HOME$/dev/my-projects/minimal-funk/src/main/resources/META-INF/plugin.xml" timestamp="1568061441831">
+        <mark key="'" line="15" column="23" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/avellanas/src/browser/content.js" timestamp="1526615115123">
         <mark key="[" line="5" column="36" />
@@ -2349,11 +2348,11 @@
         <mark key="." line="32" column="28" />
         <mark key="^" line="32" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/minimal-funk/build.gradle" timestamp="1567966505870">
-        <mark key="[" line="1" column="48" />
-        <mark key="]" line="2" column="48" />
-        <mark key="^" line="2" column="48" />
-        <mark key="." line="2" column="48" />
+      <file name="$USER_HOME$/dev/my-projects/minimal-funk/build.gradle" timestamp="1568061974043">
+        <mark key="[" line="27" column="60" />
+        <mark key="]" line="27" column="88" />
+        <mark key="^" line="27" column="88" />
+        <mark key="." line="27" column="88" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/minimal-funk/test-data/AnnotatorTestData.java" timestamp="1567110976720">
         <mark key="[" line="0" column="18" />
@@ -2523,25 +2522,25 @@
         <text encoding="base64">ICAgICAgICA8Y29sb3JTZXR0aW5nc1BhZ2UgaW1wbGVtZW50YXRpb249ImlvLnNlcmlvdXNjeWJlcm5ldGljcy5KYXZhU2NyaXB0Q29sb3JzUGFnZSIvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRzIG9wdGlvbmFsPSJ0cnVlIj5QeXRob25pZDwvZGVwZW5kcz4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIERpc3BsYXlQcmlvcml0eSBnZXRQcmlvcml0eSgpIHsKICAgICAgICByZXR1cm4gUGxhdGZvcm1VdGlscy5pc0ludGVsbGlKKCkgPyBEaXNwbGF5UHJpb3JpdHkuS0VZX0xBTkdVQUdFX1NFVFRJTkdTIDogRGlzcGxheVByaW9yaXR5LkxBTkdVQUdFX1NFVFRJTkdTOwogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIERpc3BsYXlQcmlvcml0eSBnZXRQcmlvcml0eSgpIHsKICAgICAgICByZXR1cm4gUGxhdGZvcm1VdGlscy5pc0ludGVsbGlKKCkgPyBEaXNwbGF5UHJpb3JpdHkuS0VZX0xBTkdVQUdFX1NFVFRJTkdTIDogRGlzcGxheVByaW9yaXR5LkxBTkdVQUdFX1NFVFRJTkdTOwogICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIERpc3BsYXlQcmlvcml0eSBnZXRQcmlvcml0eSgpIHsKICAgICAgICByZXR1cm4gUGxhdGZvcm1VdGlscy5pc0ludGVsbGlKKCkgPyBEaXNwbGF5UHJpb3JpdHkuS0VZX0xBTkdVQUdFX1NFVFRJTkdTIDogRGlzcGxheVByaW9yaXR5LkxBTkdVQUdFX1NFVFRJTkdTOwogICAgfQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIERpc3BsYXlQcmlvcml0eSBnZXRQcmlvcml0eSgpIHsKICAgICAgICByZXR1cm4gUGxhdGZvcm1VdGlscy5pc0ludGVsbGlKKCkgPyBEaXNwbGF5UHJpb3JpdHkuS0VZX0xBTkdVQUdFX1NFVFRJTkdTIDogRGlzcGxheVByaW9yaXR5LkxBTkdVQUdFX1NFVFRJTkdTOwogICAgfQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -2552,10 +2551,10 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIERpc3BsYXlQcmlvcml0eSBnZXRQcmlvcml0eSgpIHsKICAgICAgICByZXR1cm4gUGxhdGZvcm1VdGlscy5pc0ludGVsbGlKKCkgPyBEaXNwbGF5UHJpb3JpdHkuS0VZX0xBTkdVQUdFX1NFVFRJTkdTIDogRGlzcGxheVByaW9yaXR5LkxBTkdVQUdFX1NFVFRJTkdTOwogICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIERpc3BsYXlQcmlvcml0eSBnZXRQcmlvcml0eSgpIHsKICAgICAgICByZXR1cm4gUGxhdGZvcm1VdGlscy5pc0ludGVsbGlKKCkgPyBEaXNwbGF5UHJpb3JpdHkuS0VZX0xBTkdVQUdFX1NFVFRJTkdTIDogRGlzcGxheVByaW9yaXR5LkxBTkdVQUdFX1NFVFRJTkdTOwogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -2576,7 +2575,7 @@
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHRvZG8gcHV0IGluIGJ1bmRsZQo=</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIERpc3BsYXlQcmlvcml0eSBnZXRQcmlvcml0eSgpIHsKICAgICAgICByZXR1cm4gUGxhdGZvcm1VdGlscy5pc0ludGVsbGlKKCkgPyBEaXNwbGF5UHJpb3JpdHkuS0VZX0xBTkdVQUdFX1NFVFRJTkdTIDogRGlzcGxheVByaW9yaXR5LkxBTkdVQUdFX1NFVFRJTkdTOwogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
