@@ -5,7 +5,22 @@
   <option name="EDITOR_FONT_NAME" value="Consolas" />
   <colors>
     <option name="CARET_ROW_COLOR" value="" />
+    <option name="FILESTATUS_DELETED" value="6c1c2b" />
+    <option name="FILESTATUS_MERGED" value="" />
+    <option name="FILESTATUS_MODIFIED" value="5a84eb" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="" />
+    <option name="FILESTATUS_UNKNOWN" value="" />
+    <option name="FILESTATUS_modifiedOutside" value="5a84eb" />
     <option name="GUTTER_BACKGROUND" value="111b23" />
+    <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="3f3f53" />
+    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="3f3f53" />
+    <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="3f3f53" />
+    <option name="ScrollBar.Mac.Transparent.thumbColor" value="3f3f53" />
+    <option name="ScrollBar.Mac.hoverThumbBorderColor" value="3f3f53" />
+    <option name="ScrollBar.Mac.hoverThumbColor" value="3f3f53" />
+    <option name="ScrollBar.Mac.thumbBorderColor" value="3f3f53" />
+    <option name="ScrollBar.Mac.thumbColor" value="3f3f53" />
   </colors>
   <attributes>
     <option name="ANNOTATION_NAME_ATTRIBUTES">
