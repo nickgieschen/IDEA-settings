@@ -23,7 +23,6 @@
       <mapping pattern=".sequelizerc" type="PLAIN_TEXT" />
       <mapping pattern="JMX_INSTALL" type="PLAIN_TEXT" />
       <mapping pattern="user_places_bet" type="PLAIN_TEXT" />
-      <mapping pattern="redo" type="PLAIN_TEXT" />
       <mapping pattern=".foreverignore" type="PLAIN_TEXT" />
       <mapping pattern="buildfile" type="PLAIN_TEXT" />
       <mapping pattern="V4__add_selectiongameselectiontotals" type="PLAIN_TEXT" />
@@ -46,10 +45,11 @@
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="player_joins_a_game" type="PLAIN_TEXT" />
       <mapping pattern="gamesPlayers" type="PLAIN_TEXT" />
+      <mapping pattern=".env-template" type="PLAIN_TEXT" />
       <mapping pattern="testo" type="PLAIN_TEXT" />
       <mapping pattern="notInAnki" type="PLAIN_TEXT" />
       <mapping pattern="Podfile" type="PLAIN_TEXT" />
-      <mapping pattern=".env-template" type="PLAIN_TEXT" />
+      <mapping pattern="redo" type="PLAIN_TEXT" />
       <mapping pattern="notInAnki-all" type="PLAIN_TEXT" />
       <mapping pattern="scrumptious-spring-active-profiles" type="PLAIN_TEXT" />
       <mapping pattern="player_places_bet" type="PLAIN_TEXT" />
