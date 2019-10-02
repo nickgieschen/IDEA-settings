@@ -3,11 +3,11 @@
     <property name="created">2019-08-22T21:38:12</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2019.2.0.0</property>
-    <property name="modified">2019-09-28T13:44:43</property>
+    <property name="modified">2019-10-02T21:28:00</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
-    <option name="FILESTATUS_ADDED" value="316746" />
+    <option name="FILESTATUS_COPIED" value="c3e88d" />
     <option name="FILESTATUS_DELETED" value="6c1c2b" />
     <option name="FILESTATUS_HIJACKED" value="" />
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="808080" />
@@ -19,7 +19,6 @@
     <option name="FILESTATUS_SUPPRESSED" value="" />
     <option name="FILESTATUS_SWITCHED" value="" />
     <option name="FILESTATUS_UNKNOWN" value="" />
-    <option name="FILESTATUS_addedOutside" value="316746" />
     <option name="FILESTATUS_modifiedOutside" value="5a84eb" />
   </colors>
   <attributes>
