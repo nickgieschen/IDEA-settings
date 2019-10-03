@@ -14,7 +14,7 @@
     <option name="FILESTATUS_UNKNOWN" value="" />
     <option name="FILESTATUS_addedOutside" value="316746" />
     <option name="FILESTATUS_modifiedOutside" value="5a84eb" />
-    <option name="GUTTER_BACKGROUND" value="111b23" />
+    <option name="GUTTER_BACKGROUND" value="262b33" />
     <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="11251d" />
     <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="11251d" />
     <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="11251d" />
@@ -44,8 +44,8 @@
     <option name="CSS.COLOR">
       <value />
     </option>
-    <option name="CSS.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="CSS.TAG_NAME" baseAttributes="HTML_TAG_NAME" />
+    <option name="CSS.KEYWORD" baseAttributes="" />
+    <option name="CSS.TAG_NAME" baseAttributes="" />
     <option name="CSS.URL">
       <value />
     </option>
@@ -240,8 +240,8 @@
     <option name="JAVA_COMMA">
       <value />
     </option>
-    <option name="JAVA_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="JAVA_VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="JAVA_KEYWORD" baseAttributes="" />
+    <option name="JAVA_VALID_STRING_ESCAPE" baseAttributes="" />
     <option name="JS.FUNCTION">
       <value />
     </option>
@@ -29675,7 +29675,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="c3ced7" />
-        <option name="BACKGROUND" value="e161d" />
+        <option name="BACKGROUND" value="262b33" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
