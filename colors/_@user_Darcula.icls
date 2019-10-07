@@ -3,14 +3,14 @@
     <property name="created">2019-08-22T21:38:12</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2019.2.0.0</property>
-    <property name="modified">2019-10-03T16:23:59</property>
+    <property name="modified">2019-10-07T13:39:57</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
     <option name="FILESTATUS_ADDED" value="316746" />
     <option name="FILESTATUS_DELETED" value="6c1c2b" />
     <option name="FILESTATUS_HIJACKED" value="" />
-    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="dde9fd" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="808080" />
     <option name="FILESTATUS_MERGED" value="" />
     <option name="FILESTATUS_MODIFIED" value="5a84eb" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="" />
