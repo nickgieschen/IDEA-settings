@@ -8,4 +8,7 @@
   <component name="SpringEditorOptions">
     <option name="showProfilesPanel" value="false" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\b(todo|fixme)\b.*" />
+  </component>
 </application>
