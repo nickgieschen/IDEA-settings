@@ -11,14 +11,14 @@
     <option name="FILESTATUS_addedOutside" value="316746" />
     <option name="FILESTATUS_modifiedOutside" value="5a84eb" />
     <option name="GUTTER_BACKGROUND" value="262b33" />
-    <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="11251d" />
-    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="11251d" />
-    <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="11251d" />
-    <option name="ScrollBar.Mac.Transparent.thumbColor" value="11251d" />
-    <option name="ScrollBar.Mac.hoverThumbBorderColor" value="11251d" />
-    <option name="ScrollBar.Mac.hoverThumbColor" value="11251d" />
-    <option name="ScrollBar.Mac.thumbBorderColor" value="11251d" />
-    <option name="ScrollBar.Mac.thumbColor" value="11251d" />
+    <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="2b354f" />
+    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="2b354f" />
+    <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="2b354f" />
+    <option name="ScrollBar.Mac.Transparent.thumbColor" value="2b354f" />
+    <option name="ScrollBar.Mac.hoverThumbBorderColor" value="2979ff" />
+    <option name="ScrollBar.Mac.hoverThumbColor" value="2b354f" />
+    <option name="ScrollBar.Mac.thumbBorderColor" value="2b354f" />
+    <option name="ScrollBar.Mac.thumbColor" value="2b354f" />
   </colors>
   <attributes>
     <option name="ANNOTATION_NAME_ATTRIBUTES">
