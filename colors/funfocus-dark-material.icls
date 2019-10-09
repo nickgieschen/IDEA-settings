@@ -3,7 +3,7 @@
     <property name="created">2019-10-09T16:29:46</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-10-09T17:40:05</property>
+    <property name="modified">2019-10-09T18:54:10</property>
     <property name="originalScheme">funfocus-dark</property>
   </metaInfo>
   <colors>
@@ -199,7 +199,7 @@
     </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="ce061d" />
+        <option name="EFFECT_COLOR" value="ca2b06" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -29734,7 +29734,7 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="c3ced7" />
+        <option name="FOREGROUND" value="e5eaef" />
         <option name="BACKGROUND" value="262b33" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
@@ -29767,7 +29767,7 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="faee59" />
+        <option name="EFFECT_COLOR" value="e2df0d" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
