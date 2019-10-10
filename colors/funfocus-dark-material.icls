@@ -3,7 +3,7 @@
     <property name="created">2019-10-09T16:29:46</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-10-09T18:54:10</property>
+    <property name="modified">2019-10-10T16:03:12</property>
     <property name="originalScheme">funfocus-dark</property>
   </metaInfo>
   <colors>
@@ -230,7 +230,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="395591" />
+        <option name="BACKGROUND" value="474e5b" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -29713,7 +29713,7 @@
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="c3ced7" />
-        <option name="BACKGROUND" value="395591" />
+        <option name="BACKGROUND" value="474e5b" />
       </value>
     </option>
     <option name="STATIC_FIELD_ATTRIBUTES">
@@ -29742,7 +29742,7 @@
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="c3ced7" />
-        <option name="BACKGROUND" value="395591" />
+        <option name="BACKGROUND" value="474e5b" />
       </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
@@ -29773,14 +29773,14 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="395591" />
+        <option name="BACKGROUND" value="474e5b" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="c3ced7" />
-        <option name="BACKGROUND" value="395591" />
+        <option name="BACKGROUND" value="474e5b" />
       </value>
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
