@@ -56,6 +56,13 @@
     <option name="CSS.URL">
       <value />
     </option>
+    <option name="CTRL_CLICKABLE">
+      <value>
+        <option name="FOREGROUND" value="5879de" />
+        <option name="EFFECT_COLOR" value="5879de" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="808080" />
@@ -201,7 +208,7 @@
     <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="5879de" />
-        <option name="EFFECT_COLOR" value="287bde" />
+        <option name="EFFECT_COLOR" value="5879de" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -242,6 +249,17 @@
     <option name="INSTANCE_FIELD_ATTRIBUTES">
       <value>
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="INTERFACE_NAME_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="JAVA.ClASS_DECLARATION">
+      <value>
+        <option name="FOREGROUND" value="ffb738" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="JAVA_COMMA">
@@ -29633,11 +29651,6 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="METHOD_DECLARATION_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="cc7832" />
-      </value>
-    </option>
     <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE" />
     <option name="PY.BUILTIN_NAME">
       <value>
@@ -29671,10 +29684,7 @@
       </value>
     </option>
     <option name="STATIC_METHOD_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="cc7832" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
+      <value />
     </option>
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
       <value />
