@@ -1,6 +1,60 @@
 <application>
-  <component name="VimSettings">
-    <state version="5" enabled="true" />
+  <component name="VimEditorSettings">
+    <editor>
+      <key-repeat enabled="false" />
+    </editor>
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>catholi</entry>
+        <entry>rhad</entry>
+        <entry>assay</entry>
+        <entry>ichor</entry>
+        <entry>sophom</entry>
+        <entry>adum</entry>
+        <entry>supercil</entry>
+        <entry>--</entry>
+        <entry>abeyance</entry>
+        <entry>abjure</entry>
+        <entry>build</entry>
+        <entry>runner</entry>
+        <entry>error</entry>
+        <entry>url</entry>
+        <entry>log</entry>
+        <entry encoding="base64">XDxsb2dcPg==</entry>
+        <entry>len</entry>
+        <entry>corner</entry>
+        <entry>get</entry>
+        <entry>core</entry>
+      </history-search>
+      <history-cmd>
+        <entry>%s/userId/userid/g</entry>
+        <entry>%s/'/&quot;/g</entry>
+        <entry>%s/left/right/gc</entry>
+        <entry>s/left/source/gc</entry>
+        <entry encoding="base64">JzwsJz5ub2g=</entry>
+        <entry>%s/rq/_/g</entry>
+        <entry>no</entry>
+        <entry>s/config()/config!!/g</entry>
+        <entry>%s/config()/config!!/g</entry>
+        <entry>%s/, equalTo/).isEqualTo/g</entry>
+        <entry>nph</entry>
+        <entry>%/logger.log/console.log/g</entry>
+        <entry>%s/logger/console/g</entry>
+        <entry>w</entry>
+        <entry>%s/can-form-area-email-list-3/can-form-area-voter-pledge/gi</entry>
+        <entry>:</entry>
+        <entry>/:/</entry>
+        <entry>x</entry>
+        <entry>url</entry>
+        <entry>noh</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
@@ -33,13 +87,353 @@
         <text>ctrl pressed L</text>
       </shortcut-conflict>
     </shortcut-conflicts>
-    <editor>
-      <key-repeat enabled="false" />
-    </editor>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1586458472657">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/reference-projects/realworld-kotlin-ktor/gradle.properties" timestamp="1586458106777">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="17" />
+        <mark key="." line="0" column="17" />
+        <mark key="^" line="0" column="17" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/not-today/app/App.tsx" timestamp="1581394561451">
+        <mark key="'" line="13" column="60" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/agrajag/gradle.properties" timestamp="1586458150128">
+        <mark key="[" line="1" column="16" />
+        <mark key="]" line="1" column="16" />
+        <mark key="^" line="1" column="16" />
+        <mark key="." line="1" column="16" />
+      </file>
+      <file name="$USER_HOME$/dev/reference-projects/realworld-kotlin-ktor/src/Application.kt" timestamp="1586459931392">
+        <mark key="'" line="45" column="10" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/agrajag/presentation/build.gradle.kts" timestamp="1586319162422">
+        <mark key="[" line="7" column="1" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/agrajag/build.gradle.kts" timestamp="1586403880833">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/agrajag/settings.gradle.kts" timestamp="1586393306437">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/agrajag/README.md" timestamp="1586466001185">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/not-today/app/screens/About/index.tsx" timestamp="1581394664450">
+        <mark key="'" line="8" column="17" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.kts" timestamp="1586391911759">
+        <mark key="[" line="10" column="14" />
+        <mark key="]" line="10" column="15" />
+        <mark key="^" line="10" column="15" />
+        <mark key="." line="10" column="15" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/resources/application.conf" timestamp="1586463959044">
+        <mark key="[" line="3" column="18" />
+        <mark key="]" line="3" column="24" />
+        <mark key="^" line="3" column="24" />
+        <mark key="." line="3" column="24" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/not-today/app/tsconfig.json" timestamp="1581394922361">
+        <mark key="[" line="8" column="29" />
+        <mark key="]" line="8" column="29" />
+        <mark key="." line="8" column="29" />
+        <mark key="^" line="8" column="29" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/agrajag/presentation/site/Account.kt" timestamp="1586465689275">
+        <mark key="[" line="11" column="43" />
+        <mark key="]" line="11" column="42" />
+        <mark key="." line="11" column="42" />
+        <mark key="^" line="11" column="42" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/agrajag/Application.kt" timestamp="1586461438097">
+        <mark key="'" line="14" column="10" />
+        <mark key="[" line="13" column="15" />
+        <mark key="]" line="13" column="16" />
+        <mark key="^" line="13" column="22" />
+        <mark key="." line="13" column="16" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/not-today/app/HomeScreen.tsx" timestamp="1581390411295">
+        <mark key="'" line="9" column="28" />
+        <mark key="[" line="10" column="64" />
+        <mark key="]" line="10" column="63" />
+        <mark key="." line="10" column="63" />
+        <mark key="^" line="10" column="63" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/agrajag/build.gradle" timestamp="1586458196106">
+        <mark key="'" line="36" column="51" />
+        <mark key="[" line="20" column="46" />
+        <mark key="]" line="20" column="59" />
+        <mark key="." line="20" column="59" />
+        <mark key="^" line="20" column="59" />
+      </file>
+      <file name="/fragment.java" timestamp="1586459585145">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/reference-projects/realworld-kotlin-ktor/src/config/Api.kt" timestamp="1586460003590">
+        <mark key="'" line="29" column="13" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/not-today/app/components.tsx" timestamp="1581390121932">
+        <mark key="[" line="7" column="50" />
+        <mark key="]" line="7" column="72" />
+        <mark key="." line="7" column="72" />
+        <mark key="^" line="7" column="72" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="43" column="15" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/LATEST-EAP-SNAPSHOT/522f6926ba0bbd094b63c8957e5a02dc4f77e5ac/ideaIC-LATEST-EAP-SNAPSHOT-sources.jar!/com/intellij/AbstractBundle.java" />
+      <jump line="32" column="30" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/LATEST-EAP-SNAPSHOT/522f6926ba0bbd094b63c8957e5a02dc4f77e5ac/ideaIC-LATEST-EAP-SNAPSHOT-sources.jar!/com/intellij/AbstractBundle.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/LATEST-EAP-SNAPSHOT/522f6926ba0bbd094b63c8957e5a02dc4f77e5ac/ideaIC-LATEST-EAP-SNAPSHOT-sources.jar!/com/intellij/AbstractBundle.java" />
+      <jump line="20" column="51" filename="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/io/seriouscybernetics/JavaColorsPage.java" />
+      <jump line="70" column="42" filename="$USER_HOME$/dev/reference-projects/material-theme-jetbrains/src/main/java/com/chrisrm/idea/annotators/settings/JavaColorSettings.java" />
+      <jump line="40" column="51" filename="$USER_HOME$/dev/reference-projects/material-theme-jetbrains/src/main/java/com/chrisrm/idea/annotators/JavaAnnotator.java" />
+      <jump line="36" column="46" filename="$USER_HOME$/dev/reference-projects/material-theme-jetbrains/src/main/java/com/chrisrm/idea/annotators/JavaAnnotator.java" />
+      <jump line="165" column="12" filename="$USER_HOME$/dev/reference-projects/material-theme-jetbrains/src/main/java/com/chrisrm/idea/annotators/settings/JavaColorSettings.java" />
+      <jump line="24" column="59" filename="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/io/seriouscybernetics/JavaColorsPage.java" />
+      <jump line="29" column="79" filename="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/io/seriouscybernetics/JavaColorsPage.java" />
+      <jump line="15" column="147" filename="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/io/seriouscybernetics/JavaAnnotator.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/io/seriouscybernetics/JavaAnnotator.java" />
+      <jump line="163" column="97" filename="$USER_HOME$/dev/reference-projects/material-theme-jetbrains/src/main/resources/META-INF/plugin.xml" />
+      <jump line="40" column="43" filename="$USER_HOME$/dev/reference-projects/material-theme-jetbrains/src/main/java/com/chrisrm/idea/annotators/JSAnnotator.java" />
+      <jump line="4" column="46" filename="$USER_HOME$/dev/my-projects/minimal-funk/src/test/java/io/seriouscybernetics/JavaScriptAnnotatorTest.java" />
+      <jump line="10" column="59" filename="$USER_HOME$/dev/my-projects/minimal-funk/src/test/java/io/seriouscybernetics/JavaScriptAnnotatorTest.java" />
+      <jump line="22" column="31" filename="$USER_HOME$/dev/my-projects/minimal-funk/src/test/java/io/seriouscybernetics/JavaScriptAnnotatorTest.java" />
+      <jump line="13" column="23" filename="$USER_HOME$/dev/my-projects/minimal-funk/src/main/resources/META-INF/plugin.xml" />
+      <jump line="13" column="28" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2019.1.1/db5b7b92cc9589863a7f7c506e0d7bf3ae29d680/ideaIC-2019.1.1-sources.jar!/com/intellij/lang/LanguageExtensionPoint.java" />
+      <jump line="90" column="42" filename="$USER_HOME$/dev/reference-projects/intellij-plugins/AngularJS/resources/META-INF/plugin.xml" />
+      <jump line="15" column="50" filename="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/io/seriouscybernetics/JavaScriptAnnotator.java" />
+      <jump line="17" column="28" filename="$USER_HOME$/dev/my-projects/minimal-funk/src/test/java/io/seriouscybernetics/JavaScriptAnnotatorTest.java" />
+      <jump line="46" column="72" filename="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/io/seriouscybernetics/JavaScriptAnnotator.java" />
+      <jump line="42" column="22" filename="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/io/seriouscybernetics/JavaScriptAnnotator.java" />
+      <jump line="17" column="46" filename="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/io/seriouscybernetics/JavaAnnotator.java" />
+      <jump line="20" column="63" filename="$USER_HOME$/dev/my-projects/minimal-funk/src/main/java/io/seriouscybernetics/KotlinAnnotator.java" />
+      <jump line="20" column="32" filename="$USER_HOME$/dev/my-projects/done/done-web/create-user.html" />
+      <jump line="34" column="16" filename="$USER_HOME$/dev/my-projects/done/done-web/create-user.html" />
+      <jump line="35" column="61" filename="$USER_HOME$/dev/my-projects/done/done-web/create-user.html" />
+      <jump line="44" column="20" filename="$USER_HOME$/dev/my-projects/done/done-web/create-user.html" />
+      <jump line="45" column="20" filename="$USER_HOME$/dev/my-projects/done/done-web/create-user.html" />
+      <jump line="31" column="0" filename="$USER_HOME$/dev/my-projects/done/done-web/create-user.html" />
+      <jump line="25" column="16" filename="$USER_HOME$/dev/my-projects/done/done-web/create-user.html" />
+      <jump line="29" column="28" filename="$USER_HOME$/dev/my-projects/done/done-web/create-user.html" />
+      <jump line="30" column="28" filename="$USER_HOME$/dev/my-projects/done/done-web/create-user.html" />
+      <jump line="36" column="28" filename="$USER_HOME$/dev/my-projects/done/done-web/create-user.html" />
+      <jump line="37" column="28" filename="$USER_HOME$/dev/my-projects/done/done-web/create-user.html" />
+      <jump line="42" column="28" filename="$USER_HOME$/dev/my-projects/done/done-web/create-user.html" />
+      <jump line="39" column="28" filename="$USER_HOME$/dev/my-projects/done/done-web/create-user.html" />
+      <jump line="38" column="28" filename="$USER_HOME$/dev/my-projects/done/done-web/create-user.html" />
+      <jump line="24" column="29" filename="$USER_HOME$/dev/my-projects/yngwie/js/default.js" />
+      <jump line="38" column="0" filename="$USER_HOME$/dev/my-projects/yngwie/js/default.js" />
+      <jump line="41" column="10" filename="$USER_HOME$/dev/my-projects/yngwie/js/default.js" />
+      <jump line="98" column="10" filename="$USER_HOME$/dev/my-projects/yngwie/js/default.js" />
+      <jump line="101" column="12" filename="$USER_HOME$/dev/my-projects/yngwie/js/default.js" />
+      <jump line="33" column="14" filename="$USER_HOME$/dev/my-projects/yngwie/js/default.js" />
+      <jump line="24" column="4" filename="$USER_HOME$/dev/my-projects/NoteToSelf/App.js" />
+      <jump line="58" column="51" filename="$USER_HOME$/dev/my-projects/NoteToSelf/App.js" />
+      <jump line="145" column="21" filename="$USER_HOME$/dev/my-projects/NoteToSelf/.gitignore" />
+      <jump line="140" column="0" filename="$USER_HOME$/dev/my-projects/NoteToSelf/.gitignore" />
+      <jump line="35" column="47" filename="$USER_HOME$/dev/my-projects/NoteToSelf/App.js" />
+      <jump line="56" column="34" filename="$USER_HOME$/dev/my-projects/NoteToSelf/App.js" />
+      <jump line="15" column="45" filename="$USER_HOME$/dev/my-projects/NoteToSelf/App.js" />
+      <jump line="89" column="14" filename="$USER_HOME$/dev/my-projects/NoteToSelf/App.js" />
+      <jump line="22" column="16" filename="$USER_HOME$/dev/my-projects/NoteToSelf/App.js" />
+      <jump line="97" column="12" filename="$USER_HOME$/dev/my-projects/NoteToSelf/App.js" />
+      <jump line="17" column="57" filename="$USER_HOME$/dev/my-projects/NoteToSelf/App.js" />
+      <jump line="125" column="32" filename="$USER_HOME$/dev/my-projects/NoteToSelf/App.js" />
+      <jump line="82" column="12" filename="$USER_HOME$/dev/my-projects/NoteToSelf/App.js" />
+      <jump line="21" column="62" filename="$USER_HOME$/dev/my-projects/NoteToSelf/App.js" />
+      <jump line="114" column="33" filename="$USER_HOME$/dev/my-projects/NoteToSelf/App.js" />
+      <jump line="35" column="0" filename="$USER_HOME$/dev/my-projects/NoteToSelf/styles.js" />
+      <jump line="51" column="34" filename="$USER_HOME$/dev/my-projects/NoteToSelf/Settings.js" />
+      <jump line="20" column="5" filename="$USER_HOME$/dev/my-projects/NoteToSelf/Settings.js" />
+      <jump line="40" column="20" filename="$USER_HOME$/dev/my-projects/NoteToSelf/Settings.js" />
+      <jump line="48" column="96" filename="$USER_HOME$/dev/my-projects/NoteToSelf/Settings.js" />
+      <jump line="44" column="40" filename="$USER_HOME$/dev/my-projects/NoteToSelf/Settings.js" />
+      <jump line="22" column="0" filename="$USER_HOME$/dev/my-projects/NoteToSelf/Settings.js" />
+      <jump line="72" column="48" filename="$USER_HOME$/dev/my-projects/NoteToSelf/Settings.js" />
+      <jump line="113" column="25" filename="$USER_HOME$/dev/my-projects/NoteToSelf/Settings.js" />
+      <jump line="103" column="30" filename="$USER_HOME$/dev/my-projects/NoteToSelf/Settings.js" />
+      <jump line="111" column="67" filename="$USER_HOME$/dev/my-projects/NoteToSelf/Picker.js" />
+      <jump line="153" column="32" filename="$USER_HOME$/dev/my-projects/NoteToSelf/Picker.js" />
+      <jump line="233" column="0" filename="$USER_HOME$/dev/my-projects/NoteToSelf/Picker.js" />
+      <jump line="53" column="71" filename="$USER_HOME$/dev/my-projects/NoteToSelf/Settings.js" />
+      <jump line="11" column="21" filename="$USER_HOME$/dev/my-projects/NoteToSelf/Settings.js" />
+      <jump line="28" column="34" filename="$USER_HOME$/dev/my-projects/NoteToSelf/Settings.js" />
+      <jump line="59" column="72" filename="$USER_HOME$/dev/my-projects/NoteToSelf/Settings.js" />
+      <jump line="12" column="68" filename="$USER_HOME$/dev/my-projects/NoteToSelf/Settings.js" />
+      <jump line="71" column="55" filename="$USER_HOME$/dev/my-projects/NoteToSelf/Settings.js" />
+      <jump line="33" column="51" filename="$USER_HOME$/dev/my-projects/NoteToSelf/Settings.js" />
+      <jump line="39" column="0" filename="$USER_HOME$/dev/my-projects/NoteToSelf/Settings.js" />
+      <jump line="17" column="73" filename="$USER_HOME$/dev/my-projects/NoteToSelf/Settings.js" />
+      <jump line="67" column="18" filename="$USER_HOME$/dev/my-projects/NoteToSelf/EmailAccountSettings.js" />
+      <jump line="83" column="37" filename="$USER_HOME$/dev/my-projects/NoteToSelf/EmailAccountSettings.js" />
+      <jump line="29" column="0" filename="$USER_HOME$/dev/my-projects/NoteToSelf/EmailAccountSettings.js" />
+      <jump line="9" column="28" filename="$USER_HOME$/dev/my-projects/not-today/app/HomeScreen.tsx" />
+      <jump line="42" column="25" filename="$USER_HOME$/dev/my-projects/NoteToSelf/App.js" />
+      <jump line="15" column="17" filename="$USER_HOME$/dev/my-projects/NoteToSelf/Compose.js" />
+      <jump line="15" column="55" filename="$USER_HOME$/dev/my-projects/not-today/app/App.tsx" />
+      <jump line="6" column="51" filename="$USER_HOME$/dev/my-projects/not-today/app/App.tsx" />
+      <jump line="13" column="60" filename="$USER_HOME$/dev/my-projects/not-today/app/App.tsx" />
+      <jump line="8" column="17" filename="$USER_HOME$/dev/my-projects/not-today/app/screens/About/index.tsx" />
+      <jump line="1" column="37" filename="$USER_HOME$/dev/my-projects/agrajag/build.gradle.kts" />
+      <jump line="36" column="51" filename="$USER_HOME$/dev/my-projects/agrajag/build.gradle" />
+      <jump line="21" column="15" filename="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/agrajag/Application.kt" />
+      <jump line="45" column="10" filename="$USER_HOME$/dev/reference-projects/realworld-kotlin-ktor/src/Application.kt" />
+      <jump line="15" column="29" filename="$USER_HOME$/dev/reference-projects/realworld-kotlin-ktor/src/config/Api.kt" />
+      <jump line="29" column="13" filename="$USER_HOME$/dev/reference-projects/realworld-kotlin-ktor/src/config/Api.kt" />
+      <jump line="14" column="10" filename="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/agrajag/Application.kt" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIG5ldyBTaGlmdExlZnRIYW5kbGVyKCk7Cg==</text>
+      </register>
+      <register name="c" type="4">
+        <keys>
+          <key char="101" code="0" mods="0" />
+          <key char="84" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="i" type="4">
+        <keys>
+          <key char="99" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="84" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="*" type="4">
+        <text>module1</text>
+      </register>
+      <register name="l" type="4">
+        <text>p</text>
+      </register>
+      <register name="-" type="4">
+        <text>module1</text>
+      </register>
+      <register name="/" type="4">
+        <text>core</text>
+      </register>
+      <register name="o" type="4">
+        <keys>
+          <key char="65535" code="27" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="79" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="108" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY2FsbC5yZXNwb25kVGV4dCgiTXkgRXhhbXBsZSBCbG9nIiwgQ29udGVudFR5cGUuVGV4dC5IdG1sKQo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IGlvLmt0b3Iucm91dGluZy5Sb3V0ZQo=</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IGlvLmt0b3Iuc2VydmVyLm5ldHR5LioK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IGlvLmt0b3Iuc2VydmVyLmVuZ2luZS4qCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGlvLmt0b3IuaHR0cC4qCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZnVuIGdldChuYW1lOiBTdHJpbmcsIGZ1bmN0aW9uOiAoKSAtPiBVbml0KSB7Cgp9Cg==</text>
+      </register>
+      <register name="v" type="4">
+        <keys>
+          <key char="101" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZnVuIG1haW4oYXJnczogQXJyYXk8U3RyaW5nPikgewogICAgZW1iZWRkZWRTZXJ2ZXIoTmV0dHksIDgwODAsIHdhdGNoUGF0aHMgPSBsaXN0T2YoImFncmFqYWciKSwgbW9kdWxlID0gQXBwbGljYXRpb246Om1vZHVsZSkuc3RhcnQoKQp9Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="x" type="4">
+        <keys>
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="84" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>noh</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search>core</last-search>
+      <last-offset />
+      <last-pattern>core</last-pattern>
+      <last-replace>can-form-area-voter-pledge</last-replace>
+      <last-substitute>can-form-area-email-list-3</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
-      <template-selectmode enabled="false" />
     </notifications>
   </component>
 </application>
