@@ -91,15 +91,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/agrajag/service/UserService.kt" timestamp="1586485479740">
+      <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/agrajag/service/UserService.kt" timestamp="1586486706251">
         <mark key="'" line="9" column="15" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="9" column="37" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1586458472657">
-        <mark key="[" line="0" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/dev/reference-projects/kotlin-exposed-realworld/src/main/kotlin/io/realworld/article/domain/Article.kt" timestamp="1586483506666">
         <mark key="'" line="22" column="40" />
@@ -114,6 +111,10 @@
       </file>
       <file name="$USER_HOME$/dev/reference-projects/kotlin-exposed-realworld/src/test/kotlin/io/realworld/article/query/ArticleQueryServiceTest.kt" timestamp="1586481581669">
         <mark key="'" line="40" column="42" />
+      </file>
+      <file name="/UserService.kt" timestamp="1586485879543">
+        <mark key="[" line="16" column="10" />
+        <mark key="]" line="21" column="10" />
       </file>
       <file name="$USER_HOME$/dev/reference-projects/realworld-kotlin-ktor/src/service/DatabaseFactory.kt" timestamp="1586475011580">
         <mark key="'" line="15" column="10" />
@@ -150,18 +151,18 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/agrajag/Application.kt" timestamp="1586461438097">
-        <mark key="'" line="14" column="10" />
-        <mark key="[" line="13" column="15" />
-        <mark key="]" line="13" column="16" />
-        <mark key="^" line="13" column="22" />
-        <mark key="." line="13" column="16" />
+      <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/agrajag/Application.kt" timestamp="1586486523125">
+        <mark key="'" line="23" column="10" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="41" />
+        <mark key="." line="18" column="3" />
+        <mark key="^" line="18" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/agrajag/build.gradle" timestamp="1586483644522">
-        <mark key="'" line="37" column="51" />
-        <mark key="[" line="14" column="46" />
-        <mark key="]" line="14" column="46" />
-        <mark key="." line="14" column="46" />
+      <file name="$USER_HOME$/dev/my-projects/agrajag/build.gradle" timestamp="1586486254942">
+        <mark key="'" line="36" column="51" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/dev/reference-projects/kotlin-exposed-realworld/src/main/kotlin/io/realworld/article/query/ArticleQueryService.kt" timestamp="1586481589133">
         <mark key="'" line="12" column="50" />
@@ -318,13 +319,13 @@
         </keys>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">Ly8gICAgb2JqZWN0IFVzZXJzVGFibGUgOiBUYWJsZSgpIHsKLy8gICAgICAgIHZhbCBlbWFpbEFkZHJlc3MgPSB2YXJjaGFyKCJlbWFpbF9hZGRyZXNzIiwgbGVuZ3RoID0gNTApIC8vIENvbHVtbjxTdHJpbmc+Ci8vCi8vICAgIH0KLy8KLy8gICAgZnVuIGdldFVzZXIoaWQ6IExvbmcpIHsKLy8gICAgICAgIHByaW50bG4oImhpIikKLy8gICAgICAgIERhdGFiYXNlLmNvbm5lY3QoCi8vICAgICAgICAgICAgImpkYmM6cG9zdGdyZXNxbDovL2xvY2FsaG9zdDo1NDMyL2FncmFqYWciLAovLyAgICAgICAgICAgIGRyaXZlciA9ICJvcmcucG9zdGdyZXNxbC5Ecml2ZXIiLAovLyAgICAgICAgICAgIHVzZXIgPSAibmljayIsCi8vICAgICAgICAgICAgcGFzc3dvcmQgPSAiIgovLyAgICAgICAgKQovLyAgICAgICAgdHJhbnNhY3Rpb24gewovLyAgICAgICAgICAgIFVzZXJzVGFibGUuaW5zZXJ0IHsKLy8gICAgICAgICAgICAgICAgaXRbZW1haWxBZGRyZXNzXSA9ICJib2JAbm9iLmNvbSIKLy8gICAgICAgICAgICB9Ci8vICAgICAgICB9Ci8vICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="l" type="4">
         <text>p</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>core</text>
@@ -342,28 +343,28 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGFncmFqYWcuZG9tYWluLlVzZXIK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qZXRicmFpbnMuZXhwb3NlZC5zcWwuRGF0YWJhc2UK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgb2JqZWN0IFVzZXJzVGFibGUgOiBUYWJsZSgpIHsKLy8gICAgICAgIHZhbCBlbWFpbEFkZHJlc3MgPSB2YXJjaGFyKCJlbWFpbF9hZGRyZXNzIiwgbGVuZ3RoID0gNTApIC8vIENvbHVtbjxTdHJpbmc+Ci8vCi8vICAgIH0KLy8KLy8gICAgZnVuIGdldFVzZXIoaWQ6IExvbmcpIHsKLy8gICAgICAgIHByaW50bG4oImhpIikKLy8gICAgICAgIERhdGFiYXNlLmNvbm5lY3QoCi8vICAgICAgICAgICAgImpkYmM6cG9zdGdyZXNxbDovL2xvY2FsaG9zdDo1NDMyL2FncmFqYWciLAovLyAgICAgICAgICAgIGRyaXZlciA9ICJvcmcucG9zdGdyZXNxbC5Ecml2ZXIiLAovLyAgICAgICAgICAgIHVzZXIgPSAibmljayIsCi8vICAgICAgICAgICAgcGFzc3dvcmQgPSAiIgovLyAgICAgICAgKQovLyAgICAgICAgdHJhbnNhY3Rpb24gewovLyAgICAgICAgICAgIFVzZXJzVGFibGUuaW5zZXJ0IHsKLy8gICAgICAgICAgICAgICAgaXRbZW1haWxBZGRyZXNzXSA9ICJib2JAbm9iLmNvbSIKLy8gICAgICAgICAgICB9Ci8vICAgICAgICB9Ci8vICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qZXRicmFpbnMuZXhwb3NlZC5zcWwudHJhbnNhY3Rpb25zLnRyYW5zYWN0aW9uCg==</text>
+        <text encoding="base64">ICAgIERhdGFiYXNlLmNvbm5lY3QoCiAgICAgICAgImpkYmM6cG9zdGdyZXNxbDovL2xvY2FsaG9zdDo1NDMyL2FncmFqYWciLAogICAgICAgIGRyaXZlciA9ICJvcmcucG9zdGdyZXNxbC5Ecml2ZXIiLAogICAgICAgIHVzZXIgPSAibmljayIsCiAgICAgICAgcGFzc3dvcmQgPSAiIgogICAgKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qZXRicmFpbnMuZXhwb3NlZC5zcWwuKgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">a2FwdC5pbmNyZW1lbnRhbC5hcHQ9ZmFsc2UK</text>
+        <text encoding="base64">ICAgIERhdGFiYXNlLmNvbm5lY3QoCiAgICAgICAgImpkYmM6cG9zdGdyZXNxbDovL2xvY2FsaG9zdDo1NDMyL2FncmFqYWciLAogICAgICAgIGRyaXZlciA9ICJvcmcucG9zdGdyZXNxbC5Ecml2ZXIiLAogICAgICAgIHVzZXIgPSAibmljayIsCiAgICAgICAgcGFzc3dvcmQgPSAiIgogICAgKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBDb252ZXJ0KGNvbnZlcnRlciA9IEFydGljbGVJZENvbnZlcnRlcjo6Y2xhc3MpCg==</text>
+        <text encoding="base64">dGFyZ2V0Q29tcGF0aWJpbGl0eSA9IDEuOAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnBlcnNpc3RlbmNlLioK</text>
+        <text encoding="base64">aW1wb3J0IGtvdGxpbi4K</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -374,10 +375,10 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgb2JqZWN0IFVzZXJzVGFibGUgOiBUYWJsZSgpIHsKLy8gICAgICAgIHZhbCBlbWFpbEFkZHJlc3MgPSB2YXJjaGFyKCJlbWFpbF9hZGRyZXNzIiwgbGVuZ3RoID0gNTApIC8vIENvbHVtbjxTdHJpbmc+Ci8vCi8vICAgIH0KLy8KLy8gICAgZnVuIGdldFVzZXIoaWQ6IExvbmcpIHsKLy8gICAgICAgIHByaW50bG4oImhpIikKLy8gICAgICAgIERhdGFiYXNlLmNvbm5lY3QoCi8vICAgICAgICAgICAgImpkYmM6cG9zdGdyZXNxbDovL2xvY2FsaG9zdDo1NDMyL2FncmFqYWciLAovLyAgICAgICAgICAgIGRyaXZlciA9ICJvcmcucG9zdGdyZXNxbC5Ecml2ZXIiLAovLyAgICAgICAgICAgIHVzZXIgPSAibmljayIsCi8vICAgICAgICAgICAgcGFzc3dvcmQgPSAiIgovLyAgICAgICAgKQovLyAgICAgICAgdHJhbnNhY3Rpb24gewovLyAgICAgICAgICAgIFVzZXJzVGFibGUuaW5zZXJ0IHsKLy8gICAgICAgICAgICAgICAgaXRbZW1haWxBZGRyZXNzXSA9ICJib2JAbm9iLmNvbSIKLy8gICAgICAgICAgICB9Ci8vICAgICAgICB9Ci8vICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CkBFbnRpdHkKQFRhYmxlKG5hbWUgPSAidXNlcnMiKQpkYXRhIGNsYXNzIFVzZXIoCiAgICBAQ29sdW1uKG5hbWU9ImVtYWlsX2FkZHJlc3MiKQogICAgdmFsIGVtYWlsQWRkcmVzczpTdHJpbmcKKQo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qZXRicmFpbnMuZXhwb3NlZC5zcWwudHJhbnNhY3Rpb25zLnRyYW5zYWN0aW9uCg==</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -398,7 +399,7 @@
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzb3VyY2VUYXJnZXQgPSAiMS44Igo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qZXRicmFpbnMuZXhwb3NlZC5zcWwuKgo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
