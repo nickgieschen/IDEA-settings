@@ -91,16 +91,23 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/agrajag/service/UserService.kt" timestamp="1586487203103">
-        <mark key="'" line="8" column="15" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/agrajag/service/UserService.kt" timestamp="1586488702078">
+        <mark key="'" line="11" column="15" />
+        <mark key="[" line="21" column="28" />
+        <mark key="]" line="21" column="28" />
+        <mark key="." line="21" column="28" />
+        <mark key="^" line="21" column="29" />
       </file>
       <file name="$USER_HOME$/dev/reference-projects/kotlin-exposed-realworld/src/main/kotlin/io/realworld/article/domain/Article.kt" timestamp="1586483506666">
         <mark key="'" line="22" column="40" />
         <mark key="[" line="21" column="0" />
         <mark key="]" line="23" column="42" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/agrajag/domain/Role.kt" timestamp="1586488125924">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="15" column="27" />
+        <mark key="^" line="9" column="12" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/agrajag/gradle.properties" timestamp="1586483650582">
         <mark key="[" line="5" column="0" />
@@ -139,6 +146,12 @@
         <mark key="^" line="3" column="24" />
         <mark key="." line="3" column="24" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/idea.vmoptions" timestamp="1586487903060">
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="2" column="29" />
+        <mark key="." line="2" column="28" />
+        <mark key="^" line="2" column="29" />
+      </file>
       <file name="$USER_HOME$/dev/my-projects/agrajag/src/test/kotlin/agrajag/service/UserServiceTest.kt" timestamp="1586476437372">
         <mark key="[" line="8" column="8" />
         <mark key="]" line="5" column="9" />
@@ -150,12 +163,12 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/agrajag/Application.kt" timestamp="1586486523125">
+      <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/agrajag/Application.kt" timestamp="1586487998381">
         <mark key="'" line="23" column="10" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="41" />
-        <mark key="." line="18" column="3" />
-        <mark key="^" line="18" column="4" />
+        <mark key="[" line="12" column="20" />
+        <mark key="]" line="12" column="21" />
+        <mark key="." line="12" column="20" />
+        <mark key="^" line="12" column="21" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/agrajag/build.gradle" timestamp="1586486254942">
         <mark key="'" line="36" column="51" />
@@ -169,9 +182,9 @@
       <file name="/fragment.java" timestamp="1586469528534">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/agrajag/domain/User.kt" timestamp="1586483598783">
-        <mark key="[" line="9" column="14" />
-        <mark key="]" line="9" column="14" />
+      <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/agrajag/domain/User.kt" timestamp="1586488121819">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="12" column="27" />
         <mark key="." line="9" column="14" />
         <mark key="^" line="9" column="18" />
       </file>
@@ -317,14 +330,14 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qZXRicmFpbnMuZXhwb3NlZC5zcWwudHJhbnNhY3Rpb25zLnRyYW5zYWN0aW9uCg==</text>
+      <register name="*" type="4">
+        <text>() }</text>
       </register>
       <register name="l" type="4">
         <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>() }</text>
       </register>
       <register name="/" type="4">
         <text>core</text>
@@ -342,28 +355,28 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qZXRicmFpbnMuZXhwb3NlZC5zcWwuRGF0YWJhc2UK</text>
+        <text encoding="base64">ICAgIEBJZAogICAgdmFsIGlkOkludCwKCiAgICBAQ29sdW1uKG5hbWU9ImVtYWlsX2FkZHJlc3MiKQogICAgdmFsIGVtYWlsQWRkcmVzczpTdHJpbmcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qZXRicmFpbnMuZXhwb3NlZC5zcWwudHJhbnNhY3Rpb25zLnRyYW5zYWN0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUm9sZVRhYmxlLgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUm9sZVRhYmxlLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIERhdGFiYXNlLmNvbm5lY3QoCiAgICAgICAgImpkYmM6cG9zdGdyZXNxbDovL2xvY2FsaG9zdDo1NDMyL2FncmFqYWciLAogICAgICAgIGRyaXZlciA9ICJvcmcucG9zdGdyZXNxbC5Ecml2ZXIiLAogICAgICAgIHVzZXIgPSAibmljayIsCiAgICAgICAgcGFzc3dvcmQgPSAiIgogICAgKQo=</text>
+        <text encoding="base64">ICAgIAogICAgaWQ6SW50Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qZXRicmFpbnMuZXhwb3NlZC5zcWwudHJhbnNhY3Rpb25zLnRyYW5zYWN0aW9uCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIERhdGFiYXNlLmNvbm5lY3QoCiAgICAgICAgImpkYmM6cG9zdGdyZXNxbDovL2xvY2FsaG9zdDo1NDMyL2FncmFqYWciLAogICAgICAgIGRyaXZlciA9ICJvcmcucG9zdGdyZXNxbC5Ecml2ZXIiLAogICAgICAgIHVzZXIgPSAibmljayIsCiAgICAgICAgcGFzc3dvcmQgPSAiIgogICAgKQo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qZXRicmFpbnMuZXhwb3NlZC5zcWwudHJhbnNhY3Rpb25zLnRyYW5zYWN0aW9uCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dGFyZ2V0Q29tcGF0aWJpbGl0eSA9IDEuOAo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qZXRicmFpbnMuZXhwb3NlZC5zcWwudHJhbnNhY3Rpb25zLnRyYW5zYWN0aW9uCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -374,10 +387,10 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGtvdGxpbi4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgb2JqZWN0IFVzZXJzVGFibGUgOiBUYWJsZSgpIHsKLy8gICAgICAgIHZhbCBlbWFpbEFkZHJlc3MgPSB2YXJjaGFyKCJlbWFpbF9hZGRyZXNzIiwgbGVuZ3RoID0gNTApIC8vIENvbHVtbjxTdHJpbmc+Ci8vCi8vICAgIH0KLy8KLy8gICAgZnVuIGdldFVzZXIoaWQ6IExvbmcpIHsKLy8gICAgICAgIHByaW50bG4oImhpIikKLy8gICAgICAgIERhdGFiYXNlLmNvbm5lY3QoCi8vICAgICAgICAgICAgImpkYmM6cG9zdGdyZXNxbDovL2xvY2FsaG9zdDo1NDMyL2FncmFqYWciLAovLyAgICAgICAgICAgIGRyaXZlciA9ICJvcmcucG9zdGdyZXNxbC5Ecml2ZXIiLAovLyAgICAgICAgICAgIHVzZXIgPSAibmljayIsCi8vICAgICAgICAgICAgcGFzc3dvcmQgPSAiIgovLyAgICAgICAgKQovLyAgICAgICAgdHJhbnNhY3Rpb24gewovLyAgICAgICAgICAgIFVzZXJzVGFibGUuaW5zZXJ0IHsKLy8gICAgICAgICAgICAgICAgaXRbZW1haWxBZGRyZXNzXSA9ICJib2JAbm9iLmNvbSIKLy8gICAgICAgICAgICB9Ci8vICAgICAgICB9Ci8vICAgIH0K</text>
+        <text encoding="base64">ICAgIERhdGFiYXNlLmNvbm5lY3QoCiAgICAgICAgImpkYmM6cG9zdGdyZXNxbDovL2xvY2FsaG9zdDo1NDMyL2FncmFqYWciLAogICAgICAgIGRyaXZlciA9ICJvcmcucG9zdGdyZXNxbC5Ecml2ZXIiLAogICAgICAgIHVzZXIgPSAibmljayIsCiAgICAgICAgcGFzc3dvcmQgPSAiIgogICAgKQo=</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -398,7 +411,7 @@
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qZXRicmFpbnMuZXhwb3NlZC5zcWwudHJhbnNhY3Rpb25zLnRyYW5zYWN0aW9uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
