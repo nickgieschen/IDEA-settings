@@ -91,12 +91,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/agrajag/service/UserService.kt" timestamp="1586488702078">
-        <mark key="'" line="11" column="15" />
-        <mark key="[" line="21" column="28" />
-        <mark key="]" line="21" column="28" />
-        <mark key="." line="21" column="28" />
-        <mark key="^" line="21" column="29" />
+      <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/agrajag/service/UserService.kt" timestamp="1586488809638">
+        <mark key="'" line="8" column="15" />
+        <mark key="[" line="19" column="75" />
+        <mark key="]" line="19" column="79" />
+        <mark key="." line="19" column="78" />
+        <mark key="^" line="19" column="79" />
       </file>
       <file name="$USER_HOME$/dev/reference-projects/kotlin-exposed-realworld/src/main/kotlin/io/realworld/article/domain/Article.kt" timestamp="1586483506666">
         <mark key="'" line="22" column="40" />
@@ -331,13 +331,13 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>() }</text>
+        <text>.from()</text>
       </register>
       <register name="l" type="4">
         <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>() }</text>
+        <text>.from()</text>
       </register>
       <register name="/" type="4">
         <text>core</text>
