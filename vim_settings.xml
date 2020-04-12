@@ -29,7 +29,6 @@
         <entry>core</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/userId/userid/g</entry>
         <entry>%s/'/&quot;/g</entry>
         <entry>%s/left/right/gc</entry>
         <entry>s/left/source/gc</entry>
@@ -49,6 +48,7 @@
         <entry>x</entry>
         <entry>url</entry>
         <entry>noh</entry>
+        <entry>set surround</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -109,11 +109,14 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/agrajag/gradle.properties" timestamp="1586483650582">
+      <file name="$USER_HOME$/dev/reference-projects/krush/example/src/main/kotlin/pl/touk/krush/Book.kt" timestamp="1586731241234">
+        <mark key="'" line="12" column="26" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/agrajag/gradle.properties" timestamp="1586731803646">
         <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="3" column="19" />
-        <mark key="." line="5" column="0" />
+        <mark key="]" line="5" column="19" />
+        <mark key="^" line="5" column="19" />
+        <mark key="." line="5" column="18" />
       </file>
       <file name="$USER_HOME$/dev/reference-projects/kotlin-exposed-realworld/src/test/kotlin/io/realworld/article/query/ArticleQueryServiceTest.kt" timestamp="1586481581669">
         <mark key="'" line="40" column="42" />
@@ -134,18 +137,6 @@
         <mark key="." line="14" column="81" />
         <mark key="^" line="14" column="82" />
       </file>
-      <file name="$USER_HOME$/dev/reference-projects/kotlin-exposed-realworld/src/main/kotlin/io/realworld/shared/refs/ArticleId.kt" timestamp="1586472722634">
-        <mark key="'" line="6" column="27" />
-        <mark key="[" line="2" column="55" />
-        <mark key="]" line="2" column="55" />
-        <mark key="." line="2" column="55" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/resources/application.conf" timestamp="1586463959044">
-        <mark key="[" line="3" column="18" />
-        <mark key="]" line="3" column="24" />
-        <mark key="^" line="3" column="24" />
-        <mark key="." line="3" column="24" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/idea.vmoptions" timestamp="1586487903060">
         <mark key="[" line="2" column="26" />
         <mark key="]" line="2" column="29" />
@@ -157,6 +148,9 @@
         <mark key="]" line="5" column="9" />
         <mark key="." line="5" column="8" />
         <mark key="^" line="5" column="9" />
+      </file>
+      <file name="/Dummy.java" timestamp="1586731011688">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/agrajag/presentation/site/Account.kt" timestamp="1586473666516">
         <mark key="[" line="12" column="0" />
@@ -170,17 +164,23 @@
         <mark key="." line="12" column="20" />
         <mark key="^" line="12" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/agrajag/build.gradle" timestamp="1586486254942">
-        <mark key="'" line="36" column="51" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/dev/reference-projects/krush/example/src/test/kotlin/pl/touk/krush/BookTest.kt" timestamp="1586731223271">
+        <mark key="[" line="22" column="13" />
+        <mark key="]" line="22" column="13" />
+        <mark key="." line="22" column="13" />
+      </file>
+      <file name="/Dummy.php" timestamp="1586731046998">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/agrajag/build.gradle" timestamp="1586731781669">
+        <mark key="'" line="3" column="33" />
+        <mark key="[" line="5" column="38" />
+        <mark key="]" line="5" column="52" />
+        <mark key="." line="5" column="51" />
+        <mark key="^" line="5" column="52" />
       </file>
       <file name="$USER_HOME$/dev/reference-projects/kotlin-exposed-realworld/src/main/kotlin/io/realworld/article/query/ArticleQueryService.kt" timestamp="1586481589133">
         <mark key="'" line="12" column="50" />
-      </file>
-      <file name="/fragment.java" timestamp="1586469528534">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/agrajag/domain/User.kt" timestamp="1586488121819">
         <mark key="[" line="8" column="0" />
@@ -188,14 +188,8 @@
         <mark key="." line="9" column="14" />
         <mark key="^" line="9" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/reference-projects/realworld-kotlin-ktor/src/config/Api.kt" timestamp="1586460003590">
-        <mark key="'" line="29" column="13" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="163" column="97" filename="$USER_HOME$/dev/reference-projects/material-theme-jetbrains/src/main/resources/META-INF/plugin.xml" />
-      <jump line="40" column="43" filename="$USER_HOME$/dev/reference-projects/material-theme-jetbrains/src/main/java/com/chrisrm/idea/annotators/JSAnnotator.java" />
-      <jump line="4" column="46" filename="$USER_HOME$/dev/my-projects/minimal-funk/src/test/java/io/seriouscybernetics/JavaScriptAnnotatorTest.java" />
       <jump line="10" column="59" filename="$USER_HOME$/dev/my-projects/minimal-funk/src/test/java/io/seriouscybernetics/JavaScriptAnnotatorTest.java" />
       <jump line="22" column="31" filename="$USER_HOME$/dev/my-projects/minimal-funk/src/test/java/io/seriouscybernetics/JavaScriptAnnotatorTest.java" />
       <jump line="13" column="23" filename="$USER_HOME$/dev/my-projects/minimal-funk/src/main/resources/META-INF/plugin.xml" />
@@ -293,11 +287,14 @@
       <jump line="12" column="50" filename="$USER_HOME$/dev/reference-projects/kotlin-exposed-realworld/src/main/kotlin/io/realworld/article/query/ArticleQueryService.kt" />
       <jump line="27" column="15" filename="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/agrajag/service/UserService.kt" />
       <jump line="39" column="22" filename="$USER_HOME$/dev/reference-projects/realworld-kotlin-ktor/src/Application.kt" />
+      <jump line="12" column="26" filename="$USER_HOME$/dev/reference-projects/krush/example/src/main/kotlin/pl/touk/krush/Book.kt" />
+      <jump line="5" column="27" filename="$USER_HOME$/dev/my-projects/agrajag/build.gradle" />
+      <jump line="3" column="33" filename="$USER_HOME$/dev/my-projects/agrajag/build.gradle" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
+      <register name="&quot;" type="4">
         <text encoding="base64">ICAgIG5ldyBTaGlmdExlZnRIYW5kbGVyKCk7Cg==</text>
       </register>
       <register name="c" type="4">
@@ -331,13 +328,13 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>.from()</text>
+        <text>&quot;&quot;</text>
       </register>
       <register name="l" type="4">
         <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>.from()</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>core</text>
@@ -357,26 +354,26 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBJZAogICAgdmFsIGlkOkludCwKCiAgICBAQ29sdW1uKG5hbWU9ImVtYWlsX2FkZHJlc3MiKQogICAgdmFsIGVtYWlsQWRkcmVzczpTdHJpbmcK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUm9sZVRhYmxlLgo=</text>
+      <register name="1" type="4">
+        <text>&quot;&quot;</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUm9sZVRhYmxlLgo=</text>
+      <register name="2" type="4">
+        <text>org.jetbrains.kotlin.kapt</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAogICAgaWQ6SW50Cg==</text>
+      <register name="3" type="4">
+        <text>&quot;&quot;</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qZXRicmFpbnMuZXhwb3NlZC5zcWwudHJhbnNhY3Rpb25zLnRyYW5zYWN0aW9uCg==</text>
+      <register name="4" type="4">
+        <text>org.flywaydb.flyway</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qZXRicmFpbnMuZXhwb3NlZC5zcWwudHJhbnNhY3Rpb25zLnRyYW5zYWN0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUm9sZVRhYmxlLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qZXRicmFpbnMuZXhwb3NlZC5zcWwudHJhbnNhY3Rpb25zLnRyYW5zYWN0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUm9sZVRhYmxlLgo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -387,10 +384,10 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAogICAgaWQ6SW50Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIERhdGFiYXNlLmNvbm5lY3QoCiAgICAgICAgImpkYmM6cG9zdGdyZXNxbDovL2xvY2FsaG9zdDo1NDMyL2FncmFqYWciLAogICAgICAgIGRyaXZlciA9ICJvcmcucG9zdGdyZXNxbC5Ecml2ZXIiLAogICAgICAgIHVzZXIgPSAibmljayIsCiAgICAgICAgcGFzc3dvcmQgPSAiIgogICAgKQo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qZXRicmFpbnMuZXhwb3NlZC5zcWwudHJhbnNhY3Rpb25zLnRyYW5zYWN0aW9uCg==</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -411,10 +408,10 @@
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qZXRicmFpbnMuZXhwb3NlZC5zcWwudHJhbnNhY3Rpb25zLnRyYW5zYWN0aW9uCg==</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>set surround</text>
       </register>
     </registers>
   </component>
