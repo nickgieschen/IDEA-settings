@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>catholi</entry>
         <entry>rhad</entry>
         <entry>assay</entry>
         <entry>ichor</entry>
@@ -27,6 +26,7 @@
         <entry>corner</entry>
         <entry>get</entry>
         <entry>core</entry>
+        <entry>assembly</entry>
       </history-search>
       <history-cmd>
         <entry>%s/'/&quot;/g</entry>
@@ -117,6 +117,12 @@
         <mark key="." line="17" column="133" />
         <mark key="^" line="17" column="134" />
       </file>
+      <file name="$USER_HOME$/dev/reference-projects/jpa2ddl/jpa2ddl-gradle-plugin/pom.xml" timestamp="1586752692961">
+        <mark key="[" line="74" column="62" />
+        <mark key="]" line="74" column="76" />
+        <mark key="^" line="74" column="76" />
+        <mark key="." line="74" column="75" />
+      </file>
       <file name="/a.sql" timestamp="1586732780090">
         <mark key="[" line="0" column="0" />
       </file>
@@ -138,12 +144,12 @@
       <file name="/Dummy.php" timestamp="1586731046998">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/agrajag/build.gradle" timestamp="1586738231191">
-        <mark key="'" line="68" column="23" />
-        <mark key="[" line="7" column="69" />
-        <mark key="]" line="7" column="70" />
-        <mark key="." line="7" column="70" />
-        <mark key="^" line="4" column="13" />
+      <file name="$USER_HOME$/dev/my-projects/agrajag/build.gradle" timestamp="1586752298530">
+        <mark key="'" line="69" column="23" />
+        <mark key="[" line="7" column="50" />
+        <mark key="]" line="7" column="54" />
+        <mark key="^" line="7" column="54" />
+        <mark key="." line="7" column="53" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/agrajag/domain/User.kt" timestamp="1586488121819">
         <mark key="[" line="8" column="0" />
@@ -154,21 +160,20 @@
       <file name="/Dummy.txt" timestamp="1586732780109">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/reference-projects/kotlin-exposed-realworld/src/main/kotlin/io/realworld/article/domain/Article.kt" timestamp="1586483506666">
-        <mark key="'" line="22" column="40" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="23" column="42" />
-      </file>
       <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/agrajag/domain/Role.kt" timestamp="1586488125924">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="15" column="27" />
         <mark key="^" line="9" column="12" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/reference-projects/realworld-kotlin-ktor/src/Application.kt" timestamp="1586485657898">
-        <mark key="'" line="39" column="22" />
-      </file>
       <file name="$USER_HOME$/dev/reference-projects/jpa2ddl/jpa2ddl-gradle-plugin/src/test/groovy/com/devskiller/jpa2ddl/GeneratePluginTest.groovy" timestamp="1586738023945" />
+      <file name="$USER_HOME$/dev/reference-projects/jpa2ddl/jpa2ddl-gradle-plugin/src/main/java/com/devskiller/jpa2ddl/GeneratePlugin.java" timestamp="1586752672184" />
+      <file name="$USER_HOME$/dev/reference-projects/jpa2ddl/pom.xml" timestamp="1586752510803">
+        <mark key="[" line="112" column="21" />
+        <mark key="]" line="125" column="25" />
+        <mark key="^" line="125" column="25" />
+        <mark key="." line="125" column="24" />
+      </file>
       <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/agrajag/Application.kt" timestamp="1586487998381">
         <mark key="'" line="23" column="10" />
         <mark key="[" line="12" column="20" />
@@ -180,9 +185,6 @@
         <mark key="[" line="22" column="13" />
         <mark key="]" line="22" column="13" />
         <mark key="." line="22" column="13" />
-      </file>
-      <file name="$USER_HOME$/dev/reference-projects/kotlin-exposed-realworld/src/main/kotlin/io/realworld/article/query/ArticleQueryService.kt" timestamp="1586481589133">
-        <mark key="'" line="12" column="50" />
       </file>
     </filemarks>
     <jumps>
@@ -324,16 +326,16 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>r</text>
+        <text>MainClass</text>
       </register>
       <register name="l" type="4">
         <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>MainClass</text>
       </register>
       <register name="/" type="4">
-        <text>core</text>
+        <text>assembly</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -348,28 +350,28 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBJZAogICAgdmFsIGlkOkludCwKCiAgICBAQ29sdW1uKG5hbWU9ImVtYWlsX2FkZHJlc3MiKQogICAgdmFsIGVtYWlsQWRkcmVzczpTdHJpbmcK</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggImNvbS5kZXZza2lsbGVyLmpwYTJkZGw6anBhMmRkbC1ncmFkbGUtcGx1Z2luOjAuOS4xNCIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbkNlbnRyYWwoKQo=</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggImNvbS5kZXZza2lsbGVyLmpwYTJkZGw6anBhMmRkbC1ncmFkbGUtcGx1Z2luOjAuOS4xNCIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlkICJqcGEyZGRsLWdyYWRsZS1wbHVnaW4iIHZlcnNpb24gIjAuOS4xMiIK</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggImNvbS5kZXZza2lsbGVyLmpwYTJkZGw6anBhMmRkbC1ncmFkbGUtcGx1Z2luOjAuOS4xNCIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnY29tLmRldnNraWxsZXIuanBhMmRkbCcK</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggImNvbS5kZXZza2lsbGVyLmpwYTJkZGw6anBhMmRkbC1ncmFkbGUtcGx1Z2luOjAuOS4xNCIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYXZlbkNlbnRyYWwoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnY29tLmRldnNraWxsZXIuanBhMmRkbCcK</text>
+        <text encoding="base64">ICAgIGlkICJqcGEyZGRsLWdyYWRsZS1wbHVnaW4iIHZlcnNpb24gIjAuOS4xMiIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5qZnJvZy5iaW50cmF5LmdyYWRsZTpncmFkbGUtYmludHJheS1wbHVnaW46MC40LjEnCg==</text>
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnY29tLmRldnNraWxsZXIuanBhMmRkbCcK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -380,10 +382,10 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBsYWNlaG9sZGVycyA9IFsKICAgICAgICAgICAgJ2tleUFCQycgICAgICAgICAgOiAndmFsdWVYWVonLAogICAgICAgICAgICAnb3RoZXJwbGFjZWhvbGRlcic6ICd2YWx1ZTEyMycKICAgIF0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBsYWNlaG9sZGVycyA9IFsKICAgICAgICAgICAgJ2tleUFCQycgICAgICAgICAgOiAndmFsdWVYWVonLAogICAgICAgICAgICAnb3RoZXJwbGFjZWhvbGRlcic6ICd2YWx1ZTEyMycKICAgIF0K</text>
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnY29tLmRldnNraWxsZXIuanBhMmRkbCcK</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -404,7 +406,7 @@
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNjaGVtYXMgPSBbJ2FncmFqYWcnXQo=</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5qZnJvZy5iaW50cmF5LmdyYWRsZTpncmFkbGUtYmludHJheS1wbHVnaW46MC40LjEnCg==</text>
       </register>
       <register name=":" type="4">
         <text>set surround</text>
@@ -413,13 +415,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>core</last-search>
+      <last-search>assembly</last-search>
       <last-offset />
-      <last-pattern>core</last-pattern>
+      <last-pattern>assembly</last-pattern>
       <last-replace>can-form-area-voter-pledge</last-replace>
       <last-substitute>can-form-area-email-list-3</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
