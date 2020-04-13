@@ -138,7 +138,7 @@
       <file name="/Dummy.php" timestamp="1586731046998">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/agrajag/build.gradle" timestamp="1586737282568">
+      <file name="$USER_HOME$/dev/my-projects/agrajag/build.gradle" timestamp="1586738231191">
         <mark key="'" line="68" column="23" />
         <mark key="[" line="7" column="69" />
         <mark key="]" line="7" column="70" />
@@ -168,7 +168,7 @@
       <file name="$USER_HOME$/dev/reference-projects/realworld-kotlin-ktor/src/Application.kt" timestamp="1586485657898">
         <mark key="'" line="39" column="22" />
       </file>
-      <file name="$USER_HOME$/dev/reference-projects/jpa2ddl/jpa2ddl-gradle-plugin/src/test/groovy/com/devskiller/jpa2ddl/GeneratePluginTest.groovy" timestamp="1586736538362" />
+      <file name="$USER_HOME$/dev/reference-projects/jpa2ddl/jpa2ddl-gradle-plugin/src/test/groovy/com/devskiller/jpa2ddl/GeneratePluginTest.groovy" timestamp="1586738023945" />
       <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/agrajag/Application.kt" timestamp="1586487998381">
         <mark key="'" line="23" column="10" />
         <mark key="[" line="12" column="20" />
@@ -323,14 +323,14 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbkNlbnRyYWwoKQo=</text>
+      <register name="*" type="4">
+        <text>r</text>
       </register>
       <register name="l" type="4">
         <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>com.devskiller.jpa2ddl:</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>core</text>
