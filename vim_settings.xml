@@ -138,12 +138,12 @@
       <file name="/Dummy.php" timestamp="1586731046998">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/agrajag/build.gradle" timestamp="1586735154704">
-        <mark key="'" line="65" column="23" />
-        <mark key="[" line="17" column="5" />
-        <mark key="]" line="17" column="12" />
-        <mark key="." line="17" column="11" />
-        <mark key="^" line="17" column="12" />
+      <file name="$USER_HOME$/dev/my-projects/agrajag/build.gradle" timestamp="1586737282568">
+        <mark key="'" line="68" column="23" />
+        <mark key="[" line="7" column="69" />
+        <mark key="]" line="7" column="70" />
+        <mark key="." line="7" column="70" />
+        <mark key="^" line="4" column="13" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/agrajag/domain/User.kt" timestamp="1586488121819">
         <mark key="[" line="8" column="0" />
@@ -165,12 +165,10 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/reference-projects/kotlin-exposed-realworld/src/test/kotlin/io/realworld/article/query/ArticleQueryServiceTest.kt" timestamp="1586481581669">
-        <mark key="'" line="40" column="42" />
-      </file>
       <file name="$USER_HOME$/dev/reference-projects/realworld-kotlin-ktor/src/Application.kt" timestamp="1586485657898">
         <mark key="'" line="39" column="22" />
       </file>
+      <file name="$USER_HOME$/dev/reference-projects/jpa2ddl/jpa2ddl-gradle-plugin/src/test/groovy/com/devskiller/jpa2ddl/GeneratePluginTest.groovy" timestamp="1586736538362" />
       <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/agrajag/Application.kt" timestamp="1586487998381">
         <mark key="'" line="23" column="10" />
         <mark key="[" line="12" column="20" />
@@ -325,14 +323,14 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="*" type="4">
-        <text>:</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgICAgICBtYXZlbkNlbnRyYWwoKQo=</text>
       </register>
       <register name="l" type="4">
         <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>com.devskiller.jpa2ddl:</text>
       </register>
       <register name="/" type="4">
         <text>core</text>
@@ -353,25 +351,25 @@
         <text encoding="base64">ICAgIEBJZAogICAgdmFsIGlkOkludCwKCiAgICBAQ29sdW1uKG5hbWU9ImVtYWlsX2FkZHJlc3MiKQogICAgdmFsIGVtYWlsQWRkcmVzczpTdHJpbmcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlkICJqcGEyZGRsLWdyYWRsZS1wbHVnaW4iIHZlcnNpb24gIjAuOS4xMiIK</text>
+        <text encoding="base64">ICAgICAgICBtYXZlbkNlbnRyYWwoKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnY29tLmRldnNraWxsZXIuanBhMmRkbCcK</text>
+        <text encoding="base64">ICAgIGlkICJqcGEyZGRsLWdyYWRsZS1wbHVnaW4iIHZlcnNpb24gIjAuOS4xMiIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">YXBwbHkgcGx1Z2luOiAnY29tLmRldnNraWxsZXIuanBhMmRkbCcK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5qZnJvZy5iaW50cmF5LmdyYWRsZTpncmFkbGUtYmludHJheS1wbHVnaW46MC40LjEnCg==</text>
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnY29tLmRldnNraWxsZXIuanBhMmRkbCcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBsYWNlaG9sZGVycyA9IFsKICAgICAgICAgICAgJ2tleUFCQycgICAgICAgICAgOiAndmFsdWVYWVonLAogICAgICAgICAgICAnb3RoZXJwbGFjZWhvbGRlcic6ICd2YWx1ZTEyMycKICAgIF0K</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5qZnJvZy5iaW50cmF5LmdyYWRsZTpncmFkbGUtYmludHJheS1wbHVnaW46MC40LjEnCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -385,7 +383,7 @@
         <text encoding="base64">ICAgIHBsYWNlaG9sZGVycyA9IFsKICAgICAgICAgICAgJ2tleUFCQycgICAgICAgICAgOiAndmFsdWVYWVonLAogICAgICAgICAgICAnb3RoZXJwbGFjZWhvbGRlcic6ICd2YWx1ZTEyMycKICAgIF0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNjaGVtYXMgPSBbJ2FncmFqYWcnXQo=</text>
+        <text encoding="base64">ICAgIHBsYWNlaG9sZGVycyA9IFsKICAgICAgICAgICAgJ2tleUFCQycgICAgICAgICAgOiAndmFsdWVYWVonLAogICAgICAgICAgICAnb3RoZXJwbGFjZWhvbGRlcic6ICd2YWx1ZTEyMycKICAgIF0K</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -406,7 +404,7 @@
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNjaGVtYXMgPSBbJ2FncmFqYWcnXQo=</text>
       </register>
       <register name=":" type="4">
         <text>set surround</text>
