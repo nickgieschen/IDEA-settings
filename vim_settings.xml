@@ -144,12 +144,12 @@
       <file name="/Dummy.php" timestamp="1586731046998">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/agrajag/build.gradle" timestamp="1586752298530">
-        <mark key="'" line="69" column="23" />
-        <mark key="[" line="7" column="50" />
-        <mark key="]" line="7" column="54" />
-        <mark key="^" line="7" column="54" />
-        <mark key="." line="7" column="53" />
+      <file name="$USER_HOME$/dev/my-projects/agrajag/build.gradle" timestamp="1586755235535">
+        <mark key="'" line="70" column="23" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="23" column="13" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/agrajag/domain/User.kt" timestamp="1586488121819">
         <mark key="[" line="8" column="0" />
@@ -326,13 +326,13 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>MainClass</text>
+        <text>/</text>
       </register>
       <register name="l" type="4">
         <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>MainClass</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>assembly</text>
@@ -359,19 +359,19 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggImNvbS5kZXZza2lsbGVyLmpwYTJkZGw6anBhMmRkbC1ncmFkbGUtcGx1Z2luOjAuOS4xNCIK</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggImNvbS5kZXZza2lsbGVyLmpwYTJkZGw6anBhMmRkbC1jb3JlOjAuOS4xNCIK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggImNvbS5kZXZza2lsbGVyLmpwYTJkZGw6anBhMmRkbC1ncmFkbGUtcGx1Z2luOjAuOS4xNCIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbkNlbnRyYWwoKQo=</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggImNvbS5kZXZza2lsbGVyLmpwYTJkZGw6anBhMmRkbC1ncmFkbGUtcGx1Z2luOjAuOS4xNCIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlkICJqcGEyZGRsLWdyYWRsZS1wbHVnaW4iIHZlcnNpb24gIjAuOS4xMiIK</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggImNvbS5kZXZza2lsbGVyLmpwYTJkZGw6anBhMmRkbC1ncmFkbGUtcGx1Z2luOjAuOS4xNCIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnY29tLmRldnNraWxsZXIuanBhMmRkbCcK</text>
+        <text encoding="base64">ICAgICAgICBtYXZlbkNlbnRyYWwoKQo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -382,7 +382,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlkICJqcGEyZGRsLWdyYWRsZS1wbHVnaW4iIHZlcnNpb24gIjAuOS4xMiIK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">YXBwbHkgcGx1Z2luOiAnY29tLmRldnNraWxsZXIuanBhMmRkbCcK</text>
@@ -406,7 +406,7 @@
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5qZnJvZy5iaW50cmF5LmdyYWRsZTpncmFkbGUtYmludHJheS1wbHVnaW46MC40LjEnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set surround</text>
