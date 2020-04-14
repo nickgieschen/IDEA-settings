@@ -165,11 +165,11 @@
         <mark key="." line="34" column="3" />
         <mark key="^" line="34" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/agrajag/getting-started" timestamp="1586902348139">
-        <mark key="[" line="20" column="18" />
-        <mark key="]" line="21" column="23" />
-        <mark key="^" line="21" column="23" />
-        <mark key="." line="21" column="22" />
+      <file name="$USER_HOME$/dev/my-projects/agrajag/getting-started" timestamp="1586906990211">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="39" column="2" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/agrajag/config/Kodein.kt" timestamp="1586889457404">
         <mark key="[" line="16" column="70" />
@@ -340,7 +340,7 @@
         </keys>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">ICAgIHRlc3RJbXBsZW1lbnRhdGlvbiAnb3JnLm1vY2tpdG86bW9ja2l0by1pbmxpbmU6Mi4xMy4wJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="l" type="4">
         <text>p</text>
@@ -367,27 +367,25 @@
         <text encoding="base64">ICAgICAgICBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcihVc2VyUXVlcnlTZXJ2aWNlOjpjbGFzcy5qYXZhKS5kZWJ1ZygiYXNkZmFzZGYiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRlc3RJbXBsZW1lbnRhdGlvbiAnb3JnLm1vY2tpdG86bW9ja2l0by1pbmxpbmU6Mi4xMy4wJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>.let {
-            assertEquals(HttpStatusCode.OK, it.status())
-        }</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">LnJlc3BvbnNlIHsKICAgICAgICB9IA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">dGVzdENvbXBpbGUoIm9yZy5hc3NlcnRqOmFzc2VydGotY29yZTokYXNzZXJ0alZlcnNpb24iKQogICAgdGVzdENvbXBpbGUoIm9yZy5qdW5pdC5qdXBpdGVyOmp1bml0LWp1cGl0ZXItYXBpOiRqdW5pdFZlcnNpb24iKQogICAgdGVzdENvbXBpbGUoIm9yZy5qdW5pdC5qdXBpdGVyOmp1bml0LWp1cGl0ZXItZW5naW5lOiRqdW5pdFZlcnNpb24iKQogICAgdGVzdENvbXBpbGUoIm9yZy5qdW5pdC5qdXBpdGVyOmp1bml0LWp1cGl0ZXItcGFyYW1zOiRqdW5pdFZlcnNpb24iKQogICAgdGVzdENvbXBpbGUoImNvbS5uaGFhcm1hbjptb2NraXRvLWtvdGxpbjokbW9ja2l0b0tvdGxpblZlcnNpb24iKQogICAgdGVzdENvbXBpbGUoImNvbS5naXRodWIuamF2YWZha2VyOmphdmFmYWtlcjokamF2YWZha2VyVmVyc2lvbiIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">bW9ja3MK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoKGhhbmRsZVJlcXVlc3QoSHR0cE1ldGhvZC5HZXQsICIvIikpIHsKICAgICAgICAgICAgICAgICAgICBhc3NlcnRFcXVhbHMoSHR0cFN0YXR1c0NvZGUuT0ssIHJlc3BvbnNlLnN0YXR1cygpKQogICAgICAgICAgICAgICAgICAgIGFzc2VydEVxdWFscygiSGVsbG8gZnJvbSBLdG9yIFRlc3RhYmxlIHNhbXBsZSBhcHBsaWNhdGlvbiIsIHJlc3BvbnNlLmNvbnRlbnQpCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB3aXRoKGhhbmRsZVJlcXVlc3QoSHR0cE1ldGhvZC5HZXQsICIvaW5kZXguaHRtbCIpKSB7CiAgICAgICAgICAgICAgICAgICAgYXNzZXJ0RmFsc2UocmVxdWVzdEhhbmRsZWQpCiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHRlc3RJbXBsZW1lbnRhdGlvbiAnb3JnLm1vY2tpdG86bW9ja2l0by1pbmxpbmU6Mi4xMy4wJwo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -397,11 +395,13 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGtvdGxpbi50ZXN0LlRlc3QK</text>
+      <register name="7" type="4">
+        <text>.let {
+            assertEquals(HttpStatusCode.OK, it.status())
+        }</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLmt0b3Iuc2VydmVyLnRlc3Rpbmcud2l0aFRlc3RBcHBsaWNhdGlvbgo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">LnJlc3BvbnNlIHsKICAgICAgICB9IA==</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -422,7 +422,7 @@
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLmt0b3IuYXBwbGljYXRpb24uQXBwbGljYXRpb24K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>set surround</text>
