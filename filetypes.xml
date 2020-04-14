@@ -72,9 +72,11 @@
       <mapping ext="local" type="PLAIN_TEXT" />
       <mapping ext="bn" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
+      <mapping ext="mockmaker" type="PLAIN_TEXT" />
       <mapping ext="config-template" type="PLAIN_TEXT" />
       <mapping ext="hxml" type="PLAIN_TEXT" />
       <mapping ext="json-template" type="PLAIN_TEXT" />
+      <mapping ext="mockmaker2" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="properties-template" type="PLAIN_TEXT" />
       <mapping ext="properties-template copy" type="PLAIN_TEXT" />
