@@ -91,30 +91,24 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/agrajag/service/UserService.kt" timestamp="1586826348484">
-        <mark key="'" line="10" column="15" />
-        <mark key="[" line="12" column="15" />
-        <mark key="]" line="12" column="17" />
-        <mark key="^" line="12" column="17" />
-        <mark key="." line="12" column="16" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1586732780109">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/reference-projects/krush/example/src/main/kotlin/pl/touk/krush/Book.kt" timestamp="1586731241234">
-        <mark key="'" line="12" column="26" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/agrajag/domain/Role.kt" timestamp="1586488125924">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="15" column="27" />
-        <mark key="^" line="9" column="12" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/agrajag/service/UserService.kt" timestamp="1586836308549">
+        <mark key="'" line="9" column="18" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="9" column="44" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/agrajag/gradle.properties" timestamp="1586825358319">
         <mark key="[" line="5" column="19" />
         <mark key="]" line="6" column="20" />
         <mark key="^" line="6" column="20" />
         <mark key="." line="6" column="19" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/agrajag/module/GraphQl.kt" timestamp="1586834583495">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="^" line="58" column="0" />
+        <mark key="." line="57" column="1" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/resources/static/graphql/playground.html" timestamp="1586830674103">
         <mark key="'" line="60" column="0" />
@@ -123,25 +117,23 @@
         <mark key="^" line="61" column="7" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/agrajag/getting-started" timestamp="1586823715202">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="18" />
-        <mark key="." line="25" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/agrajag/README.md" timestamp="1586825012579">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="11" column="0" />
-      </file>
-      <file name="/" timestamp="1586824658582">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/dev/my-projects/agrajag/README.md" timestamp="1586835688464">
+        <mark key="[" line="17" column="166" />
+        <mark key="]" line="21" column="45" />
+        <mark key="." line="21" column="44" />
+        <mark key="^" line="21" column="45" />
       </file>
       <file name="$USER_HOME$/dev/reference-projects/jpa2ddl/jpa2ddl-gradle-plugin/pom.xml" timestamp="1586814498847">
         <mark key="[" line="16" column="15" />
         <mark key="]" line="16" column="18" />
         <mark key="." line="16" column="17" />
         <mark key="^" line="16" column="18" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/agrajag/domain/UserRepository.kt" timestamp="1586836249386">
+        <mark key="[" line="18" column="8" />
+        <mark key="]" line="18" column="15" />
+        <mark key="." line="18" column="14" />
+        <mark key="^" line="18" column="15" />
       </file>
       <file name="/a.sql" timestamp="1586732780090">
         <mark key="[" line="0" column="0" />
@@ -152,35 +144,52 @@
         <mark key="^" line="2" column="30" />
         <mark key="." line="2" column="29" />
       </file>
-      <file name="/Dummy.java" timestamp="1586731011688">
+      <file name="$USER_HOME$/dev/my-projects/agrajag/src/test/kotlin/agrajag/service/UserServiceTest.kt" timestamp="1586835044525">
+        <mark key="[" line="8" column="25" />
+        <mark key="]" line="8" column="38" />
+        <mark key="^" line="8" column="38" />
+        <mark key="." line="8" column="37" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/agrajag/build.gradle" timestamp="1586835806739">
+        <mark key="'" line="43" column="54" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="46" column="55" />
+        <mark key="." line="41" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/agrajag/domain/User.kt" timestamp="1586834931207">
+        <mark key="[" line="12" column="25" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="13" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1586732780109">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/agrajag/Application.kt" timestamp="1586831042190">
-        <mark key="'" line="33" column="10" />
-        <mark key="[" line="39" column="60" />
-        <mark key="]" line="40" column="0" />
-        <mark key="^" line="40" column="0" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/agrajag/modules/GraphQl.kt" timestamp="1586835133482">
+        <mark key="[" line="25" column="83" />
+        <mark key="]" line="25" column="100" />
+        <mark key="^" line="25" column="100" />
+        <mark key="." line="25" column="99" />
       </file>
-      <file name="$USER_HOME$/dev/reference-projects/krush/example/src/test/kotlin/pl/touk/krush/BookTest.kt" timestamp="1586731223271">
-        <mark key="[" line="22" column="13" />
-        <mark key="]" line="22" column="13" />
-        <mark key="." line="22" column="13" />
+      <file name="$USER_HOME$/dev/my-projects/agrajag/getting-started" timestamp="1586835398370">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="21" column="17" />
       </file>
-      <file name="/Dummy.php" timestamp="1586731046998">
+      <file name="/" timestamp="1586824658582">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/agrajag/build.gradle" timestamp="1586825494477">
-        <mark key="'" line="44" column="54" />
-        <mark key="[" line="44" column="12" />
-        <mark key="]" line="44" column="55" />
-        <mark key="^" line="44" column="54" />
-        <mark key="." line="44" column="12" />
+      <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/agrajag/Application.kt" timestamp="1586836684479">
+        <mark key="'" line="31" column="14" />
+        <mark key="[" line="22" column="3" />
+        <mark key="]" line="37" column="29" />
+        <mark key="^" line="37" column="29" />
+        <mark key="." line="37" column="28" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="20" filename="$USER_HOME$/dev/my-projects/done/done-web/create-user.html" />
-      <jump line="31" column="0" filename="$USER_HOME$/dev/my-projects/done/done-web/create-user.html" />
       <jump line="25" column="16" filename="$USER_HOME$/dev/my-projects/done/done-web/create-user.html" />
       <jump line="29" column="28" filename="$USER_HOME$/dev/my-projects/done/done-web/create-user.html" />
       <jump line="30" column="28" filename="$USER_HOME$/dev/my-projects/done/done-web/create-user.html" />
@@ -279,6 +288,8 @@
       <jump line="56" column="10" filename="$USER_HOME$/dev/reference-projects/jpa2ddl/pom.xml" />
       <jump line="44" column="54" filename="$USER_HOME$/dev/my-projects/agrajag/build.gradle" />
       <jump line="71" column="0" filename="$USER_HOME$/dev/my-projects/agrajag/src/main/resources/static/graphql/playground.html" />
+      <jump line="39" column="14" filename="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/agrajag/Application.kt" />
+      <jump line="11" column="18" filename="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/agrajag/service/UserService.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -316,14 +327,14 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLmt0b3IuaHR0cC4qCg==</text>
+      <register name="*" type="4">
+        <text>kodeinApplication</text>
       </register>
       <register name="l" type="4">
         <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>setUpGraphQl()</text>
+        <text>kodeinApplication</text>
       </register>
       <register name="/" type="4">
         <text>depend</text>
@@ -341,28 +352,28 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8c25hcHNob3RSZXBvc2l0b3J5PgogICAgICAgICAgICA8aWQ+aW50ZXJuYWwucmVwbzwvaWQ+CiAgICAgICAgICAgIDxuYW1lPlRlbXBvcmFyeSBTdGFnaW5nIFJlcG9zaXRvcnk8L25hbWU+CiAgICAgICAgICAgIDx1cmw+ZmlsZTovLyR7cHJvamVjdC5idWlsZC5kaXJlY3Rvcnl9L212bi1yZXBvPC91cmw+CiAgICAgICAgPC9zbmFwc2hvdFJlcG9zaXRvcnk+Cg==</text>
+        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZT0iZW1haWxfYWRkcmVzcyIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLmt0b3IuaHR0cC4qCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5leHBlZGlhZ3JvdXAuZ3JhcGhxbC4K</text>
+        <text encoding="base64">ICAgIC8vIEFsbG93cyB0byB1c2UgY2xhc3NlcyBhbm5vdGF0ZWQgd2l0aCBATG9jYXRpb24gdG8gcmVwcmVzZW50IFVSTHMuCiAgICAvLyBUaGV5IGFyZSB0eXBlZCwgY2FuIGJlIGNvbnN0cnVjdGVkIHRvIGdlbmVyYXRlIFVSTHMsIGFuZCBjYW4gYmUgdXNlZCB0byByZWdpc3RlciByb3V0ZXMuCiAgICBhcHBsaWNhdGlvbi5pbnN0YWxsKExvY2F0aW9ucykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+Cgo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qZXRicmFpbnMuZXhwb3NlZC5zcWwuRGF0YWJhc2UKaW1wb3J0IG9yZy5qZXRicmFpbnMuZXhwb3NlZC5zcWwudHJhbnNhY3Rpb25zLnRyYW5zYWN0aW9uCmltcG9ydCBvcmcuamV0YnJhaW5zLmV4cG9zZWQuc3FsLnVwZGF0ZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXV0aGVudGljYXRlKCJzZXNzaW9uIikgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBVc2VyVGFibGUuKFVzZXIoaWQgPSAyMSkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnVuIHNldFVwR3JhcGhRbCgpewoKCn0K</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgImlvLmt0b3I6a3Rvci1qYWNrc29uOiRrdG9yVmVyc2lvbiIK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -373,10 +384,10 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCBjb25maWcgPSBTY2hlbWFHZW5lcmF0b3JDb25maWcoc3VwcG9ydGVkUGFja2FnZXMgPSBsaXN0T2YoImFnYWphZy5zZXJ2aWNlIikpCiAgICB2YWwgcXVlcmllcyA9IGxpc3RPZihUb3BMZXZlbE9iamVjdChVc2VyUXVlcnlTZXJ2aWNlKCkpKQogICAgdmFsIHNjaGVtYTogR3JhcGhRTFNjaGVtYSA9IHRvU2NoZW1hKGNvbmZpZyA9IGNvbmZpZywgcXVlcmllcyA9IHF1ZXJpZXMpCiAgICB2YWwgZ3JhcGhRTCA9IEdyYXBoUUwubmV3R3JhcGhRTChzY2hlbWEpLmJ1aWxkKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHN1c3BlbmQgZnVuIEFwcGxpY2F0aW9uQ2FsbC5leGVjdXRlUXVlcnkoKSB7CiAgICAgICAgdmFsIHJlcXVlc3QgPSByZWNlaXZlPEdyYXBoUUxSZXF1ZXN0PigpCiAgICAgICAgdmFsIGV4ZWN1dGlvbklucHV0ID0gRXhlY3V0aW9uSW5wdXQubmV3RXhlY3V0aW9uSW5wdXQoKQogICAgICAgICAgICAuY29udGV4dChBcHBsaWNhdGlvbkNhbGxDb250ZXh0KHRoaXMpKQogICAgICAgICAgICAucXVlcnkocmVxdWVzdC5xdWVyeSkKICAgICAgICAgICAgLm9wZXJhdGlvbk5hbWUocmVxdWVzdC5vcGVyYXRpb25OYW1lKQogICAgICAgICAgICAudmFyaWFibGVzKHJlcXVlc3QudmFyaWFibGVzKQogICAgICAgICAgICAuYnVpbGQoKQogICAgCiAgICAgICAgZ3JhcGhRTC5leGVjdXRlKGV4ZWN1dGlvbklucHV0KQogICAgCiAgICAgICAgcmVzcG9uZChncmFwaFFMLmV4ZWN1dGUoZXhlY3V0aW9uSW5wdXQpKQogICAgfQo=</text>
+        <text encoding="base64">Ly8gICAgICAgIERhdGFiYXNlLmNvbm5lY3QoCi8vICAgICAgICAgICAgImpkYmM6cG9zdGdyZXNxbDovL2xvY2FsaG9zdDo1NDMyL2FncmFqYWciLAovLyAgICAgICAgICAgIGRyaXZlciA9ICJvcmcucG9zdGdyZXNxbC5Ecml2ZXIiLAovLyAgICAgICAgICAgIHVzZXIgPSAibmljayIsCi8vICAgICAgICAgICAgcGFzc3dvcmQgPSAiIgovLyAgICAgICAgKQovLyAgICAgICAgdHJhbnNhY3Rpb24gewovLyAgICAgICAgICAgIFVzZXJUYWJsZS4oVXNlcihpZCA9IDIxLCBlbWFpbEFkZHJlc3MgPSAiYXNkZnNhZCIpKQovLyAgICAgICAgfQo=</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -397,7 +408,7 @@
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bWFrZSBzdXJlIHVzaW5nIGFsbCBkZWNsYXJlZCBkZXBzCg==</text>
       </register>
       <register name=":" type="4">
         <text>set surround</text>
@@ -412,7 +423,7 @@
       <last-replace>can-form-area-voter-pledge</last-replace>
       <last-substitute>can-form-area-email-list-3</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
