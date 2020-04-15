@@ -116,11 +116,12 @@
         <mark key="^" line="61" column="7" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/agrajag/src/test/kotlin/agrajag/BaseTest.kt" timestamp="1586921523821">
+      <file name="$USER_HOME$/dev/my-projects/agrajag/src/test/kotlin/agrajag/BaseTest.kt" timestamp="1586929855550">
         <mark key="'" line="21" column="41" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+        <mark key="[" line="36" column="53" />
+        <mark key="]" line="36" column="54" />
+        <mark key="." line="36" column="53" />
+        <mark key="^" line="36" column="54" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/agrajag/README.md" timestamp="1586835688464">
         <mark key="[" line="17" column="166" />
@@ -134,12 +135,12 @@
         <mark key="." line="3" column="6" />
         <mark key="^" line="3" column="7" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/agrajag/src/test/kotlin/agrajag/service/UserServiceTest.kt" timestamp="1586924871949">
-        <mark key="'" line="39" column="48" />
-        <mark key="[" line="50" column="32" />
-        <mark key="]" line="50" column="32" />
-        <mark key="." line="50" column="32" />
-        <mark key="^" line="48" column="29" />
+      <file name="$USER_HOME$/dev/my-projects/agrajag/src/test/kotlin/agrajag/service/UserServiceTest.kt" timestamp="1586929897651">
+        <mark key="'" line="16" column="6" />
+        <mark key="[" line="42" column="74" />
+        <mark key="]" line="42" column="74" />
+        <mark key="." line="42" column="74" />
+        <mark key="^" line="42" column="82" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/agrajag/build.gradle" timestamp="1586909948011">
         <mark key="'" line="56" column="68" />
@@ -210,7 +211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="12" filename="$USER_HOME$/dev/my-projects/yngwie/js/default.js" />
       <jump line="33" column="14" filename="$USER_HOME$/dev/my-projects/yngwie/js/default.js" />
       <jump line="24" column="4" filename="$USER_HOME$/dev/my-projects/NoteToSelf/App.js" />
       <jump line="58" column="51" filename="$USER_HOME$/dev/my-projects/NoteToSelf/App.js" />
@@ -310,6 +310,7 @@
       <jump line="39" column="48" filename="$USER_HOME$/dev/my-projects/agrajag/src/test/kotlin/agrajag/service/UserServiceTest.kt" />
       <jump line="38" column="38" filename="$USER_HOME$/dev/my-projects/agrajag/src/test/kotlin/agrajag/BaseTest.kt" />
       <jump line="24" column="41" filename="$USER_HOME$/dev/my-projects/agrajag/src/test/kotlin/agrajag/BaseTest.kt" />
+      <jump line="17" column="6" filename="$USER_HOME$/dev/my-projects/agrajag/src/test/kotlin/agrajag/service/UserServiceTest.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -348,13 +349,13 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text encoding="base64">b3V0IA==</text>
+        <text encoding="base64">PFN0cmluZz4=</text>
       </register>
       <register name="l" type="4">
         <text>p</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">b3V0IA==</text>
+        <text encoding="base64">PFN0cmluZz4=</text>
       </register>
       <register name="/" type="4">
         <text>depend</text>
@@ -372,28 +373,28 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGVsZW0gPSBHc29uKCkuZnJvbUpzb248SnNvbkVsZW1lbnQ+KHRoaXMuY29udGVudCEhKQo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwganNvbiA9IEdzb24oKS5mcm9tSnNvbjxKc29uRWxlbWVudD4ocXVlcnkudG9SZXF1ZXN0U3RyaW5nKCkpLmFzSnNvbk9iamVjdAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgciA9IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtID0gSlNPTk9iamUK</text>
+        <text encoding="base64">dmFsIG0gPSBKc29uTm9kZShKc29uT2JqZWN0KCkpLmdldFZhbHVlPEludD4oKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG9ialsiZGF0YSJdCg==</text>
+        <text encoding="base64">dmFsIGpzb24gPSBHc29uKCkuZnJvbUpzb248SnNvbkVsZW1lbnQ+KCIiInsiIiIpLmFzSnNvbk9iamVjdAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIG9iaiA9IEpTT05PYmplY3QoSlNPTlBhcnNlcigpLnBhcnNlKHRoaXMuY29udGVudCEhKSkK</text>
+        <text encoding="base64">dmFsIGpzb25TdHJrCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGVsZW0gPSBHc29uKCkuZnJvbUpzb248SnNvbkVsZW1lbnQ+KHRoaXMuY29udGVudCEhKQogICAgICAgICAgICByZXR1cm4gZWxlbS5hc0pzb25PYmplY3RbImRhdGEiXS5hc0pzb25PYmplY3QK</text>
+        <text encoding="base64">ICAgICAgICBnZXQoKSA9IGRhdGEuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qc29uLnNpbXBsZS5KU09OQXJyYXkK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -404,10 +405,10 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qc29uLnNpbXBsZS5KU09OT2JqZWN0Cg==</text>
+        <text encoding="base64">Y2xhc3MgUCB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGF0YSBjbGFzcyBHcWxSZXNwb25zZSh2YWwgZGF0YTogSnNvbk9iamVjdCwgdmFsIGVycm9yczogSlNPTkFycmF5ID0gSlNPTkFycmF5KCkpCg==</text>
+        <text encoding="base64">dmFsIHAgPSBKc29uRWxlbWVudCgpCnZhbCBtID0gcFsiYXNkZiJdISFbImFkc2YiXSEhWzNdCg==</text>
       </register>
       <register name="x" type="4">
         <keys>
