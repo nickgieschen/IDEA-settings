@@ -134,12 +134,12 @@
         <mark key="." line="3" column="6" />
         <mark key="^" line="3" column="7" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/agrajag/src/test/kotlin/agrajag/service/UserServiceTest.kt" timestamp="1586923008301">
-        <mark key="'" line="40" column="48" />
-        <mark key="[" line="49" column="27" />
-        <mark key="]" line="49" column="29" />
-        <mark key="." line="49" column="28" />
-        <mark key="^" line="49" column="29" />
+      <file name="$USER_HOME$/dev/my-projects/agrajag/src/test/kotlin/agrajag/service/UserServiceTest.kt" timestamp="1586924871949">
+        <mark key="'" line="39" column="48" />
+        <mark key="[" line="50" column="32" />
+        <mark key="]" line="50" column="32" />
+        <mark key="." line="50" column="32" />
+        <mark key="^" line="48" column="29" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/agrajag/build.gradle" timestamp="1586909948011">
         <mark key="'" line="56" column="68" />
@@ -348,13 +348,13 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>V</text>
+        <text encoding="base64">b3V0IA==</text>
       </register>
       <register name="l" type="4">
         <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>V</text>
+        <text encoding="base64">b3V0IA==</text>
       </register>
       <register name="/" type="4">
         <text>depend</text>
