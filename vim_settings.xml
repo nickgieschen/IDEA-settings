@@ -116,11 +116,12 @@
         <mark key="^" line="61" column="7" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/agrajag/src/test/kotlin/agrajag/BaseTest.kt" timestamp="1586916724893">
-        <mark key="[" line="33" column="54" />
-        <mark key="]" line="33" column="55" />
-        <mark key="^" line="33" column="55" />
-        <mark key="." line="33" column="54" />
+      <file name="$USER_HOME$/dev/my-projects/agrajag/src/test/kotlin/agrajag/BaseTest.kt" timestamp="1586920617684">
+        <mark key="'" line="21" column="41" />
+        <mark key="[" line="27" column="25" />
+        <mark key="]" line="27" column="35" />
+        <mark key="." line="27" column="34" />
+        <mark key="^" line="27" column="35" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/agrajag/README.md" timestamp="1586835688464">
         <mark key="[" line="17" column="166" />
@@ -134,12 +135,12 @@
         <mark key="." line="3" column="6" />
         <mark key="^" line="3" column="7" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/agrajag/src/test/kotlin/agrajag/service/UserServiceTest.kt" timestamp="1586916445137">
+      <file name="$USER_HOME$/dev/my-projects/agrajag/src/test/kotlin/agrajag/service/UserServiceTest.kt" timestamp="1586920648794">
         <mark key="'" line="39" column="48" />
-        <mark key="[" line="39" column="45" />
-        <mark key="]" line="39" column="45" />
-        <mark key="^" line="39" column="45" />
-        <mark key="." line="39" column="45" />
+        <mark key="[" line="42" column="33" />
+        <mark key="]" line="43" column="34" />
+        <mark key="^" line="43" column="34" />
+        <mark key="." line="43" column="33" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/agrajag/build.gradle" timestamp="1586909948011">
         <mark key="'" line="56" column="68" />
@@ -210,8 +211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="10" filename="$USER_HOME$/dev/my-projects/yngwie/js/default.js" />
-      <jump line="98" column="10" filename="$USER_HOME$/dev/my-projects/yngwie/js/default.js" />
       <jump line="101" column="12" filename="$USER_HOME$/dev/my-projects/yngwie/js/default.js" />
       <jump line="33" column="14" filename="$USER_HOME$/dev/my-projects/yngwie/js/default.js" />
       <jump line="24" column="4" filename="$USER_HOME$/dev/my-projects/NoteToSelf/App.js" />
@@ -310,6 +309,8 @@
       <jump line="56" column="68" filename="$USER_HOME$/dev/my-projects/agrajag/build.gradle" />
       <jump line="49" column="33" filename="$USER_HOME$/dev/my-projects/agrajag/src/test/kotlin/agrajag/service/UserServiceTest.kt" />
       <jump line="39" column="48" filename="$USER_HOME$/dev/my-projects/agrajag/src/test/kotlin/agrajag/service/UserServiceTest.kt" />
+      <jump line="38" column="38" filename="$USER_HOME$/dev/my-projects/agrajag/src/test/kotlin/agrajag/BaseTest.kt" />
+      <jump line="24" column="41" filename="$USER_HOME$/dev/my-projects/agrajag/src/test/kotlin/agrajag/BaseTest.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -348,13 +349,13 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>.</text>
+        <text>asString</text>
       </register>
       <register name="l" type="4">
         <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>asString</text>
       </register>
       <register name="/" type="4">
         <text>depend</text>
@@ -372,38 +373,28 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWV0aG9kID0gSHR0cE1ldGhvZC5Qb3N0CiAgICAgICAgICAgIHVyaSA9ICIvZ3JhcGhxbCIKICAgICAgICAgICAgc2V0Qm9keShxcykKICAgICAgICAgICAgYWRkSGVhZGVyKCJDb250ZW50LVR5cGUiLCAiYXBwbGljYXRpb24vanNvbjsgY2hhcnNldD1VVEYtOCIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGVsZW0gPSBHc29uKCkuZnJvbUpzb248SnNvbkVsZW1lbnQ+KHRoaXMuY29udGVudCEhKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>{
-            query {
-                fieldObject(&quot;getUserById&quot;, mapOf(&quot;id&quot; to 4)) {
-                    field(&quot;firstName&quot;)
-                }
-            }</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5qc29uLnNpbXBsZS5KU09OQXJyYXkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qc29uLnNpbXBsZS5KU09OT2JqZWN0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGF0YSBjbGFzcyBHcWxSZXNwb25zZSh2YWwgZGF0YTogSnNvbk9iamVjdCwgdmFsIGVycm9yczogSlNPTkFycmF5ID0gSlNPTkFycmF5KCkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZ1biBUZXN0QXBwbGljYXRpb25FbmdpbmUuaGFuZGxlR3FsUmVxdWVzdCgKICAgICAgICBxdWVyeTogS3JhcGgsCiAgICAgICAgY2xvc2VSZXF1ZXN0OiBCb29sZWFuID0gdHJ1ZSwKICAgICAgICBzZXR1cDogVGVzdEFwcGxpY2F0aW9uUmVxdWVzdC4oKSAtPiBVbml0ID0ge30KICAgICk6IFRlc3RBcHBsaWNhdGlvbkNhbGwgewoKICAgICAgICB2YWwganNvbiA9IEdzb24oKS5mcm9tSnNvbjxKU09OT2JqZWN0PihxdWVyeS50b1JlcXVlc3RTdHJpbmcoKSkKICAgICAgICBqc29uWyJ2YXJpYWJsZXMiXSA9IG1hcE9mPFN0cmluZywgU3RyaW5nPigpCgogICAgICAgIHJldHVybiBoYW5kbGVSZXF1ZXN0KGNsb3NlUmVxdWVzdCkgewogICAgICAgICAgICBtZXRob2QgPSBIdHRwTWV0aG9kLlBvc3QKICAgICAgICAgICAgdXJpID0gIi9ncmFwaHFsIgogICAgICAgICAgICBzZXRCb2R5KGpzb24udG9KU09OU3RyaW5nKCkpCiAgICAgICAgICAgIGFkZEhlYWRlcigiQ29udGVudC1UeXBlIiwgImFwcGxpY2F0aW9uL2pzb247IGNoYXJzZXQ9VVRGLTgiKQogICAgICAgICAgICBzZXR1cCgpCiAgICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogIm9wZXJhdGlvbk5hbWUiOm51bGwsInZhcmlhYmxlcyI6e30sInF1ZXJ5Ijoie1xuICBnZXRVc2VyQnlJZChpZDogNCkge1xuICAgIGZpcnN0TmFtZVxuICB9XG59XG4ifQogICAgICovCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qc29uLnNpbXBsZS5KU09OT2JqZWN0Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>{
-            method = HttpMethod.Post
-            uri = &quot;/graphql&quot;
-            setBody(qs)
-            addHeader(&quot;Content-Type&quot;, &quot;application/json; charset=UTF-8&quot;)
-        }</text>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5qc29uLnNpbXBsZS5KU09OT2JqZWN0Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -414,10 +405,10 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGpzb24gPSBHc29uKCkuZnJvbUpzb248SlNPTk9iamVjdD4odGhpcy5jb250ZW50ISEpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBoYW5kbGVHcWxSZXF1ZXN0IHsgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -438,7 +429,7 @@
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGwK</text>
       </register>
       <register name=":" type="4">
         <text>set surround</text>
