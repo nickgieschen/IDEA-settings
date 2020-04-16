@@ -11,6 +11,9 @@
     <option name="REFORMAT_ON_PASTE" value="2" />
     <option name="OPTIMIZE_IMPORTS_ON_THE_FLY" value="true" />
   </component>
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="14" />
+  </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
