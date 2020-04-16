@@ -109,11 +109,8 @@
         <mark key="^" line="11" column="21" />
         <mark key="." line="11" column="20" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/agrajag/config/Routing.kt" timestamp="1586888931877">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="15" column="5" />
-        <mark key="^" line="10" column="4" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-server-core/1.3.2/2cb18eabd6793488a084ca92659198071c00f2b/ktor-server-core-1.3.2-sources.jar!/jvmMain/io/ktor/config/ApplicationConfig.kt" timestamp="1587011396919">
+        <mark key="'" line="33" column="6" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-server-test-host/1.3.2/33e1ab4ad3452f5f782041b2e75054703118db21/ktor-server-test-host-1.3.2-sources.jar!/jvmMain/io/ktor/server/testing/TestApplicationEngine.kt" timestamp="1586913163581">
         <mark key="[" line="141" column="0" />
@@ -125,32 +122,26 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="19" column="90" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/agrajag/modules/GraphQl.kt" timestamp="1586882689400">
-        <mark key="[" line="33" column="59" />
-        <mark key="]" line="34" column="4" />
-        <mark key="." line="34" column="3" />
-        <mark key="^" line="34" column="4" />
+      <file name="$USER_HOME$/dev/my-projects/agrajag/getting-started" timestamp="1587010918556">
+        <mark key="[" line="24" column="12" />
+        <mark key="]" line="25" column="16" />
+        <mark key="." line="25" column="15" />
+        <mark key="^" line="25" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/agrajag/getting-started" timestamp="1587002558189">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="23" />
-        <mark key="." line="38" column="1" />
-        <mark key="^" line="38" column="1" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/agrajag/config/Kodein.kt" timestamp="1586889457404">
-        <mark key="[" line="16" column="70" />
-        <mark key="]" line="16" column="70" />
+      <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/agrajag/config/Kodein.kt" timestamp="1587009540924">
+        <mark key="[" line="12" column="17" />
+        <mark key="]" line="12" column="33" />
         <mark key="." line="16" column="70" />
         <mark key="^" line="16" column="71" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/agrajag/src/test/resources/mockito-extensions/org.mockito.plugins.MockMaker" timestamp="1586903964546">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/agrajag/README.md" timestamp="1586835688464">
-        <mark key="[" line="17" column="166" />
-        <mark key="]" line="21" column="45" />
-        <mark key="." line="21" column="44" />
-        <mark key="^" line="21" column="45" />
+      <file name="$USER_HOME$/dev/my-projects/agrajag/README.md" timestamp="1587010672380">
+        <mark key="[" line="9" column="79" />
+        <mark key="]" line="9" column="202" />
+        <mark key="." line="9" column="201" />
+        <mark key="^" line="9" column="202" />
       </file>
       <file name="/" timestamp="1587003246850">
         <mark key="[" line="0" column="0" />
@@ -161,11 +152,14 @@
         <mark key="." line="3" column="6" />
         <mark key="^" line="3" column="7" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/resources/application.conf" timestamp="1587008148213">
-        <mark key="[" line="11" column="22" />
-        <mark key="]" line="14" column="4" />
-        <mark key="^" line="14" column="4" />
-        <mark key="." line="14" column="3" />
+      <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/resources/application.conf" timestamp="1587010667463">
+        <mark key="[" line="17" column="8" />
+        <mark key="]" line="17" column="8" />
+        <mark key="^" line="21" column="35" />
+        <mark key="." line="17" column="8" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-server-core/1.3.2/2cb18eabd6793488a084ca92659198071c00f2b/ktor-server-core-1.3.2-sources.jar!/jvmMain/io/ktor/config/HoconApplicationConfig.kt" timestamp="1587011452704">
+        <mark key="'" line="13" column="55" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/agrajag/src/test/kotlin/agrajag/service/UserServiceTest.kt" timestamp="1586987102437">
         <mark key="[" line="44" column="0" />
@@ -178,17 +172,16 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/agrajag/Application.kt" timestamp="1587003304328">
-        <mark key="[" line="39" column="12" />
-        <mark key="]" line="39" column="12" />
-        <mark key="^" line="39" column="14" />
-        <mark key="." line="39" column="12" />
+      <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/agrajag/Application.kt" timestamp="1587011882953">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/agrajag/modules/Kodein.kt" timestamp="1586879441453">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/agrajag/config/Database.kt" timestamp="1587010461779">
+        <mark key="[" line="10" column="67" />
+        <mark key="]" line="10" column="78" />
+        <mark key="^" line="10" column="78" />
+        <mark key="." line="10" column="77" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/agrajag/build.gradle" timestamp="1587003119375">
         <mark key="'" line="6" column="17" />
@@ -205,12 +198,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="145" column="21" filename="$USER_HOME$/dev/my-projects/NoteToSelf/.gitignore" />
-      <jump line="140" column="0" filename="$USER_HOME$/dev/my-projects/NoteToSelf/.gitignore" />
-      <jump line="35" column="47" filename="$USER_HOME$/dev/my-projects/NoteToSelf/App.js" />
-      <jump line="56" column="34" filename="$USER_HOME$/dev/my-projects/NoteToSelf/App.js" />
-      <jump line="15" column="45" filename="$USER_HOME$/dev/my-projects/NoteToSelf/App.js" />
-      <jump line="89" column="14" filename="$USER_HOME$/dev/my-projects/NoteToSelf/App.js" />
       <jump line="22" column="16" filename="$USER_HOME$/dev/my-projects/NoteToSelf/App.js" />
       <jump line="97" column="12" filename="$USER_HOME$/dev/my-projects/NoteToSelf/App.js" />
       <jump line="17" column="57" filename="$USER_HOME$/dev/my-projects/NoteToSelf/App.js" />
@@ -252,7 +239,6 @@
       <jump line="8" column="17" filename="$USER_HOME$/dev/my-projects/not-today/app/screens/About/index.tsx" />
       <jump line="1" column="37" filename="$USER_HOME$/dev/my-projects/agrajag/build.gradle.kts" />
       <jump line="36" column="51" filename="$USER_HOME$/dev/my-projects/agrajag/build.gradle" />
-      <jump line="21" column="15" filename="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/agrajag/Application.kt" />
       <jump line="45" column="10" filename="$USER_HOME$/dev/reference-projects/realworld-kotlin-ktor/src/Application.kt" />
       <jump line="15" column="29" filename="$USER_HOME$/dev/reference-projects/realworld-kotlin-ktor/src/config/Api.kt" />
       <jump line="29" column="13" filename="$USER_HOME$/dev/reference-projects/realworld-kotlin-ktor/src/config/Api.kt" />
@@ -305,6 +291,13 @@
       <jump line="49" column="33" filename="$USER_HOME$/dev/my-projects/agrajag/src/test/kotlin/agrajag/service/UserServiceTest.kt" />
       <jump line="66" column="18" filename="$USER_HOME$/dev/my-projects/agrajag/src/test/kotlin/agrajag/service/UserServiceTest.kt" />
       <jump line="6" column="17" filename="$USER_HOME$/dev/my-projects/agrajag/build.gradle" />
+      <jump line="27" column="15" filename="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/agrajag/Application.kt" />
+      <jump line="37" column="19" filename="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/agrajag/Application.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/agrajag/Application.kt" />
+      <jump line="21" column="27" filename="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/agrajag/Application.kt" />
+      <jump line="33" column="6" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-server-core/1.3.2/2cb18eabd6793488a084ca92659198071c00f2b/ktor-server-core-1.3.2-sources.jar!/jvmMain/io/ktor/config/ApplicationConfig.kt" />
+      <jump line="22" column="24" filename="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/agrajag/Application.kt" />
+      <jump line="13" column="55" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-server-core/1.3.2/2cb18eabd6793488a084ca92659198071c00f2b/ktor-server-core-1.3.2-sources.jar!/jvmMain/io/ktor/config/HoconApplicationConfig.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -343,13 +336,13 @@
         </keys>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">Y29tcGlsZSwgaW1wbGVtZW50YXRpb24K</text>
+        <text encoding="base64">ICAgIGVudmlyb25tZW50LmNvbmZpZy5jb25maWdMaXN0KCkK</text>
       </register>
       <register name="l" type="4">
         <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>createArrayNode()</text>
+        <text>configList()</text>
       </register>
       <register name="/" type="4">
         <text>depend</text>
@@ -366,30 +359,29 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="0" type="4">
-        <text>jacksonObjectMapper().readValue(this.content!!, JsonNode::class.java)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBwb3J0ID0gJHs/UE9SVH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29tcGlsZSwgaW1wbGVtZW50YXRpb24K</text>
+        <text encoding="base64">ICAgIGVudmlyb25tZW50LmNvbmZpZy5jb25maWdMaXN0KCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHZhbCBqc29uID0gR3NvbigpLmZyb21Kc29uPEpzb25FbGVtZW50PihxdWVyeS50b1JlcXVlc3RTdHJpbmcoKSkuYXNKc29uT2JqZWN0Ci8vICAgICAgICBqc29uWyJ2YXJpYWJsZXMiXSA9IEpzb25PYmplY3QK</text>
+        <text encoding="base64">ICAgIEhvY29uQXBwbGljYXRpb25Db25maWcK</text>
       </register>
-      <register name="3" type="8">
-        <text>//
-//</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHBvcnQgPSAkez9QT1JUfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBqc29uLmFzCg==</text>
+        <text encoding="base64">ICAgIHBhc3N3b3JkID0gIiIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAoanNvblsidmFyaWFibGVzIl0gYXMgT2JqZWN0Tm9kZSkucHV0KCkK</text>
+        <text encoding="base64">ICAgIHVzZXJuYW1lID0gbmljawo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGlmIChqc29uWyJvcGVyYXRpb25OYW1lIl0uaXNKc29uTnVsbCl7Ci8vICAgICAgICAgICAganNvblsib3BlcmF0aW9uTmFtZSJdID0gIiIKLy8gICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIGRhdGFiYXNlID0gYWdyYWphZwo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -399,24 +391,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="8">
-        <text>compile
-compile
-compile</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICA/OiAiODAiCg==</text>
       </register>
-      <register name="8" type="8">
-        <text>compile
-compile
-compile
-compile
-compile
-compile
-compile
-compile
-compile
-compile
-compile
-compile</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <keys>
