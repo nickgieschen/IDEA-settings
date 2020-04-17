@@ -127,12 +127,12 @@
         <mark key="^" line="10" column="78" />
         <mark key="." line="10" column="77" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/agrajag/build.gradle" timestamp="1587090901116">
+      <file name="$USER_HOME$/dev/my-projects/agrajag/build.gradle" timestamp="1587091928282">
         <mark key="'" line="7" column="17" />
-        <mark key="[" line="107" column="0" />
-        <mark key="]" line="107" column="0" />
-        <mark key="^" line="106" column="30" />
-        <mark key="." line="107" column="0" />
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="0" />
+        <mark key="^" line="8" column="67" />
+        <mark key="." line="105" column="0" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/resources/local.conf" timestamp="1587076704031">
         <mark key="[" line="0" column="0" />
@@ -336,13 +336,13 @@
         </keys>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJzaW9uID0gbnVsbAo=</text>
+        <text encoding="base64">ICAgICAgICBnZXRBcmNoaXZlQ2xhc3NpZmllcihudWxsKQogICAgICAgIGdldEFyY2hpdmVWZXJzaW9uKG51bGwpCg==</text>
       </register>
       <register name="l" type="4">
         <text>p</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>2.0.4</text>
       </register>
       <register name="/" type="4">
         <text>depend</text>
@@ -363,25 +363,25 @@
         <text encoding="base64">PGltZyBzcmM9Ii4vbWlzYy9ydW4ucG5nIi8+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJzaW9uID0gbnVsbAo=</text>
+        <text encoding="base64">ICAgICAgICBnZXRBcmNoaXZlQ2xhc3NpZmllcihudWxsKQogICAgICAgIGdldEFyY2hpdmVWZXJzaW9uKG51bGwpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc2lmaWVyID0gbnVsbAo=</text>
+        <text encoding="base64">ICAgICAgICB2ZXJzaW9uID0gbnVsbAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRWZXJzaW9uKG51bGwpCg==</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc2lmaWVyID0gbnVsbAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGZsYXREaXIgewovLyAgICAgICAgICAgIGRpcnMgJ2xpYnMnCi8vICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBnZXRWZXJzaW9uKG51bGwpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Z3JvdXAgPSAnYWdyYWphZycKdmVyc2lvbiA9ICcwLjEtU05BUFNIT1QnCm1haW5DbGFzc05hbWUgPSAiYWdyYWphZy5BcHBsaWNhdGlvbkt0Igo=</text>
+        <text encoding="base64">Ly8gICAgICAgIGZsYXREaXIgewovLyAgICAgICAgICAgIGRpcnMgJ2xpYnMnCi8vICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlkICdrb3RsaW4nCg==</text>
+        <text encoding="base64">Z3JvdXAgPSAnYWdyYWphZycKdmVyc2lvbiA9ICcwLjEtU05BUFNIT1QnCm1haW5DbGFzc05hbWUgPSAiYWdyYWphZy5BcHBsaWNhdGlvbkt0Igo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -392,10 +392,10 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlkICdjb20uZ2l0aHViLmpvaG5yZW5nZWxtYW4uc2hhZG93Jwo=</text>
+        <text encoding="base64">ICAgIGlkICdrb3RsaW4nCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlkICdhcHBsaWNhJwo=</text>
+        <text encoding="base64">ICAgIGlkICdjb20uZ2l0aHViLmpvaG5yZW5nZWxtYW4uc2hhZG93Jwo=</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -416,7 +416,7 @@
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICJwbC50b3VrLmtydXNoOmFubm90YXRpb24tcHJvY2Vzc29yOiRrcnVzaFZlcnNpb24iCg==</text>
+        <text encoding="base64">ICAgIGlkICdhcHBsaWNhJwo=</text>
       </register>
       <register name=":" type="4">
         <text>set surround</text>
