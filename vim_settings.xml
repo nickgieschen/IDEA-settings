@@ -106,11 +106,11 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="19" column="90" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/agrajag/README.md" timestamp="1587088782290">
-        <mark key="[" line="35" column="36" />
-        <mark key="]" line="35" column="103" />
-        <mark key="." line="35" column="102" />
-        <mark key="^" line="35" column="103" />
+      <file name="$USER_HOME$/dev/my-projects/agrajag/README.md" timestamp="1587095901272">
+        <mark key="[" line="29" column="237" />
+        <mark key="]" line="29" column="241" />
+        <mark key="." line="29" column="240" />
+        <mark key="^" line="29" column="241" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/agrajag/domain/UserRepository.kt" timestamp="1587089190989">
         <mark key="[" line="14" column="27" />
@@ -127,18 +127,24 @@
         <mark key="^" line="10" column="78" />
         <mark key="." line="10" column="77" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/agrajag/build.gradle" timestamp="1587091928282">
+      <file name="$USER_HOME$/dev/my-projects/agrajag/build.gradle" timestamp="1587092044943">
         <mark key="'" line="7" column="17" />
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="0" />
-        <mark key="^" line="8" column="67" />
-        <mark key="." line="105" column="0" />
+        <mark key="[" line="24" column="14" />
+        <mark key="]" line="24" column="14" />
+        <mark key="^" line="24" column="14" />
+        <mark key="." line="24" column="14" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/resources/local.conf" timestamp="1587076704031">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="11" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/agrajag/Dockerfile" timestamp="1587095662454">
+        <mark key="[" line="18" column="7" />
+        <mark key="]" line="18" column="11" />
+        <mark key="^" line="18" column="11" />
+        <mark key="." line="18" column="10" />
       </file>
       <file name="/Dummy.txt" timestamp="1587087994907">
         <mark key="[" line="0" column="0" />
@@ -175,11 +181,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/agrajag/Utils.kt" timestamp="1586987151613">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/agrajag/Application.kt" timestamp="1587088055217">
         <mark key="[" line="41" column="82" />
@@ -335,14 +336,14 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRBcmNoaXZlQ2xhc3NpZmllcihudWxsKQogICAgICAgIGdldEFyY2hpdmVWZXJzaW9uKG51bGwpCg==</text>
+      <register name="*" type="4">
+        <text>]</text>
       </register>
       <register name="l" type="4">
         <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>2.0.4</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>depend</text>
