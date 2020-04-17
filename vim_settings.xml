@@ -182,8 +182,11 @@
         <mark key="^" line="2" column="10" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/agrajag/.gitignore" timestamp="1587098776551">
+      <file name="$USER_HOME$/dev/my-projects/agrajag/.gitignore" timestamp="1587147754448">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="6" column="19" />
+        <mark key="^" line="6" column="19" />
+        <mark key="." line="6" column="18" />
       </file>
       <file name="/fragment.java" timestamp="1587088257290">
         <mark key="[" line="0" column="0" />
