@@ -116,12 +116,12 @@
         <mark key="^" line="10" column="78" />
         <mark key="." line="10" column="77" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/agrajag/build.gradle" timestamp="1587150367862">
+      <file name="$USER_HOME$/dev/my-projects/agrajag/build.gradle" timestamp="1587156481581">
         <mark key="'" line="7" column="17" />
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="87" column="17" />
+        <mark key="[" line="84" column="8" />
+        <mark key="]" line="86" column="0" />
         <mark key="^" line="24" column="14" />
-        <mark key="." line="24" column="14" />
+        <mark key="." line="86" column="0" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/agrajag/Dockerfile" timestamp="1587095662454">
         <mark key="[" line="18" column="7" />
@@ -329,14 +329,14 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="*" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgIHVybCA9ICdqZGJjOnBvc3RncmVzcWw6Ly9sb2NhbGhvc3Q6NTQzMi9seWNlZW8nCiAgICB1c2VyID0gJ25pY2snCiAgICBwYXNzd29yZCA9ICcnCg==</text>
       </register>
       <register name="l" type="4">
         <text>p</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>flyway</text>
       </register>
       <register name="/" type="4">
         <text>depend</text>
@@ -357,25 +357,25 @@
         <text encoding="base64">ICAgIHByaW50bG4obWVyZ2VkQ29uZmlnLmdldFN0cmluZygiYmFyIikpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBsb2NhbENvbmZpZyA9IENvbmZpZ0ZhY3RvcnkucGFyc2VSZXNvdXJjZXMoImxvY2FsLmNvbmYiKQo=</text>
+        <text encoding="base64">ICAgIHVybCA9ICdqZGJjOnBvc3RncmVzcWw6Ly9sb2NhbGhvc3Q6NTQzMi9seWNlZW8nCiAgICB1c2VyID0gJ25pY2snCiAgICBwYXNzd29yZCA9ICcnCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBsb2NhbENvbmZpZyA9IENvbmZpZ0ZhY3RvcnkucGFyc2VSZXNvdXJjZXMoImxvY2FsLmNvbmYiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBkZWZhdWx0Q29uZmlnID0gQ29uZmlnRmFjdG9yeS5wYXJzZVJlc291cmNlcygiYXBwbGljYXRpb24uY29uZiIpCiAgICB2YWwgbG9jYWxDb25maWcgPSBDb25maWdGYWN0b3J5LnBhcnNlUmVzb3VyY2VzKCJsb2NhbC5jb25mIikK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHZhbCBkZWZhdWx0Q29uZmlnID0gQ29uZmlnRmFjdG9yeS5wYXJzZVJlc291cmNlcygiYXBwbGljYXRpb24uY29uZiIpCiAgICB2YWwgbG9jYWxDb25maWcgPSBDb25maWdGYWN0b3J5LnBhcnNlUmVzb3VyY2VzKCJsb2NhbC5jb25mIikK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBtZXJnZWRDb25maWcgPSBsb2NhbENvbmZpZy53aXRoRmFsbGJhY2soZGVmYXVsdENvbmZpZykucmVzb2x2ZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBjb25maWcK</text>
+        <text encoding="base64">ICAgIHZhbCBtZXJnZWRDb25maWcgPSBsb2NhbENvbmZpZy53aXRoRmFsbGJhY2soZGVmYXVsdENvbmZpZykucmVzb2x2ZSgpCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -386,7 +386,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBjb25maWcK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -410,7 +410,7 @@
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4obWVyZ2VkQ29uZmlnLmdldFN0cmluZygiZmx5d2F5LnVybCIpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set surround</text>
