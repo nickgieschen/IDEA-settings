@@ -106,12 +106,6 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="19" column="90" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/agrajag/README.md" timestamp="1587095901272">
-        <mark key="[" line="31" column="237" />
-        <mark key="]" line="31" column="241" />
-        <mark key="." line="31" column="240" />
-        <mark key="^" line="31" column="241" />
-      </file>
       <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/agrajag/domain/UserRepository.kt" timestamp="1587089190989">
         <mark key="[" line="14" column="27" />
         <mark key="]" line="14" column="28" />
@@ -149,12 +143,6 @@
       <file name="/Dummy.txt" timestamp="1587087994907">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/agrajag/config/GraphQl.kt" timestamp="1586988731121">
-        <mark key="[" line="25" column="104" />
-        <mark key="]" line="25" column="105" />
-        <mark key="^" line="25" column="105" />
-        <mark key="." line="25" column="104" />
-      </file>
       <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/agrajag/config/Routing.kt" timestamp="1587083327624">
         <mark key="[" line="13" column="46" />
         <mark key="]" line="13" column="46" />
@@ -177,7 +165,7 @@
       <file name="/" timestamp="1587003246850">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/resources/application.conf" timestamp="1587084930071">
+      <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/resources/application.conf" timestamp="1587098560187">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -193,6 +181,9 @@
         <mark key="]" line="4" column="1" />
         <mark key="^" line="2" column="10" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/agrajag/.gitignore" timestamp="1587098776551">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1587088257290">
         <mark key="[" line="0" column="0" />
