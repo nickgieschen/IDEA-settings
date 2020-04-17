@@ -116,12 +116,10 @@
         <mark key="^" line="10" column="78" />
         <mark key="." line="10" column="77" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/agrajag/build.gradle" timestamp="1587156481581">
-        <mark key="'" line="7" column="17" />
-        <mark key="[" line="84" column="8" />
-        <mark key="]" line="86" column="0" />
-        <mark key="^" line="24" column="14" />
-        <mark key="." line="86" column="0" />
+      <file name="$USER_HOME$/dev/my-projects/agrajag/build.gradle" timestamp="1587159895878">
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/agrajag/Dockerfile" timestamp="1587095662454">
         <mark key="[" line="18" column="7" />
@@ -131,12 +129,6 @@
       </file>
       <file name="/Dummy.txt" timestamp="1587151433881">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/agrajag/config/Routing.kt" timestamp="1587083327624">
-        <mark key="[" line="13" column="46" />
-        <mark key="]" line="13" column="46" />
-        <mark key="^" line="13" column="50" />
-        <mark key="." line="13" column="46" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/lyceeo/domain/UserRepository.kt" timestamp="1587150980531">
         <mark key="[" line="14" column="27" />
@@ -150,11 +142,10 @@
         <mark key="." line="15" column="16" />
         <mark key="^" line="15" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/resources/application.conf" timestamp="1587154178248">
-        <mark key="[" line="22" column="12" />
-        <mark key="]" line="22" column="12" />
-        <mark key="^" line="21" column="33" />
-        <mark key="." line="22" column="12" />
+      <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/resources/application.conf" timestamp="1587157392044">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/lyceeo/Application.kt" timestamp="1587153793544">
         <mark key="'" line="54" column="54" />
@@ -190,9 +181,14 @@
       <file name="/fragment.java" timestamp="1587088257290">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/my-projects/agrajag/stack.yml" timestamp="1587160387542">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="15" column="17" />
+        <mark key="^" line="15" column="17" />
+        <mark key="." line="15" column="16" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="33" filename="$USER_HOME$/dev/my-projects/NoteToSelf/App.js" />
       <jump line="35" column="0" filename="$USER_HOME$/dev/my-projects/NoteToSelf/styles.js" />
       <jump line="51" column="34" filename="$USER_HOME$/dev/my-projects/NoteToSelf/Settings.js" />
       <jump line="20" column="5" filename="$USER_HOME$/dev/my-projects/NoteToSelf/Settings.js" />
@@ -292,6 +288,7 @@
       <jump line="39" column="7" filename="$USER_HOME$/dev/my-projects/agrajag/getting-started" />
       <jump line="62" column="14" filename="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/lyceeo/Application.kt" />
       <jump line="57" column="54" filename="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/lyceeo/Application.kt" />
+      <jump line="88" column="5" filename="$USER_HOME$/dev/my-projects/agrajag/build.gradle" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -330,13 +327,13 @@
         </keys>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">ICAgIHVybCA9ICdqZGJjOnBvc3RncmVzcWw6Ly9sb2NhbGhvc3Q6NTQzMi9seWNlZW8nCiAgICB1c2VyID0gJ25pY2snCiAgICBwYXNzd29yZCA9ICcnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="l" type="4">
         <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>flyway</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>depend</text>
@@ -354,28 +351,28 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4obWVyZ2VkQ29uZmlnLmdldFN0cmluZygiYmFyIikpCg==</text>
+        <text encoding="base64">ICAgIGRvTGFzdCB7CiAgICAgICAgcHJpbnRsbihjb25maWcpCiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHVybCA9ICdqZGJjOnBvc3RncmVzcWw6Ly9sb2NhbGhvc3Q6NTQzMi9seWNlZW8nCiAgICB1c2VyID0gJ25pY2snCiAgICBwYXNzd29yZCA9ICcnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBsb2NhbENvbmZpZyA9IENvbmZpZ0ZhY3RvcnkucGFyc2VSZXNvdXJjZXMoImxvY2FsLmNvbmYiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Zmx5d2F5KGRlcGVuZHNPbjogbWlncmF0ZURiKSB7Cn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBkZWZhdWx0Q29uZmlnID0gQ29uZmlnRmFjdG9yeS5wYXJzZVJlc291cmNlcygiYXBwbGljYXRpb24uY29uZiIpCiAgICB2YWwgbG9jYWxDb25maWcgPSBDb25maWdGYWN0b3J5LnBhcnNlUmVzb3VyY2VzKCJsb2NhbC5jb25mIikK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">dGFza3MuY3JlYXRlKCJtaWdyYXRlRGIiLCB0eXBlOiBmbHl3YXkpIHsKICAgIGRvTGFzdCB7CiAgICAgICAgcHJpbnRsbihjb25maWcpCiAgICB9Cn0K</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCBtZXJnZWRDb25maWcgPSBsb2NhbENvbmZpZy53aXRoRmFsbGJhY2soZGVmYXVsdENvbmZpZykucmVzb2x2ZSgpCg==</text>
+        <text encoding="base64">dGFza3MuY3JlYXRlKCJtaWdyYXRlRGIiLCB0eXBlOiBmbHl3YXkpIHsKICAgIGRvTGFzdCB7CiAgICAgICAgcHJpbnRsbihjb25maWcpCiAgICB9Cn0K</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -386,10 +383,10 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBjb25maWcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dGFzayhtaWdyYXRlRGIsIHR5cGU6Zmx5d2F5KSB7CiAgICBkb0xhc3QgewogICAgICAgIHByaW50bG4oY29uZmlnKQogICAgfQp9Cg==</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -410,7 +407,7 @@
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAocHJvamVjdC5oYXNQcm9wZXJ0eSgnbXlhcmdzJykpIHsKICAgICAgICAgICAgYXJncyhteWFyZ3Muc3BsaXQoJywnKSkKICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set surround</text>
