@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>adum</entry>
-        <entry>supercil</entry>
         <entry>--</entry>
         <entry>abeyance</entry>
         <entry>abjure</entry>
@@ -23,10 +21,12 @@
         <entry>get</entry>
         <entry>core</entry>
         <entry>assembly</entry>
-        <entry>deploy</entry>
         <entry>plugins</entry>
-        <entry>distri</entry>
         <entry>depend</entry>
+        <entry>distri</entry>
+        <entry>deploy</entry>
+        <entry>proper</entry>
+        <entry>site-m</entry>
       </history-search>
       <history-cmd>
         <entry>%s/'/&quot;/g</entry>
@@ -47,8 +47,8 @@
         <entry>/:/</entry>
         <entry>x</entry>
         <entry>url</entry>
-        <entry>noh</entry>
         <entry>set surround</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -152,6 +152,14 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/reference-projects/jpa2ddl/jpa2ddl-gradle-plugin/src/test/groovy/com/devskiller/jpa2ddl/GeneratePluginTest.groovy" timestamp="1587251363131" />
+      <file name="$USER_HOME$/dev/reference-projects/jpa2ddl/pom.xml" timestamp="1587252607584">
+        <mark key="'" line="79" column="58" />
+        <mark key="[" line="128" column="37" />
+        <mark key="]" line="128" column="49" />
+        <mark key="^" line="128" column="49" />
+        <mark key="." line="128" column="48" />
+      </file>
       <file name="$USER_HOME$/dev/my-projects/agrajag/build.gradle" timestamp="1587237129025">
         <mark key="[" line="26" column="38" />
         <mark key="]" line="27" column="25" />
@@ -186,10 +194,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="0" filename="$USER_HOME$/dev/my-projects/NoteToSelf/styles.js" />
-      <jump line="51" column="34" filename="$USER_HOME$/dev/my-projects/NoteToSelf/Settings.js" />
-      <jump line="20" column="5" filename="$USER_HOME$/dev/my-projects/NoteToSelf/Settings.js" />
-      <jump line="40" column="20" filename="$USER_HOME$/dev/my-projects/NoteToSelf/Settings.js" />
       <jump line="48" column="96" filename="$USER_HOME$/dev/my-projects/NoteToSelf/Settings.js" />
       <jump line="44" column="40" filename="$USER_HOME$/dev/my-projects/NoteToSelf/Settings.js" />
       <jump line="22" column="0" filename="$USER_HOME$/dev/my-projects/NoteToSelf/Settings.js" />
@@ -245,10 +249,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/my-projects/agrajag/build.gradle" />
       <jump line="54" column="23" filename="$USER_HOME$/dev/my-projects/agrajag/build.gradle" />
       <jump line="76" column="25" filename="$USER_HOME$/dev/reference-projects/jpa2ddl/pom.xml" />
-      <jump line="55" column="63" filename="$USER_HOME$/dev/reference-projects/jpa2ddl/pom.xml" />
       <jump line="34" column="39" filename="$USER_HOME$/dev/reference-projects/jpa2ddl/pom.xml" />
       <jump line="124" column="12" filename="$USER_HOME$/dev/reference-projects/jpa2ddl/pom.xml" />
-      <jump line="19" column="32" filename="$USER_HOME$/dev/reference-projects/jpa2ddl/pom.xml" />
       <jump line="46" column="5" filename="$USER_HOME$/dev/reference-projects/jpa2ddl/pom.xml" />
       <jump line="56" column="10" filename="$USER_HOME$/dev/reference-projects/jpa2ddl/pom.xml" />
       <jump line="71" column="0" filename="$USER_HOME$/dev/my-projects/agrajag/src/main/resources/static/graphql/playground.html" />
@@ -286,6 +288,12 @@
       <jump line="62" column="14" filename="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/lyceeo/Application.kt" />
       <jump line="57" column="54" filename="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/lyceeo/Application.kt" />
       <jump line="88" column="5" filename="$USER_HOME$/dev/my-projects/agrajag/build.gradle" />
+      <jump line="113" column="52" filename="$USER_HOME$/dev/reference-projects/jpa2ddl/pom.xml" />
+      <jump line="19" column="32" filename="$USER_HOME$/dev/reference-projects/jpa2ddl/pom.xml" />
+      <jump line="53" column="30" filename="$USER_HOME$/dev/reference-projects/jpa2ddl/pom.xml" />
+      <jump line="55" column="67" filename="$USER_HOME$/dev/reference-projects/jpa2ddl/pom.xml" />
+      <jump line="134" column="45" filename="$USER_HOME$/dev/reference-projects/jpa2ddl/pom.xml" />
+      <jump line="79" column="58" filename="$USER_HOME$/dev/reference-projects/jpa2ddl/pom.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -323,17 +331,17 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">IyB2ZXJzaW9ucwo=</text>
+      <register name="*" type="4">
+        <text>YOUR-GITHUB-USERNAME</text>
       </register>
       <register name="l" type="4">
         <text>p</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmFsIHByb3ZpZGVkQ29uZmlnID0g</text>
+        <text>YOUR-GITHUB-USERNAME</text>
       </register>
       <register name="/" type="4">
-        <text>depend</text>
+        <text>site-m</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -351,12 +359,15 @@
         <text encoding="base64">ICAgIHZhbCBwb3J0ID0gZW52aXJvbm1lbnQuY29uZmlnLnByb3BlcnR5T3JOdWxsKCJkYXRhYmFzZS5wb3J0Iik/LmdldFN0cmluZygpID86ICI1NDMyIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyB2ZXJzaW9ucwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxjb25maWd1cmF0aW9uPgogICAgICAgICAgICAgICAgICAgIDxtZXNzYWdlPkNyZWF0aW5nIHNpdGUgZm9yICR7cHJvamVjdC52ZXJzaW9ufTwvbWVzc2FnZT4KICAgICAgICAgICAgICAgIDwvY29uZmlndXJhdGlvbj4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">IyB2ZXJzaW9ucwo=</text>
+      </register>
+      <register name="3" type="4">
         <text>ktor {
   deployment {
     port = 8083
@@ -366,17 +377,14 @@ database {
   port = 54320
 }</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ZGF0YWJhc2UgewogIHBvcnQgPSAxMTExMQp9Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIHZhbCBjb25maWcgPSBDb25maWdGYWN0b3J5LmxvYWQoKQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBsb2NhbENvbmZpZyA9IENvbmZpZ0ZhY3RvcnkucGFyc2VSZXNvdXJjZXMoImxvY2FsLmNvbmYiKQogICAgdmFsIGRlZmF1bHRDb25maWcgPSBDb25maWdGYWN0b3J5LnBhcnNlUmVzb3VyY2VzKCJhcHBsaWNhdGlvbi5jb25mIikK</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8gbWFrZSByZWFkIGVudiBpbnN0ZWFkIG9mIHZtIGFyZ3M/Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBsb2NhbENvbmZpZyA9IENvbmZpZ0ZhY3RvcnkucGFyc2VSZXNvdXJjZXMoImxvY2FsLmNvbmYiKQogICAgdmFsIGRlZmF1bHRDb25maWcgPSBDb25maWdGYWN0b3J5LnBhcnNlUmVzb3VyY2VzKCJhcHBsaWNhdGlvbi5jb25mIikK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -387,10 +395,10 @@ database {
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgdmFsIGxvY2FsQ29uZmlnID0gQ29uZmlnRmFjdG9yeS5wYXJzZVJlc291cmNlcygibG9jYWwuY29uZiIpCi8vICAgIHZhbCBkZWZhdWx0Q29uZmlnID0gQ29uZmlnRmFjdG9yeS5wYXJzZVJlc291cmNlcygiYXBwbGljYXRpb24uY29uZiIpCi8vCi8vICAgIHZhbCBtZXJnZWRDb25maWcgPSBjb25maWcud2l0aEZhbGxiYWNrKGxvY2FsQ29uZmlnKS5yZXNvbHZlKCkud2l0aEZhbGxiYWNrKGRlZmF1bHRDb25maWcpLnJlc29sdmUoKQovLyAgICBwcmludGxuKG1lcmdlZENvbmZpZy5nZXRTdHJpbmcoImZvbyIpKQovLwovLyAgICBwcmludGxuKCItLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tIikKCg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8gbWFrZSByZWFkIGVudiBpbnN0ZWFkIG9mIHZtIGFyZ3M/Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBob3N0ID0gJHs/REFUQUJBU0VfU0VSVkVSfQo=</text>
+        <text encoding="base64">Ly8gICAgdmFsIGxvY2FsQ29uZmlnID0gQ29uZmlnRmFjdG9yeS5wYXJzZVJlc291cmNlcygibG9jYWwuY29uZiIpCi8vICAgIHZhbCBkZWZhdWx0Q29uZmlnID0gQ29uZmlnRmFjdG9yeS5wYXJzZVJlc291cmNlcygiYXBwbGljYXRpb24uY29uZiIpCi8vCi8vICAgIHZhbCBtZXJnZWRDb25maWcgPSBjb25maWcud2l0aEZhbGxiYWNrKGxvY2FsQ29uZmlnKS5yZXNvbHZlKCkud2l0aEZhbGxiYWNrKGRlZmF1bHRDb25maWcpLnJlc29sdmUoKQovLyAgICBwcmludGxuKG1lcmdlZENvbmZpZy5nZXRTdHJpbmcoImZvbyIpKQovLwovLyAgICBwcmludGxuKCItLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tIikKCg==</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -411,22 +419,22 @@ database {
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBob3N0ID0gbG9jYWxob3N0Cg==</text>
+        <text encoding="base64">ICBob3N0ID0gJHs/REFUQUJBU0VfU0VSVkVSfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>set surround</text>
+        <text>noh</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>depend</last-search>
+      <last-search>site-m</last-search>
       <last-offset />
-      <last-pattern>depend</last-pattern>
+      <last-pattern>site-m</last-pattern>
       <last-replace>can-form-area-voter-pledge</last-replace>
       <last-substitute>can-form-area-email-list-3</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
