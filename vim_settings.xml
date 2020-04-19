@@ -98,15 +98,28 @@
       <file name="/Dummy.txt" timestamp="1587184585086">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/my-projects/agrajag/src/test/kotlin/lyceeo/service/UserServiceTest.kt" timestamp="1587257799042">
+        <mark key="[" line="20" column="40" />
+        <mark key="]" line="20" column="48" />
+        <mark key="^" line="20" column="48" />
+        <mark key="." line="20" column="47" />
+      </file>
       <file name="$USER_HOME$/dev/my-projects/agrajag/gradle.properties" timestamp="1587237149789">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/lyceeo/domain/UserRepository.kt" timestamp="1587150980531">
-        <mark key="[" line="14" column="27" />
-        <mark key="]" line="14" column="27" />
-        <mark key="." line="14" column="27" />
+      <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/lyceeo/domain/UserRepository.kt" timestamp="1587257705995">
+        <mark key="[" line="14" column="28" />
+        <mark key="]" line="14" column="47" />
+        <mark key="." line="14" column="46" />
+        <mark key="^" line="14" column="47" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/lyceeo/domain/User.kt" timestamp="1587257887218">
+        <mark key="[" line="17" column="23" />
+        <mark key="]" line="17" column="23" />
+        <mark key="." line="17" column="23" />
+        <mark key="^" line="17" column="24" />
       </file>
       <file name="/" timestamp="1587243632430">
         <mark key="[" line="0" column="0" />
@@ -158,29 +171,17 @@
         <mark key="^" line="22" column="26" />
         <mark key="." line="22" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/agrajag/build.gradle" timestamp="1587257417012">
-        <mark key="'" line="24" column="16" />
-        <mark key="[" line="101" column="66" />
-        <mark key="]" line="101" column="67" />
-        <mark key="." line="101" column="66" />
-        <mark key="^" line="101" column="67" />
+      <file name="$USER_HOME$/dev/my-projects/agrajag/build.gradle" timestamp="1587258087028">
+        <mark key="'" line="95" column="26" />
+        <mark key="[" line="102" column="21" />
+        <mark key="]" line="103" column="23" />
+        <mark key="." line="103" column="22" />
+        <mark key="^" line="103" column="23" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/agrajag/local/local.conf" timestamp="1587184760891">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/agrajag/.gitignore" timestamp="1587147754448">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="6" column="19" />
-        <mark key="^" line="6" column="19" />
-        <mark key="." line="6" column="18" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/agrajag/Dockerfile" timestamp="1587095662454">
-        <mark key="[" line="18" column="7" />
-        <mark key="]" line="18" column="11" />
-        <mark key="^" line="18" column="11" />
-        <mark key="." line="18" column="10" />
       </file>
       <file name="/fragment.java" timestamp="1587184784581">
         <mark key="[" line="0" column="0" />
@@ -193,8 +194,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="28" filename="$USER_HOME$/dev/my-projects/not-today/app/HomeScreen.tsx" />
-      <jump line="42" column="25" filename="$USER_HOME$/dev/my-projects/NoteToSelf/App.js" />
       <jump line="15" column="17" filename="$USER_HOME$/dev/my-projects/NoteToSelf/Compose.js" />
       <jump line="15" column="55" filename="$USER_HOME$/dev/my-projects/not-today/app/App.tsx" />
       <jump line="6" column="51" filename="$USER_HOME$/dev/my-projects/not-today/app/App.tsx" />
@@ -293,6 +292,8 @@
       <jump line="208" column="40" filename="$USER_HOME$/dev/reference-projects/jpa2ddl/pom.xml" />
       <jump line="222" column="53" filename="$USER_HOME$/dev/reference-projects/jpa2ddl/pom.xml" />
       <jump line="0" column="6" filename="$USER_HOME$/dev/reference-projects/jpa2ddl/pom.xml" />
+      <jump line="103" column="12" filename="$USER_HOME$/dev/my-projects/agrajag/build.gradle" />
+      <jump line="95" column="26" filename="$USER_HOME$/dev/my-projects/agrajag/build.gradle" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -355,7 +356,7 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCBwb3J0ID0gZW52aXJvbm1lbnQuY29uZmlnLnByb3BlcnR5T3JOdWxsKCJkYXRhYmFzZS5wb3J0Iik/LmdldFN0cmluZygpID86ICI1NDMyIgo=</text>
+        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZT0iZmlyc3RfbmFtZSIpCiAgICB2YXIgZmlyc3ROYW1lOiBTdHJpbmcK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIG91dHB1dFBhdGgK</text>
