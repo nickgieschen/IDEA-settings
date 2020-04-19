@@ -108,13 +108,6 @@
         <mark key="]" line="14" column="27" />
         <mark key="." line="14" column="27" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/agrajag/getting-started" timestamp="1587090232753">
-        <mark key="'" line="40" column="7" />
-        <mark key="[" line="14" column="3" />
-        <mark key="]" line="15" column="17" />
-        <mark key="." line="15" column="16" />
-        <mark key="^" line="15" column="17" />
-      </file>
       <file name="/" timestamp="1587243632430">
         <mark key="[" line="0" column="0" />
       </file>
@@ -159,12 +152,18 @@
         <mark key="]" line="7" column="19" />
         <mark key="." line="7" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/agrajag/build.gradle" timestamp="1587255243560">
+      <file name="$USER_HOME$/dev/reference-projects/jpa2ddl/DEVEL-README.md" timestamp="1587256856747">
+        <mark key="[" line="22" column="16" />
+        <mark key="]" line="22" column="26" />
+        <mark key="^" line="22" column="26" />
+        <mark key="." line="22" column="25" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/agrajag/build.gradle" timestamp="1587257417012">
         <mark key="'" line="24" column="16" />
-        <mark key="[" line="101" column="19" />
-        <mark key="]" line="101" column="29" />
-        <mark key="." line="101" column="28" />
-        <mark key="^" line="101" column="29" />
+        <mark key="[" line="101" column="66" />
+        <mark key="]" line="101" column="67" />
+        <mark key="." line="101" column="66" />
+        <mark key="^" line="101" column="67" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/agrajag/local/local.conf" timestamp="1587184760891">
         <mark key="[" line="0" column="0" />
@@ -332,13 +331,13 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>-SNAPSHOT</text>
+        <text>s</text>
       </register>
       <register name="l" type="4">
         <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>-SNAPSHOT</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>versi</text>
@@ -359,25 +358,25 @@
         <text encoding="base64">ICAgIHZhbCBwb3J0ID0gZW52aXJvbm1lbnQuY29uZmlnLnByb3BlcnR5T3JOdWxsKCJkYXRhYmFzZS5wb3J0Iik/LmdldFN0cmluZygpID86ICI1NDMyIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZ3VyYXRpb25zIHsKICAgICAgICBjCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIG91dHB1dFBhdGgK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>&quot;&quot;</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNvbmZpZ3VyYXRpb25zIHsKICAgICAgICBjCiAgICB9Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>lyceeo.ApplicationKt</text>
+        <text>&quot;&quot;</text>
       </register>
       <register name="4" type="4">
-        <text>&quot;&quot;</text>
+        <text>lyceeo.ApplicationKt</text>
       </register>
       <register name="5" type="4">
-        <text>com.devskiller.jpa2ddl:jpa2ddl-gradle-plugin:0.9.13-SNAPSHOT</text>
+        <text>&quot;&quot;</text>
       </register>
       <register name="6" type="4">
-        <text>&quot;&quot;</text>
+        <text>com.devskiller.jpa2ddl:jpa2ddl-gradle-plugin:0.9.13-SNAPSHOT</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -388,10 +387,10 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text>https://github.com/nickgieschen/jpa2ddl/raw/mvn-repo</text>
+        <text>&quot;&quot;</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>https://github.com/nickgieschen/jpa2ddl/raw/mvn-repo</text>
       </register>
       <register name="x" type="4">
         <keys>
