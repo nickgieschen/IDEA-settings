@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>abjure</entry>
-        <entry>build</entry>
         <entry>runner</entry>
         <entry>error</entry>
         <entry>url</entry>
@@ -27,6 +25,8 @@
         <entry>deploy</entry>
         <entry>site</entry>
         <entry>versi</entry>
+        <entry>function star</entry>
+        <entry>audioIn</entry>
       </history-search>
       <history-cmd>
         <entry>%s/'/&quot;/g</entry>
@@ -142,12 +142,6 @@
         <mark key="." line="55" column="4" />
         <mark key="^" line="59" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/resources/f.conf" timestamp="1587154410885">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="17" />
-        <mark key="^" line="0" column="17" />
-        <mark key="." line="0" column="16" />
-      </file>
       <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/lyceeo/config/Routing.kt" timestamp="1587180992015">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -183,6 +177,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/my-projects/medaica/views/createSession.ejs" timestamp="1587265727667">
+        <mark key="[" line="170" column="0" />
+        <mark key="]" line="170" column="0" />
+        <mark key="." line="170" column="0" />
+      </file>
       <file name="/fragment.java" timestamp="1587184784581">
         <mark key="[" line="0" column="0" />
       </file>
@@ -194,10 +193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="17" filename="$USER_HOME$/dev/my-projects/NoteToSelf/Compose.js" />
-      <jump line="15" column="55" filename="$USER_HOME$/dev/my-projects/not-today/app/App.tsx" />
-      <jump line="6" column="51" filename="$USER_HOME$/dev/my-projects/not-today/app/App.tsx" />
-      <jump line="13" column="60" filename="$USER_HOME$/dev/my-projects/not-today/app/App.tsx" />
       <jump line="8" column="17" filename="$USER_HOME$/dev/my-projects/not-today/app/screens/About/index.tsx" />
       <jump line="1" column="37" filename="$USER_HOME$/dev/my-projects/agrajag/build.gradle.kts" />
       <jump line="36" column="51" filename="$USER_HOME$/dev/my-projects/agrajag/build.gradle" />
@@ -294,6 +289,10 @@
       <jump line="0" column="6" filename="$USER_HOME$/dev/reference-projects/jpa2ddl/pom.xml" />
       <jump line="103" column="12" filename="$USER_HOME$/dev/my-projects/agrajag/build.gradle" />
       <jump line="95" column="26" filename="$USER_HOME$/dev/my-projects/agrajag/build.gradle" />
+      <jump line="155" column="47" filename="$USER_HOME$/dev/my-projects/medaica/views/createSession.ejs" />
+      <jump line="45" column="16" filename="$USER_HOME$/dev/my-projects/medaica/views/createSession.ejs" />
+      <jump line="66" column="40" filename="$USER_HOME$/dev/my-projects/medaica/views/createSession.ejs" />
+      <jump line="109" column="48" filename="$USER_HOME$/dev/my-projects/medaica/views/createSession.ejs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -331,17 +330,17 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="*" type="4">
-        <text>s</text>
+      <register name="*" type="2">
+        <text encoding="base64">PGlucHV0IGlkPSJ2b2x1bWUiIHR5cGU9InJhbmdlIiBtaW49IjAiIG1heD0iMSIgc3RlcD0iMC4xIiB2YWx1ZT0iMC41Ii8+Cg==</text>
       </register>
       <register name="l" type="4">
         <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">aSwgTiwgaW5wLCA=</text>
       </register>
       <register name="/" type="4">
-        <text>versi</text>
+        <text>audioIn</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -359,25 +358,25 @@
         <text encoding="base64">ICAgIEBDb2x1bW4obmFtZT0iZmlyc3RfbmFtZSIpCiAgICB2YXIgZmlyc3ROYW1lOiBTdHJpbmcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG91dHB1dFBhdGgK</text>
+        <text encoding="base64">PGlucHV0IGlkPSJ2b2x1bWUiIHR5cGU9InJhbmdlIiBtaW49IjAiIG1heD0iMSIgc3RlcD0iMC4xIiB2YWx1ZT0iMC41Ii8+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZ3VyYXRpb25zIHsKICAgICAgICBjCiAgICB9Cg==</text>
+        <text encoding="base64">PHA+Vm9sdW1lPC9wPgo=</text>
       </register>
-      <register name="3" type="4">
-        <text>&quot;&quot;</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>lyceeo.ApplicationKt</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>&quot;&quot;</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIC0tLSBlbmFibGUgdm9sdW1lIGNvbnRyb2wgZm9yIG91dHB1dCBzcGVha2VycwoKICAgICAgICAgICAgICAgIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCd2b2x1bWUnKS5hZGRFdmVudExpc3RlbmVyKCdjaGFuZ2UnLCBmdW5jdGlvbiAoKSB7CgogICAgICAgICAgICAgICAgICAgIHZhciBjdXJyX3ZvbHVtZSA9IHRoaXMudmFsdWU7CiAgICAgICAgICAgICAgICAgICAgZ2Fpbl9ub2RlLmdhaW4udmFsdWUgPSBjdXJyX3ZvbHVtZTsKCiAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coImN1cnJfdm9sdW1lICIsIGN1cnJfdm9sdW1lKTsKICAgICAgICAgICAgICAgIH0pOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text>com.devskiller.jpa2ddl:jpa2ddl-gradle-plugin:0.9.13-SNAPSHOT</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -387,11 +386,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text>&quot;&quot;</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gLS0tCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>https://github.com/nickgieschen/jpa2ddl/raw/mvn-repo</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -412,7 +411,7 @@
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBhdWRpb0lucHV0ID0gbnVsbCwKICAgICAgICAgICAgICAgICAgICBtaWNyb3Bob25lX3N0cmVhbSA9IG51bGwsCiAgICAgICAgICAgICAgICAgICAgZ2Fpbl9ub2RlID0gbnVsbCwKICAgICAgICAgICAgICAgICAgICBzY3JpcHRfcHJvY2Vzc29yX25vZGUgPSBudWxsLAogICAgICAgICAgICAgICAgICAgIHNjcmlwdF9wcm9jZXNzb3JfZmZ0X25vZGUgPSBudWxsLAogICAgICAgICAgICAgICAgICAgIGFuYWx5c2VyTm9kZSA9IG51bGw7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
@@ -421,13 +420,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>versi</last-search>
+      <last-search>audioIn</last-search>
       <last-offset />
-      <last-pattern>versi</last-pattern>
+      <last-pattern>audioIn</last-pattern>
       <last-replace>can-form-area-voter-pledge</last-replace>
       <last-substitute>can-form-area-email-list-3</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
