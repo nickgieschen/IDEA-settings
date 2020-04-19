@@ -159,11 +159,12 @@
         <mark key="^" line="121" column="82" />
         <mark key="." line="122" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/agrajag/build.gradle" timestamp="1587237129025">
-        <mark key="[" line="26" column="38" />
-        <mark key="]" line="27" column="25" />
-        <mark key="." line="27" column="24" />
-        <mark key="^" line="27" column="25" />
+      <file name="$USER_HOME$/dev/my-projects/agrajag/build.gradle" timestamp="1587255243560">
+        <mark key="'" line="24" column="16" />
+        <mark key="[" line="101" column="19" />
+        <mark key="]" line="101" column="29" />
+        <mark key="." line="101" column="28" />
+        <mark key="^" line="101" column="29" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/agrajag/local/local.conf" timestamp="1587184760891">
         <mark key="[" line="0" column="0" />
@@ -193,9 +194,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="0" filename="$USER_HOME$/dev/my-projects/NoteToSelf/Settings.js" />
-      <jump line="72" column="48" filename="$USER_HOME$/dev/my-projects/NoteToSelf/Settings.js" />
-      <jump line="113" column="25" filename="$USER_HOME$/dev/my-projects/NoteToSelf/Settings.js" />
       <jump line="103" column="30" filename="$USER_HOME$/dev/my-projects/NoteToSelf/Settings.js" />
       <jump line="111" column="67" filename="$USER_HOME$/dev/my-projects/NoteToSelf/Picker.js" />
       <jump line="153" column="32" filename="$USER_HOME$/dev/my-projects/NoteToSelf/Picker.js" />
@@ -258,7 +256,6 @@
       <jump line="47" column="42" filename="$USER_HOME$/dev/my-projects/agrajag/build.gradle" />
       <jump line="24" column="8" filename="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/agrajag/Application.kt" />
       <jump line="18" column="24" filename="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/agrajag/service/UserService.kt" />
-      <jump line="4" column="8" filename="$USER_HOME$/dev/my-projects/agrajag/build.gradle" />
       <jump line="14" column="31" filename="$USER_HOME$/dev/my-projects/agrajag/src/test/kotlin/agrajag/service/UserServiceTest.kt" />
       <jump line="27" column="26" filename="$USER_HOME$/dev/my-projects/agrajag/src/test/kotlin/agrajag/service/UserServiceTest.kt" />
       <jump line="28" column="25" filename="$USER_HOME$/dev/my-projects/agrajag/src/test/kotlin/agrajag/service/UserServiceTest.kt" />
@@ -293,6 +290,10 @@
       <jump line="79" column="58" filename="$USER_HOME$/dev/reference-projects/jpa2ddl/pom.xml" />
       <jump line="62" column="28" filename="$USER_HOME$/dev/reference-projects/jpa2ddl/pom.xml" />
       <jump line="121" column="35" filename="$USER_HOME$/dev/reference-projects/jpa2ddl/pom.xml" />
+      <jump line="29" column="0" filename="$USER_HOME$/dev/my-projects/agrajag/build.gradle" />
+      <jump line="4" column="69" filename="$USER_HOME$/dev/my-projects/agrajag/build.gradle" />
+      <jump line="9" column="79" filename="$USER_HOME$/dev/my-projects/agrajag/build.gradle" />
+      <jump line="24" column="16" filename="$USER_HOME$/dev/my-projects/agrajag/build.gradle" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -330,14 +331,14 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8b3V0cHV0RGlyZWN0b3J5PiR7cHJvamVjdC5idWlsZC5kaXJlY3Rvcnl9L212bi1yZXBvCiAgICAgICAgICAgICAgICAgICAgPC9vdXRwdXREaXJlY3Rvcnk+IDwhLS0gbWF0Y2hlcyBkaXN0cmlidXRpb24gbWFuYWdlbWVudCByZXBvc2l0b3J5IHVybCBhYm92ZSAtLT4K</text>
+      <register name="*" type="4">
+        <text>baseDir}</text>
       </register>
       <register name="l" type="4">
         <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>YOUR-GITHUB-USERNAME</text>
+        <text>baseDir}</text>
       </register>
       <register name="/" type="4">
         <text>site</text>
@@ -358,32 +359,25 @@
         <text encoding="base64">ICAgIHZhbCBwb3J0ID0gZW52aXJvbm1lbnQuY29uZmlnLnByb3BlcnR5T3JOdWxsKCJkYXRhYmFzZS5wb3J0Iik/LmdldFN0cmluZygpID86ICI1NDMyIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8b3V0cHV0RGlyZWN0b3J5PiR7cHJvamVjdC5idWlsZC5kaXJlY3Rvcnl9L212bi1yZXBvCiAgICAgICAgICAgICAgICAgICAgPC9vdXRwdXREaXJlY3Rvcnk+IDwhLS0gbWF0Y2hlcyBkaXN0cmlidXRpb24gbWFuYWdlbWVudCByZXBvc2l0b3J5IHVybCBhYm92ZSAtLT4K</text>
+        <text encoding="base64">ICAgIGNvbmZpZ3VyYXRpb25zIHsKICAgICAgICBjCiAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YWx0RGVwbG95bWVudFJlcG9zaXRvcnk+aW50ZXJuYWwucmVwbzo6ZGVmYXVsdDo6ZmlsZTovLyR7cHJvamVjdC5idWlsZC5kaXJlY3Rvcnl9L212bi1yZXBvCiAgICAgICAgICAgICAgICAgICAgPC9hbHREZXBsb3ltZW50UmVwb3NpdG9yeT4K</text>
+      <register name="2" type="4">
+        <text>&quot;&quot;</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YWx0RGVwbG95bWVudFJlcG9zaXRvcnk+aW50ZXJuYWwucmVwbzo6ZGVmYXVsdDo6ZmlsZTovLyR7cHJvamVjdC5idWlsZC5kaXJlY3Rvcnl9L212bi1yZXBvCiAgICAgICAgICAgICAgICAgICAgPC9hbHREZXBsb3ltZW50UmVwb3NpdG9yeT4K</text>
+      <register name="3" type="4">
+        <text>lyceeo.ApplicationKt</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxjb25maWd1cmF0aW9uPgogICAgICAgICAgICAgICAgICAgIDxtZXNzYWdlPkNyZWF0aW5nIHNpdGUgZm9yICR7cHJvamVjdC52ZXJzaW9ufTwvbWVzc2FnZT4KICAgICAgICAgICAgICAgIDwvY29uZmlndXJhdGlvbj4K</text>
+      <register name="4" type="4">
+        <text>&quot;&quot;</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">IyB2ZXJzaW9ucwo=</text>
+      <register name="5" type="4">
+        <text>com.devskiller.jpa2ddl:jpa2ddl-gradle-plugin:0.9.13-SNAPSHOT</text>
       </register>
       <register name="6" type="4">
-        <text>ktor {
-  deployment {
-    port = 8083
-  }
-}
-database {
-  port = 54320
-}</text>
+        <text>&quot;&quot;</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -393,11 +387,11 @@ database {
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZGF0YWJhc2UgewogIHBvcnQgPSAxMTExMQp9Cg==</text>
+      <register name="7" type="4">
+        <text>https://github.com/nickgieschen/jpa2ddl/raw/mvn-repo</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBjb25maWcgPSBDb25maWdGYWN0b3J5LmxvYWQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -418,7 +412,7 @@ database {
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCBsb2NhbENvbmZpZyA9IENvbmZpZ0ZhY3RvcnkucGFyc2VSZXNvdXJjZXMoImxvY2FsLmNvbmYiKQogICAgdmFsIGRlZmF1bHRDb25maWcgPSBDb25maWdGYWN0b3J5LnBhcnNlUmVzb3VyY2VzKCJhcHBsaWNhdGlvbi5jb25mIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
