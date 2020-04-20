@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../libs/jpa2ddl-gradle-plugin-0.9.15-SNAPSHOT-jar-with-dependencies.jar [agrajag]'" />
-    <option name="defaultScopeName" value="File '.../libs/jpa2ddl-gradle-plugin-0.9.15-SNAPSHOT-jar-with-dependencies.jar [agrajag]'" />
-    <option name="SEARCH_SCOPE" value="File '.../libs/jpa2ddl-gradle-plugin-0.9.15-SNAPSHOT-jar-with-dependencies.jar [agrajag]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
