@@ -109,6 +109,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/my-projects/agrajag/docker-compose.yml" timestamp="1587342269060">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/lyceeo/domain/UserRepository.kt" timestamp="1587257705995">
         <mark key="[" line="14" column="28" />
         <mark key="]" line="14" column="47" />
@@ -152,7 +155,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/reference-projects/jpa2ddl/jpa2ddl-gradle-plugin/src/test/groovy/com/devskiller/jpa2ddl/GeneratePluginTest.groovy" timestamp="1587251363131" />
       <file name="$USER_HOME$/dev/reference-projects/jpa2ddl/pom.xml" timestamp="1587256173226">
         <mark key="'" line="0" column="6" />
         <mark key="[" line="7" column="19" />
@@ -184,12 +186,6 @@
       </file>
       <file name="/fragment.java" timestamp="1587184784581">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/agrajag/stack.yml" timestamp="1587160387542">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="15" column="17" />
-        <mark key="^" line="15" column="17" />
-        <mark key="." line="15" column="16" />
       </file>
     </filemarks>
     <jumps>
@@ -426,7 +422,7 @@
       <last-replace>can-form-area-voter-pledge</last-replace>
       <last-substitute>can-form-area-email-list-3</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
