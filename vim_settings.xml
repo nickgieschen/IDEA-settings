@@ -135,12 +135,12 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/lyceeo/Application.kt" timestamp="1587421866312">
-        <mark key="'" line="60" column="35" />
-        <mark key="[" line="59" column="40" />
-        <mark key="]" line="59" column="40" />
-        <mark key="." line="59" column="39" />
-        <mark key="^" line="59" column="40" />
+      <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/lyceeo/Application.kt" timestamp="1587424957177">
+        <mark key="'" line="58" column="35" />
+        <mark key="[" line="41" column="82" />
+        <mark key="]" line="41" column="90" />
+        <mark key="." line="41" column="89" />
+        <mark key="^" line="41" column="90" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/agrajag/local/foo.conf" timestamp="1587184749053">
         <mark key="[" line="0" column="0" />
@@ -325,13 +325,13 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>map</text>
+        <text>.toIntOrNull()</text>
       </register>
       <register name="l" type="4">
         <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>map</text>
+        <text>.toIntOrNull()</text>
       </register>
       <register name="/" type="4">
         <text>audioIn</text>
@@ -352,25 +352,25 @@
         <text encoding="base64">ICAgIEBDb2x1bW4obmFtZT0iZmlyc3RfbmFtZSIpCiAgICB2YXIgZmlyc3ROYW1lOiBTdHJpbmcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG11dGFibGVNYXBPZigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHZhbCBtYXAgPSBkb3RlbnYuZW50cmllcygpLmFzc29jaWF0ZSB7IFBhaXIoaXQua2V5LCBpdC52YWx1ZSkgfQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIG11dGFibGVNYXBPZigpCg==</text>
+      </register>
+      <register name="4" type="4">
         <text>''</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>io.github.cdimascio:java-dotenv:$dotenvVersion</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Y2xhc3MgRW52Q29uZmlnIDogQXBwbGljYXRpb25Db25maWcgewogICAgb3ZlcnJpZGUgZnVuIGNvbmZpZyhwYXRoOiBTdHJpbmcpOiBBcHBsaWNhdGlvbkNvbmZpZyB7CiAgICAgICAgVE9ETygiTm90IHlldCBpbXBsZW1lbnRlZCIpCiAgICB9CgogICAgb3ZlcnJpZGUgZnVuIGNvbmZpZ0xpc3QocGF0aDogU3RyaW5nKTogTGlzdDxBcHBsaWNhdGlvbkNvbmZpZz4gewogICAgICAgIFRPRE8oIk5vdCB5ZXQgaW1wbGVtZW50ZWQiKQogICAgfQoKICAgIG92ZXJyaWRlIGZ1biBwcm9wZXJ0eShwYXRoOiBTdHJpbmcpOiBBcHBsaWNhdGlvbkNvbmZpZ1ZhbHVlIHsKICAgICAgICBUT0RPKCJOb3QgeWV0IGltcGxlbWVudGVkIikKICAgIH0KCiAgICBvdmVycmlkZSBmdW4gcHJvcGVydHlPck51bGwocGF0aDogU3RyaW5nKTogQXBwbGljYXRpb25Db25maWdWYWx1ZT8gewogICAgICAgIFRPRE8oIk5vdCB5ZXQgaW1wbGVtZW50ZWQiKQogICAgfQp9Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">PGlucHV0IGlkPSJ2b2x1bWUiIHR5cGU9InJhbmdlIiBtaW49IjAiIG1heD0iMSIgc3RlcD0iMC4xIiB2YWx1ZT0iMC41Ii8+Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">PHA+Vm9sdW1lPC9wPgo=</text>
+        <text encoding="base64">Y2xhc3MgRW52Q29uZmlnIDogQXBwbGljYXRpb25Db25maWcgewogICAgb3ZlcnJpZGUgZnVuIGNvbmZpZyhwYXRoOiBTdHJpbmcpOiBBcHBsaWNhdGlvbkNvbmZpZyB7CiAgICAgICAgVE9ETygiTm90IHlldCBpbXBsZW1lbnRlZCIpCiAgICB9CgogICAgb3ZlcnJpZGUgZnVuIGNvbmZpZ0xpc3QocGF0aDogU3RyaW5nKTogTGlzdDxBcHBsaWNhdGlvbkNvbmZpZz4gewogICAgICAgIFRPRE8oIk5vdCB5ZXQgaW1wbGVtZW50ZWQiKQogICAgfQoKICAgIG92ZXJyaWRlIGZ1biBwcm9wZXJ0eShwYXRoOiBTdHJpbmcpOiBBcHBsaWNhdGlvbkNvbmZpZ1ZhbHVlIHsKICAgICAgICBUT0RPKCJOb3QgeWV0IGltcGxlbWVudGVkIikKICAgIH0KCiAgICBvdmVycmlkZSBmdW4gcHJvcGVydHlPck51bGwocGF0aDogU3RyaW5nKTogQXBwbGljYXRpb25Db25maWdWYWx1ZT8gewogICAgICAgIFRPRE8oIk5vdCB5ZXQgaW1wbGVtZW50ZWQiKQogICAgfQp9Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -381,10 +381,10 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PGlucHV0IGlkPSJ2b2x1bWUiIHR5cGU9InJhbmdlIiBtaW49IjAiIG1heD0iMSIgc3RlcD0iMC4xIiB2YWx1ZT0iMC41Ii8+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PHA+Vm9sdW1lPC9wPgo=</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -405,7 +405,7 @@
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIC0tLSBlbmFibGUgdm9sdW1lIGNvbnRyb2wgZm9yIG91dHB1dCBzcGVha2VycwoKICAgICAgICAgICAgICAgIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCd2b2x1bWUnKS5hZGRFdmVudExpc3RlbmVyKCdjaGFuZ2UnLCBmdW5jdGlvbiAoKSB7CgogICAgICAgICAgICAgICAgICAgIHZhciBjdXJyX3ZvbHVtZSA9IHRoaXMudmFsdWU7CiAgICAgICAgICAgICAgICAgICAgZ2Fpbl9ub2RlLmdhaW4udmFsdWUgPSBjdXJyX3ZvbHVtZTsKCiAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coImN1cnJfdm9sdW1lICIsIGN1cnJfdm9sdW1lKTsKICAgICAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
