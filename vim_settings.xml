@@ -156,12 +156,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/lyceeo/Application.kt" timestamp="1587429757692">
-        <mark key="'" line="56" column="45" />
-        <mark key="[" line="56" column="74" />
-        <mark key="]" line="56" column="78" />
-        <mark key="." line="56" column="77" />
-        <mark key="^" line="56" column="78" />
+      <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/lyceeo/Application.kt" timestamp="1587429813891">
+        <mark key="'" line="59" column="45" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="53" column="38" />
+        <mark key="." line="53" column="37" />
+        <mark key="^" line="53" column="38" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/agrajag/.custom.env" timestamp="1587429502317">
         <mark key="[" line="0" column="15" />
@@ -183,7 +183,7 @@
         <mark key="." line="5" column="20" />
         <mark key="^" line="5" column="21" />
       </file>
-      <file name="/fragment.java" timestamp="1587429654192">
+      <file name="/fragment.java" timestamp="1587429888826">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.typesafe/config/1.3.1/a27878630ff503b63ed25ff2a25fa8ef888740b3/config-1.3.1-sources.jar!/com/typesafe/config/impl/SimpleConfig.java" timestamp="1587344611588">
@@ -329,13 +329,13 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>foo</text>
+        <text>?</text>
       </register>
       <register name="l" type="4">
         <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>foo</text>
+        <text>?</text>
       </register>
       <register name="/" type="4">
         <text>audioIn</text>
@@ -353,7 +353,7 @@
         </keys>
       </register>
       <register name="0" type="4">
-        <text>config.propertyOrNull(&quot;ktor.port&quot;)?.getString()?</text>
+        <text>System.getProperty(&quot;config&quot;)?</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBkaXJlY3RvcnkgPSAiLi8uZW52Igo=</text>
