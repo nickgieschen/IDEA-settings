@@ -124,16 +124,10 @@
       <file name="/" timestamp="1587243632430">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/lyceeo/config/Database.kt" timestamp="1587183705187">
-        <mark key="[" line="9" column="83" />
-        <mark key="]" line="9" column="74" />
-        <mark key="." line="9" column="73" />
-        <mark key="^" line="9" column="74" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/resources/application.conf" timestamp="1587183646208">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/resources/application.conf" timestamp="1587427758824">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/lyceeo/Application.kt" timestamp="1587424957177">
         <mark key="'" line="58" column="35" />
@@ -161,6 +155,12 @@
       </file>
       <file name="$USER_HOME$/dev/reference-projects/config/config/src/test/scala/com/typesafe/config/impl/ConfigSubstitutionTest.scala" timestamp="1587355594350">
         <mark key="'" line="790" column="27" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/agrajag/.env" timestamp="1587427835696">
+        <mark key="[" line="5" column="10" />
+        <mark key="]" line="5" column="14" />
+        <mark key="." line="5" column="13" />
+        <mark key="^" line="5" column="14" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/agrajag/build.gradle" timestamp="1587420689675">
         <mark key="'" line="37" column="66" />
@@ -325,13 +325,13 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>.toIntOrNull()</text>
+        <text>nick</text>
       </register>
       <register name="l" type="4">
         <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>.toIntOrNull()</text>
+        <text>nick</text>
       </register>
       <register name="/" type="4">
         <text>audioIn</text>
@@ -352,25 +352,25 @@
         <text encoding="base64">ICAgIEBDb2x1bW4obmFtZT0iZmlyc3RfbmFtZSIpCiAgICB2YXIgZmlyc3ROYW1lOiBTdHJpbmcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwYXNzd29yZCA9ICR7P0RBVEFCQVNFX1BBU1NXT1JEfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBtYXAgPSBkb3RlbnYuZW50cmllcygpLmFzc29jaWF0ZSB7IFBhaXIoaXQua2V5LCBpdC52YWx1ZSkgfQo=</text>
+        <text encoding="base64">ZGIuICBwYXNzd29yZCA9ICIiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG11dGFibGVNYXBPZigpCg==</text>
+        <text encoding="base64">ICB1c2VyID0gJHs/REFUQUJBU0VfVVNFUn0K</text>
       </register>
-      <register name="4" type="4">
-        <text>''</text>
+      <register name="4" type="2">
+        <text encoding="base64">ZGIubmFtZSA9ICR7P0RBVEFCQVNFX05BTUV9Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>io.github.cdimascio:java-dotenv:$dotenvVersion</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICBwb3J0ID0gJHs/REFUQUJBU0VfUE9SVH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2xhc3MgRW52Q29uZmlnIDogQXBwbGljYXRpb25Db25maWcgewogICAgb3ZlcnJpZGUgZnVuIGNvbmZpZyhwYXRoOiBTdHJpbmcpOiBBcHBsaWNhdGlvbkNvbmZpZyB7CiAgICAgICAgVE9ETygiTm90IHlldCBpbXBsZW1lbnRlZCIpCiAgICB9CgogICAgb3ZlcnJpZGUgZnVuIGNvbmZpZ0xpc3QocGF0aDogU3RyaW5nKTogTGlzdDxBcHBsaWNhdGlvbkNvbmZpZz4gewogICAgICAgIFRPRE8oIk5vdCB5ZXQgaW1wbGVtZW50ZWQiKQogICAgfQoKICAgIG92ZXJyaWRlIGZ1biBwcm9wZXJ0eShwYXRoOiBTdHJpbmcpOiBBcHBsaWNhdGlvbkNvbmZpZ1ZhbHVlIHsKICAgICAgICBUT0RPKCJOb3QgeWV0IGltcGxlbWVudGVkIikKICAgIH0KCiAgICBvdmVycmlkZSBmdW4gcHJvcGVydHlPck51bGwocGF0aDogU3RyaW5nKTogQXBwbGljYXRpb25Db25maWdWYWx1ZT8gewogICAgICAgIFRPRE8oIk5vdCB5ZXQgaW1wbGVtZW50ZWQiKQogICAgfQp9Cg==</text>
+        <text encoding="base64">ICBob3N0ID0gJHs/REFUQUJBU0VfU0VSVkVSfQo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -381,10 +381,10 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PGlucHV0IGlkPSJ2b2x1bWUiIHR5cGU9InJhbmdlIiBtaW49IjAiIG1heD0iMSIgc3RlcD0iMC4xIiB2YWx1ZT0iMC41Ii8+Cg==</text>
+        <text encoding="base64">ICBob3N0ID0gbG9jYWxob3N0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PHA+Vm9sdW1lPC9wPgo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -405,7 +405,7 @@
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
