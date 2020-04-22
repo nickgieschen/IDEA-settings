@@ -116,12 +116,12 @@
         <mark key="." line="13" column="79" />
         <mark key="^" line="11" column="99" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/agrajag/build.gradle" timestamp="1587592543770">
-        <mark key="'" line="100" column="48" />
-        <mark key="[" line="101" column="34" />
-        <mark key="]" line="102" column="40" />
-        <mark key="." line="102" column="39" />
-        <mark key="^" line="102" column="40" />
+      <file name="$USER_HOME$/dev/my-projects/agrajag/build.gradle" timestamp="1587595222639">
+        <mark key="'" line="104" column="0" />
+        <mark key="[" line="103" column="28" />
+        <mark key="]" line="103" column="28" />
+        <mark key="." line="103" column="28" />
+        <mark key="^" line="103" column="30" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/medaica/views/createSession.ejs" timestamp="1587265727667">
         <mark key="[" line="170" column="0" />
@@ -277,7 +277,6 @@
       <jump line="208" column="40" filename="$USER_HOME$/dev/reference-projects/jpa2ddl/pom.xml" />
       <jump line="222" column="53" filename="$USER_HOME$/dev/reference-projects/jpa2ddl/pom.xml" />
       <jump line="0" column="6" filename="$USER_HOME$/dev/reference-projects/jpa2ddl/pom.xml" />
-      <jump line="103" column="12" filename="$USER_HOME$/dev/my-projects/agrajag/build.gradle" />
       <jump line="95" column="26" filename="$USER_HOME$/dev/my-projects/agrajag/build.gradle" />
       <jump line="155" column="47" filename="$USER_HOME$/dev/my-projects/medaica/views/createSession.ejs" />
       <jump line="45" column="16" filename="$USER_HOME$/dev/my-projects/medaica/views/createSession.ejs" />
@@ -297,6 +296,7 @@
       <jump line="22" column="29" filename="$USER_HOME$/dev/my-projects/agrajag/src/test/kotlin/lyceeo/service/UserServiceTest.kt" />
       <jump line="84" column="11" filename="$USER_HOME$/dev/my-projects/agrajag/build.gradle" />
       <jump line="100" column="48" filename="$USER_HOME$/dev/my-projects/agrajag/build.gradle" />
+      <jump line="103" column="0" filename="$USER_HOME$/dev/my-projects/agrajag/build.gradle" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -335,13 +335,13 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>nick</text>
+        <text>v1__jpa2ddl</text>
       </register>
       <register name="l" type="4">
         <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>nick</text>
+        <text>v1__jpa2ddl</text>
       </register>
       <register name="/" type="4">
         <text>audioIn</text>
