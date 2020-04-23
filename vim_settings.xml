@@ -104,11 +104,11 @@
         <mark key="." line="12" column="4" />
         <mark key="^" line="12" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/agrajag/README.md" timestamp="1587601407064">
-        <mark key="[" line="27" column="21" />
-        <mark key="]" line="27" column="20" />
-        <mark key="^" line="27" column="20" />
-        <mark key="." line="27" column="19" />
+      <file name="$USER_HOME$/dev/my-projects/agrajag/README.md" timestamp="1587601616988">
+        <mark key="[" line="33" column="263" />
+        <mark key="]" line="33" column="263" />
+        <mark key="." line="33" column="262" />
+        <mark key="^" line="33" column="263" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/lyceeo/config/Database.kt" timestamp="1587435876883">
         <mark key="[" line="13" column="79" />
@@ -126,11 +126,11 @@
         <mark key="." line="103" column="17" />
         <mark key="^" line="103" column="60" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/agrajag/.env.example" timestamp="1587511567463">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="6" column="29" />
-        <mark key="^" line="5" column="28" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/dev/my-projects/agrajag/.env.example" timestamp="1587601670704">
+        <mark key="[" line="3" column="18" />
+        <mark key="]" line="3" column="19" />
+        <mark key="^" line="3" column="19" />
+        <mark key="." line="3" column="18" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/agrajag/Dockerfile" timestamp="1587514795495">
         <mark key="[" line="3" column="0" />
@@ -330,13 +330,13 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>The two best ways to set these are either in a `.env` file in the root of the project or set when `flywayMigrate` is called: `POSTGRES_HO</text>
+        <text>Alternately, you can set them when you class `flywayMigrate`, which is good for overriding defaults in the `.env` file. This would look like `POSTGRES_PORT</text>
       </register>
       <register name="l" type="4">
         <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>The two best ways to set these are either in a `.env` file in the root of the project or set when `flywayMigrate` is called: `POSTGRES_HO</text>
+        <text>Alternately, you can set them when you class `flywayMigrate`, which is good for overriding defaults in the `.env` file. This would look like `POSTGRES_PORT</text>
       </register>
       <register name="/" type="4">
         <text>audioIn</text>
@@ -357,16 +357,16 @@
         <text encoding="base64">UE9TVEdSRVNfSE9TVD1sb2NhbGhvc3QKUE9TVEdSRVNfUE9SVD01NDMyMApQT1NUR1JFU19EQj1seWNlZW8tc2VydmljZQpQT1NUR1JFU19VU0VSPWx5Y2Vlby1zZXJ2aWNlClBPU1RHUkVTX1BBU1NXT1JEPWJvYm5jaGFybGllCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">SXQgd2lsbCByZWFkIGEgYC5lbnZgIGZpbGUgaW4gdGhlIHByb2plY3Qgcm9vdCwgc28gdGhpcyBpcyB0aGUgYmVzdCBwbGFjZSB0byBwdXQgdGhlc2UuIEFsdGVybmF0ZWx5LCB5b3UgY2FuIHNldCB0aGVtIHdoZW4geW91IGNsYXNzIGBmbHl3YXlNaWdyYXRlYCwgd2hpY2ggaXMgZ29vZCBmb3Igb3ZlcnJpZGluZyBkZWZhdWx0cyBpbiB0aGUgYC5lbnZgIGZpbGUuIFRoaXMgd291bGQgbG9vayBsaWtlIGBQT1NUR1JFU19QT1JUCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dGFzayBjb25maWd1cmVGbHl3YXkgewogICAgZG9MYXN0KCkgewogICAgICAgIFN0cmluZyBmaWxlQ29udGVudHMgPSBGaWxlcy5yZWFkQWxsTGluZXMobmV3IEZpbGUoJy4vLmVudicpLCBTdGFuZGFyZENoYXJzZXRzLlVURl84KQogICAgICAgIGZseXdheS51cmwgPSAiYXNmc2FmYXNkZnNkYWZzZGFmIgogICAgICAgIHByaW50KCJoaSIpCiAgICB9Cn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dGFzayBjb25maWd1cmVGbHl3YXkgewogICAgZG9MYXN0KCkgewogICAgICAgIFN0cmluZyBmaWxlQ29udGVudHMgPSBGaWxlcy5yZWFkQWxsTGluZXMobmV3IEZpbGUoJy4vLmVudicpLCBTdGFuZGFyZENoYXJzZXRzLlVURl84KQogICAgICAgIGZseXdheS51cmwgPSAiYXNmc2FmYXNkZnNkYWZzZGFmIgogICAgICAgIHByaW50KCJoaSIpCiAgICB9Cn0K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -375,7 +375,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgbGluZXMgPSBGaWxlcy5yZWFkQWxsTGluZXMobmV3IEZpbGUoJy4vLmVudicpLnRvUGF0aCgpLCBTdGFuZGFyZENoYXJzZXRzLlVTX0FTQ0lJKQogICAgICAgIGZvciAoU3RyaW5nIGxpbmUgaW4gbGluZXMpewogICAgICAgICAgICBwcmludGxuKCIqKioqIikKICAgICAgICAgICAgcHJpbnRsbihsaW5lKQogICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -386,10 +386,10 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEubmlvLmNoYXJzZXQuU3RhbmRhcmRDaGFyc2V0cwppbXBvcnQgamF2YS5uaW8uZmlsZS5GaWxlcwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgbGluZXMgPSBGaWxlcy5yZWFkQWxsTGluZXMobmV3IEZpbGUoJy4vLmVudicpLnRvUGF0aCgpLCBTdGFuZGFyZENoYXJzZXRzLlVTX0FTQ0lJKQogICAgICAgIGZvciAoU3RyaW5nIGxpbmUgaW4gbGluZXMpewogICAgICAgICAgICBwcmludGxuKCIqKioqIikKICAgICAgICAgICAgcHJpbnRsbihsaW5lKQogICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEubmlvLmNoYXJzZXQuU3RhbmRhcmRDaGFyc2V0cwppbXBvcnQgamF2YS5uaW8uZmlsZS5GaWxlcwo=</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -410,7 +410,7 @@
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEubmlvLmNoYXJzZXQuU3RhbmRhcmRDaGFyc2V0cwppbXBvcnQgamF2YS5uaW8uZmlsZS5GaWxlcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
