@@ -108,10 +108,10 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/docker-compose.yml" timestamp="1587612755862">
-        <mark key="[" line="14" column="12" />
-        <mark key="]" line="14" column="12" />
-        <mark key="." line="14" column="12" />
+      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/docker-compose.yml" timestamp="1587614224744">
+        <mark key="[" line="11" column="17" />
+        <mark key="]" line="11" column="17" />
+        <mark key="." line="11" column="17" />
         <mark key="^" line="0" column="13" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/lyceeo/Setup-files/.gitignore" timestamp="1587606756510">
@@ -127,8 +127,11 @@
         <mark key="^" line="33" column="263" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/.gitignore" timestamp="1587605112184" />
-      <file name="/default" timestamp="1587600551627">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/.env.example" timestamp="1587614284411">
+        <mark key="[" line="3" column="14" />
+        <mark key="]" line="3" column="18" />
+        <mark key="." line="3" column="17" />
+        <mark key="^" line="3" column="18" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/README.md" timestamp="1587611279037">
         <mark key="[" line="34" column="242" />
@@ -339,14 +342,14 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">dmVyc2lvbjogIjMiCnNlcnZpY2VzOgogIHVzZXItc2VydmljZToKICAgIGJ1aWxkOiAuL3VzZXItc2VydmljZQogICAgcG9ydHM6CiAgICAgIC0gIjMwMDA6MzAwMCIKICBhcGktZ2F0ZXdheToKICAgIGVudmlyb25tZW50OgogICAgICAtIFVTRVJfU0VSVklDRV9BUElfVVJJPWh0dHA6Ly91c2VyLXNlcnZpY2U6MzAwMAogICAgYnVpbGQ6IC4vYXBpLWdhdGV3YXkKICAgIHBvcnRzOgogICAgICAtICIzMDAxOjMwMDEiCiAgICBkZXBlbmRzX29uOgogICAgICAtIHVzZXItc2VydmljZQogIGZyb250ZW5kOgogICAgYnVpbGQ6IC4vd2ViLWZyb250ZW5kCiAgICBwb3J0czoKICAgICAgLSAiMzAwMjo4MCIKICAgIGRlcGVuZHNfb246CiAgICAgIC0gYXBpLWdhdGV3YXkKICBkYjoKICAgIGltYWdlOiBwb3N0Z3JlczoxMS1hbHBpbmUKICAgIGNvbnRhaW5lcl9uYW1lOiBseWNlZW8tc2VydmljZS1kYgogICAgZW52aXJvbm1lbnQ6CiAgICAgIC0gUE9TVEdSRVNfVVNFUj1seWNlZW8tc2VydmljZQogICAgICAtIFBPU1RHUkVTX1BBU1NXT1JEPWJvYm5jaGFybGllCiAgICAgIC0gUEdEQVRBPS9kYXRhL3Bvc3RncmVzCiAgICBwb3J0czoKICAgICAgLSAiMzAwMzozMDAzIgogICAgcmVzdGFydDogYWx3YXlzCiAgc2VydmljZToKICAgIGJ1aWxkOiAuL2JhY2tlbmQKICAgIGNvbnRhaW5lcl9uYW1lOiBseWNlZW8tc2VydmljZQogICAgZW52aXJvbm1lbnQ6CiAgICAgIC0gUE9TVEdSRVNfUE9SVD0zMDAzCiAgICAgIC0gUE9TVEdSRVNfUEFTU1dPUkQ9Ym9ibmNoYXJsaWUKICAgIHBvcnRzOgogICAgICAtICIzMDA0OjMwMDQiCg==</text>
+      <register name="*" type="4">
+        <text>54320</text>
       </register>
       <register name="l" type="4">
         <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>/backend</text>
+        <text>54320</text>
       </register>
       <register name="/" type="4">
         <text>audioIn</text>
