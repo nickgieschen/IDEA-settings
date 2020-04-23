@@ -132,11 +132,6 @@
         <mark key="." line="13" column="79" />
         <mark key="^" line="11" column="99" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/resources/application.conf" timestamp="1587427758824">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/lyceeo/Application.kt" timestamp="1587516276731">
         <mark key="'" line="40" column="12" />
         <mark key="[" line="60" column="110" />
@@ -150,6 +145,9 @@
         <mark key="." line="0" column="16" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/.gitignore" timestamp="1587605112184" />
+      <file name="$USER_HOME$/dev/my-projects/lyceeo/api-gateway/.gitignore" timestamp="1587605180544">
+        <mark key="[" line="24" column="0" />
+      </file>
       <file name="/default" timestamp="1587600551627">
         <mark key="[" line="0" column="0" />
       </file>
@@ -166,11 +164,11 @@
         <mark key="." line="103" column="17" />
         <mark key="^" line="103" column="60" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/lyceeo/docker-compose.yml" timestamp="1587604030337">
-        <mark key="[" line="33" column="4" />
-        <mark key="]" line="33" column="5" />
-        <mark key="." line="33" column="4" />
-        <mark key="^" line="33" column="5" />
+      <file name="$USER_HOME$/dev/my-projects/lyceeo/docker-compose.yml" timestamp="1587605700293">
+        <mark key="[" line="34" column="21" />
+        <mark key="]" line="34" column="21" />
+        <mark key="." line="34" column="20" />
+        <mark key="^" line="34" column="21" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/agrajag/.gitignore" timestamp="1587433492448">
         <mark key="[" line="0" column="0" />
@@ -338,14 +336,14 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">IS8uZ2l0aWdub3JlCiEvLmdpdGlnbm9yZQohLy5naXRpZ25vcmUK</text>
+      <register name="*" type="4">
+        <text>${POSTGRES_PORT}</text>
       </register>
       <register name="l" type="4">
         <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>my-web-container</text>
+        <text>${POSTGRES_PORT}</text>
       </register>
       <register name="/" type="4">
         <text>audioIn</text>
@@ -366,22 +364,22 @@
         <text encoding="base64">ICBkYjoKICAgIGltYWdlOiBwb3N0Z3JlczoxMS1hbHBpbmUKICAgIGNvbnRhaW5lcl9uYW1lOiBseWNlZW8tc2VydmljZS1kYgogICAgZW52aXJvbm1lbnQ6CiAgICAgIC0gUE9TVEdSRVNfVVNFUj1seWNlZW8tc2VydmljZQogICAgICAtIFBPU1RHUkVTX1BBU1NXT1JECiAgICAgIC0gUEdEQVRBPS9kYXRhL3Bvc3RncmVzCiAgICBwb3J0czoKICAgICAgLSAiJHtQT1NUR1JFU19QT1JUfTo1NDMyIgogICAgcmVzdGFydDogYWx3YXlzCgogIHNlcnZpY2U6CiAgICBpbWFnZTogbHljZWVvLXNlcnZpY2UKICAgIGNvbnRhaW5lcl9uYW1lOiBseWNlZW8tc2VydmljZQogICAgZW52aXJvbm1lbnQ6CiAgICAgIC0gUE9TVEdSRVNfUE9SVAogICAgICAtIFBPU1RHUkVTX1BBU1NXT1JECiAgICBwb3J0czoKICAgICAgLSA4MDg1OjgwODUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IS8uZ2l0aWdub3JlCiEvLmdpdGlnbm9yZQohLy5naXRpZ25vcmUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICNpbWFnZTogLi9seWNlZW8tc2VydmljZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">SXQgd2lsbCByZWFkIGEgYC5lbnZgIGZpbGUgaW4gdGhlIHByb2plY3Qgcm9vdCwgc28gdGhpcyBpcyB0aGUgYmVzdCBwbGFjZSB0byBwdXQgdGhlc2UuIEFsdGVybmF0ZWx5LCB5b3UgY2FuIHNldCB0aGVtIHdoZW4geW91IGNsYXNzIGBmbHl3YXlNaWdyYXRlYCwgd2hpY2ggaXMgZ29vZCBmb3Igb3ZlcnJpZGluZyBkZWZhdWx0cyBpbiB0aGUgYC5lbnZgIGZpbGUuIFRoaXMgd291bGQgbG9vayBsaWtlIGBQT1NUR1JFU19QT1JUCg==</text>
+        <text encoding="base64">IS8uZ2l0aWdub3JlCiEvLmdpdGlnbm9yZQohLy5naXRpZ25vcmUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dGFzayBjb25maWd1cmVGbHl3YXkgewogICAgZG9MYXN0KCkgewogICAgICAgIFN0cmluZyBmaWxlQ29udGVudHMgPSBGaWxlcy5yZWFkQWxsTGluZXMobmV3IEZpbGUoJy4vLmVudicpLCBTdGFuZGFyZENoYXJzZXRzLlVURl84KQogICAgICAgIGZseXdheS51cmwgPSAiYXNmc2FmYXNkZnNkYWZzZGFmIgogICAgICAgIHByaW50KCJoaSIpCiAgICB9Cn0K</text>
+        <text encoding="base64">SXQgd2lsbCByZWFkIGEgYC5lbnZgIGZpbGUgaW4gdGhlIHByb2plY3Qgcm9vdCwgc28gdGhpcyBpcyB0aGUgYmVzdCBwbGFjZSB0byBwdXQgdGhlc2UuIEFsdGVybmF0ZWx5LCB5b3UgY2FuIHNldCB0aGVtIHdoZW4geW91IGNsYXNzIGBmbHl3YXlNaWdyYXRlYCwgd2hpY2ggaXMgZ29vZCBmb3Igb3ZlcnJpZGluZyBkZWZhdWx0cyBpbiB0aGUgYC5lbnZgIGZpbGUuIFRoaXMgd291bGQgbG9vayBsaWtlIGBQT1NUR1JFU19QT1JUCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -395,7 +393,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dGFzayBjb25maWd1cmVGbHl3YXkgewogICAgZG9MYXN0KCkgewogICAgICAgIFN0cmluZyBmaWxlQ29udGVudHMgPSBGaWxlcy5yZWFkQWxsTGluZXMobmV3IEZpbGUoJy4vLmVudicpLCBTdGFuZGFyZENoYXJzZXRzLlVURl84KQogICAgICAgIGZseXdheS51cmwgPSAiYXNmc2FmYXNkZnNkYWZzZGFmIgogICAgICAgIHByaW50KCJoaSIpCiAgICB9Cn0K</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -419,7 +417,7 @@
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgbGluZXMgPSBGaWxlcy5yZWFkQWxsTGluZXMobmV3IEZpbGUoJy4vLmVudicpLnRvUGF0aCgpLCBTdGFuZGFyZENoYXJzZXRzLlVTX0FTQ0lJKQogICAgICAgIGZvciAoU3RyaW5nIGxpbmUgaW4gbGluZXMpewogICAgICAgICAgICBwcmludGxuKCIqKioqIikKICAgICAgICAgICAgcHJpbnRsbihsaW5lKQogICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
