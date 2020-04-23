@@ -91,6 +91,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/build.gradle" timestamp="1587607100978">
+        <mark key="'" line="104" column="60" />
+        <mark key="[" line="104" column="60" />
+        <mark key="]" line="104" column="61" />
+        <mark key="." line="104" column="44" />
+        <mark key="^" line="104" column="46" />
+      </file>
       <file name="$USER_HOME$/dev/my-projects/agrajag/src/test/kotlin/lyceeo/service/UserServiceTest.kt" timestamp="1587523729177">
         <mark key="'" line="18" column="29" />
         <mark key="[" line="17" column="34" />
@@ -103,22 +110,17 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/agrajag/docker-compose.yml" timestamp="1587526398858">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/docker-compose.yml" timestamp="1587603958952">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="22" column="17" />
         <mark key="^" line="17" column="34" />
         <mark key="." line="17" column="33" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/resources/db/migration/v3__add_foo.sql" timestamp="1587600558976">
-        <mark key="[" line="0" column="12" />
-        <mark key="]" line="0" column="17" />
-        <mark key="^" line="0" column="17" />
-        <mark key="." line="0" column="17" />
+      <file name="$USER_HOME$/dev/my-projects/lyceeo/Setup-files/.gitignore" timestamp="1587606756510">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="1" column="5" />
+        <mark key="." line="1" column="4" />
+        <mark key="^" line="1" column="5" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/agrajag/README.md" timestamp="1587601616988">
         <mark key="[" line="33" column="263" />
@@ -132,30 +134,9 @@
         <mark key="." line="13" column="79" />
         <mark key="^" line="11" column="99" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/lyceeo/Application.kt" timestamp="1587516276731">
-        <mark key="'" line="40" column="12" />
-        <mark key="[" line="60" column="110" />
-        <mark key="]" line="60" column="111" />
-        <mark key="^" line="60" column="111" />
-        <mark key="." line="60" column="110" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/agrajag/.custom.env" timestamp="1587429502317">
-        <mark key="[" line="0" column="15" />
-        <mark key="]" line="0" column="16" />
-        <mark key="." line="0" column="16" />
-      </file>
       <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/.gitignore" timestamp="1587605112184" />
-      <file name="$USER_HOME$/dev/my-projects/lyceeo/api-gateway/.gitignore" timestamp="1587605180544">
-        <mark key="[" line="24" column="0" />
-      </file>
       <file name="/default" timestamp="1587600551627">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/agrajag/.env" timestamp="1587601233988">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="6" column="29" />
-        <mark key="." line="5" column="27" />
-        <mark key="^" line="5" column="28" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/agrajag/build.gradle" timestamp="1587600623094">
         <mark key="'" line="105" column="0" />
@@ -164,17 +145,11 @@
         <mark key="." line="103" column="17" />
         <mark key="^" line="103" column="60" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/lyceeo/docker-compose.yml" timestamp="1587605700293">
-        <mark key="[" line="34" column="21" />
-        <mark key="]" line="34" column="21" />
-        <mark key="." line="34" column="20" />
-        <mark key="^" line="34" column="21" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/agrajag/.gitignore" timestamp="1587433492448">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="1" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="1" />
+      <file name="$USER_HOME$/dev/my-projects/lyceeo/docker-compose.yml" timestamp="1587606598258">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="37" column="19" />
+        <mark key="." line="17" column="16" />
+        <mark key="^" line="17" column="17" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/agrajag/.env.example" timestamp="1587601670704">
         <mark key="[" line="3" column="18" />
@@ -188,18 +163,47 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1587433106409">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/resources/db/migration/v2__jpa2ddl.sql" timestamp="1587600569698">
         <mark key="[" line="1" column="16" />
         <mark key="]" line="1" column="21" />
         <mark key="." line="1" column="21" />
         <mark key="^" line="1" column="21" />
       </file>
+      <file name="$USER_HOME$/dev/my-projects/agrajag/docker-compose.yml" timestamp="1587526398858">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/resources/db/migration/v3__add_foo.sql" timestamp="1587600558976">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="17" />
+        <mark key="^" line="0" column="17" />
+        <mark key="." line="0" column="17" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/lyceeo/Application.kt" timestamp="1587516276731">
+        <mark key="'" line="40" column="12" />
+        <mark key="[" line="60" column="110" />
+        <mark key="]" line="60" column="111" />
+        <mark key="^" line="60" column="111" />
+        <mark key="." line="60" column="110" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/lyceeo/api-gateway/.gitignore" timestamp="1587605180544">
+        <mark key="[" line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/agrajag/.env" timestamp="1587601233988">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="6" column="29" />
+        <mark key="." line="5" column="27" />
+        <mark key="^" line="5" column="28" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/lyceeo/Setup-files/docker-compose.yml" timestamp="1587606685089">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="^" line="38" column="0" />
+        <mark key="." line="37" column="19" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="19" filename="$USER_HOME$/dev/my-projects/agrajag/src/main/kotlin/agrajag/service/UserService.kt" />
       <jump line="60" column="38" filename="$USER_HOME$/dev/reference-projects/kotlin-exposed-realworld/src/test/kotlin/io/realworld/article/query/ArticleQueryServiceTest.kt" />
       <jump line="40" column="42" filename="$USER_HOME$/dev/reference-projects/kotlin-exposed-realworld/src/test/kotlin/io/realworld/article/query/ArticleQueryServiceTest.kt" />
       <jump line="12" column="50" filename="$USER_HOME$/dev/reference-projects/kotlin-exposed-realworld/src/main/kotlin/io/realworld/article/query/ArticleQueryService.kt" />
@@ -299,6 +303,7 @@
       <jump line="84" column="11" filename="$USER_HOME$/dev/my-projects/agrajag/build.gradle" />
       <jump line="100" column="48" filename="$USER_HOME$/dev/my-projects/agrajag/build.gradle" />
       <jump line="103" column="0" filename="$USER_HOME$/dev/my-projects/agrajag/build.gradle" />
+      <jump line="104" column="60" filename="$USER_HOME$/dev/my-projects/lyceeo/backend/build.gradle" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -337,13 +342,13 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>${POSTGRES_PORT}</text>
+        <text>[]</text>
       </register>
       <register name="l" type="4">
         <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>${POSTGRES_PORT}</text>
+        <text>&quot;POSTGRES_HOST&quot;</text>
       </register>
       <register name="/" type="4">
         <text>audioIn</text>
@@ -361,28 +366,28 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBkYjoKICAgIGltYWdlOiBwb3N0Z3JlczoxMS1hbHBpbmUKICAgIGNvbnRhaW5lcl9uYW1lOiBseWNlZW8tc2VydmljZS1kYgogICAgZW52aXJvbm1lbnQ6CiAgICAgIC0gUE9TVEdSRVNfVVNFUj1seWNlZW8tc2VydmljZQogICAgICAtIFBPU1RHUkVTX1BBU1NXT1JECiAgICAgIC0gUEdEQVRBPS9kYXRhL3Bvc3RncmVzCiAgICBwb3J0czoKICAgICAgLSAiJHtQT1NUR1JFU19QT1JUfTo1NDMyIgogICAgcmVzdGFydDogYWx3YXlzCgogIHNlcnZpY2U6CiAgICBpbWFnZTogbHljZWVvLXNlcnZpY2UKICAgIGNvbnRhaW5lcl9uYW1lOiBseWNlZW8tc2VydmljZQogICAgZW52aXJvbm1lbnQ6CiAgICAgIC0gUE9TVEdSRVNfUE9SVAogICAgICAtIFBPU1RHUkVTX1BBU1NXT1JECiAgICBwb3J0czoKICAgICAgLSA4MDg1OjgwODUK</text>
+        <text encoding="base64">ICBkYjoKICAgIGltYWdlOiBwb3N0Z3JlczoxMS1hbHBpbmUKICAgIGNvbnRhaW5lcl9uYW1lOiBseWNlZW8tc2VydmljZS1kYgogICAgZW52aXJvbm1lbnQ6CiAgICAgIC0gUE9TVEdSRVNfVVNFUj1seWNlZW8tc2VydmljZQogICAgICAtIFBPU1RHUkVTX1BBU1NXT1JEPWJvYm5jaGFybGllCiAgICAgIC0gUEdEQVRBPS9kYXRhL3Bvc3RncmVzCiAgICBwb3J0czoKICAgICAgLSAiMzAwMzo1NDMyIgogICAgcmVzdGFydDogYWx3YXlzCiAgc2VydmljZToKICAgIGJ1aWxkOiAuL2JhY2tlbmQKICAgIGNvbnRhaW5lcl9uYW1lOiBseWNlZW8tc2VydmljZQogICAgZW52aXJvbm1lbnQ6CiAgICAgIC0gUE9TVEdSRVNfUE9SVD0zMDAzCiAgICAgIC0gUE9TVEdSRVNfUEFTU1dPUkQ9Ym9ibmNoYXJsaWUKICAgIHBvcnRzOgogICAgICAtICIzMDA0OjgwODUiCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>[]</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICNpbWFnZTogLi9seWNlZW8tc2VydmljZQo=</text>
+      <register name="2" type="4">
+        <text>&quot;POSTGRES_HOST&quot;</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IS8uZ2l0aWdub3JlCiEvLmdpdGlnbm9yZQohLy5naXRpZ25vcmUK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGV4dC5nZXRDb25maWcoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">SXQgd2lsbCByZWFkIGEgYC5lbnZgIGZpbGUgaW4gdGhlIHByb2plY3Qgcm9vdCwgc28gdGhpcyBpcyB0aGUgYmVzdCBwbGFjZSB0byBwdXQgdGhlc2UuIEFsdGVybmF0ZWx5LCB5b3UgY2FuIHNldCB0aGVtIHdoZW4geW91IGNsYXNzIGBmbHl3YXlNaWdyYXRlYCwgd2hpY2ggaXMgZ29vZCBmb3Igb3ZlcnJpZGluZyBkZWZhdWx0cyBpbiB0aGUgYC5lbnZgIGZpbGUuIFRoaXMgd291bGQgbG9vayBsaWtlIGBQT1NUR1JFU19QT1JUCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICNpbWFnZTogLi9seWNlZW8tc2VydmljZQo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -393,10 +398,10 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dGFzayBjb25maWd1cmVGbHl3YXkgewogICAgZG9MYXN0KCkgewogICAgICAgIFN0cmluZyBmaWxlQ29udGVudHMgPSBGaWxlcy5yZWFkQWxsTGluZXMobmV3IEZpbGUoJy4vLmVudicpLCBTdGFuZGFyZENoYXJzZXRzLlVURl84KQogICAgICAgIGZseXdheS51cmwgPSAiYXNmc2FmYXNkZnNkYWZzZGFmIgogICAgICAgIHByaW50KCJoaSIpCiAgICB9Cn0K</text>
+        <text encoding="base64">IS8uZ2l0aWdub3JlCiEvLmdpdGlnbm9yZQohLy5naXRpZ25vcmUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -417,7 +422,7 @@
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">SXQgd2lsbCByZWFkIGEgYC5lbnZgIGZpbGUgaW4gdGhlIHByb2plY3Qgcm9vdCwgc28gdGhpcyBpcyB0aGUgYmVzdCBwbGFjZSB0byBwdXQgdGhlc2UuIEFsdGVybmF0ZWx5LCB5b3UgY2FuIHNldCB0aGVtIHdoZW4geW91IGNsYXNzIGBmbHl3YXlNaWdyYXRlYCwgd2hpY2ggaXMgZ29vZCBmb3Igb3ZlcnJpZGluZyBkZWZhdWx0cyBpbiB0aGUgYC5lbnZgIGZpbGUuIFRoaXMgd291bGQgbG9vayBsaWtlIGBQT1NUR1JFU19QT1JUCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
