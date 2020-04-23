@@ -330,13 +330,13 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>Alternately, you can set them when you class `flywayMigrate`, which is good for overriding defaults in the `.env` file. This would look like `POSTGRES_PORT</text>
+        <text>.example</text>
       </register>
       <register name="l" type="4">
         <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>Alternately, you can set them when you class `flywayMigrate`, which is good for overriding defaults in the `.env` file. This would look like `POSTGRES_PORT</text>
+        <text>.example</text>
       </register>
       <register name="/" type="4">
         <text>audioIn</text>
