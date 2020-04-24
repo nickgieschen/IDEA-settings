@@ -138,11 +138,10 @@
         <mark key="." line="14" column="25" />
         <mark key="^" line="14" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/cloudbuild.yaml" timestamp="1587691110248">
-        <mark key="[" line="4" column="39" />
-        <mark key="]" line="4" column="40" />
-        <mark key="." line="4" column="39" />
-        <mark key="^" line="4" column="40" />
+      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/cloudbuild.yaml" timestamp="1587691935683">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/agrajag/README.md" timestamp="1587601616988">
         <mark key="[" line="33" column="263" />
@@ -341,8 +340,8 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="*" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgIGRpcjogIi4uLyIK</text>
       </register>
       <register name="l" type="4">
         <text>p</text>
@@ -369,25 +368,25 @@
         <text encoding="base64">ICAgICAgJy0tYnVpbGQtYXJnJywgJ1BPU1RHUkVTX1BPUlQ9XyRQT1NUR1JFU19QT1JUJywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyAgLSBuYW1lOiAiZ2NyLmlvL2Nsb3VkLWJ1aWxkZXJzL2RvY2tlciIKIyAgICBhcmdzOiBbInB1c2giLCAiZ2NyLmlvLyRQUk9KRUNUX0lEL2FwaS1nYXRld2F5OiRCVUlMRF9JRCJdCg==</text>
+        <text encoding="base64">ICAgIGRpcjogIi4uLyIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyAgICAgICItLWJ1aWxkLWFyZyIsICJQT1NUR1JFU19IT1NUPV8kUE9TVEdSRVNfSE9TVCIsCiMgICAgICAiLS1idWlsZC1hcmciLCAiUE9TVEdSRVNfUE9SVD1fJFBPU1RHUkVTX1BPUlQiLAojICAgICAgIi0tYnVpbGQtYXJnIiwgIlBPU1RHUkVTX1BBU1NXT1JEPV8kUE9TVEdSRVNfUEFTU1dPUkQiXQo=</text>
+        <text encoding="base64">IyAgLSBuYW1lOiAiZ2NyLmlvL2Nsb3VkLWJ1aWxkZXJzL2RvY2tlciIKIyAgICBhcmdzOiBbInB1c2giLCAiZ2NyLmlvLyRQUk9KRUNUX0lEL2FwaS1nYXRld2F5OiRCVUlMRF9JRCJdCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">IyAgICAgICItLWJ1aWxkLWFyZyIsICJQT1NUR1JFU19IT1NUPV8kUE9TVEdSRVNfSE9TVCIsCiMgICAgICAiLS1idWlsZC1hcmciLCAiUE9TVEdSRVNfUE9SVD1fJFBPU1RHUkVTX1BPUlQiLAojICAgICAgIi0tYnVpbGQtYXJnIiwgIlBPU1RHUkVTX1BBU1NXT1JEPV8kUE9TVEdSRVNfUEFTU1dPUkQiXQo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>''</text>
-      </register>
       <register name="5" type="4">
-        <text>--build-arg</text>
+        <text>''</text>
       </register>
       <register name="6" type="4">
-        <text>''</text>
+        <text>--build-arg</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -398,10 +397,10 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text>POSTGRES_PASSWORD=_$POSTGRES_PASSWORD</text>
+        <text>''</text>
       </register>
       <register name="8" type="4">
-        <text>''</text>
+        <text>POSTGRES_PASSWORD=_$POSTGRES_PASSWORD</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -422,7 +421,7 @@
         </keys>
       </register>
       <register name="9" type="4">
-        <text>POSTGRES_PORT=_$POSTGRES_PORT</text>
+        <text>''</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
