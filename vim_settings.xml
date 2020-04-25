@@ -91,28 +91,23 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/build.gradle" timestamp="1587698207476">
-        <mark key="'" line="108" column="147" />
-        <mark key="[" line="105" column="118" />
-        <mark key="]" line="105" column="122" />
-        <mark key="." line="105" column="121" />
-        <mark key="^" line="105" column="122" />
+      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/build.gradle" timestamp="1587777613167">
+        <mark key="'" line="111" column="147" />
+        <mark key="[" line="42" column="64" />
+        <mark key="]" line="42" column="69" />
+        <mark key="." line="42" column="68" />
+        <mark key="^" line="42" column="69" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/.env" timestamp="1587607139567">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/lyceeo/web-frontend/.gitignore" timestamp="1587605114055">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/Dockerfile" timestamp="1587611347017">
-        <mark key="[" line="24" column="7" />
-        <mark key="]" line="24" column="11" />
-        <mark key="." line="24" column="10" />
-        <mark key="^" line="24" column="11" />
+      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/src/main/resources/logback.groovy" timestamp="1587778248032">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="7" column="36" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/docker-compose.yml" timestamp="1587616830695">
         <mark key="[" line="13" column="10" />
@@ -120,11 +115,10 @@
         <mark key="." line="13" column="17" />
         <mark key="^" line="13" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/src/main/kotlin/lyceeo/config/Database.kt" timestamp="1587610986338">
-        <mark key="[" line="10" column="83" />
-        <mark key="]" line="10" column="87" />
-        <mark key="." line="10" column="86" />
-        <mark key="^" line="10" column="87" />
+      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/src/main/resources/logback.xml" timestamp="1587776353217">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/lyceeo/Setup-files/.gitignore" timestamp="1587606756510">
         <mark key="[" line="0" column="5" />
@@ -132,29 +126,11 @@
         <mark key="." line="1" column="4" />
         <mark key="^" line="1" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/cloudbuild.yml" timestamp="1587690120114">
-        <mark key="[" line="14" column="19" />
-        <mark key="]" line="14" column="26" />
-        <mark key="." line="14" column="25" />
-        <mark key="^" line="14" column="26" />
-      </file>
       <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/cloudbuild.yaml" timestamp="1587703754626">
         <mark key="[" line="17" column="11" />
         <mark key="]" line="17" column="33" />
         <mark key="." line="17" column="32" />
         <mark key="^" line="17" column="33" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/agrajag/README.md" timestamp="1587601616988">
-        <mark key="[" line="33" column="263" />
-        <mark key="]" line="33" column="263" />
-        <mark key="." line="33" column="262" />
-        <mark key="^" line="33" column="263" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/src/main/kotlin/lyceeo/Application.kt" timestamp="1587611202772">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="39" column="87" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/.gitignore" timestamp="1587616893166">
         <mark key="[" line="0" column="15" />
@@ -163,9 +139,6 @@
         <mark key="." line="0" column="15" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/lyceeo/api-gateway/cloudbuild.yaml" timestamp="1587690111884" />
-      <file name="$USER_HOME$/dev/my-projects/lyceeo/api-gateway/.gitignore" timestamp="1587605180544">
-        <mark key="[" line="24" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/.env.example" timestamp="1587614284411">
         <mark key="[" line="3" column="14" />
         <mark key="]" line="3" column="18" />
@@ -178,11 +151,38 @@
         <mark key="." line="34" column="245" />
         <mark key="^" line="34" column="246" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/agrajag/.env" timestamp="1587601233988">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="6" column="29" />
-        <mark key="." line="5" column="27" />
-        <mark key="^" line="5" column="28" />
+      <file name="$USER_HOME$/dev/my-projects/lyceeo/docker-compose.yml" timestamp="1587612795361">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="27" column="22" />
+        <mark key="." line="0" column="12" />
+        <mark key="^" line="0" column="13" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/Dockerfile" timestamp="1587611347017">
+        <mark key="[" line="24" column="7" />
+        <mark key="]" line="24" column="11" />
+        <mark key="." line="24" column="10" />
+        <mark key="^" line="24" column="11" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/src/main/kotlin/lyceeo/config/Database.kt" timestamp="1587776745200">
+        <mark key="[" line="13" column="73" />
+        <mark key="]" line="13" column="74" />
+        <mark key="." line="13" column="73" />
+        <mark key="^" line="13" column="74" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/cloudbuild.yml" timestamp="1587690120114">
+        <mark key="[" line="14" column="19" />
+        <mark key="]" line="14" column="26" />
+        <mark key="." line="14" column="25" />
+        <mark key="^" line="14" column="26" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/src/main/kotlin/lyceeo/Application.kt" timestamp="1587611202772">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="39" column="87" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/lyceeo/api-gateway/.gitignore" timestamp="1587605180544">
+        <mark key="[" line="24" column="0" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/lyceeo/Setup-files/docker-compose.yml" timestamp="1587612802476">
         <mark key="[" line="0" column="0" />
@@ -190,17 +190,14 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/lyceeo/docker-compose.yml" timestamp="1587612795361">
+      <file name="/fragment.java" timestamp="1587776660376">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="27" column="22" />
-        <mark key="." line="0" column="12" />
-        <mark key="^" line="0" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/agrajag/.env.example" timestamp="1587601670704">
-        <mark key="[" line="3" column="18" />
-        <mark key="]" line="3" column="19" />
-        <mark key="^" line="3" column="19" />
-        <mark key="." line="3" column="18" />
+      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/src/main/resources/logbacks.groovy" timestamp="1587777185135">
+        <mark key="[" line="4" column="1" />
+        <mark key="]" line="5" column="32" />
+        <mark key="^" line="5" column="32" />
+        <mark key="." line="5" column="31" />
       </file>
     </filemarks>
     <jumps>
@@ -342,13 +339,13 @@
         </keys>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">ICAgIC8vIFdlJ3JlIGRvaW5nIHRoaXMgaW4gb3JkZXIgdG8gdHJhbnNsYXRlIGVudiB2YXJzIGludG8gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBwZW5kTGluZVNlcGFyYXRvcj10cnVlCg==</text>
       </register>
       <register name="l" type="4">
         <text>p</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cGljayB1cCBlbnYgIA==</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>audioIn</text>
@@ -366,28 +363,28 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiLS0tLS0tLS0tLS0tLS0yIikK</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICJjaC5xb3MubG9nYmFjazpsb2diYWNrLWNsYXNzaWM6JGxvZ2JhY2tWZXJzaW9uIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIFdlJ3JlIGRvaW5nIHRoaXMgaW4gb3JkZXIgdG8gdHJhbnNsYXRlIGVudiB2YXJzIGludG8gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBwZW5kTGluZVNlcGFyYXRvcj10cnVlCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgYXBwZW5kTGluZVNlcGFyYXRvcj10cnVlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KCItLS0tLS0tLS0tLS0tLS0tLS0tLSIpCg==</text>
+        <text encoding="base64">ICAgIGxheW91dChKc29uTGF5b3V0KSB7CgoKICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXR0ZXJuID0gIiVtc2clbiIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiBjb25maWcgPSBleHQubG9hZENvbmZpZygpCg==</text>
+        <text encoding="base64">PGNvbmZpZ3VyYXRpb24+CiAgPGFwcGVuZGVyIG5hbWU9IlNURE9VVCIgY2xhc3M9ImNoLnFvcy5sb2diYWNrLmNvcmUuQ29uc29sZUFwcGVuZGVyIj4KICAgIDxlbmNvZGVyPgogICAgICA8cGF0dGVybj4lZHtISDptbTpzcy5TU1N9IFsldGhyZWFkXSAlLTVsZXZlbCAlbG9nZ2VyezM2fSAtICVtc2clbjwvcGF0dGVybj4KICAgIDwvZW5jb2Rlcj4KICA8L2FwcGVuZGVyPgoKICA8cm9vdCBsZXZlbD0iZGVidWciPgogICAgPGFwcGVuZGVyLXJlZiByZWY9IlNURE9VVCIgLz4KICA8L3Jvb3Q+CjwvY29uZmlndXJhdGlvbj4K</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -398,10 +395,10 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gY29uZmlnCg==</text>
+        <text encoding="base64">ICAgIC8vIFdlJ3JlIGRvaW5nIHRoaXMgaW4gb3JkZXIgdG8gdHJhbnNsYXRlIGVudiB2YXJzIGludG8gCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGV4dC5sb2FkQ29uZmlnID0geyAtPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -422,7 +419,7 @@
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGV4dC5sb2FkQ29uZmlnID0gCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCItLS0tLS0tLS0tLS0tLS0tLS0tLSIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
