@@ -98,11 +98,6 @@
         <mark key="." line="42" column="68" />
         <mark key="^" line="42" column="69" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/.env" timestamp="1587607139567">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/src/main/resources/logback.groovy" timestamp="1587778472448">
         <mark key="[" line="12" column="5" />
         <mark key="]" line="12" column="9" />
@@ -138,7 +133,12 @@
         <mark key="." line="14" column="25" />
         <mark key="^" line="14" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/src/main/kotlin/lyceeo/domain/UserRepository.kt" timestamp="1587849588226" />
+      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/src/main/kotlin/lyceeo/domain/UserRepository.kt" timestamp="1587850862662">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="15" column="15" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/cloudbuild.yaml" timestamp="1587703754626">
         <mark key="[" line="17" column="11" />
         <mark key="]" line="17" column="33" />
@@ -149,6 +149,12 @@
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="61" />
         <mark key="." line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/src/main/kotlin/lyceeo/service/UserService.kt" timestamp="1587850964763">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="15" column="38" />
+        <mark key="^" line="15" column="38" />
+        <mark key="." line="15" column="37" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/.gitignore" timestamp="1587616893166">
         <mark key="[" line="0" column="15" />
@@ -162,17 +168,17 @@
         <mark key="." line="3" column="17" />
         <mark key="^" line="3" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/README.md" timestamp="1587611279037">
-        <mark key="[" line="34" column="242" />
-        <mark key="]" line="34" column="246" />
-        <mark key="." line="34" column="245" />
-        <mark key="^" line="34" column="246" />
-      </file>
       <file name="$USER_HOME$/dev/my-projects/lyceeo/Setup-files/docker-compose.yml" timestamp="1587847249845">
         <mark key="[" line="26" column="12" />
         <mark key="]" line="26" column="15" />
         <mark key="^" line="26" column="15" />
         <mark key="." line="26" column="14" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/src/main/kotlin/lyceeo/domain/User.kt" timestamp="1587850606798">
+        <mark key="[" line="14" column="32" />
+        <mark key="]" line="15" column="29" />
+        <mark key="." line="15" column="28" />
+        <mark key="^" line="15" column="29" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/lyceeo/docker-compose.yml" timestamp="1587612795361">
         <mark key="[" line="0" column="0" />
@@ -328,14 +334,14 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nID0gTG9nZ2VyRmFjdG9yeS5nZXRMb2dnZXIoImt0b3IuYXBwbGljYXRpb24iKQo=</text>
+      <register name="*" type="4">
+        <text>Null</text>
       </register>
       <register name="l" type="4">
         <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>Null</text>
       </register>
       <register name="/" type="4">
         <text>audioIn</text>
@@ -356,25 +362,25 @@
         <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICJjaC5xb3MubG9nYmFjazpsb2diYWNrLWNsYXNzaWM6JGxvZ2JhY2tWZXJzaW9uIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nID0gTG9nZ2VyRmFjdG9yeS5nZXRMb2dnZXIoImt0b3IuYXBwbGljYXRpb24iKQo=</text>
+        <text encoding="base64">ICAgICAgICBleGlzdGluZ1VzZXIuZmlyc3ROYW1lID0gdXNlci5maXJzdE5hbWUKICAgICAgICByZXR1cm4gdXNlclJlcG9zaXRvcnkudXBkYXRlVXNlcih1c2VyKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nID0gTG9nZ2VyRmFjdG9yeS5nZXRMb2dnZXIoImt0b3IuYXBwbGljYXRpb24iKQo=</text>
+        <text encoding="base64">ICAgICAgICAvL3JldHVybiBVc2VyKDMsICJCb2IiLCBsYXN0TmFtZSA9ICJTbWl0aCIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwZW5kTGluZVNlcGFyYXRvcj10cnVlCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zbGY0ai5Mb2dnZXJGYWN0b3J5Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgYXBwZW5kTGluZVNlcGFyYXRvcj10cnVlCg==</text>
+        <text encoding="base64">ICAgICAgICB1c2VyLmZpcnN0TmFtZSA9IGZpcnN0TmFtZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxheW91dChKc29uTGF5b3V0KSB7CgoKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcihVc2VyUXVlcnlTZXJ2aWNlOjpjbGFzcy5qYXZhKS5kZWJ1ZygiYXNkZmFzZGYiKQo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -385,10 +391,10 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwYXR0ZXJuID0gIiVtc2clbiIK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nID0gTG9nZ2VyRmFjdG9yeS5nZXRMb2dnZXIoImt0b3IuYXBwbGljYXRpb24iKQo=</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -409,7 +415,7 @@
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PGNvbmZpZ3VyYXRpb24+CiAgPGFwcGVuZGVyIG5hbWU9IlNURE9VVCIgY2xhc3M9ImNoLnFvcy5sb2diYWNrLmNvcmUuQ29uc29sZUFwcGVuZGVyIj4KICAgIDxlbmNvZGVyPgogICAgICA8cGF0dGVybj4lZHtISDptbTpzcy5TU1N9IFsldGhyZWFkXSAlLTVsZXZlbCAlbG9nZ2VyezM2fSAtICVtc2clbjwvcGF0dGVybj4KICAgIDwvZW5jb2Rlcj4KICA8L2FwcGVuZGVyPgoKICA8cm9vdCBsZXZlbD0iZGVidWciPgogICAgPGFwcGVuZGVyLXJlZiByZWY9IlNURE9VVCIgLz4KICA8L3Jvb3Q+CjwvY29uZmlndXJhdGlvbj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nID0gTG9nZ2VyRmFjdG9yeS5nZXRMb2dnZXIoImt0b3IuYXBwbGljYXRpb24iKQo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
