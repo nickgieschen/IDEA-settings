@@ -109,11 +109,23 @@
         <mark key="." line="12" column="8" />
         <mark key="^" line="12" column="9" />
       </file>
+      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/Dockerfile" timestamp="1587611347017">
+        <mark key="[" line="24" column="7" />
+        <mark key="]" line="24" column="11" />
+        <mark key="." line="24" column="10" />
+        <mark key="^" line="24" column="11" />
+      </file>
       <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/docker-compose.yml" timestamp="1587616830695">
         <mark key="[" line="13" column="10" />
         <mark key="]" line="13" column="18" />
         <mark key="." line="13" column="17" />
         <mark key="^" line="13" column="18" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/src/main/kotlin/lyceeo/config/Database.kt" timestamp="1587776745200">
+        <mark key="[" line="13" column="73" />
+        <mark key="]" line="13" column="74" />
+        <mark key="." line="13" column="73" />
+        <mark key="^" line="13" column="74" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/src/main/resources/logback.xml" timestamp="1587776353217">
         <mark key="[" line="0" column="0" />
@@ -126,11 +138,22 @@
         <mark key="." line="1" column="4" />
         <mark key="^" line="1" column="5" />
       </file>
+      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/cloudbuild.yml" timestamp="1587690120114">
+        <mark key="[" line="14" column="19" />
+        <mark key="]" line="14" column="26" />
+        <mark key="." line="14" column="25" />
+        <mark key="^" line="14" column="26" />
+      </file>
       <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/cloudbuild.yaml" timestamp="1587703754626">
         <mark key="[" line="17" column="11" />
         <mark key="]" line="17" column="33" />
         <mark key="." line="17" column="32" />
         <mark key="^" line="17" column="33" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/src/main/kotlin/lyceeo/Application.kt" timestamp="1587780144880">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="61" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/.gitignore" timestamp="1587616893166">
         <mark key="[" line="0" column="15" />
@@ -138,7 +161,6 @@
         <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/lyceeo/api-gateway/cloudbuild.yaml" timestamp="1587690111884" />
       <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/.env.example" timestamp="1587614284411">
         <mark key="[" line="3" column="14" />
         <mark key="]" line="3" column="18" />
@@ -151,43 +173,17 @@
         <mark key="." line="34" column="245" />
         <mark key="^" line="34" column="246" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/lyceeo/docker-compose.yml" timestamp="1587612795361">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="27" column="22" />
-        <mark key="." line="0" column="12" />
-        <mark key="^" line="0" column="13" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/Dockerfile" timestamp="1587611347017">
-        <mark key="[" line="24" column="7" />
-        <mark key="]" line="24" column="11" />
-        <mark key="." line="24" column="10" />
-        <mark key="^" line="24" column="11" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/src/main/kotlin/lyceeo/config/Database.kt" timestamp="1587776745200">
-        <mark key="[" line="13" column="73" />
-        <mark key="]" line="13" column="74" />
-        <mark key="." line="13" column="73" />
-        <mark key="^" line="13" column="74" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/cloudbuild.yml" timestamp="1587690120114">
-        <mark key="[" line="14" column="19" />
-        <mark key="]" line="14" column="26" />
-        <mark key="." line="14" column="25" />
-        <mark key="^" line="14" column="26" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/src/main/kotlin/lyceeo/Application.kt" timestamp="1587780144880">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="61" />
-        <mark key="." line="34" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/lyceeo/api-gateway/.gitignore" timestamp="1587605180544">
-        <mark key="[" line="24" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/my-projects/lyceeo/Setup-files/docker-compose.yml" timestamp="1587847249845">
         <mark key="[" line="26" column="12" />
         <mark key="]" line="26" column="15" />
         <mark key="^" line="26" column="15" />
         <mark key="." line="26" column="14" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/lyceeo/docker-compose.yml" timestamp="1587612795361">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="27" column="22" />
+        <mark key="." line="0" column="12" />
+        <mark key="^" line="0" column="13" />
       </file>
       <file name="/fragment.java" timestamp="1587776660376">
         <mark key="[" line="0" column="0" />
