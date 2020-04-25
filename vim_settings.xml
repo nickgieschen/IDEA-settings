@@ -183,11 +183,11 @@
       <file name="$USER_HOME$/dev/my-projects/lyceeo/api-gateway/.gitignore" timestamp="1587605180544">
         <mark key="[" line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/lyceeo/Setup-files/docker-compose.yml" timestamp="1587612802476">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="27" column="22" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/dev/my-projects/lyceeo/Setup-files/docker-compose.yml" timestamp="1587847249845">
+        <mark key="[" line="26" column="12" />
+        <mark key="]" line="26" column="15" />
+        <mark key="^" line="26" column="15" />
+        <mark key="." line="26" column="14" />
       </file>
       <file name="/fragment.java" timestamp="1587776660376">
         <mark key="[" line="0" column="0" />
