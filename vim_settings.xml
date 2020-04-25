@@ -132,18 +132,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/lyceeo/Setup-files/.gitignore" timestamp="1587606756510">
-        <mark key="[" line="0" column="5" />
-        <mark key="]" line="1" column="5" />
-        <mark key="." line="1" column="4" />
-        <mark key="^" line="1" column="5" />
-      </file>
       <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/cloudbuild.yml" timestamp="1587690120114">
         <mark key="[" line="14" column="19" />
         <mark key="]" line="14" column="26" />
         <mark key="." line="14" column="25" />
         <mark key="^" line="14" column="26" />
       </file>
+      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/src/main/kotlin/lyceeo/domain/UserRepository.kt" timestamp="1587849588226" />
       <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/cloudbuild.yaml" timestamp="1587703754626">
         <mark key="[" line="17" column="11" />
         <mark key="]" line="17" column="33" />
