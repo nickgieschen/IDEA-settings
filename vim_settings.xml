@@ -95,36 +95,17 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="24" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/src/integrationTest/kotlin/lyceeo/domain/UserRepositoryTest.kt" timestamp="1587859575132">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="22" column="19" />
+      <file name="$USER_HOME$/dev/reference-projects/jpa2ddl/jpa2ddl-core/pom.xml" timestamp="1587881128982">
+        <mark key="[" line="7" column="22" />
+        <mark key="]" line="7" column="23" />
+        <mark key="." line="7" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/build.gradle" timestamp="1587873474954">
+      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/build.gradle" timestamp="1587881015739">
         <mark key="'" line="65" column="25" />
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
+        <mark key="[" line="9" column="69" />
+        <mark key="]" line="9" column="70" />
+        <mark key="." line="9" column="70" />
         <mark key="^" line="133" column="22" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.opentable.components/otj-pg-embedded/0.13.3/188d63505105f5d9c742391b2c61ebabf2a36ea8/otj-pg-embedded-0.13.3-sources.jar!/com/opentable/db/postgres/embedded/FlywayPreparer.java" timestamp="1587862160932">
-        <mark key="[" line="45" column="23" />
-        <mark key="]" line="45" column="23" />
-        <mark key="^" line="45" column="23" />
-        <mark key="." line="45" column="22" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/src/main/resources/logback.groovy" timestamp="1587778472448">
-        <mark key="[" line="12" column="5" />
-        <mark key="]" line="12" column="9" />
-        <mark key="." line="12" column="8" />
-        <mark key="^" line="12" column="9" />
-      </file>
-      <file name="$USER_HOME$/dev/reference-projects/jpa2ddl/jpa2ddl-core/src/test/java/com/devskiller/jpa2ddl/FileResolverTest.java" timestamp="1587880076879">
-        <mark key="[" line="62" column="76" />
-        <mark key="]" line="62" column="77" />
-        <mark key="." line="62" column="77" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.70/144ea5c68912bb8bd63b12c8cdf2be319bc0e323/kotlin-stdlib-1.3.70-sources.jar!/kotlin/TypeAliases.kt" timestamp="1587877941736">
         <mark key="'" line="24" column="83" />
@@ -136,16 +117,36 @@
         <mark key="." line="10" column="14" />
         <mark key="^" line="10" column="15" />
       </file>
+      <file name="$USER_HOME$/dev/reference-projects/jpa2ddl/jpa2ddl-maven-plugin/pom.xml" timestamp="1587881153731">
+        <mark key="[" line="7" column="22" />
+        <mark key="]" line="7" column="23" />
+        <mark key="." line="7" column="23" />
+      </file>
+      <file name="$USER_HOME$/dev/reference-projects/jpa2ddl/jpa2ddl-gradle-plugin/pom.xml" timestamp="1587881144993">
+        <mark key="[" line="7" column="22" />
+        <mark key="]" line="7" column="23" />
+        <mark key="." line="7" column="23" />
+      </file>
+      <file name="$USER_HOME$/dev/reference-projects/jpa2ddl/jpa2ddl-core/src/test/java/com/devskiller/jpa2ddl/DatabaseSchemaUpdateTest.java" timestamp="1587880160630">
+        <mark key="[" line="131" column="80" />
+        <mark key="]" line="131" column="81" />
+        <mark key="." line="131" column="81" />
+      </file>
+      <file name="$USER_HOME$/dev/reference-projects/jpa2ddl/jpa2ddl-gradle-plugin/build/docs/javadoc/com/devskiller/jpa2ddl/package-summary.html" timestamp="1587881434857">
+        <mark key="[" line="5" column="58" />
+        <mark key="]" line="5" column="59" />
+        <mark key="." line="5" column="59" />
+      </file>
+      <file name="$USER_HOME$/dev/reference-projects/jpa2ddl/jpa2ddl-core/src/test/java/com/devskiller/jpa2ddl/FileResolverTest.java" timestamp="1587880076879">
+        <mark key="[" line="62" column="76" />
+        <mark key="]" line="62" column="77" />
+        <mark key="." line="62" column="77" />
+      </file>
       <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/src/main/kotlin/lyceeo/config/GraphQl.kt" timestamp="1587874122304">
         <mark key="[" line="68" column="22" />
         <mark key="]" line="68" column="40" />
         <mark key="." line="68" column="39" />
         <mark key="^" line="68" column="40" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/src/test/resources/flyway.conf" timestamp="1587861649396">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/src/main/kotlin/lyceeo/Application.kt" timestamp="1587874477124">
         <mark key="'" line="81" column="12" />
@@ -160,6 +161,21 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/reference-projects/jpa2ddl/jpa2ddl-gradle-plugin/build/docs/javadoc/com/devskiller/jpa2ddl/package-tree.html" timestamp="1587881414532">
+        <mark key="[" line="13" column="102" />
+        <mark key="]" line="13" column="103" />
+        <mark key="." line="13" column="103" />
+      </file>
+      <file name="$USER_HOME$/dev/reference-projects/jpa2ddl/jpa2ddl-gradle-plugin/build/docs/javadoc/help-doc.html" timestamp="1587881423953">
+        <mark key="[" line="5" column="44" />
+        <mark key="]" line="5" column="45" />
+        <mark key="." line="5" column="45" />
+      </file>
+      <file name="$USER_HOME$/dev/reference-projects/jpa2ddl/jpa2ddl-samples/pom.xml" timestamp="1587881161693">
+        <mark key="[" line="7" column="22" />
+        <mark key="]" line="7" column="23" />
+        <mark key="." line="7" column="23" />
+      </file>
       <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/src/main/kotlin/lyceeo/config/Routing.kt" timestamp="1587872243263">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="15" column="66" />
@@ -170,34 +186,10 @@
         <mark key="]" line="7" column="19" />
         <mark key="." line="7" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/reference-projects/jpa2ddl/jpa2ddl-core/src/test/java/com/devskiller/jpa2ddl/DatabaseSchemaUpdateTest.java" timestamp="1587880160630">
-        <mark key="[" line="131" column="80" />
-        <mark key="]" line="131" column="81" />
-        <mark key="." line="131" column="81" />
-      </file>
       <file name="$USER_HOME$/dev/reference-projects/jpa2ddl/jpa2ddl-core/src/main/java/com/devskiller/jpa2ddl/FileResolver.java" timestamp="1587879253178">
         <mark key="[" line="29" column="69" />
         <mark key="]" line="29" column="70" />
         <mark key="." line="29" column="70" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/src/main/kotlin/lyceeo/domain/User.kt" timestamp="1587862420239">
-        <mark key="[" line="14" column="23" />
-        <mark key="]" line="14" column="31" />
-        <mark key="." line="14" column="30" />
-        <mark key="^" line="14" column="31" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/src/test/kotlin/lyceeo/domain/UserRepositoryTest.kt" timestamp="1587864729659">
-        <mark key="'" line="21" column="21" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="33" column="9" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/lyceeo/Setup-files/docker-compose.yml" timestamp="1587847249845">
-        <mark key="[" line="26" column="12" />
-        <mark key="]" line="26" column="15" />
-        <mark key="^" line="26" column="15" />
-        <mark key="." line="26" column="14" />
       </file>
       <file name="/fragment.java" timestamp="1587875186635">
         <mark key="[" line="0" column="0" />
