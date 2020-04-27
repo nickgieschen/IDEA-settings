@@ -177,7 +177,7 @@
         <mark key="]" line="7" column="19" />
         <mark key="." line="7" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/src/main/resources/db/migration/V1__jpa2ddl.sql" timestamp="1587959405699" />
+      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/src/main/resources/db/migration/V1__jpa2ddl.sql" timestamp="1588029787830" />
       <file name="$USER_HOME$/dev/reference-projects/jpa2ddl/jpa2ddl-core/src/main/java/com/devskiller/jpa2ddl/FileResolver.java" timestamp="1587879253178">
         <mark key="[" line="29" column="69" />
         <mark key="]" line="29" column="70" />
