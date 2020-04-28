@@ -103,31 +103,11 @@
         <mark key="." line="83" column="0" />
         <mark key="^" line="132" column="22" />
       </file>
-      <file name="$USER_HOME$/dev/reference-projects/jpa2ddl/jpa2ddl-gradle-plugin/build/docs/javadoc/com/devskiller/jpa2ddl/package-summary.html" timestamp="1587881434857">
-        <mark key="[" line="5" column="58" />
-        <mark key="]" line="5" column="59" />
-        <mark key="." line="5" column="59" />
-      </file>
-      <file name="$USER_HOME$/dev/reference-projects/jpa2ddl/jpa2ddl-core/src/test/java/com/devskiller/jpa2ddl/FileResolverTest.java" timestamp="1587880076879">
-        <mark key="[" line="62" column="76" />
-        <mark key="]" line="62" column="77" />
-        <mark key="." line="62" column="77" />
+      <file name="/console" timestamp="1588032849417">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.70/144ea5c68912bb8bd63b12c8cdf2be319bc0e323/kotlin-stdlib-1.3.70-sources.jar!/kotlin/TypeAliases.kt" timestamp="1587877941736">
         <mark key="'" line="24" column="83" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/src/main/kotlin/lyceeo/domain/UserRepository.kt" timestamp="1587875904624">
-        <mark key="'" line="17" column="24" />
-        <mark key="[" line="10" column="8" />
-        <mark key="]" line="10" column="15" />
-        <mark key="." line="10" column="14" />
-        <mark key="^" line="10" column="15" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/src/main/resources/db/migration/V2__add_auto_increment_to_users.sql" timestamp="1588031859238">
-        <mark key="[" line="0" column="18" />
-        <mark key="]" line="0" column="19" />
-        <mark key="^" line="0" column="19" />
-        <mark key="." line="0" column="18" />
       </file>
       <file name="$USER_HOME$/dev/reference-projects/jpa2ddl/jpa2ddl-maven-plugin/pom.xml" timestamp="1587881153731">
         <mark key="[" line="7" column="22" />
@@ -138,6 +118,33 @@
         <mark key="[" line="7" column="22" />
         <mark key="]" line="7" column="23" />
         <mark key="." line="7" column="23" />
+      </file>
+      <file name="/a.sql" timestamp="1588032960927">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/reference-projects/jpa2ddl/jpa2ddl-core/src/test/java/com/devskiller/jpa2ddl/DatabaseSchemaUpdateTest.java" timestamp="1587880160630">
+        <mark key="[" line="131" column="80" />
+        <mark key="]" line="131" column="81" />
+        <mark key="." line="131" column="81" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1588032916695">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/reference-projects/jpa2ddl/jpa2ddl-gradle-plugin/build/docs/javadoc/com/devskiller/jpa2ddl/package-summary.html" timestamp="1587881434857">
+        <mark key="[" line="5" column="58" />
+        <mark key="]" line="5" column="59" />
+        <mark key="." line="5" column="59" />
+      </file>
+      <file name="$USER_HOME$/dev/reference-projects/jpa2ddl/jpa2ddl-core/src/test/java/com/devskiller/jpa2ddl/FileResolverTest.java" timestamp="1587880076879">
+        <mark key="[" line="62" column="76" />
+        <mark key="]" line="62" column="77" />
+        <mark key="." line="62" column="77" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/src/main/resources/db/migration/V2__add_auto_increment_to_users.sql" timestamp="1588031859238">
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="0" column="19" />
+        <mark key="^" line="0" column="19" />
+        <mark key="." line="0" column="18" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/src/main/kotlin/lyceeo/service/UserService.kt" timestamp="1587878303786">
         <mark key="'" line="20" column="42" />
@@ -155,32 +162,26 @@
         <mark key="]" line="5" column="45" />
         <mark key="." line="5" column="45" />
       </file>
-      <file name="/a.sql" timestamp="1588031880801">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/reference-projects/jpa2ddl/jpa2ddl-samples/pom.xml" timestamp="1587881161693">
         <mark key="[" line="7" column="22" />
         <mark key="]" line="7" column="23" />
         <mark key="." line="7" column="23" />
-      </file>
-      <file name="$USER_HOME$/dev/reference-projects/jpa2ddl/jpa2ddl-core/src/test/java/com/devskiller/jpa2ddl/DatabaseSchemaUpdateTest.java" timestamp="1587880160630">
-        <mark key="[" line="131" column="80" />
-        <mark key="]" line="131" column="81" />
-        <mark key="." line="131" column="81" />
       </file>
       <file name="$USER_HOME$/dev/reference-projects/jpa2ddl/pom.xml" timestamp="1587879994923">
         <mark key="[" line="7" column="18" />
         <mark key="]" line="7" column="19" />
         <mark key="." line="7" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/src/main/resources/db/migration/V1__jpa2ddl.sql" timestamp="1588029807823" />
+      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/src/main/resources/db/migration/V1__jpa2ddl.sql" timestamp="1588032772432">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="13" />
+        <mark key="^" line="8" column="22" />
+        <mark key="." line="0" column="13" />
+      </file>
       <file name="$USER_HOME$/dev/reference-projects/jpa2ddl/jpa2ddl-core/src/main/java/com/devskiller/jpa2ddl/FileResolver.java" timestamp="1587879253178">
         <mark key="[" line="29" column="69" />
         <mark key="]" line="29" column="70" />
         <mark key="." line="29" column="70" />
-      </file>
-      <file name="/fragment.java" timestamp="1587875186635">
-        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -322,13 +323,13 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>key_column</text>
+        <text>public.</text>
       </register>
       <register name="l" type="4">
         <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>key_column</text>
+        <text>public.</text>
       </register>
       <register name="/" type="4">
         <text>flyway</text>
