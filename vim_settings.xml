@@ -91,11 +91,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/reference-projects/jpa2ddl/jpa2ddl-core/pom.xml" timestamp="1587881128982">
-        <mark key="[" line="7" column="22" />
-        <mark key="]" line="7" column="23" />
-        <mark key="." line="7" column="23" />
-      </file>
       <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/build.gradle" timestamp="1588044468210">
         <mark key="'" line="83" column="0" />
         <mark key="[" line="80" column="43" />
@@ -114,23 +109,29 @@
       <file name="/console" timestamp="1588032849417">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/Dockerfile" timestamp="1588099233639">
+        <mark key="[" line="27" column="6" />
+        <mark key="]" line="27" column="6" />
+        <mark key="." line="27" column="6" />
+        <mark key="^" line="27" column="19" />
+      </file>
       <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/src/main/kotlin/lyceeo/config/Database.kt" timestamp="1588044398267">
         <mark key="[" line="12" column="83" />
         <mark key="]" line="12" column="87" />
         <mark key="." line="12" column="86" />
         <mark key="^" line="12" column="87" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/docker-compose.yml" timestamp="1588093941940">
-        <mark key="[" line="7" column="53" />
-        <mark key="]" line="8" column="22" />
+      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/docker-compose.yml" timestamp="1588098623317">
+        <mark key="[" line="7" column="41" />
+        <mark key="]" line="7" column="42" />
         <mark key="^" line="8" column="22" />
-        <mark key="." line="8" column="21" />
+        <mark key="." line="7" column="42" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/cloudbuild.yaml" timestamp="1588095577377">
-        <mark key="[" line="17" column="30" />
-        <mark key="]" line="17" column="30" />
-        <mark key="^" line="20" column="15" />
-        <mark key="." line="17" column="30" />
+      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/cloudbuild.yaml" timestamp="1588097797564">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="19" column="57" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/src/main/resources/db/migration/V2__add_auto_increment_to_users.sql" timestamp="1588031859238">
         <mark key="[" line="0" column="18" />
@@ -142,11 +143,6 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/reference-projects/jpa2ddl/jpa2ddl-maven-plugin/pom.xml" timestamp="1587881153731">
-        <mark key="[" line="7" column="22" />
-        <mark key="]" line="7" column="23" />
-        <mark key="." line="7" column="23" />
-      </file>
-      <file name="$USER_HOME$/dev/reference-projects/jpa2ddl/jpa2ddl-gradle-plugin/pom.xml" timestamp="1587881144993">
         <mark key="[" line="7" column="22" />
         <mark key="]" line="7" column="23" />
         <mark key="." line="7" column="23" />
@@ -194,9 +190,15 @@
         <mark key="." line="0" column="12" />
         <mark key="^" line="0" column="13" />
       </file>
+      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/migrations.Dockerfile" timestamp="1588099292222">
+        <mark key="'" line="9" column="22" />
+        <mark key="[" line="10" column="57" />
+        <mark key="]" line="10" column="58" />
+        <mark key="." line="10" column="57" />
+        <mark key="^" line="10" column="58" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="25" filename="$USER_HOME$/dev/my-projects/agrajag/src/test/kotlin/agrajag/service/UserServiceTest.kt" />
       <jump line="56" column="68" filename="$USER_HOME$/dev/my-projects/agrajag/build.gradle" />
       <jump line="39" column="48" filename="$USER_HOME$/dev/my-projects/agrajag/src/test/kotlin/agrajag/service/UserServiceTest.kt" />
       <jump line="38" column="38" filename="$USER_HOME$/dev/my-projects/agrajag/src/test/kotlin/agrajag/BaseTest.kt" />
@@ -296,6 +298,7 @@
       <jump line="19" column="42" filename="$USER_HOME$/dev/my-projects/lyceeo/backend/src/main/kotlin/lyceeo/service/UserService.kt" />
       <jump line="24" column="83" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.70/144ea5c68912bb8bd63b12c8cdf2be319bc0e323/kotlin-stdlib-1.3.70-sources.jar!/kotlin/TypeAliases.kt" />
       <jump line="83" column="0" filename="$USER_HOME$/dev/my-projects/lyceeo/backend/build.gradle" />
+      <jump line="8" column="22" filename="$USER_HOME$/dev/my-projects/lyceeo/backend/migrations.Dockerfile" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -334,13 +337,13 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>localhost</text>
+        <text>}</text>
       </register>
       <register name="l" type="4">
         <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>localhost</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>flyway</text>
@@ -358,28 +361,28 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBvcnRzOgogICAgICAtIDMwMDQ6MzAwNAo=</text>
+        <text encoding="base64">RU5WIFBPU1RHUkVTX1BBU1NXT1JEIGNoYW5nZS1tZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyAgICAgICItLWJ1aWxkLWFyZyIsICJQT1NUR1JFU19IT1NUPV8kUE9TVEdSRVNfSE9TVCIsCiMgICAgICAiLS1idWlsZC1hcmciLCAiUE9TVEdSRVNfUE9SVD1fJFBPU1RHUkVTX1BPUlQiLAojICAgICAgIi0tYnVpbGQtYXJnIiwgIlBPU1RHUkVTX1BBU1NXT1JEPV8kUE9TVEdSRVNfUEFTU1dPUkQiXQo=</text>
+        <text encoding="base64">Q01EIFsiZmx5d2F5L2ZseXdheSIgIi11cmw9amRiYzpwb3N0Z3Jlc3FsOi8vMC4wLjAuMDozMDAzL3VzZXItc2VydmljZSIgIi1zY2hlbWFzPXB1YmxpYyAtdXNlcj11c2VyLXNlcnZpY2UgLXBhc3N3b3JkPWJvYm5jaGFybGllIC1jb25uZWN0UmV0cmllcz02MCBtaWdyYXRlXQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBvcnRzOgogICAgICAtIDMwMDM6MzAwMwo=</text>
+        <text encoding="base64">Q01EIFsiamF2YSIsICItc2VydmVyIiwgIi1YWDorVW5sb2NrRXhwZXJpbWVudGFsVk1PcHRpb25zIiwgIi1YWDorVXNlQ0dyb3VwTWVtb3J5TGltaXRGb3JIZWFwIiwgIi1YWDpJbml0aWFsUkFNRnJhY3Rpb249MiIsICItWFg6TWluUkFNRnJhY3Rpb249MiIsICItWFg6TWF4UkFNRnJhY3Rpb249MiIsICItWFg6K1VzZUcxR0MiLCAiLVhYOk1heEdDUGF1c2VNaWxsaXM9MTAwIiwgIi1YWDorVXNlU3RyaW5nRGVkdXBsaWNhdGlvbiIsICItamFyIiwgImx5Y2Vlby5qYXIiXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">V09SS0RJUiAvYXBwCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNxbE1pZ3JhdGlvblByZWZpeCA9ICJ2Igo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VySW5wdXQuCg==</text>
+        <text encoding="base64">IyAgLSBuYW1lOiAiZ2NyLmlvL2Nsb3VkLWJ1aWxkZXJzL2RvY2tlciIKIyAgICBhcmdzOiBbInB1c2giLCAiZ2NyLmlvLyRQUk9KRUNUX0lEL2FwaS1nYXRld2F5OiRCVUlMRF9JRCJdCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -390,10 +393,10 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodXNlciBpcyBudSkK</text>
+        <text encoding="base64">ICAtIG5hbWU6ICJnY3IuaW8vY2xvdWQtYnVpbGRlcnMvZG9ja2VyIgogICAgYXJnczogWwogICAgICAicnVuIiwKICAgICAgIi0tcm0gZmx5d2F5L2ZseXdheSIsCiAgICAgICItdXJsPWpkYmM6cG9zdGdyZXNxbDovLzozMDAzL3Bvc3RncmVzIiwKICAgICAgIi1wYXNzd29yZD1ib2JuY2hhcmxpZSIsCiAgICAgICItdXNlcj11c2VyLXNlcnZpY2UiLAogICAgICAibWlncmF0ZSIKICAgIF0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMAo=</text>
+        <text encoding="base64">IyAgICAgICItLWJ1aWxkLWFyZyIsICJQT1NUR1JFU19IT1NUPV8kUE9TVEdSRVNfSE9TVCIsCiMgICAgICAiLS1idWlsZC1hcmciLCAiUE9TVEdSRVNfUE9SVD1fJFBPU1RHUkVTX1BPUlQiLAojICAgICAgIi0tYnVpbGQtYXJnIiwgIlBPU1RHUkVTX1BBU1NXT1JEPV8kUE9TVEdSRVNfUEFTU1dPUkQiXQo=</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -414,7 +417,7 @@
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZXhpc3RpbmdVc2VyID0gdXNlclJlcG9zaXRvcnkuZ2V0VXNlckJ5SWQodXNlci5pZCk/LmxldCB7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHBvcnRzOgogICAgICAtIDMwMDM6MzAwMwo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>

@@ -80,6 +80,7 @@
       <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="properties-template" type="PLAIN_TEXT" />
       <mapping ext="properties-template copy" type="PLAIN_TEXT" />
+      <mapping ext="migrations" type="PLAIN_TEXT" />
       <mapping ext="conf-template" type="PLAIN_TEXT" />
       <mapping ext="command" type="PLAIN_TEXT" />
       <mapping ext="rtf" type="PLAIN_TEXT" />
