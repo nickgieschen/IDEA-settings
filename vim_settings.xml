@@ -172,7 +172,7 @@
         <mark key="]" line="7" column="19" />
         <mark key="." line="7" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/src/main/resources/db/migration/V1__jpa2ddl.sql" timestamp="1588032772432">
+      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/src/main/resources/db/migration/V1__jpa2ddl.sql" timestamp="1588038012024">
         <mark key="[" line="0" column="13" />
         <mark key="]" line="0" column="13" />
         <mark key="^" line="8" column="22" />
