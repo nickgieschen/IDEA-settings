@@ -190,12 +190,12 @@
         <mark key="." line="0" column="12" />
         <mark key="^" line="0" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/migrations.Dockerfile" timestamp="1588108532934">
-        <mark key="'" line="9" column="22" />
-        <mark key="[" line="9" column="6" />
-        <mark key="]" line="9" column="8" />
-        <mark key="." line="9" column="7" />
-        <mark key="^" line="9" column="8" />
+      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/migrations.Dockerfile" timestamp="1588110091635">
+        <mark key="'" line="10" column="22" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="10" column="154" />
+        <mark key="." line="10" column="153" />
+        <mark key="^" line="10" column="154" />
       </file>
     </filemarks>
     <jumps>
@@ -337,13 +337,13 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>bobncharlie</text>
+        <text>}</text>
       </register>
       <register name="l" type="4">
         <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>bobncharlie</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>flyway</text>
