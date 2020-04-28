@@ -120,11 +120,11 @@
         <mark key="." line="12" column="86" />
         <mark key="^" line="12" column="87" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/docker-compose.yml" timestamp="1588049983480">
-        <mark key="[" line="5" column="36" />
-        <mark key="]" line="5" column="43" />
-        <mark key="." line="5" column="42" />
+      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/docker-compose.yml" timestamp="1588093712818">
+        <mark key="[" line="7" column="53" />
+        <mark key="]" line="9" column="0" />
         <mark key="^" line="5" column="43" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/src/main/resources/db/migration/V2__add_auto_increment_to_users.sql" timestamp="1588031859238">
         <mark key="[" line="0" column="18" />
@@ -332,8 +332,8 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="*" type="4">
-        <text>localhost</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgIHBvcnRzOgogICAgICAtIDMwMDM6MzAwMwo=</text>
       </register>
       <register name="l" type="4">
         <text>p</text>
@@ -357,28 +357,28 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VySW5wdXQubGFzdE5hbWU/LmxldCB7IHVzZXIubGFzdE5hbWUgPSBpdCB9Cg==</text>
+        <text encoding="base64">ICAgIHBvcnRzOgogICAgICAtIDMwMDQ6MzAwNAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIHBvcnRzOgogICAgICAtIDMwMDM6MzAwMwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNxbE1pZ3JhdGlvblByZWZpeCA9ICJ2Igo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNxbE1pZ3JhdGlvblByZWZpeCA9ICJ2Igo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VySW5wdXQuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodXNlciBpcyBudSkK</text>
+        <text encoding="base64">ICAgICAgICB1c2VySW5wdXQuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAodXNlciBpcyBudSkK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -389,10 +389,10 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZXhpc3RpbmdVc2VyID0gdXNlclJlcG9zaXRvcnkuZ2V0VXNlckJ5SWQodXNlci5pZCk/LmxldCB7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gMAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHVzZXJSZXBvc2l0b3J5LnVwZGF0ZVVzZXIoaXQpCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgZXhpc3RpbmdVc2VyID0gdXNlclJlcG9zaXRvcnkuZ2V0VXNlckJ5SWQodXNlci5pZCk/LmxldCB7CiAgICAgICAgfQo=</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -413,7 +413,7 @@
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdXNlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHVzZXJSZXBvc2l0b3J5LnVwZGF0ZVVzZXIoaXQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
