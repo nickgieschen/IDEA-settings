@@ -114,22 +114,17 @@
       <file name="/console" timestamp="1588032849417">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/reference-projects/jpa2ddl/jpa2ddl-core/src/test/java/com/devskiller/jpa2ddl/FileResolverTest.java" timestamp="1587880076879">
-        <mark key="[" line="62" column="76" />
-        <mark key="]" line="62" column="77" />
-        <mark key="." line="62" column="77" />
-      </file>
       <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/src/main/kotlin/lyceeo/config/Database.kt" timestamp="1588044398267">
         <mark key="[" line="12" column="83" />
         <mark key="]" line="12" column="87" />
         <mark key="." line="12" column="86" />
         <mark key="^" line="12" column="87" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/docker-compose.yml" timestamp="1588044680158">
-        <mark key="[" line="17" column="20" />
-        <mark key="]" line="17" column="27" />
-        <mark key="." line="17" column="26" />
-        <mark key="^" line="17" column="27" />
+      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/docker-compose.yml" timestamp="1588048256540">
+        <mark key="[" line="5" column="34" />
+        <mark key="]" line="5" column="38" />
+        <mark key="." line="5" column="37" />
+        <mark key="^" line="5" column="38" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/src/main/resources/db/migration/V2__add_auto_increment_to_users.sql" timestamp="1588031859238">
         <mark key="[" line="0" column="18" />
@@ -191,6 +186,12 @@
         <mark key="]" line="1" column="19" />
         <mark key="." line="1" column="18" />
         <mark key="^" line="1" column="19" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/lyceeo/Setup-files/docker-compose.yml" timestamp="1588047917887">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="13" />
+        <mark key="." line="0" column="12" />
+        <mark key="^" line="0" column="13" />
       </file>
     </filemarks>
     <jumps>
@@ -332,13 +333,13 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>lastName</text>
+        <text>3</text>
       </register>
       <register name="l" type="4">
         <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>lastName</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text>flyway</text>
