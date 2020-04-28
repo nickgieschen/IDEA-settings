@@ -96,12 +96,12 @@
         <mark key="]" line="7" column="23" />
         <mark key="." line="7" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/build.gradle" timestamp="1587881015739">
+      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/build.gradle" timestamp="1588031716496">
         <mark key="'" line="65" column="25" />
-        <mark key="[" line="9" column="69" />
-        <mark key="]" line="9" column="70" />
-        <mark key="." line="9" column="70" />
-        <mark key="^" line="133" column="22" />
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
+        <mark key="^" line="132" column="22" />
       </file>
       <file name="$USER_HOME$/dev/reference-projects/jpa2ddl/jpa2ddl-gradle-plugin/build/docs/javadoc/com/devskiller/jpa2ddl/package-summary.html" timestamp="1587881434857">
         <mark key="[" line="5" column="58" />
@@ -123,18 +123,11 @@
         <mark key="." line="10" column="14" />
         <mark key="^" line="10" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/src/main/kotlin/lyceeo/config/GraphQl.kt" timestamp="1587874122304">
-        <mark key="[" line="68" column="22" />
-        <mark key="]" line="68" column="40" />
-        <mark key="." line="68" column="39" />
-        <mark key="^" line="68" column="40" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/src/main/kotlin/lyceeo/Application.kt" timestamp="1587874477124">
-        <mark key="'" line="81" column="12" />
-        <mark key="[" line="74" column="26" />
-        <mark key="]" line="77" column="13" />
-        <mark key="." line="77" column="12" />
-        <mark key="^" line="77" column="13" />
+      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/src/main/resources/db/migration/V2__add_auto_increment_to_users.sql" timestamp="1588031859238">
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="0" column="19" />
+        <mark key="^" line="0" column="19" />
+        <mark key="." line="0" column="18" />
       </file>
       <file name="$USER_HOME$/dev/reference-projects/jpa2ddl/jpa2ddl-maven-plugin/pom.xml" timestamp="1587881153731">
         <mark key="[" line="7" column="22" />
@@ -162,6 +155,9 @@
         <mark key="]" line="5" column="45" />
         <mark key="." line="5" column="45" />
       </file>
+      <file name="/a.sql" timestamp="1588031880801">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/reference-projects/jpa2ddl/jpa2ddl-samples/pom.xml" timestamp="1587881161693">
         <mark key="[" line="7" column="22" />
         <mark key="]" line="7" column="23" />
@@ -177,7 +173,7 @@
         <mark key="]" line="7" column="19" />
         <mark key="." line="7" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/src/main/resources/db/migration/V1__jpa2ddl.sql" timestamp="1588029787830" />
+      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/src/main/resources/db/migration/V1__jpa2ddl.sql" timestamp="1588029807823" />
       <file name="$USER_HOME$/dev/reference-projects/jpa2ddl/jpa2ddl-core/src/main/java/com/devskiller/jpa2ddl/FileResolver.java" timestamp="1587879253178">
         <mark key="[" line="29" column="69" />
         <mark key="]" line="29" column="70" />
@@ -325,14 +321,14 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="*" type="4">
+        <text>key_column</text>
       </register>
       <register name="l" type="4">
         <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>NoSuchElementException()</text>
+        <text>key_column</text>
       </register>
       <register name="/" type="4">
         <text>flyway</text>
@@ -353,25 +349,25 @@
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbigiLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSIpCiAgICAgICAgICAgIHByaW50bG4oIi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0iKQogICAgICAgICAgICBwcmludGxuKCItLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNxbE1pZ3JhdGlvblByZWZpeCA9ICJ2Igo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VySW5wdXQuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodXNlciBpcyBudSkK</text>
+        <text encoding="base64">ICAgICAgICB1c2VySW5wdXQuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAodXNlciBpcyBudSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZXhpc3RpbmdVc2VyID0gdXNlclJlcG9zaXRvcnkuZ2V0VXNlckJ5SWQodXNlci5pZCk/LmxldCB7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gMAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHVzZXJSZXBvc2l0b3J5LnVwZGF0ZVVzZXIoaXQpCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgZXhpc3RpbmdVc2VyID0gdXNlclJlcG9zaXRvcnkuZ2V0VXNlckJ5SWQodXNlci5pZCk/LmxldCB7CiAgICAgICAgfQo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -382,10 +378,10 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdXNlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHVzZXJSZXBvc2l0b3J5LnVwZGF0ZVVzZXIoaXQpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvL3JldHVybiBVc2VyKDEsICJhc2RmIiwgImFzZmQiLCAiYXNkZnMiKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdXNlcgo=</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -406,7 +402,7 @@
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvL3JldHVybiBVc2VyKDEsICJhc2RmIiwgImFzZmQiLCAiYXNkZnMiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
