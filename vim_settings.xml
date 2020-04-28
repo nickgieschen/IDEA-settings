@@ -96,18 +96,49 @@
         <mark key="]" line="7" column="23" />
         <mark key="." line="7" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/build.gradle" timestamp="1588031716496">
-        <mark key="'" line="65" column="25" />
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="0" />
-        <mark key="." line="83" column="0" />
-        <mark key="^" line="132" column="22" />
+      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/build.gradle" timestamp="1588044468210">
+        <mark key="'" line="83" column="0" />
+        <mark key="[" line="80" column="43" />
+        <mark key="]" line="80" column="47" />
+        <mark key="." line="80" column="46" />
+        <mark key="^" line="80" column="47" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1588032916695">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/reference-projects/jpa2ddl/jpa2ddl-gradle-plugin/build/docs/javadoc/com/devskiller/jpa2ddl/package-summary.html" timestamp="1587881434857">
+        <mark key="[" line="5" column="58" />
+        <mark key="]" line="5" column="59" />
+        <mark key="." line="5" column="59" />
       </file>
       <file name="/console" timestamp="1588032849417">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.70/144ea5c68912bb8bd63b12c8cdf2be319bc0e323/kotlin-stdlib-1.3.70-sources.jar!/kotlin/TypeAliases.kt" timestamp="1587877941736">
-        <mark key="'" line="24" column="83" />
+      <file name="$USER_HOME$/dev/reference-projects/jpa2ddl/jpa2ddl-core/src/test/java/com/devskiller/jpa2ddl/FileResolverTest.java" timestamp="1587880076879">
+        <mark key="[" line="62" column="76" />
+        <mark key="]" line="62" column="77" />
+        <mark key="." line="62" column="77" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/src/main/kotlin/lyceeo/config/Database.kt" timestamp="1588044398267">
+        <mark key="[" line="12" column="83" />
+        <mark key="]" line="12" column="87" />
+        <mark key="." line="12" column="86" />
+        <mark key="^" line="12" column="87" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/docker-compose.yml" timestamp="1588044680158">
+        <mark key="[" line="17" column="20" />
+        <mark key="]" line="17" column="27" />
+        <mark key="." line="17" column="26" />
+        <mark key="^" line="17" column="27" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/src/main/resources/db/migration/V2__add_auto_increment_to_users.sql" timestamp="1588031859238">
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="0" column="19" />
+        <mark key="^" line="0" column="19" />
+        <mark key="." line="0" column="18" />
+      </file>
+      <file name="/" timestamp="1588045291922">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/reference-projects/jpa2ddl/jpa2ddl-maven-plugin/pom.xml" timestamp="1587881153731">
         <mark key="[" line="7" column="22" />
@@ -119,38 +150,15 @@
         <mark key="]" line="7" column="23" />
         <mark key="." line="7" column="23" />
       </file>
+      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/src/main/kotlin/lyceeo/service/UserService.kt" timestamp="1588044884757">
+        <mark key="'" line="26" column="42" />
+        <mark key="[" line="22" column="25" />
+        <mark key="]" line="23" column="32" />
+        <mark key="." line="23" column="31" />
+        <mark key="^" line="23" column="32" />
+      </file>
       <file name="/a.sql" timestamp="1588032960927">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/reference-projects/jpa2ddl/jpa2ddl-core/src/test/java/com/devskiller/jpa2ddl/DatabaseSchemaUpdateTest.java" timestamp="1587880160630">
-        <mark key="[" line="131" column="80" />
-        <mark key="]" line="131" column="81" />
-        <mark key="." line="131" column="81" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1588032916695">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/reference-projects/jpa2ddl/jpa2ddl-gradle-plugin/build/docs/javadoc/com/devskiller/jpa2ddl/package-summary.html" timestamp="1587881434857">
-        <mark key="[" line="5" column="58" />
-        <mark key="]" line="5" column="59" />
-        <mark key="." line="5" column="59" />
-      </file>
-      <file name="$USER_HOME$/dev/reference-projects/jpa2ddl/jpa2ddl-core/src/test/java/com/devskiller/jpa2ddl/FileResolverTest.java" timestamp="1587880076879">
-        <mark key="[" line="62" column="76" />
-        <mark key="]" line="62" column="77" />
-        <mark key="." line="62" column="77" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/src/main/resources/db/migration/V2__add_auto_increment_to_users.sql" timestamp="1588031859238">
-        <mark key="[" line="0" column="18" />
-        <mark key="]" line="0" column="19" />
-        <mark key="^" line="0" column="19" />
-        <mark key="." line="0" column="18" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/src/main/kotlin/lyceeo/service/UserService.kt" timestamp="1587878303786">
-        <mark key="'" line="20" column="42" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/dev/reference-projects/jpa2ddl/jpa2ddl-gradle-plugin/build/docs/javadoc/com/devskiller/jpa2ddl/package-tree.html" timestamp="1587881414532">
         <mark key="[" line="13" column="102" />
@@ -167,10 +175,10 @@
         <mark key="]" line="7" column="23" />
         <mark key="." line="7" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/reference-projects/jpa2ddl/pom.xml" timestamp="1587879994923">
-        <mark key="[" line="7" column="18" />
-        <mark key="]" line="7" column="19" />
-        <mark key="." line="7" column="19" />
+      <file name="$USER_HOME$/dev/reference-projects/jpa2ddl/jpa2ddl-core/src/test/java/com/devskiller/jpa2ddl/DatabaseSchemaUpdateTest.java" timestamp="1587880160630">
+        <mark key="[" line="131" column="80" />
+        <mark key="]" line="131" column="81" />
+        <mark key="." line="131" column="81" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/src/main/resources/db/migration/V1__jpa2ddl.sql" timestamp="1588038012024">
         <mark key="[" line="0" column="13" />
@@ -178,14 +186,14 @@
         <mark key="^" line="8" column="22" />
         <mark key="." line="0" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/reference-projects/jpa2ddl/jpa2ddl-core/src/main/java/com/devskiller/jpa2ddl/FileResolver.java" timestamp="1587879253178">
-        <mark key="[" line="29" column="69" />
-        <mark key="]" line="29" column="70" />
-        <mark key="." line="29" column="70" />
+      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/.env.example" timestamp="1588044588653">
+        <mark key="[" line="1" column="10" />
+        <mark key="]" line="1" column="19" />
+        <mark key="." line="1" column="18" />
+        <mark key="^" line="1" column="19" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="26" filename="$USER_HOME$/dev/my-projects/agrajag/src/test/kotlin/agrajag/service/UserServiceTest.kt" />
       <jump line="28" column="25" filename="$USER_HOME$/dev/my-projects/agrajag/src/test/kotlin/agrajag/service/UserServiceTest.kt" />
       <jump line="56" column="68" filename="$USER_HOME$/dev/my-projects/agrajag/build.gradle" />
       <jump line="39" column="48" filename="$USER_HOME$/dev/my-projects/agrajag/src/test/kotlin/agrajag/service/UserServiceTest.kt" />
@@ -285,6 +293,7 @@
       <jump line="9" column="33" filename="$USER_HOME$/dev/my-projects/lyceeo/backend/src/main/kotlin/lyceeo/service/UserService.kt" />
       <jump line="19" column="42" filename="$USER_HOME$/dev/my-projects/lyceeo/backend/src/main/kotlin/lyceeo/service/UserService.kt" />
       <jump line="24" column="83" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.70/144ea5c68912bb8bd63b12c8cdf2be319bc0e323/kotlin-stdlib-1.3.70-sources.jar!/kotlin/TypeAliases.kt" />
+      <jump line="83" column="0" filename="$USER_HOME$/dev/my-projects/lyceeo/backend/build.gradle" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -323,13 +332,13 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>public.</text>
+        <text>lastName</text>
       </register>
       <register name="l" type="4">
         <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>public.</text>
+        <text>lastName</text>
       </register>
       <register name="/" type="4">
         <text>flyway</text>
@@ -347,28 +356,28 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbigiLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSIpCiAgICAgICAgICAgIHByaW50bG4oIi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0iKQogICAgICAgICAgICBwcmludGxuKCItLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tIikK</text>
+        <text encoding="base64">ICAgICAgICB1c2VySW5wdXQubGFzdE5hbWU/LmxldCB7IHVzZXIubGFzdE5hbWUgPSBpdCB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNxbE1pZ3JhdGlvblByZWZpeCA9ICJ2Igo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNxbE1pZ3JhdGlvblByZWZpeCA9ICJ2Igo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VySW5wdXQuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodXNlciBpcyBudSkK</text>
+        <text encoding="base64">ICAgICAgICB1c2VySW5wdXQuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAodXNlciBpcyBudSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZXhpc3RpbmdVc2VyID0gdXNlclJlcG9zaXRvcnkuZ2V0VXNlckJ5SWQodXNlci5pZCk/LmxldCB7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gMAo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -379,10 +388,10 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHVzZXJSZXBvc2l0b3J5LnVwZGF0ZVVzZXIoaXQpCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgZXhpc3RpbmdVc2VyID0gdXNlclJlcG9zaXRvcnkuZ2V0VXNlckJ5SWQodXNlci5pZCk/LmxldCB7CiAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdXNlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHVzZXJSZXBvc2l0b3J5LnVwZGF0ZVVzZXIoaXQpCg==</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -403,7 +412,7 @@
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvL3JldHVybiBVc2VyKDEsICJhc2RmIiwgImFzZmQiLCAiYXNkZnMiKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdXNlcgo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
