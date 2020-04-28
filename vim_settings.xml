@@ -120,11 +120,17 @@
         <mark key="." line="12" column="86" />
         <mark key="^" line="12" column="87" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/docker-compose.yml" timestamp="1588093712818">
+      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/docker-compose.yml" timestamp="1588093941940">
         <mark key="[" line="7" column="53" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="5" column="43" />
-        <mark key="." line="9" column="0" />
+        <mark key="]" line="8" column="22" />
+        <mark key="^" line="8" column="22" />
+        <mark key="." line="8" column="21" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/cloudbuild.yaml" timestamp="1588095577377">
+        <mark key="[" line="17" column="30" />
+        <mark key="]" line="17" column="30" />
+        <mark key="^" line="20" column="15" />
+        <mark key="." line="17" column="30" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/src/main/resources/db/migration/V2__add_auto_increment_to_users.sql" timestamp="1588031859238">
         <mark key="[" line="0" column="18" />
@@ -169,11 +175,6 @@
         <mark key="[" line="7" column="22" />
         <mark key="]" line="7" column="23" />
         <mark key="." line="7" column="23" />
-      </file>
-      <file name="$USER_HOME$/dev/reference-projects/jpa2ddl/jpa2ddl-core/src/test/java/com/devskiller/jpa2ddl/DatabaseSchemaUpdateTest.java" timestamp="1587880160630">
-        <mark key="[" line="131" column="80" />
-        <mark key="]" line="131" column="81" />
-        <mark key="." line="131" column="81" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/src/main/resources/db/migration/V1__jpa2ddl.sql" timestamp="1588038012024">
         <mark key="[" line="0" column="13" />
@@ -332,8 +333,8 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgIHBvcnRzOgogICAgICAtIDMwMDM6MzAwMwo=</text>
+      <register name="*" type="4">
+        <text>localhost</text>
       </register>
       <register name="l" type="4">
         <text>p</text>
@@ -360,25 +361,25 @@
         <text encoding="base64">ICAgIHBvcnRzOgogICAgICAtIDMwMDQ6MzAwNAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBvcnRzOgogICAgICAtIDMwMDM6MzAwMwo=</text>
+        <text encoding="base64">IyAgICAgICItLWJ1aWxkLWFyZyIsICJQT1NUR1JFU19IT1NUPV8kUE9TVEdSRVNfSE9TVCIsCiMgICAgICAiLS1idWlsZC1hcmciLCAiUE9TVEdSRVNfUE9SVD1fJFBPU1RHUkVTX1BPUlQiLAojICAgICAgIi0tYnVpbGQtYXJnIiwgIlBPU1RHUkVTX1BBU1NXT1JEPV8kUE9TVEdSRVNfUEFTU1dPUkQiXQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIHBvcnRzOgogICAgICAtIDMwMDM6MzAwMwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNxbE1pZ3JhdGlvblByZWZpeCA9ICJ2Igo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNxbE1pZ3JhdGlvblByZWZpeCA9ICJ2Igo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VySW5wdXQuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodXNlciBpcyBudSkK</text>
+        <text encoding="base64">ICAgICAgICB1c2VySW5wdXQuCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -389,10 +390,10 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAodXNlciBpcyBudSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZXhpc3RpbmdVc2VyID0gdXNlclJlcG9zaXRvcnkuZ2V0VXNlckJ5SWQodXNlci5pZCk/LmxldCB7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gMAo=</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -413,7 +414,7 @@
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHVzZXJSZXBvc2l0b3J5LnVwZGF0ZVVzZXIoaXQpCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgZXhpc3RpbmdVc2VyID0gdXNlclJlcG9zaXRvcnkuZ2V0VXNlckJ5SWQodXNlci5pZCk/LmxldCB7CiAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
