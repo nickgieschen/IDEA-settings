@@ -109,11 +109,11 @@
       <file name="/console" timestamp="1588032849417">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/Dockerfile" timestamp="1588099233639">
-        <mark key="[" line="27" column="6" />
-        <mark key="]" line="27" column="6" />
-        <mark key="." line="27" column="6" />
-        <mark key="^" line="27" column="19" />
+      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/Dockerfile" timestamp="1588110379118">
+        <mark key="[" line="5" column="25" />
+        <mark key="]" line="5" column="33" />
+        <mark key="." line="5" column="32" />
+        <mark key="^" line="5" column="33" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/src/main/kotlin/lyceeo/config/Database.kt" timestamp="1588044398267">
         <mark key="[" line="12" column="83" />
@@ -127,11 +127,11 @@
         <mark key="^" line="8" column="22" />
         <mark key="." line="7" column="42" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/cloudbuild.yaml" timestamp="1588097797564">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="19" column="57" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/cloudbuild.yaml" timestamp="1588112824262">
+        <mark key="[" line="14" column="27" />
+        <mark key="]" line="15" column="43" />
+        <mark key="^" line="15" column="43" />
+        <mark key="." line="15" column="42" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/src/main/resources/db/migration/V2__add_auto_increment_to_users.sql" timestamp="1588031859238">
         <mark key="[" line="0" column="18" />
@@ -190,12 +190,12 @@
         <mark key="." line="0" column="12" />
         <mark key="^" line="0" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/migrations.Dockerfile" timestamp="1588110091635">
+      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/migrations.Dockerfile" timestamp="1588110364820">
         <mark key="'" line="10" column="22" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="10" column="154" />
-        <mark key="." line="10" column="153" />
-        <mark key="^" line="10" column="154" />
+        <mark key="[" line="5" column="22" />
+        <mark key="]" line="5" column="22" />
+        <mark key="." line="5" column="22" />
+        <mark key="^" line="9" column="88" />
       </file>
     </filemarks>
     <jumps>
@@ -336,14 +336,14 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="*" type="4">
-        <text>}</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAjIEZpcnN0IHdlIGJ1aWxkIHRoZSBpbWFnZQo=</text>
       </register>
       <register name="l" type="4">
         <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>-me</text>
       </register>
       <register name="/" type="4">
         <text>flyway</text>
@@ -364,25 +364,25 @@
         <text encoding="base64">RU5WIFBPU1RHUkVTX1BBU1NXT1JEIGNoYW5nZS1tZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Q01EIFsiZmx5d2F5L2ZseXdheSIgIi11cmw9amRiYzpwb3N0Z3Jlc3FsOi8vMC4wLjAuMDozMDAzL3VzZXItc2VydmljZSIgIi1zY2hlbWFzPXB1YmxpYyAtdXNlcj11c2VyLXNlcnZpY2UgLXBhc3N3b3JkPWJvYm5jaGFybGllIC1jb25uZWN0UmV0cmllcz02MCBtaWdyYXRlXQo=</text>
+        <text encoding="base64">ICAjIEZpcnN0IHdlIGJ1aWxkIHRoZSBpbWFnZQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Q01EIFsiamF2YSIsICItc2VydmVyIiwgIi1YWDorVW5sb2NrRXhwZXJpbWVudGFsVk1PcHRpb25zIiwgIi1YWDorVXNlQ0dyb3VwTWVtb3J5TGltaXRGb3JIZWFwIiwgIi1YWDpJbml0aWFsUkFNRnJhY3Rpb249MiIsICItWFg6TWluUkFNRnJhY3Rpb249MiIsICItWFg6TWF4UkFNRnJhY3Rpb249MiIsICItWFg6K1VzZUcxR0MiLCAiLVhYOk1heEdDUGF1c2VNaWxsaXM9MTAwIiwgIi1YWDorVXNlU3RyaW5nRGVkdXBsaWNhdGlvbiIsICItamFyIiwgImx5Y2Vlby5qYXIiXQo=</text>
+        <text encoding="base64">ICAgICMgcHVzaCBjb250YWluZXIgaW1hZ2UKICAtIG5hbWU6ICJnY3IuaW8vY2xvdWQtYnVpbGRlcnMvZG9ja2VyIgogICAgYXJnczogWyJwdXNoIiwgImdjci5pby9wcm9qZWN0LWlkL3VzZXItc2VydmljZS1taWdyYXRpb25zIl0KICAgICMgZGVwbG95IGNvbnRhaW5lciBpbWFnZSB0byBHS0UKICAtIG5hbWU6ICJnY3IuaW8vY2xvdWQtYnVpbGRlcnMvZ2tlLWRlcGxveSIKICAgIGFyZ3M6CiAgICAgIC0gcnVuCiAgICAgIC0gLS1maWxlbmFtZT1rdWJlcm5ldGVzLWNvbmZpZy1maWxlCiAgICAgIC0gLS1pbWFnZT1nY3IuaW8vcHJvamVjdC1pZC91c2VyLXNlcnZpY2UtbWlncmF0aW9ucwogICAgICAtIC0tbG9jYXRpb249bG9jYXRpb24KICAgICAgLSAtLWNsdXN0ZXI9Y2x1c3Rlcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">V09SS0RJUiAvYXBwCg==</text>
+        <text encoding="base64">Q01EIFsiZmx5d2F5L2ZseXdheSIgIi11cmw9amRiYzpwb3N0Z3Jlc3FsOi8vMC4wLjAuMDozMDAzL3VzZXItc2VydmljZSIgIi1zY2hlbWFzPXB1YmxpYyAtdXNlcj11c2VyLXNlcnZpY2UgLXBhc3N3b3JkPWJvYm5jaGFybGllIC1jb25uZWN0UmV0cmllcz02MCBtaWdyYXRlXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q01EIFsiamF2YSIsICItc2VydmVyIiwgIi1YWDorVW5sb2NrRXhwZXJpbWVudGFsVk1PcHRpb25zIiwgIi1YWDorVXNlQ0dyb3VwTWVtb3J5TGltaXRGb3JIZWFwIiwgIi1YWDpJbml0aWFsUkFNRnJhY3Rpb249MiIsICItWFg6TWluUkFNRnJhY3Rpb249MiIsICItWFg6TWF4UkFNRnJhY3Rpb249MiIsICItWFg6K1VzZUcxR0MiLCAiLVhYOk1heEdDUGF1c2VNaWxsaXM9MTAwIiwgIi1YWDorVXNlU3RyaW5nRGVkdXBsaWNhdGlvbiIsICItamFyIiwgImx5Y2Vlby5qYXIiXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">V09SS0RJUiAvYXBwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyAgLSBuYW1lOiAiZ2NyLmlvL2Nsb3VkLWJ1aWxkZXJzL2RvY2tlciIKIyAgICBhcmdzOiBbInB1c2giLCAiZ2NyLmlvLyRQUk9KRUNUX0lEL2FwaS1nYXRld2F5OiRCVUlMRF9JRCJdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -393,10 +393,10 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAtIG5hbWU6ICJnY3IuaW8vY2xvdWQtYnVpbGRlcnMvZG9ja2VyIgogICAgYXJnczogWwogICAgICAicnVuIiwKICAgICAgIi0tcm0gZmx5d2F5L2ZseXdheSIsCiAgICAgICItdXJsPWpkYmM6cG9zdGdyZXNxbDovLzozMDAzL3Bvc3RncmVzIiwKICAgICAgIi1wYXNzd29yZD1ib2JuY2hhcmxpZSIsCiAgICAgICItdXNlcj11c2VyLXNlcnZpY2UiLAogICAgICAibWlncmF0ZSIKICAgIF0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyAgICAgICItLWJ1aWxkLWFyZyIsICJQT1NUR1JFU19IT1NUPV8kUE9TVEdSRVNfSE9TVCIsCiMgICAgICAiLS1idWlsZC1hcmciLCAiUE9TVEdSRVNfUE9SVD1fJFBPU1RHUkVTX1BPUlQiLAojICAgICAgIi0tYnVpbGQtYXJnIiwgIlBPU1RHUkVTX1BBU1NXT1JEPV8kUE9TVEdSRVNfUEFTU1dPUkQiXQo=</text>
+        <text encoding="base64">IyAgLSBuYW1lOiAiZ2NyLmlvL2Nsb3VkLWJ1aWxkZXJzL2RvY2tlciIKIyAgICBhcmdzOiBbInB1c2giLCAiZ2NyLmlvLyRQUk9KRUNUX0lEL2FwaS1nYXRld2F5OiRCVUlMRF9JRCJdCg==</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -417,7 +417,7 @@
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBvcnRzOgogICAgICAtIDMwMDM6MzAwMwo=</text>
+        <text encoding="base64">ICAtIG5hbWU6ICJnY3IuaW8vY2xvdWQtYnVpbGRlcnMvZG9ja2VyIgogICAgYXJnczogWwogICAgICAicnVuIiwKICAgICAgIi0tcm0gZmx5d2F5L2ZseXdheSIsCiAgICAgICItdXJsPWpkYmM6cG9zdGdyZXNxbDovLzozMDAzL3Bvc3RncmVzIiwKICAgICAgIi1wYXNzd29yZD1ib2JuY2hhcmxpZSIsCiAgICAgICItdXNlcj11c2VyLXNlcnZpY2UiLAogICAgICAibWlncmF0ZSIKICAgIF0K</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
