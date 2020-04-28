@@ -120,11 +120,11 @@
         <mark key="." line="12" column="86" />
         <mark key="^" line="12" column="87" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/docker-compose.yml" timestamp="1588048256540">
-        <mark key="[" line="5" column="34" />
-        <mark key="]" line="5" column="38" />
-        <mark key="." line="5" column="37" />
-        <mark key="^" line="5" column="38" />
+      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/docker-compose.yml" timestamp="1588049983480">
+        <mark key="[" line="5" column="36" />
+        <mark key="]" line="5" column="43" />
+        <mark key="." line="5" column="42" />
+        <mark key="^" line="5" column="43" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/src/main/resources/db/migration/V2__add_auto_increment_to_users.sql" timestamp="1588031859238">
         <mark key="[" line="0" column="18" />
@@ -333,13 +333,13 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>3</text>
+        <text>localhost</text>
       </register>
       <register name="l" type="4">
         <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>localhost</text>
       </register>
       <register name="/" type="4">
         <text>flyway</text>
