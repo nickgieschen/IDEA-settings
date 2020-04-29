@@ -98,28 +98,8 @@
         <mark key="." line="80" column="46" />
         <mark key="^" line="80" column="47" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588032916695">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/reference-projects/jpa2ddl/jpa2ddl-gradle-plugin/build/docs/javadoc/com/devskiller/jpa2ddl/package-summary.html" timestamp="1587881434857">
-        <mark key="[" line="5" column="58" />
-        <mark key="]" line="5" column="59" />
-        <mark key="." line="5" column="59" />
-      </file>
       <file name="/console" timestamp="1588032849417">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/Dockerfile" timestamp="1588110379118">
-        <mark key="[" line="5" column="25" />
-        <mark key="]" line="5" column="33" />
-        <mark key="." line="5" column="32" />
-        <mark key="^" line="5" column="33" />
-      </file>
-      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/src/main/kotlin/lyceeo/config/Database.kt" timestamp="1588044398267">
-        <mark key="[" line="12" column="83" />
-        <mark key="]" line="12" column="87" />
-        <mark key="." line="12" column="86" />
-        <mark key="^" line="12" column="87" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/docker-compose.yml" timestamp="1588098623317">
         <mark key="[" line="7" column="41" />
@@ -133,6 +113,35 @@
         <mark key="^" line="11" column="102" />
         <mark key="." line="11" column="101" />
       </file>
+      <file name="/a.sql" timestamp="1588032960927">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/.env.example" timestamp="1588044588653">
+        <mark key="[" line="1" column="10" />
+        <mark key="]" line="1" column="19" />
+        <mark key="." line="1" column="18" />
+        <mark key="^" line="1" column="19" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1588032916695">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/reference-projects/jpa2ddl/jpa2ddl-gradle-plugin/build/docs/javadoc/com/devskiller/jpa2ddl/package-summary.html" timestamp="1587881434857">
+        <mark key="[" line="5" column="58" />
+        <mark key="]" line="5" column="59" />
+        <mark key="." line="5" column="59" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/Dockerfile" timestamp="1588110379118">
+        <mark key="[" line="5" column="25" />
+        <mark key="]" line="5" column="33" />
+        <mark key="." line="5" column="32" />
+        <mark key="^" line="5" column="33" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/src/main/kotlin/lyceeo/config/Database.kt" timestamp="1588044398267">
+        <mark key="[" line="12" column="83" />
+        <mark key="]" line="12" column="87" />
+        <mark key="." line="12" column="86" />
+        <mark key="^" line="12" column="87" />
+      </file>
       <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/src/main/resources/db/migration/V2__add_auto_increment_to_users.sql" timestamp="1588031859238">
         <mark key="[" line="0" column="18" />
         <mark key="]" line="0" column="19" />
@@ -142,20 +151,12 @@
       <file name="/" timestamp="1588045291922">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/reference-projects/jpa2ddl/jpa2ddl-maven-plugin/pom.xml" timestamp="1587881153731">
-        <mark key="[" line="7" column="22" />
-        <mark key="]" line="7" column="23" />
-        <mark key="." line="7" column="23" />
-      </file>
       <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/src/main/kotlin/lyceeo/service/UserService.kt" timestamp="1588044884757">
         <mark key="'" line="26" column="42" />
         <mark key="[" line="22" column="25" />
         <mark key="]" line="23" column="32" />
         <mark key="." line="23" column="31" />
         <mark key="^" line="23" column="32" />
-      </file>
-      <file name="/a.sql" timestamp="1588032960927">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/reference-projects/jpa2ddl/jpa2ddl-gradle-plugin/build/docs/javadoc/com/devskiller/jpa2ddl/package-tree.html" timestamp="1587881414532">
         <mark key="[" line="13" column="102" />
@@ -178,17 +179,17 @@
         <mark key="^" line="8" column="22" />
         <mark key="." line="0" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/.env.example" timestamp="1588044588653">
-        <mark key="[" line="1" column="10" />
-        <mark key="]" line="1" column="19" />
-        <mark key="." line="1" column="18" />
-        <mark key="^" line="1" column="19" />
-      </file>
       <file name="$USER_HOME$/dev/my-projects/lyceeo/Setup-files/docker-compose.yml" timestamp="1588047917887">
         <mark key="[" line="0" column="10" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="12" />
         <mark key="^" line="0" column="13" />
+      </file>
+      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/backend-deployment.yaml" timestamp="1588119693177">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="39" column="20" />
       </file>
       <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/migrations.Dockerfile" timestamp="1588110364820">
         <mark key="'" line="10" column="22" />
@@ -337,13 +338,13 @@
         </keys>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">ICAjIEZpcnN0IHdlIGJ1aWxkIHRoZSBpbWFnZQo=</text>
+        <text encoding="base64">ICBjcmVhdGlvblRpbWVzdGFtcDogIjIwMjAtMDQtMjdUMDA6Mjk6NDZaIgo=</text>
       </register>
       <register name="l" type="4">
         <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>-me</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>flyway</text>
@@ -364,25 +365,25 @@
         <text encoding="base64">RU5WIFBPU1RHUkVTX1BBU1NXT1JEIGNoYW5nZS1tZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAjIEZpcnN0IHdlIGJ1aWxkIHRoZSBpbWFnZQo=</text>
+        <text encoding="base64">ICBjcmVhdGlvblRpbWVzdGFtcDogIjIwMjAtMDQtMjdUMDA6Mjk6NDZaIgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgcHVzaCBjb250YWluZXIgaW1hZ2UKICAtIG5hbWU6ICJnY3IuaW8vY2xvdWQtYnVpbGRlcnMvZG9ja2VyIgogICAgYXJnczogWyJwdXNoIiwgImdjci5pby9wcm9qZWN0LWlkL3VzZXItc2VydmljZS1taWdyYXRpb25zIl0KICAgICMgZGVwbG95IGNvbnRhaW5lciBpbWFnZSB0byBHS0UKICAtIG5hbWU6ICJnY3IuaW8vY2xvdWQtYnVpbGRlcnMvZ2tlLWRlcGxveSIKICAgIGFyZ3M6CiAgICAgIC0gcnVuCiAgICAgIC0gLS1maWxlbmFtZT1rdWJlcm5ldGVzLWNvbmZpZy1maWxlCiAgICAgIC0gLS1pbWFnZT1nY3IuaW8vcHJvamVjdC1pZC91c2VyLXNlcnZpY2UtbWlncmF0aW9ucwogICAgICAtIC0tbG9jYXRpb249bG9jYXRpb24KICAgICAgLSAtLWNsdXN0ZXI9Y2x1c3Rlcgo=</text>
+        <text encoding="base64">ICAgICAgICBpbWFnZTogZ2NyLmlvL2x5Y2Vlby9iYWNrZW5kQHNoYTI1NjphOTQ0Y2NkMDE4MDc1ZTI5ZDhiZDVkMGI0NzA2YzkzNGUyYmFmOTIxOTA3Y2MxNGQ4N2NkOGUzYzNlODdmYTU3CiAgICAgICAgaW1hZ2VQdWxsUG9saWN5OiBJZk5vdFByZXNlbnQKICAgICAgICByZXNvdXJjZXM6IHt9CiAgICAgICAgdGVybWluYXRpb25NZXNzYWdlUGF0aDogL2Rldi90ZXJtaW5hdGlvbi1sb2cKICAgICAgICB0ZXJtaW5hdGlvbk1lc3NhZ2VQb2xpY3k6IEZpbGUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Q01EIFsiZmx5d2F5L2ZseXdheSIgIi11cmw9amRiYzpwb3N0Z3Jlc3FsOi8vMC4wLjAuMDozMDAzL3VzZXItc2VydmljZSIgIi1zY2hlbWFzPXB1YmxpYyAtdXNlcj11c2VyLXNlcnZpY2UgLXBhc3N3b3JkPWJvYm5jaGFybGllIC1jb25uZWN0UmV0cmllcz02MCBtaWdyYXRlXQo=</text>
+        <text encoding="base64">ICAgICAgICBuYW1lOiBiYWNrZW5kLXNoYTI1Ni0xCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Q01EIFsiamF2YSIsICItc2VydmVyIiwgIi1YWDorVW5sb2NrRXhwZXJpbWVudGFsVk1PcHRpb25zIiwgIi1YWDorVXNlQ0dyb3VwTWVtb3J5TGltaXRGb3JIZWFwIiwgIi1YWDpJbml0aWFsUkFNRnJhY3Rpb249MiIsICItWFg6TWluUkFNRnJhY3Rpb249MiIsICItWFg6TWF4UkFNRnJhY3Rpb249MiIsICItWFg6K1VzZUcxR0MiLCAiLVhYOk1heEdDUGF1c2VNaWxsaXM9MTAwIiwgIi1YWDorVXNlU3RyaW5nRGVkdXBsaWNhdGlvbiIsICItamFyIiwgImx5Y2Vlby5qYXIiXQo=</text>
+        <text encoding="base64">ICAjIEZpcnN0IHdlIGJ1aWxkIHRoZSBpbWFnZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">V09SS0RJUiAvYXBwCg==</text>
+        <text encoding="base64">ICAgICMgcHVzaCBjb250YWluZXIgaW1hZ2UKICAtIG5hbWU6ICJnY3IuaW8vY2xvdWQtYnVpbGRlcnMvZG9ja2VyIgogICAgYXJnczogWyJwdXNoIiwgImdjci5pby9wcm9qZWN0LWlkL3VzZXItc2VydmljZS1taWdyYXRpb25zIl0KICAgICMgZGVwbG95IGNvbnRhaW5lciBpbWFnZSB0byBHS0UKICAtIG5hbWU6ICJnY3IuaW8vY2xvdWQtYnVpbGRlcnMvZ2tlLWRlcGxveSIKICAgIGFyZ3M6CiAgICAgIC0gcnVuCiAgICAgIC0gLS1maWxlbmFtZT1rdWJlcm5ldGVzLWNvbmZpZy1maWxlCiAgICAgIC0gLS1pbWFnZT1nY3IuaW8vcHJvamVjdC1pZC91c2VyLXNlcnZpY2UtbWlncmF0aW9ucwogICAgICAtIC0tbG9jYXRpb249bG9jYXRpb24KICAgICAgLSAtLWNsdXN0ZXI9Y2x1c3Rlcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q01EIFsiZmx5d2F5L2ZseXdheSIgIi11cmw9amRiYzpwb3N0Z3Jlc3FsOi8vMC4wLjAuMDozMDAzL3VzZXItc2VydmljZSIgIi1zY2hlbWFzPXB1YmxpYyAtdXNlcj11c2VyLXNlcnZpY2UgLXBhc3N3b3JkPWJvYm5jaGFybGllIC1jb25uZWN0UmV0cmllcz02MCBtaWdyYXRlXQo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -393,10 +394,10 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q01EIFsiamF2YSIsICItc2VydmVyIiwgIi1YWDorVW5sb2NrRXhwZXJpbWVudGFsVk1PcHRpb25zIiwgIi1YWDorVXNlQ0dyb3VwTWVtb3J5TGltaXRGb3JIZWFwIiwgIi1YWDpJbml0aWFsUkFNRnJhY3Rpb249MiIsICItWFg6TWluUkFNRnJhY3Rpb249MiIsICItWFg6TWF4UkFNRnJhY3Rpb249MiIsICItWFg6K1VzZUcxR0MiLCAiLVhYOk1heEdDUGF1c2VNaWxsaXM9MTAwIiwgIi1YWDorVXNlU3RyaW5nRGVkdXBsaWNhdGlvbiIsICItamFyIiwgImx5Y2Vlby5qYXIiXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyAgLSBuYW1lOiAiZ2NyLmlvL2Nsb3VkLWJ1aWxkZXJzL2RvY2tlciIKIyAgICBhcmdzOiBbInB1c2giLCAiZ2NyLmlvLyRQUk9KRUNUX0lEL2FwaS1nYXRld2F5OiRCVUlMRF9JRCJdCg==</text>
+        <text encoding="base64">V09SS0RJUiAvYXBwCg==</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -417,7 +418,7 @@
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAtIG5hbWU6ICJnY3IuaW8vY2xvdWQtYnVpbGRlcnMvZG9ja2VyIgogICAgYXJnczogWwogICAgICAicnVuIiwKICAgICAgIi0tcm0gZmx5d2F5L2ZseXdheSIsCiAgICAgICItdXJsPWpkYmM6cG9zdGdyZXNxbDovLzozMDAzL3Bvc3RncmVzIiwKICAgICAgIi1wYXNzd29yZD1ib2JuY2hhcmxpZSIsCiAgICAgICItdXNlcj11c2VyLXNlcnZpY2UiLAogICAgICAibWlncmF0ZSIKICAgIF0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
