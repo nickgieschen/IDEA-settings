@@ -107,6 +107,12 @@
         <mark key="^" line="8" column="22" />
         <mark key="." line="7" column="42" />
       </file>
+      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/migrations-deployment.yaml" timestamp="1588120956181">
+        <mark key="[" line="16" column="54" />
+        <mark key="]" line="16" column="54" />
+        <mark key="." line="16" column="54" />
+        <mark key="^" line="16" column="126" />
+      </file>
       <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/cloudbuild.yaml" timestamp="1588113040391">
         <mark key="[" line="11" column="101" />
         <mark key="]" line="11" column="102" />
@@ -168,11 +174,6 @@
         <mark key="]" line="5" column="45" />
         <mark key="." line="5" column="45" />
       </file>
-      <file name="$USER_HOME$/dev/reference-projects/jpa2ddl/jpa2ddl-samples/pom.xml" timestamp="1587881161693">
-        <mark key="[" line="7" column="22" />
-        <mark key="]" line="7" column="23" />
-        <mark key="." line="7" column="23" />
-      </file>
       <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/src/main/resources/db/migration/V1__jpa2ddl.sql" timestamp="1588038012024">
         <mark key="[" line="0" column="13" />
         <mark key="]" line="0" column="13" />
@@ -185,9 +186,9 @@
         <mark key="." line="0" column="12" />
         <mark key="^" line="0" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/backend-deployment.yaml" timestamp="1588120728106">
-        <mark key="[" line="21" column="22" />
-        <mark key="]" line="21" column="23" />
+      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/backend-deployment.yaml" timestamp="1588120798370">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="32" column="39" />
         <mark key="^" line="21" column="23" />
         <mark key="." line="21" column="22" />
       </file>
@@ -337,14 +338,14 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICAgZG5zUG9saWN5OiBDbHVzdGVyRmlyc3QKICAgICAgcmVzdGFydFBvbGljeTogQWx3YXlzCiAgICAgIHNjaGVkdWxlck5hbWU6IGRlZmF1bHQtc2NoZWR1bGVyCiAgICAgIHNlY3VyaXR5Q29udGV4dDoge30KICAgICAgdGVybWluYXRpb25HcmFjZVBlcmlvZFNlY29uZHM6IDMwCnN0YXR1czoKICBhdmFpbGFibGVSZXBsaWNhczogMQogIGNvbmRpdGlvbnM6CiAgLSBsYXN0VHJhbnNpdGlvblRpbWU6ICIyMDIwLTA0LTI3VDAwOjI5OjQ3WiIKICAgIGxhc3RVcGRhdGVUaW1lOiAiMjAyMC0wNC0yN1QwMDoyOTo1NFoiCiAgICBtZXNzYWdlOiBSZXBsaWNhU2V0ICJuZ2lueC0xLTg0NzU3ZDU4Y2MiIGhhcyBzdWNjZXNzZnVsbHkgcHJvZ3Jlc3NlZC4KICAgIHJlYXNvbjogTmV3UmVwbGljYVNldEF2YWlsYWJsZQogICAgc3RhdHVzOiAiVHJ1ZSIKICAgIHR5cGU6IFByb2dyZXNzaW5nCiAgLSBsYXN0VHJhbnNpdGlvblRpbWU6ICIyMDIwLTA0LTI3VDAwOjM1OjU4WiIKICAgIGxhc3RVcGRhdGVUaW1lOiAiMjAyMC0wNC0yN1QwMDozNTo1OFoiCiAgICBtZXNzYWdlOiBEZXBsb3ltZW50IGhhcyBtaW5pbXVtIGF2YWlsYWJpbGl0eS4KICAgIHJlYXNvbjogTWluaW11bVJlcGxpY2FzQXZhaWxhYmxlCiAgICBzdGF0dXM6ICJUcnVlIgogICAgdHlwZTogQXZhaWxhYmxlCiAgb2JzZXJ2ZWRHZW5lcmF0aW9uOiA4CiAgcmVhZHlSZXBsaWNhczogMQogIHJlcGxpY2FzOiAxCiAgdXBkYXRlZFJlcGxpY2FzOiAxCg==</text>
+      <register name="*" type="4">
+        <text>@sha256:5b1a154627b1a6d0f244223523f2bb3621058b1783ecc57be810734d333ce102</text>
       </register>
       <register name="l" type="4">
         <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>-sha256-1</text>
+        <text>@sha256:5b1a154627b1a6d0f244223523f2bb3621058b1783ecc57be810734d333ce102</text>
       </register>
       <register name="/" type="4">
         <text>flyway</text>
@@ -362,7 +363,7 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">RU5WIFBPU1RHUkVTX1BBU1NXT1JEIGNoYW5nZS1tZQo=</text>
+        <text encoding="base64">YXBpVmVyc2lvbjogYXBwcy92MQpraW5kOiBEZXBsb3ltZW50Cm1ldGFkYXRhOgogIG5hbWU6IGJhY2tlbmQKc3BlYzoKICByZXBsaWNhczogMQogIHNlbGVjdG9yOgogICAgbWF0Y2hMYWJlbHM6CiAgICAgIGFwcDogYmFja2VuZAogIHRlbXBsYXRlOgogICAgbWV0YWRhdGE6CiAgICAgIGxhYmVsczoKICAgICAgICBhcHA6IGJhY2tlbmQKICAgIHNwZWM6CiAgICAgIGNvbnRhaW5lcnM6CiAgICAgIC0gbmFtZTogYmFja2VuZAogICAgICAgIGltYWdlOiBnY3IuaW8vbHljZWVvL2JhY2tlbmRAc2hhMjU2OmE5NDRjY2QwMTgwNzVlMjlkOGJkNWQwYjQ3MDZjOTM0ZTJiYWY5MjE5MDdjYzE0ZDg3Y2Q4ZTNjM2U4N2ZhNTcKICAgICAgICBlbnY6CiAgICAgICAgLSBuYW1lOiBQT1NUR1JFU19IT1NUCiAgICAgICAgICB2YWx1ZUZyb206CiAgICAgICAgICAgIGNvbmZpZ01hcEtleVJlZjoKICAgICAgICAgICAgICBrZXk6IFBPU1RHUkVTX0hPU1QKICAgICAgICAgICAgICBuYW1lOiBuZ2lueC0xLWNvbmZpZy1hcXI3CiAgICAgICAgLSBuYW1lOiBQT1NUR1JFU19QT1JUCiAgICAgICAgICB2YWx1ZUZyb206CiAgICAgICAgICAgIGNvbmZpZ01hcEtleVJlZjoKICAgICAgICAgICAgICBrZXk6IFBPU1RHUkVTX1BPUlQKICAgICAgICAgICAgICBuYW1lOiBuZ2lueC0xLWNvbmZpZy1hcXI3CiAgICAgICAgLSBuYW1lOiBQT1NUR1JFU19QQVNTV09SRAogICAgICAgICAgdmFsdWVGcm9tOgogICAgICAgICAgICBjb25maWdNYXBLZXlSZWY6CiAgICAgICAgICAgICAga2V5OiBQT1NUR1JFU19QQVNTV09SRAogICAgICAgICAgICAgIG5hbWU6IG5naW54LTEtY29uZmlnLWFxcjcK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgZG5zUG9saWN5OiBDbHVzdGVyRmlyc3QKICAgICAgcmVzdGFydFBvbGljeTogQWx3YXlzCiAgICAgIHNjaGVkdWxlck5hbWU6IGRlZmF1bHQtc2NoZWR1bGVyCiAgICAgIHNlY3VyaXR5Q29udGV4dDoge30KICAgICAgdGVybWluYXRpb25HcmFjZVBlcmlvZFNlY29uZHM6IDMwCnN0YXR1czoKICBhdmFpbGFibGVSZXBsaWNhczogMQogIGNvbmRpdGlvbnM6CiAgLSBsYXN0VHJhbnNpdGlvblRpbWU6ICIyMDIwLTA0LTI3VDAwOjI5OjQ3WiIKICAgIGxhc3RVcGRhdGVUaW1lOiAiMjAyMC0wNC0yN1QwMDoyOTo1NFoiCiAgICBtZXNzYWdlOiBSZXBsaWNhU2V0ICJuZ2lueC0xLTg0NzU3ZDU4Y2MiIGhhcyBzdWNjZXNzZnVsbHkgcHJvZ3Jlc3NlZC4KICAgIHJlYXNvbjogTmV3UmVwbGljYVNldEF2YWlsYWJsZQogICAgc3RhdHVzOiAiVHJ1ZSIKICAgIHR5cGU6IFByb2dyZXNzaW5nCiAgLSBsYXN0VHJhbnNpdGlvblRpbWU6ICIyMDIwLTA0LTI3VDAwOjM1OjU4WiIKICAgIGxhc3RVcGRhdGVUaW1lOiAiMjAyMC0wNC0yN1QwMDozNTo1OFoiCiAgICBtZXNzYWdlOiBEZXBsb3ltZW50IGhhcyBtaW5pbXVtIGF2YWlsYWJpbGl0eS4KICAgIHJlYXNvbjogTWluaW11bVJlcGxpY2FzQXZhaWxhYmxlCiAgICBzdGF0dXM6ICJUcnVlIgogICAgdHlwZTogQXZhaWxhYmxlCiAgb2JzZXJ2ZWRHZW5lcmF0aW9uOiA4CiAgcmVhZHlSZXBsaWNhczogMQogIHJlcGxpY2FzOiAxCiAgdXBkYXRlZFJlcGxpY2FzOiAxCg==</text>
