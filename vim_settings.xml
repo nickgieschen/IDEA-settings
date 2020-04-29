@@ -192,12 +192,12 @@
         <mark key="^" line="21" column="23" />
         <mark key="." line="21" column="22" />
       </file>
-      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/migrations.Dockerfile" timestamp="1588110364820">
+      <file name="$USER_HOME$/dev/my-projects/lyceeo/backend/migrations.Dockerfile" timestamp="1588133784527">
         <mark key="'" line="10" column="22" />
-        <mark key="[" line="5" column="22" />
-        <mark key="]" line="5" column="22" />
-        <mark key="." line="5" column="22" />
-        <mark key="^" line="9" column="88" />
+        <mark key="[" line="9" column="116" />
+        <mark key="]" line="9" column="127" />
+        <mark key="." line="9" column="126" />
+        <mark key="^" line="9" column="127" />
       </file>
     </filemarks>
     <jumps>
@@ -338,14 +338,14 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgIGVudmlyb25tZW50OgogICAgICAtIFBPU1RHUkVTX1VTRVI9dXNlci1zZXJ2aWNlCiAgICAgIC0gUE9TVEdSRVNfUEFTU1dPUkQ9Ym9ibmNoYXJsaWUKICAgICAgLSBQT1NUR1JFU19QQVNTV09SRD1ib2JuY2hhcmxpZQogICAgICAtIFBPU1RHUkVTX1BBU1NXT1JEPWJvYm5jaGFybGllCg==</text>
+      <register name="*" type="4">
+        <text>${POSTGRES_PASSWORD}</text>
       </register>
       <register name="l" type="4">
         <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>db</text>
+        <text>${POSTGRES_PASSWORD}</text>
       </register>
       <register name="/" type="4">
         <text>flyway</text>
