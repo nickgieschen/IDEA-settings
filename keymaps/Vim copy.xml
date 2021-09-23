@@ -121,7 +121,6 @@
   </action>
   <action id="Console.TableResult.Reload" />
   <action id="ContextHelp" />
-  <action id="DBNavigator.Actions.DataEditor.DuplicateRecord" />
   <action id="DebugClass">
     <keyboard-shortcut first-keystroke="shift ctrl f9" />
   </action>
@@ -234,6 +233,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl i" />
   </action>
   <action id="InsertLiveTemplate" />
+  <action id="Javascript.Linters.EsLint.Fix">
+    <keyboard-shortcut first-keystroke="shift ctrl l" />
+  </action>
   <action id="JumpToLastWindow">
     <keyboard-shortcut first-keystroke="shift meta j" />
   </action>
@@ -245,6 +247,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl o" />
   </action>
   <action id="MethodUp" />
+  <action id="NextProjectWindow">
+    <keyboard-shortcut first-keystroke="meta back_quote" />
+  </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="shift meta l" />
   </action>
@@ -255,6 +260,7 @@
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
+  <action id="PreviousProjectWindow" />
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="shift meta h" />
   </action>
