@@ -1,13 +1,15 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="contrastMode" value="true" />
+    <option name="highContrast" value="true" />
+    <option name="premium" value="true" />
     <option name="isContrastMode" value="true" />
+    <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
-    <option name="settingsSelectedTab" value="1" />
     <option name="accentColor" value="ab47bc" />
     <option name="selectedTheme" value="PALENIGHT" />
-    <option name="userId" value="-7ad703d4:16d0de6a259:-8000" />
-    <option name="version" value="5.2.0" />
+    <option name="userId" value="-3a8d3fec:171d21643e8:-8000" />
+    <option name="version" value="6.8.1.2" />
   </component>
 </application>

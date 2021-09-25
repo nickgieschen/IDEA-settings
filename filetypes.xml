@@ -21,6 +21,9 @@
       <mapping pattern="b" type="HTML" />
       <mapping pattern="LastActionLogger" type="JAVA" />
       <mapping pattern="Trial" type="JavaScript" />
+      <mapping ext="space.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="powerupserver-spring-active-profiles" type="PLAIN_TEXT" />
       <mapping pattern="player_leaves_a_game" type="PLAIN_TEXT" />
@@ -98,7 +101,7 @@
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping pattern=".gitconfig" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".jshintrc" type="JSHint" />
+      <removed_mapping pattern=".jshintrc" approved="true" type="JSHint" />
       <removed_mapping pattern="sql" approved="true" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
