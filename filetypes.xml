@@ -15,6 +15,9 @@
   <component name="FileTypeManager" version="18">
     <ignoreFiles list="*.orig;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn" />
     <extensionMap>
+      <mapping ext="csv" type="CSV" />
+      <removed_mapping ext="tsv" type="CSV/TSV" />
+      <removed_mapping ext="csv" type="CSV/TSV" />
       <mapping pattern="b" type="HTML" />
       <mapping pattern="Trial" type="JavaScript" />
       <mapping pattern="player_leaves_a_game" type="PLAIN_TEXT" />
@@ -83,6 +86,7 @@
       <mapping ext="json-template" type="PLAIN_TEXT" />
       <mapping ext="mockmaker2" type="PLAIN_TEXT" />
       <mapping ext="conf-template" type="PLAIN_TEXT" />
+      <mapping ext="tsv" type="TSV" />
       <mapping pattern="wheelValues" type="XML" />
       <mapping pattern="wheelConfig" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
