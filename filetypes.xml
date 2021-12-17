@@ -21,9 +21,9 @@
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="Procfile" type="PLAIN_TEXT" />
-      <mapping pattern="powerupserver-spring-active-profiles" type="PLAIN_TEXT" />
       <mapping pattern="player_leaves_a_game" type="PLAIN_TEXT" />
+      <mapping pattern="powerupserver-spring-active-profiles" type="PLAIN_TEXT" />
+      <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="player_joins_a_game" type="PLAIN_TEXT" />
       <mapping pattern="usage" type="PLAIN_TEXT" />
       <mapping pattern="web-local" type="PLAIN_TEXT" />
