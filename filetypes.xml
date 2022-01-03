@@ -15,7 +15,6 @@
   <component name="FileTypeManager" version="18">
     <ignoreFiles list="*.orig;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn" />
     <extensionMap>
-      <mapping ext="sql" type="DBN-SQL" />
       <mapping pattern="b" type="HTML" />
       <mapping pattern="Trial" type="JavaScript" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
@@ -84,11 +83,8 @@
       <mapping ext="json-template" type="PLAIN_TEXT" />
       <mapping ext="mockmaker2" type="PLAIN_TEXT" />
       <mapping ext="conf-template" type="PLAIN_TEXT" />
-      <removed_mapping ext="txt" type="PLAIN_TEXT" />
-      <removed_mapping ext="sql" type="SQL" />
       <mapping pattern="wheelValues" type="XML" />
       <mapping pattern="wheelConfig" type="XML" />
-      <mapping ext="txt" type="requirements.txt" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
@@ -97,7 +93,9 @@
       <removed_mapping ext="launch" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="sql" approved="true" type="SQL" />
       <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
+      <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".gitconfig" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".jshintrc" approved="true" type="JSHint" />
       <removed_mapping pattern="sql" approved="true" type="PLAIN_TEXT" />
