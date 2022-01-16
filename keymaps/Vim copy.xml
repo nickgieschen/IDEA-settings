@@ -140,9 +140,7 @@
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
   <action id="EditorChooseLookupItemDot" />
-  <action id="EditorCodeBlockEnd" />
   <action id="EditorCodeBlockEndWithSelection" />
-  <action id="EditorCodeBlockStart" />
   <action id="EditorCodeBlockStartWithSelection" />
   <action id="EditorCopy">
     <keyboard-shortcut first-keystroke="meta c" />
